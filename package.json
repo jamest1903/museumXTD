@@ -1,0 +1,26 @@
+{
+  "name": "museumxtd",
+  "version": "1.0.0",
+  "description": "The applied research pilot project **MuseumXTD** (\"museum extended\") explores the challenges of the digital transition within small and medium-sized museums.",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MediaComem/museumXTD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MediaComem/museumXTD/issues"
+  },
+  "homepage": "https://github.com/MediaComem/museumXTD#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.1",
+    "csv-parse": "^5.3.0",
+    "markdown-it-obsidian": "^1.1.0"
+  }
+}
