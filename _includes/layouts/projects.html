@@ -1,0 +1,24 @@
+{% extends "layouts/base.html" %} 
+
+{% block content %}
+
+<table class="csvTable projects">
+  <thead>
+    <tr>
+      {% for col in csvReader.projectsHeaders %}
+      <th>{{ col }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in csvReader.projectsData %}
+    <tr>
+      {% for col in csvReader.projectsHeaders %}
+      <td>{{ row[col] }}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endblock %}

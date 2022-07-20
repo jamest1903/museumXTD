@@ -1,0 +1,28 @@
+.containerTop {
+    margin-left: 0;
+    margin-right: 0;
+    border-bottom: 2px solid rgba(34,36,38,.15);
+    width: 100%;
+}
+.navMenu {
+    display: flex;
+    justify-content: center;
+}
+.navMenu .item {
+    font-weight: 700;
+    color: rgba(0,0,0,.95);
+    padding: 10px 10px;
+}
+
+/*
+* CSS styles for the CSV tables
+*/
+table {
+    border-collapse: collapse;
+}
+
+.csvTable td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}

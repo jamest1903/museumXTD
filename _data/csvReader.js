@@ -2,7 +2,7 @@ const {parse} = require('csv-parse/sync');
 const fs = require("fs");
 
 function readCSV(name) {
-  const input = fs.readFileSync(`./src/_data/${name}.csv`);
+  const input = fs.readFileSync(`./_data/${name}.csv`);
   const records = parse(input, {
     columns: true,
     skip_empty_lines: true,
