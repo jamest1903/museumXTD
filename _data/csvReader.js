@@ -16,7 +16,5 @@ module.exports = function () {
   const projectsHeaders = Object.keys(projectsData[0]);
   const acteursData = readCSV('acteurs');
   const acteursHeaders = Object.keys(acteursData[0]);
-  console.log(projectsData[0]);
-  console.log(acteursData[0]);
   return {projectsData, projectsHeaders, acteursData, acteursHeaders};
 };

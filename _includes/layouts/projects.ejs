@@ -1,0 +1,22 @@
+---
+layout: layouts/base.ejs
+---
+
+<table class="csvTable projects">
+    <thead>
+        <tr>
+            <% csvReader.projectsHeaders.forEach((col)=>{%>
+            <th><%=col%></th>
+            <%});%>
+        </tr>
+    </thead>
+    <tbody>
+        <% csvReader.projectsData.forEach((row)=>{%>
+        <tr>
+            <% csvReader.projectsHeaders.forEach((col)=>{%>
+            <td><%=row[col]%></td>
+            <%});%>
+        </tr>
+        <%});%>
+    </tbody>
+</table>

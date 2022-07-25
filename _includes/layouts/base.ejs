@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title><%=title?title:"MuseumXTD"%></title>
+    <link rel="stylesheet" href="/css/main.css" />
+  </head>
+  <body>
+    <div class="containerTop">
+      <!-- topbar Menu -->
+      <div class="navMenu">
+        <a class="item" href='/'>Home</a>
+        <a class="item" href='/tables/acteurs/'>Acteurs</a>
+        <a class="item" href='/tables/projects/'>Projects</a>
+        <a class="item" href='/A propos/'>A propos</a>
+        <a class="item" href='/guide/'>Guide</a>
+      </div>
+    </div>
+    <%- content %>
+  </body>
+</html>

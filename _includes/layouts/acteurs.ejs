@@ -1,0 +1,23 @@
+---
+layout: layouts/base.ejs
+---
+
+<table class="csvTable acteurs">
+    <thead>
+        <tr>
+
+            <% csvReader.acteursHeaders.forEach((col)=>{%>
+                <th><%=col%></th>
+            <%});%>
+        </tr>
+    </thead>
+    <tbody>
+        <% csvReader.acteursData.forEach((row)=>{%>
+        <tr>
+            <% csvReader.acteursHeaders.forEach((col)=>{%>
+            <td><%=row[col]%></td>
+            <%});%>
+        </tr>
+        <%});%>
+    </tbody>
+</table>
