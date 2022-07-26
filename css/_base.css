@@ -1,0 +1,33 @@
+/* Resets and styles for base elements */
+
+ul {
+  margin-left: 0 ;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+h1:not(:first-child), 
+h2:not(:first-child), 
+h3:not(:first-child), 
+h4:not(:first-child), 
+h5:not(:first-child), 
+h6:not(:first-child) {
+  margin-top: var(--space-xxl);
+}
+
+p + h1 {
+  color: blue;
+}
+
+ol {
+  padding-left: 0 ;
+}
+ol li {
+  /* list-style-position: outside; */
+  background-color: aliceblue ;  
+}
+
+ol li:hover {
+}
