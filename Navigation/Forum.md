@@ -14,7 +14,7 @@ Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2
 ###### [S'inscrire](#)
 ###### [Button](#) **[S'inscrire](#)**
 
-🌈 **[s'inscrire](urlsendinblue)**    [[Programme 2022]]    [[#Lieu et accès]]    [[#Live A revoir]]
+🌈 **[s'inscrire](urlsendinblue)**    [[Programme 2022]]    [[#Lieu et accès]]    [[#Live/A revoir]]
 
 -----
 
