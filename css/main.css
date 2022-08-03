@@ -15,6 +15,20 @@
 }
 
 /*
+* Search bar styles
+*/
+#search {
+    font-weight: 700;
+    color: rgba(0,0,0,.95);
+    padding: 10px 10px;
+    margin-left: 100px;
+}
+.hidden {
+    display: none;
+}
+
+
+/*
 * main content container
 */
 .main-container {
