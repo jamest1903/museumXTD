@@ -35,7 +35,7 @@ Cette plateforme est le le résultat du projet **MuseumXTD** mené par la socié
 ## Cas d'étude "C.-F. Ramuz"
 Dans le cadre du projet **MuseumXTD**, un cas d'étude a été réalisé, qui prend pour exemple la conception d’un dispositif numérique au sein des Musées de Pully dans le cadre du projet consacré à C. F. Ramuz et à la littérature, dont l’ouverture est prévue en 2023.
 
-[[Musées-de-Pully-cas-d'étude|Lire le cas d'étude]]
+[[Musées de Pully - cas d'étude|Lire le cas d'étude]]
 
 
 ## Outils et ressources

@@ -7,7 +7,6 @@ function readCSV(name) {
     columns: true,
     skip_empty_lines: true,
   });
-  console.log(`${records.length} records found.`);
   return records;
 }
 

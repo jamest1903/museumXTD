@@ -7,7 +7,7 @@ Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2
 
 - **Jeudi 13 octobre (9h-12h)**: présentation de l’étude de cas réalisé par les Musées de Pully et retours d’expérience
 
-🌈 **[s'inscrire](urlsendinblue)**    [[Programme 2022]]    [[#Lieu et accès]]    [[#Live A revoir]]
+🌈 **[s'inscrire](urlsendinblue)**    [[Programme 2022]]    [[#Lieu et accès]]    [[#Live/A revoir]]
 
 
 ## Programme 2022 

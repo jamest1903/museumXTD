@@ -52,14 +52,21 @@ module.exports = config => {
     linkify: true,
     linkPattern: /\[\[([\w\s/!]+)(\|([\w\s/!]+))?\]\]/,
   };
+
+  const slugify = require("slugify");
+
   let markdownLib = markdownIt(markdownItOptions)
+    .use(require('markdown-it-anchor'), {slugify});
   markdownLib.linkify.add("[[", {
     validate: /^\s?([^\[\]\|\n\r]+)(\|[^\[\]\|\n\r]+)?\s?\]\]/,
     normalize: match => {
       const parts = match.raw.slice(2,-2).split("|");
       parts[0] = parts[0].replace(/.(md|markdown)\s?$/i, "");
       match.text = (parts[1] || parts[0]).trim();
-      if(parts[0] === 'index'){
+      // anchor links
+      if (parts[0].includes('#')) {
+        match.url = `#${slugify(parts[0].trim())}`;
+      } else if(parts[0] === 'index'){
         match.url = `/${parts[0].trim()}.html`;
       } else {
         const parentFolder = getFolder(parts[0]);
