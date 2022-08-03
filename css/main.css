@@ -1,14 +1,16 @@
-@import '_variables.css' ;
-@import '_base.css' ;
+@import '_variables.css';
+@import '_base.css';
 
-/* background-color: var(--greyXTD) ; */
 body {
+    /* background-color: var(--greyXTD) ; */
     background-image: linear-gradient(var(--greyXTD) 0%, var(--white) 100%);
     background-repeat: repeat-x;
     background-size: 100vw 100vw;
 
     font-family: Georgia, 'Times New Roman', Times, serif ;
     margin: 0 ;
+    font-size: var(--font-size-s);
+    line-height: 1.4;
     perspective: 3cm;
 }
 
@@ -23,7 +25,7 @@ body {
     justify-content: center;
 }
 .navMenu .item {
-    font-weight: 700;
+    font-weight: 400;
     color: rgba(0,0,0,.95);
     padding: 10px 10px;
 }
@@ -59,7 +61,7 @@ table {
     border-spacing: 0px;
 }
 
-
+/* logo header */
 #masthead {
     text-align: justify;
 }

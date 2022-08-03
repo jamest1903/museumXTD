@@ -4,7 +4,7 @@ layout: layouts/post.ejs
 ---
 
 # Forum
-Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à Yverdon-les-Bains. Ce symposium réunira musées et experts du domaine de la digitalisation des petits et moyens musées, suisses et étrangers.
+#### Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à Yverdon-les-Bains. Ce symposium réunira musées et experts du domaine de la digitalisation des petits et moyens musées, suisses et étrangers.
 
 - **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel-le-s des musées, de chercheurs et chercheuses et de spécialistes du numérique
 
@@ -16,7 +16,8 @@ Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2
 
 🌈 **[s'inscrire](urlsendinblue)**    [[Programme 2022]]    [[#Lieu et accès]]    [[#Live/A revoir]]
 
------
+
+------
 
 
 ## Programme 2022 
@@ -29,6 +30,12 @@ Delphine Rivier, Directrice, Musées de Pully
 Laurent Bolli, Professur, Insitute Media Engineering, HEIG-VD  
 [Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/), Directrice, Concilio Sàrl
 Introduction et présentation des deux journées de présentation et de travail
+
+
+
+
+-----
+
 
 
 12 octobre 2022 / 9:00
