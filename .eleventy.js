@@ -23,11 +23,47 @@ const getAllFiles = function(dirPath, arrayOfFiles) {
   return arrayOfFiles
 }
 
+// https://keepinguptodate.com/pages/2019/06/creating-blog-with-eleventy/
+function extractExcerpt(article) {
+	if (!article.hasOwnProperty('templateContent')) {
+	  console.warn('Failed to extract excerpt: Document has no property "templateContent".');
+	  return null;
+	}
+
+	let excerpt = null;
+	const content = article.templateContent;
+	// The start and end separators to try and match to extract the excerpt
+	const separator = '<hr>';
+
+  const startPosition = content.indexOf(separator);
+
+	if (startPosition !== -1) {
+		const excerptHTML = content.substring(startPosition, content.length).trim();
+    // remove HTML tags
+    excerpt = excerptHTML.replace(/<\/?[^>]+(>|$)/g, "").trim();
+    // remove line breaks
+    excerpt = excerpt.replace(/(\r\n|\n|\r)/gm, "");
+	};
+	return excerpt;
+  }
+
 module.exports = config => {
   // Set directories to pass through to the dist folder
   config.addPassthroughCopy('./images/');
   config.addPassthroughCopy("./css");
   config.addPassthroughCopy("./assets");
+
+  //Creating a collection of all files to loop in creating search index
+  config.addCollection("allFiles", function(collection) {
+    return collection.getFilteredByGlob("Notes/*.md").sort((a,b) => {
+      if(a.data.date < b.data.date) return -1;
+      if(a.data.date > b.date.date) return 1;
+      return 0;
+    });
+  });
+
+  config.addShortcode('excerpt', article => extractExcerpt(article));
+
 
   const all_files = getAllFiles(process.cwd());
 

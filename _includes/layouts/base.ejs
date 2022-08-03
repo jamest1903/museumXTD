@@ -6,6 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title><%=title?title:"MuseumXTD"%></title>
     <link rel="stylesheet" href="/css/main.css" />
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/assets/search.js" defer></script>
   </head>
   <body>
     <div class="containerTop">
@@ -16,8 +18,22 @@
         <a class="item" href='/tables/projects/'>Projects</a>
         <a class="item" href='/Navigation/A propos/'>A propos</a>
         <a class="item" href='/Navigation/guide/'>Guide</a>
+        <div id="search">
+          <input type="search" id="searchString" placeholder="Veuillez entrer plus de trois lettres"> <button onclick="search()">Chercher</button>
+          <div id="results" class="hidden">
+            <h3>Résultats</h3>
+            <ul id="resultList">
+            </ul>
+          </div>
+          <p id="noResults" class="hidden"> Désolé, aucun résultat n'a été trouvé. </p>
+        </div>
       </div>
     </div>
     <%- content %>
   </body>
+  <script defer>
+    document.getElementById('searchString').addEventListener('input', (event) => {
+      search();
+    });
+  </script>
 </html>

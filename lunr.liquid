@@ -1,0 +1,13 @@
+---
+permalink: /assets/searchIndex.json
+---
+
+[
+{% for page in collections.allFiles %}
+{
+    "title":"{{page.url | remove: "/Notes/" | remove: "/" }}",
+    "url":"{{page.url}}",
+    "content":"{% excerpt page %}"
+} {% if forloop.last == false %},{% endif %}
+{% endfor %} 
+]
