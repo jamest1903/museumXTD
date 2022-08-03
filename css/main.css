@@ -1,8 +1,12 @@
 @import '_variables.css' ;
 @import '_base.css' ;
 
+/* background-color: var(--greyXTD) ; */
 body {
-    background-color: var(--greyXTD) ;
+    background-image: linear-gradient(var(--greyXTD) 0%, var(--white) 100%);
+    background-repeat: repeat-x;
+    background-size: 100vw 100vw;
+
     font-family: Georgia, 'Times New Roman', Times, serif ;
     margin: 0 ;
     perspective: 3cm;
@@ -53,4 +57,16 @@ table {
     border: 1px solid black;
     border-collapse: collapse;
     border-spacing: 0px;
+}
+
+
+#masthead {
+    text-align: justify;
+}
+#masthead > span {
+}
+#masthead::after {
+    content: " ";
+    display: inline-block;
+    width: 100%;
 }

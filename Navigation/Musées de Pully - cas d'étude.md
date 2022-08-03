@@ -1,4 +1,8 @@
-![[MuseumXTD]]
+---
+title: MuseumXTD - Forum
+layout: layouts/post.ejs
+---
+
 
 ## Cas d'étude  autour du projet "La Muette" autour de C.-F. Ramuz
 Dans le cadre du projet-pilote de recherche appliquée **MuseumXTD**, un cas d'étude a été réalisé, qui prend pour exemple la conception d’un dispositif numérique au sein des Musées de Pully dans le cadre de la mise en place d'un espace consacré à C. F. Ramuz et à la littérature, dont l’ouverture est prévue en 2023.

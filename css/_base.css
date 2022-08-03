@@ -15,11 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1:not(:first-child), 
-h2:not(:first-child), 
-h3:not(:first-child), 
-h4:not(:first-child), 
-h5:not(:first-child), 
-h6:not(:first-child) {
+h2:not(:first-child) {
   margin-top: var(--space-xxl);
 }
 
@@ -110,4 +106,33 @@ a:hover {
   /* transition-property: transform; */
   /* transition: 500ms ease; */
 
+}
+
+/* Fake Buttons */
+
+h6 > a,
+h6 > strong > a {
+  display: inline-block;
+  font-size: var(--font-size-s);
+
+  border: 1px solid var(--blue);
+  border-radius: 11px;
+  /* min-height: 32px; */
+  padding-inline-start: 16px;
+  padding-inline-end: 16px;
+  padding-block-start: 4px;
+  padding-block-end: 4px;
+}
+h6 > a + a,
+h6 > a + strong,
+h6 > strong > a {
+  margin-inline-start: var(--space-m);
+}
+h6 > strong > a {
+  font-weight: normal;
+  -webkit-text-fill-color: var(--white);
+  color: var(--white);
+  -webkit-background-clip: border-box;
+  background-clip:border-box;
+  background-color: var(--blue);
 }

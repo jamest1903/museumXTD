@@ -1,4 +1,7 @@
-
+---
+title: MuseumXTD
+layout: layouts/post.ejs
+---
 
 ## Le projet **MuseumXTD s** 
 Le projet-pilote de recherche appliquée **MuseumXTD** (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l'environnement entrepreneurial et de l'innovation vaudois (start-ups, entreprises, Hautes Écoles).
