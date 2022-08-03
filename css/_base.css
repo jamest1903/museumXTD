@@ -16,9 +16,23 @@ h1, h2, h3, h4, h5, h6 {
 
 h1:not(:first-child), 
 h2:not(:first-child) {
-  margin-top: var(--space-xxl);
+  margin-top: var(--space-xl);
 }
 
+h4 {
+  font-size: var(--font-size-m);
+}
+
+/*  heading pairs */
+
+h2 + h3 {
+  marg 
+}
+
+p {
+  margin-block-start: 0.5rem;
+  margin-block-end: 0.5rem;
+}
 p + h1 {
   color: blue;
 }
@@ -135,4 +149,22 @@ h6 > strong > a {
   -webkit-background-clip: border-box;
   background-clip:border-box;
   background-color: var(--blue);
+}
+
+
+/* spacer and sections markers */
+hr {
+  margin-top: var(--space-xxl);
+  border: 1px solid transparent; /* necessary for margin-bottom */
+}
+hr + hr {
+  margin-top: 0;
+  margin-bottom: var(--space-xl);
+}
+hr + hr::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  border-top: 1px solid var(--black);
 }
