@@ -29,5 +29,5 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-test-live@v3
         with:
-          publish_dir: ./dist
+          publish_dir: ./docs
           github_token: ${{ secrets.GITHUB_TOKEN }}
