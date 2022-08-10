@@ -3,7 +3,10 @@ name: Build Eleventy
 on:
   push:
     branches:
-      - test-live
+      - test-Live
+
+permissions:
+  contents: write
 
 jobs:
   build:
