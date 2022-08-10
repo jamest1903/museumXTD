@@ -4,6 +4,9 @@
 strong {
   font-family: sans-serif;
   font-weight: 500;
+  background-color: #00000014;
+  outline: 4px solid #00000014;
+  border-radius: 2px;
 }
 
 
@@ -39,12 +42,12 @@ h3, h4, h5, h6 {
   margin-bottom: var(--space-s);
 }
 
-h1:not(:first-child), 
-h2:not(:first-child), 
-h3:not(:first-child), 
-h4:not(:first-child), 
-h5:not(:first-child), 
-h6:not(:first-child) {
+p + h1, 
+p + h2, 
+p + h3, 
+p + h4, 
+p + h5, 
+p + h6 {
   margin-top: var(--space-xl);
 }
 
@@ -68,13 +71,12 @@ h3 {
 
 h4, h5 {
   font-size: var(--font-size-m);
-  margin-top: var(--space-xl);
-  margin-bottom: var(--space-xs);
+  /* margin-bottom: var(--space-xl); */
 }
 
 p {
-  margin-block-start: var(--space-l) ;
-  margin-block-end:  var(--space-s) ;
+  margin-block-start: var(--space-s) ;
+  margin-block-end:  var(--space-l) ;
 }
 p + h1 {
   color: blue;
@@ -248,6 +250,8 @@ div.ui.basic.segment *:nth-of-type(25n    ) a { color: steelblue !important ; } 
 
 h6 > a,
 h6 > strong > a {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: none;
   display: inline-block;
   font-size: var(--font-size-s);
 
@@ -256,7 +260,7 @@ h6 > strong > a {
   -webkit-background-clip:border-box;
   background-clip: border-box;
   background-image: none;
-  background-color: rgba(0, 0, 0, 0.105);
+  background-color: rgba(0, 0, 0, 0.1);
   border-radius: 11px;
   min-height: 32px;
   padding-inline-start: 16px;
@@ -280,7 +284,7 @@ h6 > strong > a {
 
 /* spacer and sections markers */
 hr {
-  margin-top: var(--space-xxl);
+  margin-top: var(--space-xl);
   border: 1px solid transparent; /* necessary for margin-bottom */
 }
 hr + hr {

@@ -19,17 +19,26 @@ body {
 .containerTop {
     margin-left: 0;
     margin-right: 0;
-    border-bottom: 2px solid rgba(34,36,38,.15);
     width: 100%;
 }
 .navMenu {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    margin-right: var(--space-l);
+    margin-left: var(--space-l);
 }
-.navMenu .item {
+.navMenu .menuitem {
     font-weight: 400;
     color: rgba(0,0,0,.95);
-    padding: 10px 10px;
+    /* padding: 10px 10px; */
+}
+
+.menuitem {
+    text-decoration: none;
+
+}
+.menuitem:hover {
+
 }
 
 /*
@@ -66,6 +75,10 @@ table {
 /* logo header */
 #masthead {
     text-align: justify;
+    margin-top: var(--space-l);
+    margin-right: var(--space-l);
+    margin-left: var(--space-l);
+
 }
 #masthead > span {
 }
