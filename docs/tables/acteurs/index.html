@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Acteurs - Arc lémanique</title>
-    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="{{ '/css/main.css' | url }}" />
   </head>
   <body>
     <div class="containerTop">
@@ -14,13 +14,13 @@
       </div>
       <!-- topbar Menu -->
       <div class="navMenu">
-        <a class="menuitem" href='/'>Accueil</a>
+        <a class="menuitem" href="{{ '/' | url }}">Accueil</a>
         <!-- <a class="menuitem" href='/Navigation/guide/'>Numérique & Musée</a> -->
         <!-- <a class="menuitem" href="/Navigation/Musées de Pully - cas d'étude/">Cas Ramuz</a> -->
-        <a class="menuitem" href='/Navigation/forum/'>Forum</a>
+        <a class="menuitem" href="{{ '/Navigation/forum/' | url }}">Forum</a>
         <!-- <a class="menuitem" href='/tables/projects/'>Projects</a> -->
         <!-- <a class="menuitem" href='/tables/acteurs/'>Acteurs & Projets</a> -->
-        <a class="menuitem" href='/Navigation/A propos/'>À propos</a>
+        <a class="menuitem" href="{{ '/Navigation/A propos/' | url }}">À propos</a>
       </div>
     </div>
     

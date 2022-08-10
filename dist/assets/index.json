@@ -1,9 +1,0 @@
-
-[
-{% for files in allFiles.files %}
-{
-	"url":"{{files.url}}",
-	"content":"{% excerpt files %}"
-} {% if forloop.last == false %},{% endif %}
-{% endfor %} 
-]

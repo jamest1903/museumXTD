@@ -89,7 +89,7 @@ module.exports = config => {
       input: '.',
       includes: "_includes",
       data: "_data",
-      output: 'dist'
+      output: 'docs'
     }
   };
 };
