@@ -35,7 +35,7 @@ module.exports = config => {
   const getFolder = function(fileName) {
     for (const file of all_files) {
       if(file.indexOf(fileName)>-1){
-        let filePath = file.split('\\');
+        let filePath = file.split(path.sep);
         let i = filePath.indexOf(fileName+'.md');
         if(filePath[i-1] === 'museumXTD') {
           return '';
