@@ -71,7 +71,7 @@ module.exports = config => {
       } else {
         const parentFolder = getFolder(parts[0]);
         if(parentFolder) {
-          match.url = `/${parentFolder}/${parts[0].trim()}/`;
+          match.url = `/museumXTD/${parentFolder}/${parts[0].trim()}/`;
         } else {
           match.url = `/museumXTD/${parts[0].trim()}/`;
         }
