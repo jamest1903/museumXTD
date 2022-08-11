@@ -5,7 +5,7 @@
   "main": ".eleventy.js",
   "scripts": {
     "start": "npx eleventy --serve",
-    "build": "env NODE_ENV=production npx eleventy --pathprefix=www.museumxtd.ch",
+    "build": "env NODE_ENV=production npx eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
