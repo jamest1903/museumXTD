@@ -1,6 +1,6 @@
 const fs = require("fs")
 const path = require("path")
-let avoid=['.eleventy.js','.git','.gitignore','.obsidian','assets','css','dist','node_modules','tables','_data','_includes','package.json','package-lock.json'];
+let avoid=['.eleventy.js','.git','.gitignore','.obsidian','assets','css','docs','node_modules','tables','_data','_includes','package.json','package-lock.json'];
 
 const getAllFiles = function(dirPath, arrayOfFiles) {
   let files = fs.readdirSync(dirPath)
@@ -73,7 +73,7 @@ module.exports = config => {
         if(parentFolder) {
           match.url = `/${parentFolder}/${parts[0].trim()}/`;
         } else {
-          match.url = `/${parts[0].trim()}/`;
+          match.url = `/museumXTD/${parts[0].trim()}/`;
         }
       }
     }

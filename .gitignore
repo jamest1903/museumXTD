@@ -12,6 +12,7 @@ Thumbs.db
 # Node modules and output
 node_modules
 _includes/css
+docs
 
 # Obsidian
 /.obsidian/workspace
