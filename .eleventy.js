@@ -30,6 +30,7 @@ module.exports = config => {
   config.addPassthroughCopy("./assets");
 
   const all_files = getAllFiles(process.cwd());
+  console.log(all_files);
 
   const getFolder = function(fileName) {
     for (const file of all_files) {
@@ -71,9 +72,9 @@ module.exports = config => {
       } else {
         const parentFolder = getFolder(parts[0]);
         if(parentFolder) {
-          match.url = `/museumXTD/${parentFolder}/${parts[0].trim()}/`;
+          match.url = `${parentFolder}/${parts[0].trim()}/`;
         } else {
-          match.url = `/museumXTD/${parts[0].trim()}/`;
+          match.url = `${parts[0].trim()}/`;
         }
       }
     }
