@@ -1,6 +1,7 @@
 const fs = require("fs")
 const path = require("path")
 let avoid=['.eleventy.js','.git','.gitignore','.obsidian','assets','css','docs','node_modules','tables','_data','_includes','package.json','package-lock.json'];
+const pathPrefix = 'museumXTD'
 
 const getAllFiles = function(dirPath, arrayOfFiles) {
   let files = fs.readdirSync(dirPath)
@@ -30,7 +31,6 @@ module.exports = config => {
   config.addPassthroughCopy("./assets");
 
   const all_files = getAllFiles(process.cwd());
-  console.log(all_files);
 
   const getFolder = function(fileName) {
     for (const file of all_files) {
@@ -71,17 +71,14 @@ module.exports = config => {
         match.url = `/${parts[0].trim()}.html`;
       } else {
         const parentFolder = getFolder(parts[0]);
-        console.log(parentFolder);
-        console.log(parts[0]);
         if(parentFolder) {
-          match.url = `${parentFolder}/${parts[0].trim()}/`;
+          match.url = `/${pathPrefix}/${parentFolder}/${parts[0].trim()}/`;
         } else {
-          match.url = `${parts[0].trim()}/`;
+          match.url = `/${pathPrefix}/${parts[0].trim()}/`;
         }
       }
     }
   })
-  
   config.setLibrary("md", markdownLib);
 
   return {
