@@ -15,7 +15,7 @@ layout: layouts/post.njk
 ###### **[S'inscrire](urlsendinblue)**    [Programme 2022](#Programme-provisoire)  [Lieu et accès](#Lieu-et-accès)  [Live / A revoir](#Live-A-revoir)    
 
 
-![Anneau fin recouvert d'un damier gris et blanc](../../Images/MXTD_visuel2022_c.png)
+![Anneau fin recouvert d'un damier gris et blanc](/Images/MXTD_visuel2022_c.png)
 
 ## Programme provisoire
 
