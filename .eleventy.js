@@ -71,6 +71,8 @@ module.exports = config => {
         match.url = `/${parts[0].trim()}.html`;
       } else {
         const parentFolder = getFolder(parts[0]);
+        console.log(parentFolder);
+        console.log(parts[0]);
         if(parentFolder) {
           match.url = `${parentFolder}/${parts[0].trim()}/`;
         } else {
