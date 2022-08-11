@@ -1,6 +1,5 @@
 ---
 title: MuseumXTD
-rootPath: ../../css/main.css 
 layout: layouts/post.njk
 ---
 
