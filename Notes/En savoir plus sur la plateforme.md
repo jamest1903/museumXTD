@@ -1,6 +1,6 @@
 ---
 title: sample post
-layout: layouts/post.ejs
+layout: layouts/post.njk
 ---
 
 date : 2022juin23
