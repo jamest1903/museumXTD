@@ -9,6 +9,10 @@
 --font-size-xl: clamp(2.2rem, 8.8vw, 2.75rem);
 --font-size-xxl: clamp(5rem, 20vw, 6.25rem);
 
+--line-height-s: 0.75em ;
+--line-height-m: 1.3em ;
+--line-height-l: 1.95em ;
+
 /* colors */
 --white: #fefefe ;
 --black: #333 ;

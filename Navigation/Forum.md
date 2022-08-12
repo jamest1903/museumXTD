@@ -16,10 +16,13 @@ layout: layouts/post.ejs
 
 ![Anneau fin recouvert d'un damier gris et blanc](../../Images/MXTD_visuel2022_c.png)
 
+
 ## Programme provisoire
 
 ### 12 octobre (9h-17h)
 Modération par [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/), Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
+
+---
 
 #### [[MuseumXTD - Introduction|Introduction]]
 [[Delphine Rivier]], Directrice des [Musées de Pully]([www.museedartdepully.ch](http://www.museedartdepully.ch)) (CH)
@@ -27,10 +30,13 @@ Modération par [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b3927
 [Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/), Directrice de [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 *9h-9h20*
 
+---
+
 #### [[MuseumXTD - Elisabeth Gravil|Qu'est-ce que la transformation numérique pour un musée ? ]]
 [Elisabeth Gravil](https://www.linkedin.com/in/elisagravil/), [Museovation](https://museovation.co/) (FR)
 *9h20-9h40*  
 
+---
 
 #### [[Quelles approches du numérique  pour un musée en Suisse ?]]
 Modération : [Alexandre Camus](https://www.unil.ch/collaboratoire/home/menuinst/qui-sommes-nous/notre-equipe/camus-alexandre.html),  Responsable de recherche au [ColLaboratoire](https://www.unil.ch/collaboratoire/fr/home.html), Unité de recherche-action, collaborative et participative de l’Université de Lausanne (CH)
