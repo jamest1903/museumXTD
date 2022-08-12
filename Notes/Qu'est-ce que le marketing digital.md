@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022juin9
+date: 2022-06-09
 tags: #question
 ---
 # Qu'est-ce que le marketing digital ?

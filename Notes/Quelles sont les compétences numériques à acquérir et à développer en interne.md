@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022juin22
+date: 2022-06-22
 tags: #question
 ---
 

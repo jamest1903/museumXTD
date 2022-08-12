@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022mai22
+date: 2022-05-22
 tags: #question
 ---
 # Quelles sont les nouvelles méthodologies ?

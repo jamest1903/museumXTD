@@ -1,7 +1,7 @@
 ---
 title: sample post
 layout: layouts/post.njk
-date: 2022juin23
+date: 2022-06-23
 tags: #liens
 ---
 

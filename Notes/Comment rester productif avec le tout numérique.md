@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022juin7
+date: 2022-06-07
 tags: #liens #outils #competence 
 ---
 

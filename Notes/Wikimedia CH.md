@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022mai27
+date: 2022-05-27
 tags: #liens #numerisationcollection 
 ---
 

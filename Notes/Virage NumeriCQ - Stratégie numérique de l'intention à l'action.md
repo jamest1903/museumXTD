@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022mai20
+date: 2022-05-20
 tags: #liens #management #strategie 
 ---
 
