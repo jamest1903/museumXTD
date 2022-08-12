@@ -1,7 +1,10 @@
-date : 2022juin22
-tags : #question
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022juin22
+tags: #question
+---
 
----------
 # Quelles sont les compétences numériques à acquérir et à développer en interne ?
 Certaines compétences liées au digital peuvent être trouvées à l'extérieur des équipes du musées (voir [[Comment collaborer avec des prestataires numériques]]). Néanmoins il convient de repenser certaines méthodes de travail en interne car non seulement le digital n'est pas l'apanage d'un nombre limité de savants mais aussi il peut être intéressant dans l'automatisation de certaines tâches. 
 

@@ -1,7 +1,9 @@
-date : 2022mai11
-tags : #liens #durabilite
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022mai11
+tags: #liens #durabilite
+---
 
 [Culture Numérique, par Louis Derrac](https://louisderrac.com/files/cours/culture-numerique/culture-numerique-1.pdf)
 - Ce cours propose une définition du numérique et de la culture numérique à partir de la slide 12 puis brève histoire (illustrée) du numérique dès la slide 28 qui permet de mieux comprendre ce qu'on entend par culture numérique.

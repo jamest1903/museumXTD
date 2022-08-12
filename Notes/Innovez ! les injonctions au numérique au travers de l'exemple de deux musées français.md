@@ -1,7 +1,10 @@
-date : 2022mai16
-tags : #liens
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022mai16
+tags: #liens
+---
 
----------
 [Appiotti, S. et Sandri, E. (2020). "Innovez ! Participez !" Interroger la relation entre musée et numérique au travers des injonctions adressées aux professionnels. Culture & Musées, 35, 25-48.](https://journals.openedition.org/culturemusees/4383#tocto2n4) 
 
 Les auteurs analysent les injonctions dans le discours véhiculé autour du passage au numérique des musées, dans lequel ils repèrent deux impératifs : celui de l'équipement numérique et celui de l'injonction à l participation.    

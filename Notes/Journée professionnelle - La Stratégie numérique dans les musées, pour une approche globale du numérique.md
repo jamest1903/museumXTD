@@ -1,7 +1,10 @@
-date : 2022mai13
-tags : #liens #strategie #rapport
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022mai13
+tags: #liens #strategie #rapport
+---
 
----------
 [Journée professionnelle - La Stratégie numérique dans les musées, pour une approche globale du numérique](https://www.culture.gouv.fr/Thematiques/Musees/Les-musees-en-France/Les-politiques-des-musees-de-France/Colloques-et-journees-d-etudes-des-musees-de-France/Publications-colloques/Journee-professionnelle-La-strategie-numerique-dans-les-musees-Paris-05-10-2018) 
 
 En 2018, l'Institut national du patrimoine, l'ICOM France et l'Association Générale des Conservateurs des Collections Publiques de France a organisé une journée de colloque professionnel sur la nécessité de traiter la présence du numérique dans tous les départements du musée d'un point de vue stratégique. 

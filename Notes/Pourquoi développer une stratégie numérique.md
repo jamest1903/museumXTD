@@ -1,7 +1,10 @@
-date : 2022mai12
-tags : #question
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022mai12
+tags: #question
+---
 
----------
 # Pourquoi développer une stratégie numérique dans les musées ?
 Développer une stratégie numérique ne signifie pas adopter tous les outils numériques "tendance". Il 'agit plutôt de reconnaître l'intérêt du numérique lorsque cela est le cas et de pouvoir l'implémenter de manière pertinente, à la hauteur des ressources disponibles et selon une vision opérationnelle. 
 

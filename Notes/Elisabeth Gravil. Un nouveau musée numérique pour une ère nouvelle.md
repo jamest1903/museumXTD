@@ -1,7 +1,10 @@
-date : 2022mai12
-tags : #liens #strategie #outils 
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022mai12
+tags: #liens #strategie #outils 
+---
 
----------
 [Gravil, E. (01.02.2021). Un nouveau musée numérique pour une ère nouvelle. Medium.](https://elisagravil.medium.com/un-nouveau-mus%C3%A9e-num%C3%A9rique-pour-une-%C3%A8re-nouvelle-8fedf8ff7c1a)
 Elisabeth Gravil est une consultante française pour sa propre société, Museovation. Dans cet article, après avoir constaté les limites des applications numériques dans les musées, elle liste les leviers d'action actuels présents dans chaque département du musée pour mieux intégrer le numérique. 
 

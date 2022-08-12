@@ -1,7 +1,9 @@
-date : 2022juin9
-tags : #liens #projet
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022juin9
+tags: #liens #projet
+---
 
 Qu'est-ce qui est entrepris à l'international pour accompagner les petits et moyens musées dans leur transition numérique ?
 Liste non-exhaustive de projets à l'international. 

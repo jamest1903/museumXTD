@@ -1,7 +1,12 @@
-date : 2022mai11
-tags : #liens #strategie 
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022mai11
+tags: #liens #strategie 
+---
 
----------
+
+
 [AMS (2016). Quels musées voulons-nous demain? Le choix nous appartient](https://www.museums.ch/fr/assets/files/dossiers_f/Publikationen/VMS_Zukunft_F_web.pdf)
 
 Ce rapport propose d'analyer les problématiques rencontrées par les musées et liste des questions pragmatiques auxquelles se confronter à travers trois problématiques majeures : 

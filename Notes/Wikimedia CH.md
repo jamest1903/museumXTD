@@ -1,7 +1,9 @@
-date : 2022mai27
-tags : #liens #numerisationcollection 
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022mai27
+tags: #liens #numerisationcollection 
+---
 
 [Wikimedia CH](https://wikimedia.ch/fr/)
 
