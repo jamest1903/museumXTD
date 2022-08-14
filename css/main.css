@@ -5,10 +5,10 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    /* background-color: var(--greyXTD) ; */
-    background-image: linear-gradient(var(--greyXTD) 0%, var(--white) 100%);
-    background-repeat: repeat-x;
-    background-size: 100vw 100vw;
+     background-image: linear-gradient(var(--greyXTD) 10%, #f2f2f2 100%);
+     background-color: #f2f2f2;
+     background-repeat: repeat-x;
+     background-size: 100vw 110vh;
     font-family: Georgia, 'Times New Roman', Times, serif ;
     margin: 0 ;
     font-size: var(--font-size-s);
@@ -60,9 +60,10 @@ body {
 */
 .main-container {
     width: 80%;
+    margin-top: 15vh;
     margin-left: auto;
     margin-right: auto;
-    max-width: 40em;
+    max-width: 32em;
 }
 .centered {
     text-align: center;
@@ -87,6 +88,7 @@ table {
 }
 
 /* logo header */
+#mastfeet,
 #masthead {
     text-align: justify;
     margin-top: var(--space-l);
@@ -96,8 +98,18 @@ table {
 }
 #masthead > span {
 }
+#mastfeet::after,
 #masthead::after {
     content: " ";
     display: inline-block;
     width: 100%;
+}
+
+#mastfeet {
+    transform: rotateZ(180deg);
+}
+
+footer {
+    padding-top: 70vh;
+    padding-bottom: var(--space-l);
 }

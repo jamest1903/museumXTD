@@ -3,14 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk
 ---
 
-# À propos
+## Le projet **MuseumXTD** 
 
-
----
 
 ##### Le projet-pilote de recherche appliquée **MuseumXTD** (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l'environnement entrepreneurial et de l'innovation vaudois (start-ups, entreprises, Hautes Écoles).
-
----
 
 Le projet s'appuie notamment sur un cas d'étude qui prend pour exemple la conception d’un dispositif numérique au sein des Musées de Pully dans le cadre de la mise en place d'un espace consacré à C. F. Ramuz et à la littérature, dont l’ouverture est prévue en 2023.
 
@@ -20,48 +16,65 @@ Les résultats du projet seront présentés lors d'un forum les 12 et 13 octobre
 
 **MuseumXTD** est mené par la société Concilio, les Musées de Pully et la HEIG-VD. En tant que projet de transformation, il bénéficie du soutien du Service des Affaires culturelles du Canton de Vaud ainsi que de celui de l’Office fédéral de la culture. Il s'achève le 31 octobre 2022.
 
-Contact : [info@museumxtd.ch]
+Contact  
+[info@museumxtd.ch](mailto:info@museumxtd.ch)
 
-  ---
-  ---
 
-### Partenaires du projet
+## Partenaires du projet
 
-#### Concilio Sàrl
+#### [Concilio Sàrl](https://concilioltd.com/)
 
 **Direction du projet, coordination & recherche documentaire** : Nathalie Pichard, directrice et Marion Lehembre,  cheffe de projet adjointe
 
 **Communication digitale** : Julie Ansermet, consultante
 
-#### Musées De Pully
+#### [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/)
 
 **Direction et coordination du cas d’étude Musées de Pully** : Delphine Rivier, directrice des Musées de Pully, Stéphanie Lugon, conservatrice du projet muséal La Muette, et l’équipe des Musées de Pully.
 
-#### Haute École d'Ingénierie et de Gestion du Canton De Vaud <br> Media Engineering Institute (MEI)
 
-**Direction de projet pour le MEI** :  Prof. Laurent Bolli
+#### [Haute Ecole d'ingénierie du Canton de Vaud - Media Engineering Institute (MEI)](https://heig-vd.ch/rad/instituts/mei/)
 
-**Visuels de l'événement** : Gaël Paccard
 
-**Audiovisuel et streaming** : Alexandre Pinault, chef de projet et Céline Simonetta, assistante technique
+Direction de projet pour le MEI  
+Prof. Laurent Bolli
 
-==Plateforme numérique MuseumXTD==
+Visuels de l'événement  
+Gaël Paccard
 
-- **Conception** : Gaël Paccard
-- **Développement technique** : James Taylor
+Audiovisuel et streaming  
+Alexandre Pinault, chef de projet  
+Céline Simonetta, assistante technique
 
-##### Webapp "Le smartphone de Ramuz"
-**Conception** : Laurent Bolli - d'après le projet développé pendant la semaine Crunch à la HEIG-VD par les étudiant-e-s  
-**Développement technique** : Jonathan Favre Lamarine  
-**Communication** : Elena Mata, chargée de communication à la HEIG-VD  
-**Catering et logistique** : Cécile Demaurex  
+Communication  
+Elena Mata, chargée de communication à la HEIG-VD
 
+Catering et logistique  
+Cécile Demaurex
+
+###### Plateforme numérique MuseumXTD
+
+Conception  
+Gaël Paccard
+
+Développement technique  
+James Taylor
+
+###### Webapp "Le smartphone de Ramuz"
+
+Conception  
+Laurent Bolli, d'après le projet développé pendant la semaine Crunch à la HEIG-VD par les étudiant-e-s
+
+Développement technique  
+Jonathan Favre Lamarine
+
+
+---
 
 ## Conseil scientifique et stratégique
+**Isabelle Raboud,** Anc. Présidente de l’Association des Musées suisses
 
-**Isabelle Raboud**, Anc. Présidente de l’Association des Musées suisses
-
-**Gilles Borel**, Directeur du Musée de géologie, Président de l’Association des Musées de Lausanne et Pully
+**Gilles Borel,** Directeur du Musée de géologie, Président de l’Association des Musées de Lausanne et Pully
 
 **Alexandre Camus**, Chargé de cours à la Faculté des sciences sociales et politiques de l’UNIL et au Collège des Humanités de l’EPFL, Chef de projet au Cultural Heritage & Innovation Center de l’EPFL
 
@@ -75,61 +88,53 @@ Contact : [info@museumxtd.ch]
 
 ---
 
-- ## Intervenant-es au forum des 12 et 13 octobre 2022
-  - Léonie Alain
-  - Nadir Alvarez
-  - Heidi Amrein
-  - Jordan Anastassov
-  - Giulia Bini
-  - Alexandre Camus
-  - Marianne Chevassus
-  - Giovanni Colavizza
-  - Jeanne Corthay
-  - Luc Debraine
-  - Vincent Fontana
-  - Emmanuelle Giacometti
-  - Olivier Glassey
-  - Nicolas Godinot
-  - Elisabeth Gravil
-  - Diletta Guidi
-  - Nicolas Henchoz
-  - Christian Hunziker
-  - Magali Jenny
-  - Solène Jimenez
-  - Selim Krichane
-  - Fabien Morf
-  - Patrick Moser
-  - Isaac Pante
-  - Laura Perrenoud
-  - Catherine Pugin
-  - Isabelle Raboud
-  - Olivier Reutenauer
-  - Antoine Roland
-  - Manuel Sigrist
+## Intervenant-es au forum des 12 et 13 octobre 2022
 
---- 
+- Léonie Alain
+- Nadir Alvarez
+- Heidi Amrein
+- Jordan Anastassov
+- Giulia Bini
+- Alexandre Camus
+- Marianne Chevassus
+- Giovanni Colavizza
+- Jeanne Corthay
+- Luc Debraine
+- Vincent Fontana
+- Emmanuelle Giacometti
+- Olivier Glassey
+- Nicolas Godinot
+- Elisabeth Gravil
+- Diletta Guidi
+- Nicolas Henchoz
+- Christian Hunziker
+- Magali  Jenny
+- Solène Jimenez
+- Selim Krichane
+- Fabien Morf
+- Patrick Moser
+- Isaac Pante
+- Laura Perrenoud
+- Catherine Pugin
+- Isabelle Raboud
+- Olivier Reutenauer
+- Antoine Roland
+- Manuel Sigrist
 
 ainsi que les personnes ayant offert généreusement et avec enthousiasme leur soutien au projet:
 
----
+- Benoit Frachebourg
+- Valentin Grosjean
+- Catherine Hirsch
+- Véronique Langlais
+- Veronica Liebl
+- Carolina Liebling
+- Franziska Mucha
+- Nicole Minder
+- Victoria Pieler
+- Olivier Ross
+- Stefan Rotarus
+- Veronica Tracchia
 
-Valentin Grosjean
 
-Catherine Hirsch
-
-Véronique Langlais
-
-Nicole Minder
-
-Olivier Ross
-
-Veronica Tracchia
-
----
-
-Nos remerciements s'adressent à toutes les personnes ayant contribué à ce projet. 
-
----
----
-
----
+Nos remerciements s'adressent à toutes les personnes ayant contribué au projet. 
