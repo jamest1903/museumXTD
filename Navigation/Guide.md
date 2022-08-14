@@ -1,4 +1,7 @@
-![[MuseumXTD]]
+---
+title: MuseumXTD
+layout: layouts/post.njk
+---
 
 # Guide
 Cette section offre une sélection de réflexions, d'exemples et d'outils suisses et internationaux qui permettent de comprendre qu'est-ce que la transition numérique pour les petits et moyens musées. 

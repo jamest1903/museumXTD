@@ -1,7 +1,10 @@
-date : 2022juin23
-tags : 
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-23 
+---
 
----------
+
 # Boîte à outils
 Cette section liste une sélection d'outils pour chaque type d'activité du musée, facilement accessibles et *peu coûteux*.  
 

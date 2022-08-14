@@ -5,28 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title><%=title?title:"MuseumXTD"%></title>
-    <link rel="stylesheet" href="/css/main.css" />
-    <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/assets/search.js" defer></script>
+    <link rel="stylesheet" href="./css/main.css"
+
   </head>
   <body>
     <div class="containerTop">
+      <div id="masthead">
+        M u s e u m X T D
+      </div>
       <!-- topbar Menu -->
       <div class="navMenu">
-        <a class="item" href='/'>Home</a>
-        <a class="item" href='/tables/acteurs/'>Acteurs</a>
-        <a class="item" href='/tables/projects/'>Projects</a>
-        <a class="item" href='/Navigation/A propos/'>A propos</a>
-        <a class="item" href='/Navigation/guide/'>Guide</a>
-        <div id="search">
-          <input type="search" id="searchString" placeholder="Veuillez entrer plus de trois lettres"> <button onclick="search()">Chercher</button>
-          <div id="results" class="hidden">
-            <h3>Résultats</h3>
-            <ul id="resultList">
-            </ul>
-          </div>
-          <p id="noResults" class="hidden"> Désolé, aucun résultat n'a été trouvé. </p>
-        </div>
+        <a class="menuitem" href='/'>Accueil</a>
+        <!-- <a class="menuitem" href='/Navigation/Guide/'>Numérique & Musée</a> -->
+        <!-- <a class="menuitem" href="/Navigation/Musées de Pully - cas d'étude/">Cas Ramuz</a> -->
+        <a class="menuitem" href='/Navigation/Forum/'>Forum</a>
+        <!-- <a class="menuitem" href='/tables/projects/'>Projects</a> -->
+        <!-- <a class="menuitem" href='/tables/acteurs/'>Acteurs & Projets</a> -->
+        <a class="menuitem" href='/Navigation/A propos/'>À propos</a>
       </div>
     </div>
     <%- content %>

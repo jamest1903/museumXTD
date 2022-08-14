@@ -1,6 +1,8 @@
-date : 2022juin8
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-08
+---
 
 Liste d'éléments à respecter (encours d'évolution/collaboratif) selon des instructions offocielles suisses. 
 

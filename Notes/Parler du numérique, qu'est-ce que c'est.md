@@ -1,8 +1,10 @@
-![[MuseumXTD]]
-date : 2022mai10
-tags : #question
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-05-10
+tags: #question
+---
 
----------
 # Parler du "numérique" : qu'est-ce que c'est ?
 Numérique, digital, culture numérique, transformation numérique ? Comment se repérer et se positionner. 
 Pour une définition de la stratégie numérique, voir [[Qu'est-ce qu'une stratégie numérique]]. 

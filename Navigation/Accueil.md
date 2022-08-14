@@ -1,4 +1,7 @@
-![[MuseumXTD]]
+---
+title: MuseumXTD
+layout: layouts/post.njk
+---
 
 *1er paragraphe introductif -> qu'allez-vous trouver sur cette plateforme ?*
 Bienvenue sur MuseumXTD (à prononcer "extended" !). 

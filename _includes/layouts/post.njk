@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.ejs
+layout: layouts/base.njk
 ---
 <br>
 <br>
@@ -7,8 +7,8 @@ layout: layouts/base.ejs
 <div class='main-container'>
 	<div class='centered'>
 		<div class='column'>
-			<div class='ui basic segment' style="font-size: 18px;line-height: 1.5em">
-				<%-content%>
+			<div class='ui basic segment'>
+				{{ content | safe }}
 			</div>
 		</div>
 	</div>

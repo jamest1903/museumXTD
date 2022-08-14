@@ -1,7 +1,13 @@
-date : 2022mai12
-tags : #liens #strategie 
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-05-12
+tags: #liens #strategie 
+---
 
----------
+
+
+
 
  [AMS (2020). La pratique muséale numérique. Une approche globale.](http://msw.be/wp-content/uploads/2020/01/VMS_Digitalisierung_F_Web.pdf) 
 

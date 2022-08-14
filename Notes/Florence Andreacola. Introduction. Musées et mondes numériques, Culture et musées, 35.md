@@ -1,7 +1,9 @@
-date : 2022mai11
-tags : #liens #strategie 
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-05-11
+tags: #liens #strategie 
+---
 
 [Andreacola, F. (2020). Introduction. *Musées et mondes numériques*, Culture et musées, 35. ](https://journals.openedition.org/culturemusees/4381)
 

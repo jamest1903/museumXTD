@@ -1,8 +1,11 @@
-date : 2022juin9
-tags : #question
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-09
+tags: #question
+---
 
----------
-# Comment créer une base de données numériques pour ses collections ?
+ # Comment créer une base de données numériques pour ses collections ?
 court paragraphe sur l'intérêt de la question
 
 

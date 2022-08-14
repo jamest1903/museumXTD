@@ -1,7 +1,10 @@
-date : 2022juin8
-tags : #question
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-08
+tags: #question
+---
 
----------
 # Quelles technologies pour quel impact?
 trier les technologies selon les tendances
 

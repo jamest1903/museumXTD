@@ -1,9 +1,10 @@
-![[MuseumXTD]]
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-22
+tags: #question 
+---
 
-date : 2022mai22
-tags : #question 
-
----------
 # Comment collaborer avec des prestataires numériques ?
 
 1. [[Agile Development in Non-Agile Museum - Finnish National Gallery]] 

@@ -1,6 +1,6 @@
 const fs = require("fs")
 const path = require("path")
-let avoid=['.eleventy.js','.git','.gitignore','.obsidian','assets','css','dist','node_modules','tables','_data','_includes','package.json','package-lock.json'];
+let avoid=['.eleventy.js','.git','.gitignore','.obsidian','assets','css','docs','node_modules','tables','_data','_includes','package.json','package-lock.json'];
 
 const getAllFiles = function(dirPath, arrayOfFiles) {
   let files = fs.readdirSync(dirPath)
@@ -70,7 +70,7 @@ module.exports = config => {
   const getFolder = function(fileName) {
     for (const file of all_files) {
       if(file.indexOf(fileName)>-1){
-        let filePath = file.split('\\');
+        let filePath = file.split(path.sep);
         let i = filePath.indexOf(fileName+'.md');
         if(filePath[i-1] === 'museumXTD') {
           return '';
@@ -114,7 +114,6 @@ module.exports = config => {
       }
     }
   })
-  
   config.setLibrary("md", markdownLib);
 
   return {
@@ -125,7 +124,7 @@ module.exports = config => {
       input: '.',
       includes: "_includes",
       data: "_data",
-      output: 'dist'
+      output: 'docs'
     }
   };
 };

@@ -1,7 +1,9 @@
-date : 2022mai27
-tags : #liens #strategie #collection #narration 
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-05-27
+tags: #liens #strategie #collection #narration 
+---
 
 [Lionel Bovier (MAMCO) sur les défis que la digitalisation pose aux musées](https://www.youtube.com/watch?v=ikHeZ1256B4&list=PL7Kb_aUJUxuSSLSIz55nWtllKSlu07NsV)
 

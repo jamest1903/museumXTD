@@ -1,3 +1,9 @@
+---
+title: MuseumXTD
+layout: layouts/post.njk
+---
+
+
 ## Typologie
 - **MuseumXTD**
 	- sans guillemets

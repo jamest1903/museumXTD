@@ -1,4 +1,7 @@
-![[MuseumXTD]]
+---
+title: MuseumXTD
+layout: layouts/post.njk
+---
 
 ## Ecosystème
 

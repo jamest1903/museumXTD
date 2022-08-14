@@ -1,6 +1,10 @@
-date : 2022juin9
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-09
+---
 
----------
+
 Liste de choses à avoir en tête pour ajouter nos contenus sur le site internet. 
 
 
