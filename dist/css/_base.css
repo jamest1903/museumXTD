@@ -279,7 +279,8 @@ hr + hr::after {
 
 img {
 
-    width: 140%;
-    margin-left: -20%;
-    margin-right: -20%;
+    /* max-width: 140%; */
+    max-width: 100%;
+    /* margin-left: -20%;
+    margin-right: -20%; */
 }
