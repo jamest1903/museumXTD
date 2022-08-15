@@ -25,7 +25,7 @@ Les résultats du projet seront présentés lors d'un forum les 12 et 13 octobre
 
 Direction du projet, coordination & recherche documentaire  
 Nathalie Pichard, directrice  
-Marion Lehembre,  cheffe de projet adjointe
+Marion Lehembre, cheffe de projet adjointe
 
 Communication digitale  
 Julie Ansermet  
@@ -42,7 +42,8 @@ conservatrice du projet muséal La Muette, fi l’équipe des Musées de Pully.
 
 ### [Haute École d’Ingénierie et Gestion du canton de Vaud (HEIG-VD)<br>Media Engineering Institute (MEI)](https://heig-vd.ch/rad/instituts/mei/)
 
-[](/images/Logo%HEIG-VD%MEI.svg)
+![](/images/Logo_HEIG-VD_MEI.svg)
+
 
 Direction de projet pour le MEI   
 Prof. Laurent Bolli

@@ -3,86 +3,98 @@ title: MuseumXTD
 layout: layouts/post.njk
 ---
 
-> [!INFO]
-> Here's a callout block.
-> It supports **markdown** and [[Internal link|wikilinks]].
-
-%%
-commentaire en markdown
-%%
-
 
 # Forum
-
 ##### Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à Yverdon-les-Bains. Ce symposium réunira musées et experts du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
 
 - **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel-le-s des musées, de chercheurs et chercheuses et de spécialistes du numérique
 
-- **Jeudi 13 octobre (9h-12h)**: présentation de l’étude de cas réalisé par les Musées de Pully et retours d’expérience
+- **Jeudi 13 octobre (9h-12h)**: présentation de l’étude de cas réalisée par les Musées de Pully et retours d’expérience
 
 ###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAMQdEm50xQBLdeGVY9_07k_A2EYo69tPbBRGvtiO8qeWGX3rHMDJOiJ8iskSxSaW3DSSluJFzRHPx-__4Fbvvuyb1zJRfYlpB3WvXHYHBH9NN3KS15TAch95iVKntYN9jGBBamjGfzCiqvLKPgKM5-acjxYDv646I5tUKCMurx2VNCcHvYXrA82i6hOz-ZP6bNSz2C-D6L7I)** [Programme 2022](#Programme-provisoire) [Lieu et accès](#Lieu-et-accès) [Live / A revoir](#Live-A-revoir)
 
-![Anneau fin recouvert d'un damier gris et blanc](/images/MXTD_visuel2022_c.png)
-
-
+![Anneau fin recouvert d'un damier gris et blanc](../../Images/MXTD_visuel2022_c.png)
 ## Programme provisoire
 
 ### 12 octobre (9h-17h)
 Modération par [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/), Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
 
----
-
 #### [[MuseumXTD - Introduction|Introduction]]
 
-*9h-9h20*
+*9h20-9h40*  
 
 [[Delphine Rivier]]  
 Directrice des [Musées de Pully]([www.museedartdepully.ch](http://www.museedartdepully.ch)) (CH)
 
-[Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/)  
-Directeur de projet au [Media Engineering Institute de la HEIG-VD](https://heig-vd.ch/rad/instituts/mei/) (CH)
+[Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/) 
+Directeur de projet au [Media Eng. neering Institute de la HEIG-VD](https://heig-vd.ch/rad/instituts/mei/) (CH)
 
+[Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/) 
+Directrice de [Concilio Sàrl](https://www.concilioltd.com/). (CH)
+*9h-9h20*
 
-[Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/)  
-Directrice de [Concilio Sàrl](https://www.concilioltd.com/) (CH)
+#### [[MuseumXTD - Elisabeth Gravil|Qu'est-ce que la transformation numérique pour un musée ?]]
 
+[Elisabeth Gravil](https://www.linkedin.com/in/elisagravil/)  
+[Museovation](https://museovation.co/) (FR)
 
----
-
-#### [[MuseumXTD - Elisabeth Gravil|Qu'est-ce que la transformation numérique pour un musée ? ]]
-[Elisabeth Gravil](https://www.linkedin.com/in/elisagravil/), [Museovation](https://museovation.co/) (FR)
-*9h20-9h40*  
-
----
 
 #### [[Quelles approches du numérique  pour un musée en Suisse ?]]
-Modération : [Alexandre Camus](https://www.unil.ch/collaboratoire/home/menuinst/qui-sommes-nous/notre-equipe/camus-alexandre.html),  Responsable de recherche au [ColLaboratoire](https://www.unil.ch/collaboratoire/fr/home.html), Unité de recherche-action, collaborative et participative de l’Université de Lausanne (CH)
-[Marianne Chevassus](https://museeduleman.ch/le-musee/lequipe/), Conservatrice adjointe au [Musée du Léman Nyon](https://museeduleman.ch/) (CH) 
-[Luc Debraine](https://twitter.com/lucdebraine), Directeur du [Musée suisse de l'appareil photographique](www.cameramuseum.ch) (CH)
-[Diletta Guidi](https://www.linkedin.com/in/dilettaguidi/), Maître-assistante, Université de Fribourg
+
 *9h40-10h10* 
+
+Modération   
+[Alexandre Camus](https://www.unil.ch/collaboratoire/home/menuinst/qui-sommes-nous/notre-equipe/camus-alexandre.html)   
+Responsable de recherche au [ColLaboratoire](https://www.unil.ch/collaboratoire/fr/home.html), Unité de recherche-action, collabora. ive et participative de l’Université de Lausanne (CH)
+
+[Marianne Chevassus](https://museeduleman.ch/le-musee/lequipe/)   
+Conservatrice adjointe au [Musée du Léman Nyon](https://museeduleman.ch/) (CH) 
+
+[Luc Debraine](https://twitter.com/lucdebraine) 
+Directeur du [Musée su. sse de l'appareil photographique](www.cameramuseum.ch) (CH)
+
+[Diletta Guidi](https://www.linkedin.com/in/dilettaguidi/)  
+Maître-assistante, Université de Fribourg
+
 
 #### Pause café 
 
-#### [[MuseumXTD - Antoine Roland|Comment rendre son musée numérique ? Approche institutionnelle, approche en réseau, approche de co-construction ]]
-[Antoine Roland](https://www.linkedin.com/in/antoine-roland?originalSubdomain=fr), Directeur de [CORRESPONDANCES DIGITALES] [lien ici](https://correspondances.co/) (FR)
+#### [[MuseumXTD - Antoine Roland|Comment rendre son musée numérique ? Approche institutionnelle, approche en réseau, approche de co-construction]]
+
 *10h45-11h05*
+
+[Antoine Roland](https://www.linkedin.com/in/antoine-roland?originalSubdomain=fr)   
+Directeur de [CORRESPONDANCES DIGITALES] [lien ici](https://correspondances.co/) (FR)
+
 
 
 #### [[MuseumXTD - Connaître son audience, une condition préalable pour bien communiquer avec ses publics|Connaître son audience, une condition préalable pour bien communiquer avec ses publics]]
-[Fabien Morf](https://www.linkedin.com/in/fabienmorf/), Fondateur et directeur de L'Œil du Public Suisse (CH)
-[Solène Jimenez](https://www.linkedin.com/in/soljim/), Directrice du développement international à Arenametrix (FR) 
+
 *11h05-11h25*
 
+[Fabien Morf](https://www.linkedin.com/in/fabienmorf/) 
+Fondateur et directeur de L'Œil . u Public Suisse (CH)
+
+[Solène Jimenez](https://www.linkedin.com/in/soljim/) 
+Directrice du développement . nternational à Arenametrix (FR) 
+
  
-#### [[MuseumXTD - Tatiana Julliez|Les aspects juridiques de la transition numérique des musées]]
-[Tatiana Julliez](https://www.linkedin.com/in/tatiana-jullier-53918b209/?originalSubdomain=ch), Associée chez Lalive (CH) 
+#### [[Le musée numérique en toute légalité: quelles questions se poser ?]]
+
 *11h25-11h45*
 
+[Tatiana Jullier](https://www.linkedin.com/in/tatiana-jullier-53918b209/?originalSubdomain=ch) 
+Avocate (CH) 
+
+[Tatiana Jullier]([https://ch.linkedin.com/in/tatiana-jullier-53918b209](https://ch.linkedin.com/in/tatiana-jullier-53918b209))  
+Avocate chez Lalive (CH. 
 
 #### [[MuseumXTD - Le projet DOORS|Digital incubator for museum DOORS]]
-Equipe de projet [Doors](https://ars.electronica.art/doors/en/), Ars Electronica (online)
+
 *11h45-12h05*
+
+Equipe de projet [Doors](https://ars.electronica.art/doors/en/)  
+Ars Electronica (online)
 
 
 #### Pause
@@ -90,9 +102,12 @@ Equipe de projet [Doors](https://ars.electronica.art/doors/en/), Ars Electronica
 
 
 #### [[MuseumXTD - Hub01|La face cachée du numérique]] 
-[Léonie Alain](https://www.linkedin.com/in/leonie-alain-23202571/), Directrice de communication chez Sporobole & 0/1 - Hub
-(CA)
+
 *13h40-14h00*
+
+[Léonie Alain](https://www.linkedin.com/in/leonie-alain-23202571/) 
+Directrice de communication chez Sporobole .  0/1 - Hub
+(CA)
 
 
 #### [[MuseumXTD - Seemuseum Kreuzlingen|Retour d'expérience d'un musée accompagné dans sa transition numérique]] 
