@@ -3,48 +3,72 @@ title: MuseumXTD
 layout: layouts/post.njk
 ---
 
-## Le projet **MuseumXTD** 
+## Le projet MuseumXTD 
 
-
-##### Le projet-pilote de recherche appliquée **MuseumXTD** (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l'environnement entrepreneurial et de l'innovation vaudois (start-ups, entreprises, Hautes Écoles).
+##### Le projet-pilote de recherche appliquée **MuseumXTD** (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l'environnement entrepreneurial et celui de l'innovation vaudois (start-ups, entreprises, Hautes Écoles).
 
 Le projet s'appuie notamment sur un cas d'étude qui prend pour exemple la conception d’un dispositif numérique au sein des Musées de Pully dans le cadre de la mise en place d'un espace consacré à C. F. Ramuz et à la littérature, dont l’ouverture est prévue en 2023.
 
-Mis à disposition des institutions muséales pour leur propre recherche et développement, les résultats du projet sont disponibles sur museumxtd.ch, conçu comme une plateforme d’informations permettant de diffuser les recherches et réflexions menées durant l’année qu'a duré le projet. Elle est pensée comme une boîte à outils évolutive proposant des réponses aux nombreuses questions que posent l’implémentation et l’usage du numérique dans les musées de notre région. 
+Mis à disposition des institutions muséales pour leur propre recherche et développement, les résultats du projet sont disponibles sur museumxtd.ch. Conçu comme une plateforme d’informations, le site permet de diffuser les recherches et réflexions menées durant l’année qu'a duré le projet. Il est pensé comme une boîte à outils évolutive proposant des réponses aux nombreuses questions que posent l’implémentation et l’usage du numérique dans les musées de notre région. 
 
 Les résultats du projet seront présentés lors d'un forum les 12 et 13 octobre 2022 à Yverdon-les-Bains qui réunira musées et experts du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
 
 **MuseumXTD** est mené par la société Concilio, les Musées de Pully et la HEIG-VD. En tant que projet de transformation, il bénéficie du soutien du Service des Affaires culturelles du Canton de Vaud ainsi que de celui de l’Office fédéral de la culture. Il s'achève le 31 octobre 2022.
 
-Contact  
-[info@museumxtd.ch](mailto:info@museumxtd.ch)
+[Contact : info@museumxtd.ch](mailto:info@museumxtd.ch)
 
 
 ## Partenaires du projet
 
-#### [Concilio Sàrl](https://concilioltd.com/)
 
-**Direction du projet, coordination & recherche documentaire** : Nathalie Pichard, directrice et Marion Lehembre,  cheffe de projet adjointe
+### [Concilio Sàrl](https://concilioltd.com/)
 
-**Communication digitale** : Julie Ansermet, consultante
+Direction du projet, coordination & recherche documentaire  
+Nathalie Pichard, directrice  
+Marion Lehembre,  cheffe de projet adjointe
 
-#### [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/)
+Communication digitale  
+Julie Ansermet  
+consultante
 
-**Direction et coordination du cas d’étude Musées de Pully** : Delphine Rivier, directrice des Musées de Pully, Stéphanie Lugon, conservatrice du projet muséal La Muette, et l’équipe des Musées de Pully.
+### [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/)
 
+Direction et coordination du cas d’étude Musées de Pully  
+Delphine Rivier  
+directrice des Musées de Pully  
 
-#### [Haute Ecole d'ingénierie du Canton de Vaud - Media Engineering Institute (MEI)](https://heig-vd.ch/rad/instituts/mei/)
+Stéphanie Lugon  
+conservatrice du projet muséal La Muette, fi l’équipe des Musées de Pully.
 
+### [Haute École d’Ingénierie et Gestion du canton de Vaud (HEIG-VD)<br>Media Engineering Institute (MEI)](https://heig-vd.ch/rad/instituts/mei/)
 
-Direction de projet pour le MEI  
+[](/images/Logo%HEIG-VD%MEI.svg)
+
+Direction de projet pour le MEI   
 Prof. Laurent Bolli
 
-Visuels de l'événement  
+Visuels de l'événement   
 Gaël Paccard
 
-Audiovisuel et streaming  
-Alexandre Pinault, chef de projet  
+Audiovisuel et streaming   
+Alexandre Pinault, chef de projet   
 Céline Simonetta, assistante technique
+
+##### Plateforme numérique MuseumXTD
+
+Conception 
+Gaël Paccard
+
+Développement technique  
+James Taylor
+
+##### Webapp "Le smartphone de Ramuz"
+
+Conception   
+Laurent Bolli, d'après le projet développé pendant la semaine Crunch à la HEIG-VD par les étudiant-e-s
+
+Développement technique   
+Jonathan Favre Lamarine
 
 Communication  
 Elena Mata, chargée de communication à la HEIG-VD
@@ -52,26 +76,9 @@ Elena Mata, chargée de communication à la HEIG-VD
 Catering et logistique  
 Cécile Demaurex
 
-###### Plateforme numérique MuseumXTD
 
-Conception  
-Gaël Paccard
+## Conseil scientifique et stratégique 
 
-Développement technique  
-James Taylor
-
-###### Webapp "Le smartphone de Ramuz"
-
-Conception  
-Laurent Bolli, d'après le projet développé pendant la semaine Crunch à la HEIG-VD par les étudiant-e-s
-
-Développement technique  
-Jonathan Favre Lamarine
-
-
----
-
-## Conseil scientifique et stratégique
 **Isabelle Raboud,** Anc. Présidente de l’Association des Musées suisses
 
 **Gilles Borel,** Directeur du Musée de géologie, Président de l’Association des Musées de Lausanne et Pully
@@ -86,9 +93,8 @@ Jonathan Favre Lamarine
 
 **Fondation ArtTech**
 
----
 
-## Intervenant-es au forum des 12 et 13 octobre 2022
+## Intervenant-es au forum des 12 et 13 octobre 2022 :
 
 - Léonie Alain
 - Nadir Alvarez
