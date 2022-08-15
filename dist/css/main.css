@@ -1,0 +1,72 @@
+@import '_variables.css' ;
+@import '_base.css' ;
+
+/* background-color: var(--greyXTD) ; */
+body {
+    background-image: linear-gradient(var(--greyXTD) 0%, var(--white) 100%);
+    background-repeat: repeat-x;
+    background-size: 100vw 100vw;
+
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    margin: 0 ;
+    perspective: 3cm;
+}
+
+.containerTop {
+    margin-left: 0;
+    margin-right: 0;
+    border-bottom: 2px solid rgba(34,36,38,.15);
+    width: 100%;
+}
+.navMenu {
+    display: flex;
+    justify-content: center;
+}
+.navMenu .item {
+    font-weight: 700;
+    color: rgba(0,0,0,.95);
+    padding: 10px 10px;
+}
+
+/*
+* main content container
+*/
+.main-container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40em;
+}
+.centered {
+    text-align: center;
+    justify-content: center;
+}
+.column {
+    text-align: left;
+}
+
+/*
+* CSS styles for the CSV tables
+*/
+table {
+    border-collapse: collapse;
+    margin-top: 50px;
+}
+
+.csvTable td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+
+#masthead {
+    text-align: justify;
+}
+#masthead > span {
+}
+#masthead::after {
+    content: " ";
+    display: inline-block;
+    width: 100%;
+}
