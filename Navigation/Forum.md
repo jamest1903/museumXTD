@@ -3,6 +3,14 @@ title: MuseumXTD
 layout: layouts/post.njk
 ---
 
+> [!INFO]
+> Here's a callout block.
+> It supports **markdown** and [[Internal link|wikilinks]].
+
+%%
+commentaire en markdown
+%%
+
 
 # Forum
 
@@ -25,10 +33,19 @@ Modération par [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b3927
 ---
 
 #### [[MuseumXTD - Introduction|Introduction]]
-[[Delphine Rivier]], Directrice des [Musées de Pully]([www.museedartdepully.ch](http://www.museedartdepully.ch)) (CH)
-[Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/), Directeur de projet au [Media Engineering Institute de la HEIG-VD](https://heig-vd.ch/rad/instituts/mei/) (CH)
-[Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/), Directrice de [Concilio Sàrl](https://www.concilioltd.com/) (CH)
+
 *9h-9h20*
+
+[[Delphine Rivier]]  
+Directrice des [Musées de Pully]([www.museedartdepully.ch](http://www.museedartdepully.ch)) (CH)
+
+[Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/)  
+Directeur de projet au [Media Engineering Institute de la HEIG-VD](https://heig-vd.ch/rad/instituts/mei/) (CH)
+
+
+[Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/)  
+Directrice de [Concilio Sàrl](https://www.concilioltd.com/) (CH)
+
 
 ---
 
