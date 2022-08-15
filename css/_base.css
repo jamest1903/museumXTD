@@ -1,11 +1,18 @@
 /* Resets and styles for base elements */
 
+p {
+  margin-block-start: var(--space-s) ;
+  margin-block-end: var(--line-height-m) ;
+  ;
+}
+p + h1 {
+  color: blue;
+}
+
 
 strong {
   font-family: sans-serif;
   font-weight: 500;
-  background-color: #00000014;
-  outline: 4px solid #00000014;
   border-radius: 2px;
 }
 
@@ -13,42 +20,40 @@ strong {
 /* unordered list */
 ul {
   padding-left: 0 ;
+  margin-bottom: var(--line-height-m);
 }
 
 ul li {
   list-style: none;
-  margin-top: var(--space-s);
+  /* margin-top: var(--space-s); */
 }
 ul ul li {
-  margin-left: 1em;
+  margin-left: 1.5em;
 }
 ul ul li::before {
   content: '●';
   position: absolute;
-  margin-left: -1em;
+  margin-left: -1.3em;
 }
 
-p, li {
 
-  perspective: 1cm;
-}
+ /* headings */
 
 h1, h2 {
   font-weight: normal;
-  margin-bottom: var(--space-xl);
+  margin-top: var(--line-height-l);
+  margin-bottom: var(--line-height-l);
 }
 h3, h4, h5, h6 {
   font-weight: normal;
-  margin-bottom: var(--space-s);
+  margin-bottom: var(--line-height-m);
 }
 
-p + h1, 
-p + h2, 
-p + h3, 
+p + h3
 p + h4, 
 p + h5, 
 p + h6 {
-  margin-top: var(--space-xl);
+  margin-top: var(--line-height-m);
 }
 
 h1 { 
@@ -58,81 +63,29 @@ h1 {
 h2 {
   font-size: var(--font-size-l);
 }
-h2 + h3 {
-  /* margin-top: calc( var(--space-xl) * -1) !important ; */
-}
-/* h2 + p {
-  margin-top: var(--space-xl) !important ;
-}
-   */
+
 h3 {
   font-size: var(--font-size-l);
 }
 
 h4, h5 {
   font-size: var(--font-size-m);
-  /* margin-bottom: var(--space-xl); */
 }
 
-p {
-  margin-block-start: var(--space-s) ;
-  margin-block-end:  var(--space-l) ;
+h6 {
+  font-size: var(--font-size-s);
 }
-p + h1 {
-  color: blue;
+h6::before {
+  content: "";
+  display: block;
+  border-top: 1px solid var(--black);
+  width: 1.5em;
+  position: absolute;
+  margin-top: -0.5em;
 }
 
 ol {
   padding-left: 0 ;
-}
-ol li {
-  /* list-style-position: outside; */
-  background-color: aliceblue ;  
-}
-
-/* ol li:hover {
-} */
-/* a {
-  color: #002BC6;
-  text-decoration: none;
-
-  background: linear-gradient(90deg, #002BC6 0%, #00C67E 20%, #002BC6 40%, #00C67E 60%, #002BC6 100%);
-  background-clip: text;
-  text-fill-color: transparent;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-
-  background-size: 1000%;
-
-  display: inline-block;
-  transition-property: transform;
-  transition: 500ms ease;
-} */
-@keyframes gradientFlow {
-  0% {
-      background-position-X: 0%;
-
-    }
-  20% {
-    background-position-X: -100%;
-    
-  }
-  40% {
-    background-position-X: -200%;
-    
-  }
-  60% {
-    background-position-X: -300%;
-    
-  }
-  80% {
-    background-position-X: -400%;
-    
-  }
-  100% {
-    background-position-X: -500%;
-
-  }
 }
 
 @keyframes scaleRotate {
@@ -166,25 +119,48 @@ a:hover::before {
   padding: 16px ;
 } */
 
-a:hover {
-  outline-color: rgb(199, 199, 199, 1);
-  text-decoration: none;
-  
-  transition-property: outline-color;
-  transition-duration: 100ms;
-  transition-timing-function: ease-out ;
-  outline-width: 6px;
-}
+
 a {
-  color: var(--blue);
-  outline-style: outset;
-  outline-offset: 8em;
-  outline-width: 1px;
-  outline-color: rgba(199, 199, 199, 0);
-  transition-property: outline-color;
-  transition-duration: 4s;
-  transition-timing-function: cubic-bezier(0,0.84,0.13,1); ;
-  border-radius: 100%;
+  display: inline-block;
+  /* color: rgb(0, 0, 121);   */
+  /* color: rgb(0, 0, 121);    */
+    /* box and scale */
+    border-radius: 6px;
+    padding: 5px;
+    margin: -5px;
+    text-decoration: none;
+    /* border: 6px solid white; */
+    
+    
+    transition-duration: 4s;
+    transition-timing-function: cubic-bezier(0,0.84,0.13,1); ;
+  }
+  
+  a:hover {
+  background-color: #f2f2f2;
+
+  text-decoration: none;
+  transition-property: all;
+  transition-duration: 100ms;
+  transition-timing-function: ease-out;
+  transform: scale(1.04) translateY(-3px);
+  box-shadow: 0 0 600px 100px;
+  
+}
+
+a:active {
+  box-shadow: 0 0 100px 500px;
+  /* animation: scaleRotate 300ms ; */
+  transition-duration: 300ms;
+  transition-timing-function: ease;
+}
+a:visited {
+  /* color:purple;s */
+  background-color: rgb(194, 194, 194) ;
+}
+
+a:visited:hover {
+  background-color: white;
 }
 
 
@@ -284,12 +260,12 @@ h6 > strong > a {
 
 /* spacer and sections markers */
 hr {
-  margin-top: var(--space-xl);
+  margin-top: 5vh;
   border: 1px solid transparent; /* necessary for margin-bottom */
 }
 hr + hr {
-  margin-top: 0;
-  margin-bottom: var(--space-xl);
+  margin-top: 15vh;
+  margin-bottom: 20vh;
 }
 hr + hr::after {
   content: "";
