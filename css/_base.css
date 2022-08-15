@@ -16,6 +16,10 @@ strong {
   border-radius: 2px;
 }
 
+code {
+  font-size: var(--font-size-xs);
+  font-family: Courier, 'Courier New', monospace ;
+}
 
 /* unordered list */
 ul {
@@ -44,16 +48,15 @@ h1, h2 {
   margin-top: var(--line-height-l);
   margin-bottom: var(--line-height-l);
 }
-h3, h4, h5, h6 {
+h3, h4 {
   font-weight: normal;
+  margin-top: var(--line-height-xl);
   margin-bottom: var(--line-height-m);
 }
-
-p + h3
-p + h4, 
-p + h5, 
-p + h6 {
-  margin-top: var(--line-height-m);
+h5, h6 {
+  font-weight: normal;
+  margin-top: var(--line-height-xl);
+  margin-bottom: var(--line-height-m);
 }
 
 h1 { 
@@ -68,20 +71,26 @@ h3 {
   font-size: var(--font-size-l);
 }
 
-h4, h5 {
+h4 {
   font-size: var(--font-size-m);
+  margin-bottom: var(--line-height-s);
 }
 
-h6 {
+h5 {
   font-size: var(--font-size-s);
+  margin-bottom: var(--line-height-s);
 }
-h6::before {
+h5::before {
   content: "";
   display: block;
   border-top: 1px solid var(--black);
   width: 1.5em;
   position: absolute;
   margin-top: -0.5em;
+}
+
+h6 {
+  font-size: var(--font-size-s);
 }
 
 ol {
@@ -232,39 +241,39 @@ h6 > strong > a {
   font-size: var(--font-size-s);
 
   /* border: 1px solid var(--blue); */
-  -webkit-text-fill-color: var(--blue);
-  -webkit-background-clip:border-box;
+  /* -webkit-text-fill-color: var(--blue); */
+  /* -webkit-background-clip:border-box; */
   background-clip: border-box;
   background-image: none;
   background-color: rgba(0, 0, 0, 0.1);
   border-radius: 11px;
-  min-height: 32px;
+  /* min-height: 32px; */
   padding-inline-start: 16px;
   padding-inline-end: 16px;
   padding-block-start: 4px;
   /* padding-block-end: 4px; */
 }
+/* h6 > strong > a:hover {
+  color: var(--black);
+} */
 h6 > a:not(:last-child),
 h6 > strong:not(:last-child) {
   margin-inline-end: var(--space-m);
 }
 h6 > strong > a {
   font-weight: normal;
-  -webkit-text-fill-color: var(--white);
   color: var(--white);
-  -webkit-background-clip: border-box;
-  background-clip:border-box;
   background-color: var(--blue);
 }
 
 
 /* spacer and sections markers */
 hr {
-  margin-top: 5vh;
+  margin-top: 4vh;
   border: 1px solid transparent; /* necessary for margin-bottom */
 }
 hr + hr {
-  margin-top: 15vh;
+  margin-top: 16vh;
   margin-bottom: 20vh;
 }
 hr + hr::after {

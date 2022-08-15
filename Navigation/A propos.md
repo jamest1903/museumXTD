@@ -3,9 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk
 ---
 
+
 ## Le projet MuseumXTD 
 
-##### Le projet-pilote de recherche appliquée **MuseumXTD** (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l'environnement entrepreneurial et celui de l'innovation vaudois (start-ups, entreprises, Hautes Écoles).
+#### Le projet-pilote de recherche appliquée **MuseumXTD** (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l'environnement entrepreneurial et celui de l'innovation vaudois (start-ups, entreprises, Hautes Écoles).
 
 Le projet s'appuie notamment sur un cas d'étude qui prend pour exemple la conception d’un dispositif numérique au sein des Musées de Pully dans le cadre de la mise en place d'un espace consacré à C. F. Ramuz et à la littérature, dont l’ouverture est prévue en 2023.
 
@@ -20,12 +21,11 @@ Les résultats du projet seront présentés lors d'un forum les 12 et 13 octobre
 
 ## Partenaires du projet
 
-
 ### [Concilio Sàrl](https://concilioltd.com/)
 
 Direction du projet, coordination & recherche documentaire  
 Nathalie Pichard, directrice  
-Marion Lehembre, cheffe de projet adjointe
+Marion Lehembre,  cheffe de projet adjointe
 
 Communication digitale  
 Julie Ansermet  
@@ -44,18 +44,17 @@ conservatrice du projet muséal La Muette, fi l’équipe des Musées de Pully.
 
 ![](/images/Logo_HEIG-VD_MEI.svg)
 
-
-Direction de projet pour le MEI   
+**Direction de projet pour le MEI**   
 Prof. Laurent Bolli
 
-Visuels de l'événement   
+**Visuels de l'événement**   
 Gaël Paccard
 
-Audiovisuel et streaming   
+**Audiovisuel et streaming**   
 Alexandre Pinault, chef de projet   
 Céline Simonetta, assistante technique
 
-##### Plateforme numérique MuseumXTD
+###### Plateforme numérique MuseumXTD
 
 Conception 
 Gaël Paccard
