@@ -12,7 +12,7 @@ layout: layouts/post.njk
 
 - **Jeudi 13 octobre (9h-12h)**: présentation de l’étude de cas réalisée par les Musées de Pully et retours d’expérience
 
-	###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAMQdEm50xQBLdeGVY9_07k_A2EYo69tPbBRGvtiO8qeWGX3rHMDJOiJ8iskSxSaW3DSSluJFzRHPx-__4Fbvvuyb1zJRfYlpB3WvXHYHBH9NN3KS15TAch95iVKntYN9jGBBamjGfzCiqvLKPgKM5-acjxYDv646I5tUKCMurx2VNCcHvYXrA82i6hOz-ZP6bNSz2C-D6L7I)** [Programme 2022](#Programme-provisoire) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#LiveA-revoir)
+	###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAMQdEm50xQBLdeGVY9_07k_A2EYo69tPbBRGvtiO8qeWGX3rHMDJOiJ8iskSxSaW3DSSluJFzRHPx-__4Fbvvuyb1zJRfYlpB3WvXHYHBH9NN3KS15TAch95iVKntYN9jGBBamjGfzCiqvLKPgKM5-acjxYDv646I5tUKCMurx2VNCcHvYXrA82i6hOz-ZP6bNSz2C-D6L7I)** [Programme 2022](#Programme-provisoire) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
 
 ![Anneau fin recouvert d'un damier gris et blanc](../../Images/MXTD_visuel2022_c.png)
 ## Programme provisoire
@@ -352,11 +352,7 @@ Yverdon-les-Bains
 
 ---
 
-## Live A revoir
-Les sessions seront diffusées en direct sur ce lien YouTube
-[[Forum en direct|depuis cette page.]] Après le forum, les enregistrements seront à disposition depuis cette page. 
----
 
-## Live/A revoir
+## Live / A revoir
 Les sessions seront diffusées en direct sur ce lien YouTube
 [[Forum en direct|depuis cette page.]] Après le forum, les enregistrements seront à disposition depuis cette page. 

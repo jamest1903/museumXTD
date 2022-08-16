@@ -236,24 +236,25 @@ div.ui.basic.segment *:nth-of-type(25n    ) a { color: steelblue !important ; } 
 /* Fake Buttons */
 
 h6 > a,
+h6 > a:visited ,
 h6 > strong > a {
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-decoration: none;
   display: inline-block;
   font-size: var(--font-size-s);
 
-  /* border: 1px solid var(--blue); */
-  /* -webkit-text-fill-color: var(--blue); */
-  /* -webkit-background-clip:border-box; */
   background-clip: border-box;
   background-image: none;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.1) !important;
   border-radius: 11px;
-  /* min-height: 32px; */
+  color: var(--blue) !important;
+
   padding-inline-start: 16px;
   padding-inline-end: 16px;
   padding-block-start: 4px;
-  /* padding-block-end: 4px; */
+
+  margin: 8px 0;
+
 }
 /* h6 > strong > a:hover {
   color: var(--black);
@@ -262,10 +263,11 @@ h6 > a:not(:last-child),
 h6 > strong:not(:last-child) {
   margin-inline-end: var(--space-m);
 }
-h6 > strong > a {
+h6 > strong > a,
+h6 > strong > a:visited {
   font-weight: normal;
-  color: var(--white);
-  background-color: var(--blue);
+  color: var(--white) !important;
+  background-color: var(--blue) !important;
 }
 
 
