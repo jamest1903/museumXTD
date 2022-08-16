@@ -3,11 +3,14 @@ title: MuseumXTD
 layout: layouts/post.njk
 ---
 
-#### MuseumXTD est une «boîte à outil» qui s'adresse aux acteurs de la transition numérique des musées, établis dans la région lémanique et au-delà, qu'il s'agisse des institutions culturelles, des Hautes Ecoles ou des entreprises actives dans le domaine concerné.
+# Bienvenue sur la plateforme **MuseumXTD !**
 
-Ces pages présentent les résultats de l'exploration menée de décembre 2021 à octobre 2022 sur les enjeux de la transition numérique au sein des petits et moyens musées.
+#### Ces pages présentent les résultats de l'exploration menée de décembre 2021 à octobre 2022 sur les enjeux de la transition numérique au sein des petits et moyens musées.
 
-Conduit par la société Concilio, les Musées de Pully et la HEIG-VD, le projet bénéficie du soutien du Service des Affaires culturelles du Canton de Vaud ainsi que de celui de l’Office fédéral de la culture (projet de transformation).
+Conduit par la société Concilio, les Musées de Pully et la HEIG-VD, le projet bénéficie du soutien du Service des Affaires culturelles du Canton de Vaud ainsi que de celui de l’Office fédéral de la culture (projet de transformation). Il s'achève le 31 octobre 2022.
+
+Le contenu de la plateforme est conçu comme une "boîte à outil",  il s'adresse aux acteurs de la transition numérique des musées, établis dans la région lémanique et au-delà, qu'il s'agisse des institutions culturelles, des Hautes Ecoles ou des entreprises actives dans le domaine concerné.
+
 
 [[A propos|🌈  En savoir plus]]
 
