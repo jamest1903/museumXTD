@@ -4,6 +4,7 @@ layout: layouts/post.njk
 ---
 
 
+
 ## Le projet MuseumXTD 
 
 #### Le projet-pilote de recherche appliquée **MuseumXTD** (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l'environnement entrepreneurial et celui de l'innovation vaudois (start-ups, entreprises, Hautes Écoles).
@@ -16,29 +17,32 @@ Les résultats du projet seront présentés lors d'un forum les 12 et 13 octobre
 
 **MuseumXTD** est mené par la société Concilio, les Musées de Pully et la HEIG-VD. En tant que projet de transformation, il bénéficie du soutien du Service des Affaires culturelles du Canton de Vaud ainsi que de celui de l’Office fédéral de la culture. Il s'achève le 31 octobre 2022.
 
-[Contact : info@museumxtd.ch](mailto:info@museumxtd.ch)
+Contact  
+[info@museumxtd.ch](mailto:info@museumxtd.ch)
 
 
 ## Partenaires du projet
 
 ### [Concilio Sàrl](https://concilioltd.com/)
 
-Direction du projet, coordination & recherche documentaire  
+**Direction du projet, coordination & recherche documentaire**  
 Nathalie Pichard, directrice  
-Marion Lehembre,  cheffe de projet adjointe
+Marion Lehembre, cheffe de projet adjointe
 
-Communication digitale  
+**Communication digitale**  
 Julie Ansermet  
-consultante
+Consultante
 
 ### [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/)
 
-Direction et coordination du cas d’étude Musées de Pully  
+**Direction et coordination du cas d’étude Musées de Pully**  
 Delphine Rivier  
-directrice des Musées de Pully  
+Directrice des Musées de Pully  
 
 Stéphanie Lugon  
-conservatrice du projet muséal La Muette, fi l’équipe des Musées de Pully.
+Conservatrice du projet muséal La Muette
+
+Et l’équipe des Musées de Pully
 
 ### [Haute École d’Ingénierie et Gestion du canton de Vaud (HEIG-VD)<br>Media Engineering Institute (MEI)](https://heig-vd.ch/rad/instituts/mei/)
 
@@ -54,26 +58,28 @@ Gaël Paccard
 Alexandre Pinault, chef de projet   
 Céline Simonetta, assistante technique
 
-###### Plateforme numérique MuseumXTD
+##### Plateforme numérique MuseumXTD
 
-Conception 
+**Conception**  
 Gaël Paccard
 
-Développement technique  
+**Développement technique**  
 James Taylor
 
 ##### Webapp "Le smartphone de Ramuz"
 
-Conception   
+**Conception**   
 Laurent Bolli, d'après le projet développé pendant la semaine Crunch à la HEIG-VD par les étudiant-e-s
 
-Développement technique   
+**Développement technique**   
 Jonathan Favre Lamarine
 
-Communication  
-Elena Mata, chargée de communication à la HEIG-VD
+##### Communication
 
-Catering et logistique  
+Elena Mata  
+Chargée de communication à la HEIG-VD
+
+##### Catering et logistique
 Cécile Demaurex
 
 
@@ -94,7 +100,7 @@ Cécile Demaurex
 **Fondation ArtTech**
 
 
-## Intervenant-es au forum des 12 et 13 octobre 2022 :
+## Intervenant-es au forum des 12 et 13 octobre 2022
 
 - Léonie Alain
 - Nadir Alvarez

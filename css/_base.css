@@ -11,9 +11,10 @@ p + h1 {
 
 
 strong {
-  font-family: sans-serif;
-  font-weight: 500;
-  border-radius: 2px;
+  /* font-family: sans-serif; */
+  font-weight: normal;
+  background-image: linear-gradient(#ffd70000 10%, #7542001a 10%, #7542001a 100%);
+
 }
 
 code {
@@ -55,6 +56,7 @@ h3, h4 {
 }
 h5, h6 {
   font-weight: normal;
+
   margin-top: var(--line-height-xl);
   margin-bottom: var(--line-height-m);
 }
@@ -73,7 +75,7 @@ h3 {
 
 h4 {
   font-size: var(--font-size-m);
-  margin-bottom: var(--line-height-s);
+
 }
 
 h5 {
