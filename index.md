@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 ---
 
-##### MuseumXTD est une «boîte à outil» qui s'adresse aux acteurs de la transition numérique des musées, établis dans la région lémanique et au-delà, qu'il s'agisse des institutions culturelles, des Hautes Ecoles ou des entreprises actives dans le domaine concerné.
+#### MuseumXTD est une «boîte à outil» qui s'adresse aux acteurs de la transition numérique des musées, établis dans la région lémanique et au-delà, qu'il s'agisse des institutions culturelles, des Hautes Ecoles ou des entreprises actives dans le domaine concerné.
 
 Ces pages présentent les résultats de l'exploration menée de décembre 2021 à octobre 2022 sur les enjeux de la transition numérique au sein des petits et moyens musées.
 
