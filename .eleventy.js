@@ -25,26 +25,26 @@ const getAllFiles = function(dirPath, arrayOfFiles) {
 
 // https://keepinguptodate.com/pages/2019/06/creating-blog-with-eleventy/
 function extractExcerpt(article) {
-	if (!article.hasOwnProperty('templateContent')) {
-	  console.warn('Failed to extract excerpt: Document has no property "templateContent".');
-	  return null;
-	}
+  if (!article.hasOwnProperty('templateContent')) {
+    console.warn('Failed to extract excerpt: Document has no property "templateContent".');
+    return null;
+  }
 
-	let excerpt = null;
-	const content = article.templateContent;
-	// The start and end separators to try and match to extract the excerpt
-	const separator = '<hr>';
+  let excerpt = null;
+  const content = article.templateContent;
+  // The start and end separators to try and match to extract the excerpt
+  const separator = '<hr>';
 
   const startPosition = content.indexOf(separator);
 
-	if (startPosition !== -1) {
-		const excerptHTML = content.substring(startPosition, content.length).trim();
+  if (startPosition !== -1) {
+    const excerptHTML = content.substring(startPosition, content.length).trim();
     // remove HTML tags
     excerpt = excerptHTML.replace(/<\/?[^>]+(>|$)/g, "").trim();
     // remove line breaks
     excerpt = excerpt.replace(/(\r\n|\n|\r)/gm, "");
-	};
-	return excerpt;
+  };
+  return excerpt;
   }
 
 module.exports = config => {
@@ -64,18 +64,17 @@ module.exports = config => {
 
   config.addShortcode('excerpt', article => extractExcerpt(article));
 
-
   const all_files = getAllFiles(process.cwd());
 
   const getFolder = function(fileName) {
-    for (const file of all_files) {
-      if(file.indexOf(fileName)>-1){
-        let filePath = file.split(path.sep);
-        let i = filePath.indexOf(fileName+'.md');
-        if(filePath[i-1] === 'museumXTD') {
+    for (const filePathString of all_files) {
+      if(filePathString.indexOf(fileName+'.md')>-1){
+        let filePathArray = filePathString.split(path.sep);
+        let i = filePathArray.indexOf(fileName+'.md');      
+        if(filePathArray[i-1] === 'museumXTD') {
           return '';
         }
-        return filePath[i-1];
+        return filePathArray[i-1];
       }
     }
     return '';
