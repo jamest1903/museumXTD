@@ -21,14 +21,22 @@ The applied research pilot project **MuseumXTD** ("museum extended") explores th
 ### Install git for windows
 First we need to clone the repository to our local windows machine from GitHub. We do that by installing 'git'. Please go to the [git-for-windows](https://gitforwindows.org/) website and follow the simple instructions to install.
 ### Clone the museumXTD project
-Here is the link *`https://github.com/MediaComem/museumXTD.git`* to clone the repo. Simply open a terminal on your windows machine where you want to store the project. For example under the path 'cd C:/Users/enterUserHere/Documents' and run the following command `git clone https://github.com/MediaComem/museumXTD.git` You will see a new folder called museumXTD which contains all the project files.
+1. Open a terminal by pressing the *windows key* and start typing *terminal*. Select the **terminal** app from the programs list. The Terminal will open under the default location: C:/Users/XXXXX
+2. Change dirrectory to where you want to store the project. For example under your main documents folder and clone the project. Example below:
+    ```
+    cd .\Documents\
+    git clone https://github.com/MediaComem/museumXTD.git
+    ```
+  You will see a new folder called **museumXTD** inside of your Documents folder which contains all the project files.
 ### Install Obsidian
-If you wish to view the projects Markdown files and make changes or add new content you can do this via Obsidian. There are instructions on the [Obsidian-website](https://obsidian.md/) on how to install this tool. Once done you can select **Open folder as vault** and select the recently cloned project **museumXTD**
+If you wish to view the projects Markdown files and make changes or add new content you can do this via Obsidian. There are instructions on the [Obsidian-website](https://obsidian.md/) on how to install this tool. Once done you can select **Open folder as vault** and select the recently cloned project **museumXTD** which was created in your documents folder in the steps above.
 ### Configuring Obsidian to automatically sync with GitHub to pull latest changes and to push new content
-Open the settings tab on Obsidian and under **Community plugins** search for and install the plugin **Obsidian Git**. As you cloned the museumXTD project from GitHub, Obsidian Git will automatically see it as a git project giving you access to its native commands to pull or push changes. Please read the guide material to understand the different settings available to you.
+Open the settings tab on Obsidian and select **Community plugins**. Next turn off safe mode and search for and install the plugin **Obsidian Git**. As you cloned the museumXTD project from GitHub, Obsidian Git will automatically see it as a git project giving you access to its native commands to pull or push changes. Please read the guide material to understand the different settings available to you.
 #### Some basic commands
 Currently one of the menu items on Obsidian is **Open command palette**. Here you can enter the Obsidian Git commands to save changes and upload them to the GitHub repository.
 - **Pull** This command is automatically triggered when you open the project with Obsidian. However it is good practice to pull from the repository just before you commit any changes in case there are some other recent changes which you are missing.
+- **List changed files** Before you commit your changes you can view a list of all the files that have been changed to verify and not to push unwanted changes by mistake.
+- **Open source control view** If you want to inspect each file change line by line you can use this command to compare before (red) and after (green).
 - **commit all changes** This command will add your changes to the git staging area and then perform a commit. There is a standard default message attached to the commit. Usually something like *vault backup: YYYY-MM-DD hh:mm:ss* However I advise to change this to include your name so your team can track in the logs history who is doing what changes. Under `Obsidian settings, Community plugins, Obsidian Git, options`, here there is the field *Commit message on manual backup/commit*. You can enter your custom message here that will appear on every commit thereafter.
 - **Push** Finally once you made your commit you can push your changes to the GitHub repository. This should trigger a build to publish the new version to GitHub-pages. Note it can take a few minutes for the changes to take affect on the live server and you may need to clear cache on your browser if the page is already loaded
 
