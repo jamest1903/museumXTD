@@ -14,7 +14,7 @@ The applied research pilot project **MuseumXTD** ("museum extended") explores th
     - [New images](#new-images)
 - [Without Obsidian](#without-obsidian)
   - [Running locally](#running-locally)
-  - [Updating changes manually to the live hosting server on github pages](#updating-changes-manually-to-the-live-hosting-server-on-github-pages)
+  - [Updating changes manually to the live hosting server on GitHub pages](#updating-changes-manually-to-the-live-hosting-server-on-github-pages)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ## Getting started
@@ -22,7 +22,7 @@ The applied research pilot project **MuseumXTD** ("museum extended") explores th
 First we need to clone the repository to our local windows machine from GitHub. We do that by installing 'git'. Please go to the [git-for-windows](https://gitforwindows.org/) website and follow the simple instructions to install.
 ### Clone the museumXTD project
 1. Open a terminal by pressing the *windows key* and start typing *terminal*. Select the **terminal** app from the programs list. The Terminal will open under the default location: C:/Users/XXXXX
-2. Change dirrectory to where you want to store the project. For example under your main documents folder and clone the project. Example below:
+2. Change directory to where you want to store the project. For example under your main documents folder and clone the project. Example below:
     ```
     cd .\Documents\
     git clone https://github.com/MediaComem/museumXTD.git
@@ -38,7 +38,7 @@ Currently one of the menu items on Obsidian is **Open command palette**. Here yo
 - **List changed files** Before you commit your changes you can view a list of all the files that have been changed to verify and not to push unwanted changes by mistake.
 - **Open source control view** If you want to inspect each file change line by line you can use this command to compare before (red) and after (green).
 - **commit all changes** This command will add your changes to the git staging area and then perform a commit. There is a standard default message attached to the commit. Usually something like *vault backup: YYYY-MM-DD hh:mm:ss* However I advise to change this to include your name so your team can track in the logs history who is doing what changes. Under `Obsidian settings, Community plugins, Obsidian Git, options`, here there is the field *Commit message on manual backup/commit*. You can enter your custom message here that will appear on every commit thereafter.
-- **Push** Finally once you made your commit you can push your changes to the GitHub repository. This should trigger a build to publish the new version to GitHub-pages. Note it can take a few minutes for the changes to take affect on the live server and you may need to clear cache on your browser if the page is already loaded
+- **Push** Finally once you made your commit you can push your changes to the GitHub repository. This should trigger a build to publish the new version to GitHub-pages. Note it can take a few minutes for the changes to take effect on the live server and you may need to clear cache on your browser if the page is already loaded
 
 ## Adding new MarkDown files
 - **title** This property is referenced in the ***layouts/base.njk*** HTML to use as the title to the browser tab. If not set it has the default value as *MuseumXTD* 
@@ -64,5 +64,5 @@ All images are to be stored in the root **images** folder. When referencing any 
 
 You can run the project locally by first downloading the required packages `npm ci` from the package-lock.json and then running `npm run start`. This will build the project files and store them on the docs folder. Next Eleventy will serve this docs folder on your local host to view on your browser `Local: http://localhost:8080`
 
-## Updating changes manually to the live hosting server on github pages
-When you have committed your local changes with git and push to the github branch **test-live**, which has the **eleventy_build.yml** file, this will trigger a build of the project on github and push the created files to the **docs** folder. Next this folder, which will contain the Eleventy build, is pushed to the **gh-pages** branch. This branch will automatically update on the live host in a few moments.
+## Updating changes manually to the live hosting server on GitHub pages
+When you have committed your local changes with git and push to the GitHub branch **test-live**, which has the **eleventy_build.yml** file, this will trigger a build of the project on GitHub and push the created files to the **docs** folder. Next this folder, which will contain the Eleventy build, is pushed to the **gh-pages** branch. This branch will automatically update on the live host in a few moments.
