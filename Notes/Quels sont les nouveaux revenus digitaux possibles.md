@@ -8,7 +8,7 @@ tags: #question
 - enjeux -> trouver une nouvelle opportunité de se financer de façon éthique (est-ce possible avec le numérique?)
 - 
 
-cf rapport NEMO, [[Museum Innovation Barometer 2021]]
-1. Ressources
-	- explication sur l'intérêt de la ressource
-utilisation des données
+cf rapport NEMO
+1. [[Museum Innovation Barometer 2021]]
+2. [[The adoption of digital technology in the arts]]
+	- p 254

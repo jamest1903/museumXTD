@@ -2,7 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-06-07
-tags: #liens #outils #competence 
+tags: #liens #outils #competence
 ---
 
 [Josse, F. (15.03.2022). *Comment rester productif avec le tout numérique ?* Maddyness.](https://www.maddyness.com/2022/03/15/comment-rester-productif-avec-le-tout-numerique/)

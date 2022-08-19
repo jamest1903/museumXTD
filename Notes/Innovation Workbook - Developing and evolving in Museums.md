@@ -13,4 +13,4 @@ Le document propose une définition de l'innovation : non seulement l'innovation
 
 Pour en savoir plus sur le projet : [lien ici](https://www.aboavetusarsnova.fi/en/news/museums-as-innovation-platforms-new-project-widens-the-use-of-museums). 
 
-Apparaît dans [[Quelles sont les méthodologies de travail]]
+Apparaît dans [[Quelles sont les méthodologies liées au numérique à connaître]]

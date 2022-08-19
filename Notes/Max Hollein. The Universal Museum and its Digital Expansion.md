@@ -2,7 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-05-12
-tags: #liens #strategie #collection #narration 
+tags: #liens #strategie #collection #narration
 ---
 
 [Hollein, M. (17.02.2022). _The Universal Museum and its digital expansion_ (Conférence). The Art Museum In the Digital Age, Belvedere.](https://www.youtube.com/watch?v=ZlqJ41rUVas&list=PLdBMjT6e-IFlDUPJRs5JE6xiM8qQgLe3J&ab_channel=BelvedereMuseum)

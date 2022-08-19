@@ -14,4 +14,4 @@ tags: #liens #rapport
 
 L'agence L'Oeil du Public est une agence d'enquêtes auprès des publics de la culture. Elle est situé en France et a une antenne en Suisse depuis 2018 gérée par Fabien Morf. 
 
-Apparaît dans [[Quel est l'impact du covid sur la digitalisation des musées?]]. 
+Apparaît dans [[Quel est l'impact du COVID-19 sur la numérisation des musées]]. 

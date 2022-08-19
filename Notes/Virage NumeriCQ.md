@@ -2,7 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-05-22
-tags: #liens #outils #strategie #management 
+tags: #liens #outils #strategie #management
 ---
 
 [[Virage NumeriCQ]] est un "service-conseil", porté par l'association Québec numérique, qui a pour but d'accompagner des entreprises et des organismes québécoises dans le développement de leurs compétences numériques et dans la réalisation de leurs projets innovants. 
@@ -18,7 +18,7 @@ Il propose des ressources destinées aux professionnels québécois mais égalem
 
 Pages liées au projet : 
 - [[Virage NumeriCQ - Stratégie numérique de l'intention à l'action]]
-- [[Virage NumeriCQ - Cartographie de ma tranformation numérique]]
+- [[Virage NumeriCQ - Cartographie de ma transformation numérique]]
 - [[Virage NumeriCQ - Diagnostic de maturité numérique]]
 
 

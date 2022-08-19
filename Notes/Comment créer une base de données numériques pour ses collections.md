@@ -4,12 +4,16 @@ layout: layouts/post.njk
 date: 2022-06-09
 tags: #question
 ---
-
- # Comment créer une base de données numériques pour ses collections ?
-court paragraphe sur l'intérêt de la question
+# Comment créer une base de données numérique pour ses collections ?
+Etapes ?
+- Numériser ses collections
+- Créer et gérer sa base de données
 
 
 1. [[Tate - Archives and access toolkit]]
 2. [[Wikimedia CH]]
 	- explication sur l'intérêt de la ressource
- 
+ 3. [[MuseumXTD - Giovanni Collavizza]]
+4. Uniris ?
+5. SwissCollNet ?
+6. 

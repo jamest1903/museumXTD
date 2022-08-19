@@ -5,10 +5,11 @@ date: 2022-05-11
 tags: #liens #rapport
 ---
 
+[Guidi, D., Jenny, M. (2021). Enquête sur la digitalisation des musées de Suisse romande : vers une virtualisation de la culture ?](https://unidistance.ch/en/history/research-project/musee-20-enquete-sur-la-digitalisation-des-musees-suisses)
+[Article_Musées2.0_VersionFinale_29.03.2021 (unidistance.ch)](https://unidistance.ch/fileadmin//user_upload/public/UniDistance/00_Facultes/Histoire/Recherche/Projet_Musee_2.0_Rapport.pdf)
+Accédez au [rapport]([Article_Musées2.0_VersionFinale_29.03.2021 (unidistance.ch)](https://unidistance.ch/fileadmin//user_upload/public/UniDistance/00_Facultes/Histoire/Recherche/Projet_Musee_2.0_Rapport.pdf)) directement. 
 
-[Guidi, D., Jenny, M. (2021). Enquête sur la digitalisation des musées de Suisse romande : vers une virtualisation de la culture ?](https://unidistance.ch/fileadmin/files/files_unidistance.ch/Documentation/Recherche/Rapport_Muse%CC%81es2.0_VersionFinale_Guidi-Jenny-Hagen_2.pdf)
-
-L’étude menée auprès de 10 représentants de musées suisses romands permet à la fois de formaliser ce que signifie la digital dans les musées, comment il est utilisé et comment il a pu évoluer. Entre autres, la crise sanitaire a poussé les musées à accélérer leur stratégie en développant de nombreuses actions (ou non) et à s’interroger quant à la position critique qu’ils devraient avoir face au digital.
+L’étude menée auprès de 10 représentants de musées suisses romands permet à la fois de formaliser ce que signifie le digital dans les musées, comment il est utilisé et comment il a pu évoluer. Entre autres, la crise sanitaire a poussé les musées à accélérer leur stratégie en développant de nombreuses actions (ou non) et à s’interroger quant à la position critique qu’ils devraient avoir face au digital.
 
 ## A retenir 
 - Les auteures proposent trois définitions du numérique : 
@@ -30,4 +31,4 @@ Les auteures :
 
 L'enquête ayant été réalisée à distance, un rapport méthodologique a été rédigé ([lien ici](https://unidistance.ch/fileadmin/files/files_unidistance.ch/Documentation/Recherche/Muse%CC%81es2.0_Re%CC%81flexions_me%CC%81thodologie-a%CC%80-distance.pdf)). 
 
-Apparaît dans [[Parler du numérique, qu'est-ce que c'est]] et [[Quel est l'impact du covid sur la digitalisation des musées]]. 
+Apparaît dans [[Numérique et musées, de quoi parle-t-on]] et [[Quel est l'impact du COVID-19 sur la numérisation des musées]]. 

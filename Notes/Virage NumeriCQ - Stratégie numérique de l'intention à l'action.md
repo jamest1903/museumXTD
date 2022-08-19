@@ -2,7 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-05-20
-tags: #liens #management #strategie 
+tags: #liens #management #strategie
 ---
 
 [Virage NumeriCQ - Stratégie numérique de l'intention à l'action](https://viragenumeriqc.com/culture-et-numerique/strategie-numerique-de-lintention-a-laction/)

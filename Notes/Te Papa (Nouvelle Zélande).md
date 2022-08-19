@@ -2,7 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-05-16
-tags: #liens #strategie #narration 
+tags: #liens #strategie #narration
 ---
 
 [Te Papa - Strategic Narrative](https://www.tepapa.govt.nz/sites/default/files/strategic_narrative.pdf)

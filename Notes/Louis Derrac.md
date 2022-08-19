@@ -7,7 +7,7 @@ tags: #liens #durabilite
 
 [Culture Numérique, par Louis Derrac](https://louisderrac.com/files/cours/culture-numerique/culture-numerique-1.pdf)
 - Ce cours propose une définition du numérique et de la culture numérique à partir de la slide 12 puis brève histoire (illustrée) du numérique dès la slide 28 qui permet de mieux comprendre ce qu'on entend par culture numérique.
-Apparaît dans [[Parler du numérique, qu'est-ce que c'est]]
+Apparaît dans [[Numérique et musées, de quoi parle-t-on]]
 
 [2022 : l'année de raison pour le numérique ?](https://louisderrac.com/2022/01/13/2022-lannee-de-raison-pour-le-numerique/)
 - Cet article recontextualise l'utilisation actuelle du numérique dans nos sociétés et pousse à une utilisation plus modérée et pertinente. L'auteur propose ainsi des alternatives numériques face aux modèles dominants.

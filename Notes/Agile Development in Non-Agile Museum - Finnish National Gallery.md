@@ -5,7 +5,6 @@ date: 2022-06-14
 tags: #liens #management #competence
 ---
 
-
 [Agile Development in Non-Agile Museum](https://www.museumnext.com/article/agile-development-in-non-agile-museum/)
 
 Cette intervention de Taika Dahlbom, Web Producer à la Finnish National Gallery, date du Digital Summit de MuseumNext à l'automne 2019. 

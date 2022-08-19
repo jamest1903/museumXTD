@@ -17,15 +17,5 @@ Les opportunités apportées par le numérique ne doivent pas faire oublier les 
 	- Les auteures synthétisent les réticences des professionnels des musées quant à l'utilisation du numérique dans les musées, notamment liées au manque de formation de ces derniers, au manque de financement ou à l'obscolescence des équipement (p. 27 du rapport). 
 5.    [[Comment rester productif avec le tout numérique]]
 	- Dans cet article, le caractère hypersollicitateur du "tout numérique" est abordé ainsi que plusieurs solutions pour rester productif dans ces circonstances.  
-
-
-
-
-
-Video - Forum J1:
-
-Giovanni Calavezza: Démystifier la transition numérique 
-
-Olivier Ross: : Technothérapie
-
-Responsable Doors: Présentation du projet DOORS (Incubateur de projets numériques pour petits et moyens musées)
+6. [[Digital Ekphrasis]]
+	- Evoque le risque d'une approche "tool-centric" (la technologie pour la technologie).  
