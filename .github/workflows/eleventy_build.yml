@@ -3,7 +3,7 @@ name: Build Eleventy
 on:
   push:
     branches:
-      - test-Live
+      - main
 
 permissions:
   contents: write
