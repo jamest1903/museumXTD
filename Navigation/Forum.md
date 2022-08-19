@@ -27,8 +27,8 @@ Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda
 
 
 
-#### [[MuseumXTD - Introduction|Introduction]]
-*9h00-9h20*  
+- #### [[MuseumXTD - Introduction|Introduction]]
+- *9h00-9h20*  
 
 [[Delphine Rivier]]  
 Directrice, [Musées de Pully](http://www.museedartdepully.ch) (CH)
@@ -41,16 +41,16 @@ Directrice, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 
 
 
-#### [[MuseumXTD - Elisabeth Gravil|Transformation numérique des musées : vers une organisation phygitale ?]]
-*9h20-9h40*  
+- #### [[MuseumXTD - Elisabeth Gravil|Transformation numérique des musées : vers une organisation phygitale ?]]
+- *9h20-9h40*  
 
 [Elisabeth Gravil](https://www.linkedin.com/in/elisagravil/)  
 Dirigeante de [Museovation](https://museovation.co/) – Conseil en Stratégie Numérique des Institutions Culturelles (FR) 
 
 
 
-#### [[MuseumXTD - Quelles approches du numérique pour un musée en Suisse|Quelles approches du numérique pour un musée en Suisse ?]]
-*9h40-10h10* 
+- #### [[MuseumXTD - Quelles approches du numérique pour un musée en Suisse|Quelles approches du numérique pour un musée en Suisse ?]]
+- *9h40-10h10* 
 
 [Marianne Chevassus](https://museeduleman.ch/le-musee/lequipe/)  
 Conservatrice adjointe, [Musée du Léman Nyon](https://museeduleman.ch/) (CH)
@@ -72,16 +72,16 @@ Modération par [Alexandre Camus](https://www.unil.ch/collaboratoire/home/menuin
 
 
 
-#### [[MuseumXTD - Antoine Roland|Comment rendre son musée numérique ? Approche institutionnelle, approche en réseau, approche de co-construction]]
-*10h45-11h05*
+- #### [[MuseumXTD - Antoine Roland|Comment rendre son musée numérique ? Approche institutionnelle, approche en réseau, approche de co-construction]]
+- *10h45-11h05*
 
 [Antoine Roland](https://www.linkedin.com/in/antoine-roland?originalSubdomain=fr)   
 Directeur, {CORRESPONDANCES DIGITALES] [lien ici](https://correspondances.co/) (FR)
 
 
 
-#### [[MuseumXTD - Les données visiteurs, un outil au service d'une meilleure connaissance de vos publics|Les données visiteurs : un outil au service d'une meilleure connaissance de vos publics]]
-*11h05-11h25*
+- #### [[MuseumXTD - Les données visiteurs, un outil au service d'une meilleure connaissance de vos publics|Les données visiteurs : un outil au service d'une meilleure connaissance de vos publics]]
+- *11h05-11h25*
 
 [Fabien Morf](https://www.linkedin.com/in/fabienmorf/)  
 Fondateur et directeur, [L'Œil du Public Suisse](https://loeildupublic.com/) (CH)
@@ -91,8 +91,8 @@ Directrice du développement international, [Arenametrix](https://arenametrix.co
 
 
 
-#### [[MuseumXTD - Tatiana Julliez|Le musée numérique en toute légalité: quelles questions se poser ?]]
-*11h25-11h45*
+- #### [[MuseumXTD - Tatiana Julliez|Le musée numérique en toute légalité: quelles questions se poser ?]]
+- *11h25-11h45*
 
 [Tatiana Julliez](https://www.linkedin.com/in/tatiana-jullier-53918b209/?originalSubdomain=ch)  
 Avocate, [Lalive](https://www.lalive.law/) (CH) 
