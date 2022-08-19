@@ -1,4 +1,4 @@
-// https://lunrjs.com/guides
+// https://lunrjs.com/guides/getting_started.html
 let result = null;
 let docs = null;
 let idx = null;
@@ -48,7 +48,7 @@ const search = function() {
 const buildResultsList = function(results) {
   let list = '';
   for (item of results) {
-    list += "<li><a href='"+item.url+"'>"+item.title+"</a></li>";
+    list += '<li><a href="'+item.url+'">'+item.title+'</a></li>';
   }
   return list;
 }
