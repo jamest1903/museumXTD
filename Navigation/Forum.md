@@ -12,7 +12,7 @@ layout: layouts/post.njk
 
 - **Jeudi 13 octobre (9h-12h)** : présentation de l’étude de cas réalisée par les Musées de Pully et retours d’expérience
 
-###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAPivQAA8p6BzQUMK_GlVKkuRtc0uGHGysg8QebtGdZy1fkfUH8dxIu5zVKuju8CDcJqwPVYgogdSGGJ23UhdCPLY0qC-xrF1TdwKY_XgA2niafQCWAGF9AFyvgt22vA16LtD4kaPRAxL9q5MwR78oe8A2mH1hs3bIQqGJy5aUbP837R08270BXJd6txkorQJ2EI3apsNVHbP)** <br> [Programme 2022](#Programme) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
+###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAEYJgeXLLfXwkZSw8_GgKt0WtPF7tkDuXbQC-I6VpXf9M37Um2mOFLesH4b_51ohnWkHkOKuSpLrk1qALGkfc0gYvvFoayAcCXoNzniVbnU6Tvq1Zch_Laj2LPmyVSzU8RQVi1QSi6eyvXNxgNT129acM05YVXB2Liai9ihK5HlwnSv18aVh82rbuZo23E9W0velqwDjvioB)** <br> [Programme 2022](#Programme) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
 
 ![Anneau fin recouvert d'un damier gris et blanc](/images/MXTD_visuel2022_c.png)
 

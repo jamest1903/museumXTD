@@ -21,7 +21,7 @@ Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2
 
 [[Forum|En savoir plus]]
 
-###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAPivQAA8p6BzQUMK_GlVKkuRtc0uGHGysg8QebtGdZy1fkfUH8dxIu5zVKuju8CDcJqwPVYgogdSGGJ23UhdCPLY0qC-xrF1TdwKY_XgA2niafQCWAGF9AFyvgt22vA16LtD4kaPRAxL9q5MwR78oe8A2mH1hs3bIQqGJy5aUbP837R08270BXJd6txkorQJ2EI3apsNVHbP)**
+###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAEYJgeXLLfXwkZSw8_GgKt0WtPF7tkDuXbQC-I6VpXf9M37Um2mOFLesH4b_51ohnWkHkOKuSpLrk1qALGkfc0gYvvFoayAcCXoNzniVbnU6Tvq1Zch_Laj2LPmyVSzU8RQVi1QSi6eyvXNxgNT129acM05YVXB2Liai9ihK5HlwnSv18aVh82rbuZo23E9W0velqwDjvioB)**
 
 ## Numérique et musée
 Nous avons compilé et sélectionné des liens qui mettent en lumière à la fois les réalités et enjeux du numérique pour les petits et moyens musées. Ces ressources vous permettront de vous approprier le sujet et de vous positionner face aux discours, mythes et injonctions qui viennent de l'extérieur de l'institution muséale. 
