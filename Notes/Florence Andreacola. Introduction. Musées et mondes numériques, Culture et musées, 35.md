@@ -1,9 +1,7 @@
----
-title: MuseumXTD
-layout: layouts/post.njk
-date: 2022-05-11
-tags: #liens #strategie 
----
+date : 2022mai11
+tags : #liens #strategie 
+
+---------
 
 [Andreacola, F. (2020). Introduction. *Musées et mondes numériques*, Culture et musées, 35. ](https://journals.openedition.org/culturemusees/4381)
 
@@ -16,4 +14,4 @@ Elle introduit ici le numéro de Culture et musées dédié aux mondes numériqu
 7 articles viennent apporter un nouvel éclairage sur l'un des trois axes. 
 
 
-Apparaît dans [[Parler du numérique, qu'est-ce que c'est]]. 
+Apparaît dans [[Numérique et musées, de quoi parle-t-on]]. 

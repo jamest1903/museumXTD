@@ -1,18 +1,13 @@
----
-title: MuseumXTD
-layout: layouts/post.njk
-date: 2022-06-16
-tags: #liens
----
+date : 2022juin16
+tags : #liens #forum #francais
 
-Antoine Roland - Comment rendre son musée numérique ? Approche institutionnelle, approche en réseau, approche de co-construction 
+----
+## Comment rendre son musée numérique ? Approche institutionnelle, approche en réseau, approche de co-construction
 
-**Antoine Roland**, emploi, Correspondances Digitales
+[Antoine Roland](https://www.linkedin.com/in/antoine-roland?originalSubdomain=fr)   
+Directeur, {CORRESPONDANCES DIGITALES] [lien ici](https://correspondances.co/) (FR)
 
-*Abstract*
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Cette intervention évoquera la pertinence d’intégrer une réflexion sur le numérique à un projet d’établissement. Cela sera l’occasion de revenir sur la façon dont celui-ci peut contribuer à la notoriété d’un établissement, à la valorisation de ses collections ou au renforcement des liens avec ses publics. Il peut aussi favoriser l’engagement de nouveaux projets en lien avec son territoire.
 
-
-*Vidéo YouTube*
-
-Mais alternative -> lien direct sur YouTube
+  
+Retrouver le live du 12 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

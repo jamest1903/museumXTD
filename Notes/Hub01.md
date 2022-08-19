@@ -1,9 +1,7 @@
----
-title: MuseumXTD
-layout: layouts/post.njk
-date: 2022-06-14
-tags: #liens #outils #infrastructure
----
+date : 2022juin14
+tags : #liens #outils #infrastructure
+
+---------
 
 [Drive et archivage](https://docs.google.com/presentation/d/1DFWA79zV0nNLDcWTdPRfT8gn8mO7cnr3N2prl1ZUcfM/edit#slide=id.gef16b3becb_1_81)
 

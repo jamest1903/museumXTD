@@ -1,9 +1,7 @@
----
-title: MuseumXTD
-layout: layouts/post.njk
-date: 2022-05-22
-tags: #liens
----
+date : 2022mai22
+tags : #liens
+
+---------
 
 [Innovation Workbook - Developing and evolving in Museums (Aboa Vetus & Ars Nova, Museum of Technology, Humak)](https://www.ecsite.eu/sites/default/files/developing_and_evolving_in_museums_workbook.pdf)
 
@@ -13,4 +11,4 @@ Le document propose une définition de l'innovation : non seulement l'innovation
 
 Pour en savoir plus sur le projet : [lien ici](https://www.aboavetusarsnova.fi/en/news/museums-as-innovation-platforms-new-project-widens-the-use-of-museums). 
 
-Apparaît dans [[Quelles sont les méthodologies de travail]]
+Apparaît dans [[Quelles sont les méthodologies liées au numérique à connaître]]

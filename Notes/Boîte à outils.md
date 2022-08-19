@@ -1,38 +1,31 @@
----
-title: MuseumXTD
-layout: layouts/post.njk
-date: 2022-06-23 
----
+date : 2022juin23
+tags : #question 
 
-
+---------
 # Boîte à outils
 Cette section liste une sélection d'outils pour chaque type d'activité du musée, facilement accessibles et *peu coûteux*.  
 
-## [[Guide#Constituer une collection numérique|Constituer une collection numérique]]
+## [[Numérique et musée#Gérer les collections|Numériser ses collections]]
 - outil 1 
 - outil 2 
 
-## [[Guide#Collecter les objets et les savoirs|Collecter les objets et les savoirs]]
+## [[Numérique et musée#Gérer les collections|Collecter les objets et les savoirs]]
 - outil 1 
 - outil 2 
 
-## [[Guide#Diriger le musée|Diriger le musée]]
+## [[Numérique et musée#Administrer son musée|Administrer son musée]]
 - outil 1 
 - outil 2 
 
-## [[Guide#Diriger des projets|Diriger des projets]]
+## [[Numérique et musée#Travailler avec le numérique|Travailler avec le numérique]]
 - outil 1 
 - outil 2 
 
-## [[Guide#Transmettre aux visiteurs|Transmettre aux visiteurs]]
+## [[Numérique et musée#Concevoir l'expérience visiteur|Transmettre aux visiteurs]]
 - outil 1 
 - outil 2 
 
-## [[Guide#Le visiteur à l'œuvre|Le visiteur à l'œuvre]]
-- outil 1 
-- outil 2 
-
-## [[Guide#Autres ex risques]]
+## [[Numérique et musée#Concevoir l'expérience visiteur|Encourager la participation des publics]]
 - outil 1 
 - outil 2 
 

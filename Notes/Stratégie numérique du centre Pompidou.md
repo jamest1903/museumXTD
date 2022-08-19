@@ -1,9 +1,7 @@
----
-title: MuseumXTD
-layout: layouts/post.njk
-date: 2022-05-13
-tags: #liens #projet #narration #contenunumerique  
----
+date : 2022mai13
+tags : #liens #projet #narration #contenunumerique  
+
+---------
 
 [Chastagner, M. (05.03.2021). Agnès Benayer, Centre Pompidou: « La crise du covid-19 a indéniablement été un accélérateur pour notre transformation numérique ». Club Innovation Culture](http://www.club-innovation-culture.fr/itv-agnes-benayer-centre-pompidou-mars-2021/)
 

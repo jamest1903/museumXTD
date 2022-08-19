@@ -1,9 +1,7 @@
----
-title: MuseumXTD
-layout: layouts/post.njk
-date: 2022-06-07
-tags: #liens  #narration #contenunumerique
----
+date : 2022juin7
+tags : #liens  #narration #contenunumerique
+
+---------
 
 [Mugnier, H. (décembre 2020). Quel avenir pour l’expérience muséale ? entretien avec Dominique de Font-Réaulx. *Esprit*. Entretien vidéo.](https://esprit.presse.fr/video/quel-avenir-pour-l-experience-museale-43142?fbclid=IwAR3A3Fm_WPuwZQfPQlNMKpWuAQzeqjevpaA33H339FrvnV3hOT1ANUD8l18) 
 

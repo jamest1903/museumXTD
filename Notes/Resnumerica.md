@@ -1,9 +1,7 @@
----
-title: MuseumXTD
-layout: layouts/post.njk
-date: 2022-05-12
-tags: #liens #outils #competence
----
+date : 2022mai12
+tags : #liens #outils #competence
+
+---------
 
 [Resnumerica](https://resnumerica.org/)
 

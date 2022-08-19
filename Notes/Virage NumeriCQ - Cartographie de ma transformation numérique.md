@@ -1,9 +1,7 @@
----
-title: MuseumXTD
-layout: layouts/post.njk
-date: 2022-05-22
-tags: #liens #outils #management 
----
+date : 2022mai22
+tags : #liens #outils #management 
+
+---------
 
 [Virage NumeriCQ - Cartographie de ma tranformation numérique](https://viragenumeriqc.com/culture-et-numerique/cartographie-transformation-numerique/)
 

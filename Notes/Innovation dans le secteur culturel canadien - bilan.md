@@ -1,9 +1,7 @@
----
-title: MuseumXTD
-layout: layouts/post.njk
-date: 2022-05-22
-tags: #liens #rapport #competence 
----
+date : 2022mai22
+tags : #liens #rapport #competence 
+
+---------
 
 [Innovation dans le secteur culturel canadien - bilan](https://www.culturepourtous.ca/wp-content/uploads/2018/07/Bilan_culture_innovation_HR_pagin%C3%A9e.pdf)
 
@@ -16,4 +14,4 @@ Au-delà de proposer des solutions inattendues, le document lie l'innovation à 
 
 L'auteur de ce bilan (André Fortin) est un "innovateur social" en résidence à la Fondation Bombardier. Il a écrit un [guide pratique sur la co-création](https://drive.infomaniak.com/app/drive/131928/files/73739/preview/pdf/74174), dont il met également à disposition les ressources sur son site internet (lien [ici](https://guidecocreation.com/ressources/)). 
 
-Apparaît dans [[Quelles sont les méthodologies de travail]]
+Apparaît dans [[Quelles sont les méthodologies liées au numérique à connaître]]
