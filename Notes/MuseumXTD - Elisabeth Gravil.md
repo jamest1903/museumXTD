@@ -1,7 +1,9 @@
-date : 2022juillet27
-tags : #liens #forum 
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-07-27
+tags: #liens #forum
+---
 ## Transformation numérique des musées : vers une organisation phygitale
 
 [Elisabeth Gravil](https://www.linkedin.com/in/elisagravil/)  

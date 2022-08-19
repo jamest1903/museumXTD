@@ -1,7 +1,9 @@
-date : 2022juillet20
-tags : #liens #technologies #rapport #competence 
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-07-20
+tags: #liens #technologies #rapport #competence
+---
 
 [POSTNote, The impact of digital technologies on arts and culture in the UK, May 2022](https://researchbriefings.files.parliament.uk/documents/POST-PN-0669/POST-PN-0669.pdf) 
 

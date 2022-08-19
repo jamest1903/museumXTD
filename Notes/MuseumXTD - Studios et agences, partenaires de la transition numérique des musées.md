@@ -1,7 +1,9 @@
-date : 2022juillet26
-tags : #liens #forum 
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-07-26
+tags: #liens #forum
+---
 #### Studios et agences, partenaires de la transition numérique des musées
 
 [Laura Perrenoud](https://www.linkedin.com/in/lauraperrenoud/?originalSubdomain=ch)  

@@ -1,7 +1,9 @@
-date : 2022août4
-tags : #liens #forum 
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-08-04
+tags: #liens #forum
+---
 ## Les défis de la transition numérique à l’aune de la Stratégie numérique vaudoise
 
 [Catherine Pugin](https://www.linkedin.com/in/catherinepugin/)  

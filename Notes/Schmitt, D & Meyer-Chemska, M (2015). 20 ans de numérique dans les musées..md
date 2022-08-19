@@ -1,7 +1,9 @@
-date : 2022mai31
-tags : #liens #mediation
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-05-31
+tags: #liens #mediation
+---
 
 [Schmitt, D & Meyer-Chemska, M (2015). 20 ans de numérique dans les musées. _La Lettre de l’OCIM_, p53-57]()
 

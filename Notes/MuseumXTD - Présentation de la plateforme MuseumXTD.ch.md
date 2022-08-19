@@ -1,7 +1,9 @@
-date : 2022août17
-tags : #liens #forum 
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-08-17
+tags: #liens #forum
+---
 ## Présentation de la plateforme MuseumXTD.ch
 
 [Marion Lehembre](https://www.linkedin.com/in/marion-lehembre910/)  

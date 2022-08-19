@@ -1,7 +1,9 @@
-date : 2022août4
-tags : #liens #forum #francais 
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-08-04
+tags: #liens #forum #francais
+---
 ## La face cachée du numérique
 
 [Léonie Alain](https://www.linkedin.com/in/leonie-alain-23202571/)  

@@ -1,7 +1,9 @@
-date : 2022juillet25
-tags : #liens #forum #francais 
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-07-25
+tags: #liens #forum #francais
+---
 ## Le musée numérique en toute légalité: quelles questions se poser ?
 
  [Tatiana Julliez](https://www.linkedin.com/in/tatiana-jullier-53918b209/?originalSubdomain=ch)  

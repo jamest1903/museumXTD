@@ -1,7 +1,9 @@
-date : 2022juin9
-tags : #question
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-09
+tags: #question
+---
 # Qu'est-ce que la médiation numérique ?
 
 La médiation numérique est appelée ainsi si la médiation culturelle implique l'utilisation de technologies numériques. Si l'impact de celle-ci peut différer d'une médiation traditionnelle (voir [[Quelles technologies pour quel impact]]), il s'avère que la médiation numérique n'est pas toujours le dispositif autonome tel que l'on s'imagine. 

@@ -1,7 +1,9 @@
-date : 2022mai22
-tags : #liens #rapport #communication #financement #projet 
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-05-22
+tags: #liens #rapport #communication #financement #projet
+---
 [MUSEUM BOOSTER (2021). Museum innovation Barometer](https://museumbooster.com/wp-content/uploads/2021/08/Museum-Innovation-Barometer-2021.pdf)
 
 Ce rapport synthétise 

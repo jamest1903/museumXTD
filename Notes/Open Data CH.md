@@ -1,7 +1,9 @@
-date : 2022juillet22
-tags : #liens
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-07-22
+tags: #liens
+---
 
 [Open Data CH](https://opendata.ch/.)
 

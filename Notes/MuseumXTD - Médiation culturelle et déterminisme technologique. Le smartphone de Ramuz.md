@@ -1,7 +1,9 @@
-date : 2022août17
-tags : #liens #forum 
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-08-17
+tags: #liens #forum
+---
 #### Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz
 
 [Mathieu Menghini](https://www.linkedin.com/in/mathieu-menghini-741803155/)  

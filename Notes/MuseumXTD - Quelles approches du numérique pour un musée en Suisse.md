@@ -1,7 +1,9 @@
-date : 2022août4
-tags : #liens #forum
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-08-04
+tags: #liens #forum
+---
 ## Quelles approches du numérique pour un musée en Suisse
 
 [Marianne Chevassus](https://museeduleman.ch/le-musee/lequipe/)  

@@ -1,7 +1,9 @@
-date : 2022juillet27
-tags : #liens #forum #francais 
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-07-27
+tags: #liens #forum #francais
+---
 ## DOORS: Digital Incubator for Museums
 
 Equipe [Doors](https://ars.electronica.art/doors/en/), Ars Electronica (AT)

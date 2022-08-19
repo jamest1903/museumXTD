@@ -1,7 +1,9 @@
-date : 2022juin14
-tags : #liens #numerisationcollection
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-14
+tags: #liens #numerisationcollection
+---
 
 [Archives and Access toolkit - Tate](https://www.tate.org.uk/art/archive/archives-access-toolkit)
 

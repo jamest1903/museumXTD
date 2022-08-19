@@ -1,7 +1,9 @@
-date : 2022mai22
-tags : #question
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-05-22
+tags: #question
+---
 # Quelles sont les nouvelles pratiques muséales
 
 1. [[Le projet Ramuz]]
