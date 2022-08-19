@@ -1,7 +1,8 @@
-date : 2022juin23
-tags : 
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-23
+---
 
 #### Ramuz & moi 
 

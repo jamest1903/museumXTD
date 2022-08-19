@@ -1,7 +1,9 @@
-date : 2022juin8
-tags : #question
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-08
+tags: #question
+---
 # Quelles technologies pour quels impacts?
 **Les technologies numériques sont des objets parfois aussi flous que variés. Afin de mieux cerner leur usage dans le secteur muséal, nous vous proposons une liste de ressources qui confrontent diverses technologies à leur utilisation selon les départements des musées voire selon leur interaction avec le visiteur.**   
 

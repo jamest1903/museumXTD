@@ -1,7 +1,9 @@
-date : 2022mai11
-tags : #liens #rapport
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-05-11
+tags: #liens #rapport
+---
 
 [Guidi, D., Jenny, M. (2021). Enquête sur la digitalisation des musées de Suisse romande : vers une virtualisation de la culture ?](https://unidistance.ch/en/history/research-project/musee-20-enquete-sur-la-digitalisation-des-musees-suisses)
 [Article_Musées2.0_VersionFinale_29.03.2021 (unidistance.ch)](https://unidistance.ch/fileadmin//user_upload/public/UniDistance/00_Facultes/Histoire/Recherche/Projet_Musee_2.0_Rapport.pdf)

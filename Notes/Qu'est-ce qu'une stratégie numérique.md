@@ -1,7 +1,9 @@
-date : 2022mai13
-tags : #question
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-05-13
+tags: #question
+---
 # Qu'est-ce que la stratégie numérique d'un musée ?
 
 Une stratégie numérique formalise et **partage** les différentes étapes de transformation numérique d'une institution. C'est concrètement un document d'aide à la prise de décision et d'action pour tous gestionnaires de **projets**??. 

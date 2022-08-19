@@ -21,13 +21,16 @@ Contact
 
 **MuseumXTD** est mené par la société Concilio, les Musées de Pully et la HEIG-VD. IL s'achève le 31 octobre 2022.  
 En tant que projet de transformation, il bénéficie du soutien du Service des Affaires culturelles du Canton de Vaud ainsi que de celui de l’Office fédéral de la culture.
-![](/images/Logo_SERACetOFC.png)
 
+![](/images/Logo-Canton_de_Vaud.svg) &#x2003; ![](/images/EDI_BAK_FR_RGB_POS_HOCH.png)
+
+---
 
 ## Partenaires du projet
 
 ### [Concilio Sàrl](https://concilioltd.com/)
-![](/images/Concilio-logo.jpg)
+
+![](/images/Logo-Concilio.svg)
 
 **Direction du projet, coordination & recherche documentaire**  
 Nathalie Pichard, directrice  
@@ -37,10 +40,13 @@ Marion Lehembre, cheffe de projet adjointe
 Julie Ansermet , consultante
 
 ### [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/)
-![](/images/MDAxArcheolabxMDP-min.png)
+
+![](/images/Logo-Musees_de_Pully.png) &#x2003;
+![](/images/Logo-Musee_d-art_de_Pully.svg) &#x2003;
+![](/images/Logo-Archeolab.png)
 
 **Direction et coordination du cas d’étude Musées de Pully**  
-Delphine Rivier, directrice des Musées de Pully  
+Delphine Rivier, directrice des Musées de Pully   
 
 Stéphanie Lugon, conservatrice du projet muséal La Muette
 

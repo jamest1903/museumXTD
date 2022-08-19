@@ -1,9 +1,9 @@
-![[MuseumXTD]]
-
-date : 2022mai22
-tags : #question 
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-05-22
+tags: #question
+---
 # Comment collaborer avec des prestataires ?
 L'introduction du numérique dans les musées implique une nouvelle façon de penser la gestion de projet et la collaboration entre plusieurs entités. Quels sont les enjeux et les bonnes pratiques d'une collaboration réussie ?
 

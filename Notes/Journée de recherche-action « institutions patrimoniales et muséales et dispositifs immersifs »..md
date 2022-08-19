@@ -1,7 +1,9 @@
-date : 2022juillet26
-tags : #liens #technologies 
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-07-26
+tags: #liens #technologies
+---
 
 [Lien](https://metis-lab.com/2021/12/05/journee-de-recherche-action-institutions-patrimoniales-et-museales-et-dispositifs-immersifs/)
 

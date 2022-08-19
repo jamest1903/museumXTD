@@ -1,7 +1,9 @@
-date : 2022juillet19
-tags : #liens #projet 
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-07-19
+tags: #liens #projet
+---
 
 [Lien]()
 

@@ -1,7 +1,9 @@
-date : 2022juillet26
-tags : #liens
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-07-26
+tags: #liens
+---
 ## Seemuseum: Exploring digital change as a small museum
 
 [Christian Hunziker](https://www.linkedin.com/in/hunzikerchristian/?originalSubdomain=ch) Directeur, [Seemuseum Kreuzlingen](https://seemuseum.ch/) (CH)

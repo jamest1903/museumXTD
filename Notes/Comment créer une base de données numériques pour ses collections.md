@@ -1,7 +1,9 @@
-date : 2022juin9
-tags : #question
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-09
+tags: #question
+---
 # Comment créer une base de données numérique pour ses collections ?
 Etapes ?
 - Numériser ses collections

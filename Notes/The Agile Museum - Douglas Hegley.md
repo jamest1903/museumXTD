@@ -1,7 +1,9 @@
-date : 2022juin14
-tags : #liens #management 
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-14
+tags: #liens #management
+---
 
 [The Agile Museum - présentation](https://www.slideshare.net/dhegley/the-agile-museum-21st-century-leadership)
 [The Agile Museum - article](https://mw2016.museumsandtheweb.com/paper/the-agile-museum/)

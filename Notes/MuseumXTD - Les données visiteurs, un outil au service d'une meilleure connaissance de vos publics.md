@@ -1,7 +1,9 @@
-date : 2022août4
-tags : #liens #forum 
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-08-04
+tags: #liens #forum
+---
 ## Les données visiteurs, un outil au service d'une meilleure connaissance de vos publics
 
 [Fabien Morf](https://www.linkedin.com/in/fabienmorf/)  

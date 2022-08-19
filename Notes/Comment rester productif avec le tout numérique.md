@@ -1,7 +1,10 @@
-date : 2022juin7
-tags : #liens #outils #competence 
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-06-07
+tags: #liens #outils #competence
+---
 
----------
 [Josse, F. (15.03.2022). *Comment rester productif avec le tout numérique ?* Maddyness.](https://www.maddyness.com/2022/03/15/comment-rester-productif-avec-le-tout-numerique/)
 
 Impossible de nier que le numérique facilite le partage d’informations et le travail collaboratif. Pourtant, il engendre aussi une hypersollicitation. Mails, rappels agenda, SMS et autres notifications se sont multipliés, bousculant la concentration, l’efficacité, voire, pour certains, le bien-être. Alors comment préserver le cerveau, notre premier outil de travail ?

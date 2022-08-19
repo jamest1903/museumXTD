@@ -1,7 +1,9 @@
-date : 2022juillet27
-tags : #liens #forum 
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-07-27
+tags: #liens #forum
+---
 ## Démystifier la transition numérique
 
 [Giovanni Colavizza](https://www.linkedin.com/in/giovanni-colavizza-850b3342/)   

@@ -1,7 +1,9 @@
-date : 2022mai16
-tags : #question
-
----------
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-05-16
+tags: #question
+---
 # Quels sont les risques du numérique dans les musées ?
 Les opportunités apportées par le numérique ne doivent pas faire oublier les risques et critiques associés. 
 

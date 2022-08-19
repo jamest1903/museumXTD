@@ -1,7 +1,9 @@
-date : 2022août17
-tags : #liens #forum 
-
-----
+---
+title: MuseumXTD
+layout: layouts/post.njk
+date: 2022-08-17
+tags: #liens #forum
+---
 ## Conclusion de la première journée
 
 [[Delphine Rivier]]  
