@@ -2,21 +2,26 @@
 layout: layouts/base.ejs
 ---
 
-<table class="csvTable projects">
-    <thead>
-        <tr>
-            <% csvReader.projectsHeaders.forEach((col)=>{%>
-            <th><%=col%></th>
-            <%});%>
-        </tr>
-    </thead>
-    <tbody>
-        <% csvReader.projectsData.forEach((row)=>{%>
-        <tr>
-            <% csvReader.projectsHeaders.forEach((col)=>{%>
-            <td><%=row[col]%></td>
-            <%});%>
-        </tr>
-        <%});%>
-    </tbody>
-</table>
+<div class="csvTable projects">
+    <% csvReader.projectsData.forEach((row)=>{%>
+    <article>
+        <h1>
+            <%=row['Nom'] %> --- <%=row.URL%>
+        </h1>
+        <p><%=row["Début du projet"]%> -- <%=row.Localisation%></p>
+        <p><%=row.Descriptif%></p>
+        <ol>
+            <li><%=row["Porteur de projet 1"]%></li>
+            <% if(row["Porteur de projet 2"]) { %>
+                <li><%=row["Porteur de projet 2"]%></li>
+            <%} %>
+            <% if(row["Porteur de projet 3"]) { %>
+                <li><%=row["Porteur de projet 3"]%></li>
+            <%} %>
+            <% if(row["Porteur de projet 4"]) { %>
+                <li><%=row["Porteur de projet 4"]%></li>
+            <%} %>
+        </ol>
+    </article>
+    <%});%>
+</div>

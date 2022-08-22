@@ -2,22 +2,26 @@
 layout: layouts/base.ejs
 ---
 
-<table class="csvTable acteurs">
-    <thead>
-        <tr>
-
-            <% csvReader.acteursHeaders.forEach((col)=>{%>
-                <th><%=col%></th>
-            <%});%>
-        </tr>
-    </thead>
-    <tbody>
-        <% csvReader.acteursData.forEach((row)=>{%>
-        <tr>
-            <% csvReader.acteursHeaders.forEach((col)=>{%>
-            <td><%=row[col]%></td>
-            <%});%>
-        </tr>
-        <%});%>
-    </tbody>
-</table>
+<div class="csvTable acteurs">
+    <% csvReader.acteursData.forEach((row)=>{%>
+    <article>
+        <h1>
+            <%=row['Nom'] %> --- <%=row.URL%>
+        </h1>
+        <p><%=row.Localisation%></p>
+        <p><%=row.Nature%></p>
+        <ol>
+            <li><%=row["Expertise numérique 1"]%></li>
+            <% if(row["Expertise numérique 2"]) { %>
+                <li><%=row["Expertise numérique 2"]%></li>
+            <%} %>
+            <% if(row["Expertise numérique 3"]) { %>
+                <li><%=row["Expertise numérique 3"]%></li>
+            <%} %>
+            <% if(row["Expertise numérique 4"]) { %>
+                <li><%=row["Expertise numérique 4"]%></li>
+            <%} %>
+        </ol>
+    </article>
+    <%});%>
+</div>
