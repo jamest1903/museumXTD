@@ -6,11 +6,11 @@ layout: layouts/post.njk
 
 # Forum
 
-#### Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à Yverdon-les-Bains. Ce symposium réunira musées et experts du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
+#### Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à l'aula de la HEIG-VD Yverdon-les-Bains. Ce symposium réunira musées et experts du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
 
 - **Mercredi 12 octobre (9h-17h)** : présentations, retours d’expérience et tables rondes avec la présence de professionnel-le-s des musées, de chercheurs et chercheuses et de spécialistes du numérique
 
-- **Jeudi 13 octobre (9h-12h)** : présentation de l’étude de cas réalisée par les Musées de Pully et retours d’expérience
+- **Jeudi 13 octobre (9h-12h)** : présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
 
 ###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAEYJgeXLLfXwkZSw8_GgKt0WtPF7tkDuXbQC-I6VpXf9M37Um2mOFLesH4b_51ohnWkHkOKuSpLrk1qALGkfc0gYvvFoayAcCXoNzniVbnU6Tvq1Zch_Laj2LPmyVSzU8RQVi1QSi6eyvXNxgNT129acM05YVXB2Liai9ihK5HlwnSv18aVh82rbuZo23E9W0velqwDjvioB)** <br> [Programme 2022](#Programme) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
 
@@ -20,7 +20,7 @@ layout: layouts/post.njk
 ## Programme
 
 ###### [12 octobre 2022](#12-octobre-2022-(9h-17h))  [13 octobre 2022](#13-octobre-2022-(9h-12h))
-[Télécharger le programme en version pdf](http://myreader.toile-libre.org/uploads/My_62ff37fd0444e.pdf)  
+[Télécharger le programme en version pdf](https://drive.infomaniak.com/app/share/131928/edea98e3-fa04-4467-a4ff-7fc44a6928be/preview/pdf/79356)  
 
 ### 12 octobre 2022 (9h-17h)
 Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/), Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
@@ -62,7 +62,7 @@ Directeur, [Musée suisse de l'appareil photographique](https://www.cameramuseum
 Maître-Assistante en Science des Religions, [Université de Fribourg](https://www.unifr.ch/home/fr/) (CH)
 
 [Heidi Amrein](https://www.landesmuseum.ch/fr/a-propos-de-nous/organisation)  
-Conservatrice en chef, [Musée national suisse](https://www.nationalmuseum.ch/fr) (CH)
+Conservatrice en chef & membre de la direction, [Musée national suisse](https://www.nationalmuseum.ch/fr) (CH)
 
 Modération par [Alexandre Camus](https://www.unil.ch/collaboratoire/home/menuinst/qui-sommes-nous/notre-equipe/camus-alexandre.html), Responsable de recherche, [ColLaboratoire](https://www.unil.ch/collaboratoire/fr/home.html), Unité de recherche-action, collaborative et participative de l’Université de Lausanne (CH)
 
@@ -84,23 +84,23 @@ Directeur, {CORRESPONDANCES DIGITALES] [lien ici](https://correspondances.co/) (
 - *11h05-11h25*
 
 [Fabien Morf](https://www.linkedin.com/in/fabienmorf/)  
-Fondateur et directeur, [L'Œil du Public Suisse](https://loeildupublic.com/) (CH)
+Fondateur & directeur, [L'Oeil du Public (Suisse)](https://loeildupublic.com/) (CH)
 
 [Solène Jimenez](https://www.linkedin.com/in/soljim/)  
 Directrice du développement international, [Arenametrix](https://arenametrix.com/) (FR)
 
 
 
-- #### [[MuseumXTD - Tatiana Julliez|Le musée numérique en toute légalité: quelles questions se poser ?]]
+- #### [[MuseumXTD - Tatiana Jullier|Le musée numérique en toute légalité : quelles questions se poser ?]]
 - *11h25-11h45*
 
-[Tatiana Julliez](https://www.linkedin.com/in/tatiana-jullier-53918b209/?originalSubdomain=ch)  
-Avocate, [Lalive](https://www.lalive.law/) (CH) 
+[Tatiana Jullier](https://www.linkedin.com/in/tatiana-jullier-53918b209/?originalSubdomain=ch)
+Avocate, [LALIVE](https://www.lalive.law/) (CH) 
 
 
 
-#### [[MuseumXTD - Le projet DOORS|DOORS: Digital Incubator for Museums]] (online)
-*11h45-12h05*
+- #### [[MuseumXTD - Le projet DOORS|DOORS: Digital Incubator for Museums]] (online)
+- *11h45-12h05*
 
 Equipe [Doors](https://ars.electronica.art/doors/en/), Ars Electronica (AT)
 
@@ -110,8 +110,8 @@ Equipe [Doors](https://ars.electronica.art/doors/en/), Ars Electronica (AT)
 
 
 
-#### [[MuseumXTD - Hub01|La face cachée du numérique]] 
-*13h40-14h00*
+- #### [[MuseumXTD - Hub01|La face cachée du numérique]] 
+- *13h40-14h00*
 
 [Léonie Alain](https://www.linkedin.com/in/leonie-alain-23202571/)  
 Directrice des communications,  [0/1 Hub numérique](https://www.hub01.org/) (CA)
@@ -121,33 +121,33 @@ Directeur des opérations, [0/1 - Hub numérique]() (CA)
 
 
 
-#### [[MuseumXTD - Seemuseum Kreuzlingen|Seemuseum: Exploring digital change as a small museum]] 
-*14h00-14h20*
+- #### [[MuseumXTD - Seemuseum Kreuzlingen|Seemuseum: Exploring digital change as a small museum]] (online)
+- *14h00-14h20*
 
 [Christian Hunziker](https://www.linkedin.com/in/hunzikerchristian/?originalSubdomain=ch)
-Directeur,  [Seemuseum Kreuzlingen](https://seemuseum.ch/ ) (CH)
+Directeur, [Seemuseum Kreuzlingen](https://seemuseum.ch/) (CH)
 
 [Julian Fitze](https://seemuseum.ch/Museum#Team)
 Responsable Education et médiation, [Seemuseum Kreuzlingen](https://seemuseum.ch/ ) (CH)
 
 
 
-#### [[MuseumXTD - Studios et agences, partenaires de la transition numérique des musées|Studios et agences, partenaires de la transition numérique des musées]]
-*14h20-14h50*
+- #### [[MuseumXTD - Studios et agences, partenaires de la transition numérique des musées|Studios et agences, partenaires de la transition numérique des musées]]
+- *14h20-14h50*
 
-[Laura Perrenoud](https://www.linkedin.com/in/lauraperrenoud/?originalSubdomain=ch)  
-Artiste et co-fondatrice, [Int Studio](https://www.int.studio/) (CH)
+[Laura Nieder](https://www.linkedin.com/in/lauraperrenoud/?originalSubdomain=ch)  
+Artiste & co-fondatrice, [INT Studio](https://www.int.studio/) (CH)
 
 [Manuel Sigrist](https://www.linkedin.com/in/manuel-sigrist-23750528/)   
-Responsable numérique et innovation, [Photo Elysée](https://elysee.ch/) (CH)
+Responsable numérique & innovation, [Photo Elysée](https://elysee.ch/) (CH)
 
 [Olivier Reutenauer](https://www.linkedin.com/in/olivier-reutenauer-234574a/)  
-Cofondateur et associé-gérant, [Digital Kingdom Sàrl](http://www.digitalkingdom.ch/) (CH)
+Cofondateur & associé-gérant, [Digital Kingdom Sàrl](http://www.digitalkingdom.ch/) (CH)
 
 [Nicolas Godinot](https://www.linkedin.com/in/godinot/)   
-Responsable des contenus et conservateur des sciences de la nature, [Alimentarium](https://www.alimentarium.org/fr) (CH)
+Responsable des contenus & conservateur des sciences de la nature, [Alimentarium](https://www.alimentarium.org/fr) (CH)
 
-Modération par [Selim Krichane](https://www.linkedin.com/in/selim-krichane-44313082/), Chargé de cours et collaborateur scientifique à l’EPFL et l’UNIL, membre fondateur de l’UNIL – Gamelab (CH) 
+Modération par [Selim Krichane](https://www.linkedin.com/in/selim-krichane-44313082/), Collaborateur scientifique à l’EPF & membre fondateur du GameLab, UNIL-EPFL (CH)
 
 
 
@@ -155,14 +155,14 @@ Modération par [Selim Krichane](https://www.linkedin.com/in/selim-krichane-4431
 
 
 
-#### [[MuseumXTD - Redéfinir les limites du musée à l'ère numérique|Redéfinir les limites du musée à l'ère numérique]]
-*15h20-15h50*
+- #### [[MuseumXTD - Redéfinir les limites du musée à l'ère numérique|Redéfinir les limites du musée à l'ère numérique]]
+- *15h20-15h50*
 
 [Nicolas Henchoz](https://www.linkedin.com/in/nicolas-henchoz-32ab902/)  
-Fondateur et directeur, [EPFL+ECAL Lab](https://epfl-ecal-lab.ch/) (CH)
+Fondateur & directeur, [EPFL+ECAL Lab](https://epfl-ecal-lab.ch/) (CH)
 
 [Marie Carrard](https://www.linkedin.com/in/carrard-marie-2264b132/)   
-Directrice des expositions et de la programmation, [EPFL Pavilions](https://epfl-pavilions.ch/fr) (CH)
+Responsable de la production des expositions & programmes, [EPFL Pavilions](https://epfl-pavilions.ch/fr) (CH)
 
 [Stéphane Kläfiger](https://museographie.ch/)  
 Muséographe indépendant (CH)
@@ -172,32 +172,32 @@ Faculté des lettres, UNIL (CH)
 
 
 
-#### [[MuseumXTD - Giovanni Collavizza|Démystifier la transition numérique]]
-*15h50-16h10*
+- #### [[MuseumXTD - Giovanni Collavizza|Démystifier la transition numérique]]
+- *15h50-16h10*
 
 [Giovanni Colavizza](https://www.linkedin.com/in/giovanni-colavizza-850b3342/)   
-Co-fondateur d'[Odoma](https://www.odoma.ch/) et professeur assistant à l’Université d’Amsterdam (NL)
+Co-fondateur d'[Odoma](https://www.odoma.ch/) & professeur assistant à l’Université d’Amsterdam (NL)
 
 
 
-#### [[MuseumXTD - Catherine Pugin|Les défis de la transition numérique à l’aune de la Stratégie numérique vaudoise]] 
-*16h10-16h30*
+- #### [[MuseumXTD - Catherine Pugin|Les défis de la transition numérique à l’aune de la Stratégie numérique vaudoise]] 
+- *16h10-16h30*
 
 [Catherine Pugin](https://www.linkedin.com/in/catherinepugin/)  
 Déléguée au numérique, [Canton de Vaud]([https://www.vd.ch/strategie-numerique-du-canton-de-vaud-digitale-strategie-des-kantons-waadt/](https://www.vd.ch/strategie-numerique-du-canton-de-vaud-digitale-strategie-des-kantons-waadt/)) (CH) 
 
 
 
-#### [[MuseumXTD - Présentation de la plateforme MuseumXTD.ch|Présentation de la plateforme MuseumXTD.ch]]
-*16h30-16h40*
+- #### [[MuseumXTD - Présentation de la plateforme MuseumXTD.ch|Présentation de la plateforme MuseumXTD.ch]]
+- *16h30-16h40*
 
 [Marion Lehembre](https://www.linkedin.com/in/marion-lehembre910/)  
 Cheffe de projet adjointe, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 
 
 
-#### [[MuseumXTD - Conclusion de la première journée|Conclusion de la première journée]]
-*16h40-16h50*
+- #### [[MuseumXTD - Conclusion de la première journée|Conclusion de la première journée]]
+- *16h40-16h50*
 
 [[Delphine Rivier]]  
 Directrice, [Musées de Pully](http://www.museedartdepully.ch) (CH)
@@ -222,8 +222,8 @@ Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda
 
 
 
-#### Introduction du projet Ramuz
-*9h05-09h20*
+- #### Introduction du projet Ramuz
+- *9h05-09h20*
 
 [[Delphine Rivier]]  
 Directrice, [Musées de Pully](http://www.museedartdepully.ch) (CH)
@@ -233,24 +233,24 @@ Conservatrice du projet muséal La Muette, [Musées de Pully](http://www.museeda
 
 
 
-#### [[MuseumXTD - Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz|Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz]]
-*9h20-09h35*
+- #### [[MuseumXTD - Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz|Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz]]
+- *9h20-09h35*
 
 [Mathieu Menghini](https://www.linkedin.com/in/mathieu-menghini-741803155/)  
-Historien et praticien de l'action et de l'agir culturels et concepteur, [La Marmite](https://lamarmite.org/) (CH)
+Historien & praticien de l'action et de l'agir culturels & concepteur de la [La Marmite](https://lamarmite.org/) (CH)
 
 
 
-#### [[MuseumXTD - Proposer la création d'un dispositif numérique à des agences créatives|Proposer la création d'un dispositif numérique à des agences créatives]]
-*9h35-09h40*
+- #### [[MuseumXTD - Proposer la création d'un dispositif numérique à des agences créatives|Proposer la création d'un dispositif numérique à des agences créatives]]
+- *9h35-09h40*
 
 [Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/)  
 Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd.ch/rad/instituts/mei/) (CH)
 
 
 
-#### [[Case study - Ramuz & moi|Présentation du projet de l'agence Computed.by]]
-*9h40-09h55*
+- #### Présentation du projet de l'agence Computed.by
+- *9h40-09h55*
 
 Christophe Guignard  
 Gordan Savicic  
@@ -258,8 +258,8 @@ Gordan Savicic
 
 
 
-#### [[Case study - Ramuz & moi|Présentation du projet de l'agence Transverse]] 
-*9h55-10h10*
+- #### Présentation du projet de l'agence Transverse 
+- *9h55-10h10*
 
 Ingrid Sorg  
 Julie Greset  
@@ -269,65 +269,64 @@ Julie Greset
 #### Pause
  
 
-#### [[MuseumXTD - Outils numériques, l’éloge de la parcimonie|Outils numériques, l’éloge de la parcimonie]]
-*10h40-10h50*
+- #### [[MuseumXTD - Outils numériques, l’éloge de la parcimonie|Outils numériques, l’éloge de la parcimonie]]
+- *10h40-10h50*
 
 [Emmanuelle Giacometti](https://www.linkedin.com/in/emmanuelle-giacometti-874681a/)  
 Directrice, [Espace des Inventions](https://www.espace-des-inventions.ch/) (CH)
 
 
 
-#### [[MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité|Villa « Le Lac » 2.0 : quand le voyage dans le temps devient une réalité]]
-*10h50-11h00*
+- #### [[MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité|Villa « Le Lac » 2.0 : quand le voyage dans le temps devient une réalité]]
+- *10h50-11h00*
 
 [Patrick Moser](https://www.linkedin.com/in/patrickmosertraductions/)  
-Conservateur de la [Villa « Le Lac » Le Corbusier](https://villalelac.ch/fr/expositions) (CH)
+Conservateur, [Villa « Le Lac » Le Corbusier](https://villalelac.ch/fr/expositions) (CH)
 
 
 
-#### [[MuseumXTD - Déploiement numérique de l’offre au public, enjeux d’un projet global|Déploiement numérique de l’offre au public : enjeux d’un projet global]]
-*11h00-11h15*
+- #### [[MuseumXTD - Déploiement numérique de l’offre au public, enjeux d’un projet global|Déploiement numérique de l’offre au public : enjeux d’un projet global]]
+- *11h00-11h15*
 
 [Vincent Fontana](https://www.linkedin.com/in/vincent-fontana/)  
-Directeur du [Musée d'Yverdon et région](https://musee-yverdon-region.ch) (CH)
+Historien & directeur, [Musée d'Yverdon et région](https://musee-yverdon-region.ch) (CH)
 
 
 
-#### [[MuseumXTD - Un temps pour la rematérialisation|Un temps pour la rematérialisation]]
-*11h15-11h30*
+- #### [[MuseumXTD - Un temps pour la rematérialisation|Un temps pour la rematérialisation]]
+- *11h15-11h30*
 
 [Yvan Schwab](https://www.linkedin.com/in/yvan-schwab-30453b67/)  
-Directeur du [musée Alexis Forel](https://museeforel.ch/) (CH)
+Directeur, [Musée Alexis Forel](https://museeforel.ch/) (CH)
 
 
 
-#### [[MuseumXTD - Quel numérique face à la pluralité de cultures numériques|Quel numérique face à la pluralité de cultures numériques ?]]
-
-*11h30-11h40*
+- #### [[MuseumXTD - Quel numérique face à la pluralité de cultures numériques|Quel numérique face à la pluralité de cultures numériques ?]]
+- *11h30-11h40*
 
 [Olivier Glassey](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=881059&LanCode=37)  
-Professeur UNIL, Directeur du [Musée de la main UNIL-CHUV](https://www.museedelamain.ch/) (CH)
+Professeur UNIL & directeur, [Musée de la main UNIL-CHUV](https://www.museedelamain.ch/) (CH)
 
 
 
-#### [[MuseumXTD - Présentation du projet Temps de Jeu VR de l'Archeolab|Présentation du projet Temps de Jeu VR de l'Archeolab]]
-*11h40-11h50*
+- #### [[MuseumXTD - Présentation du projet Temps de Jeu VR de l'Archeolab|Présentation du projet Temps de Jeu VR de l'Archeolab]]
+- *11h40-11h50*
 
 [[Delphine Rivier]]  
 Directrice, [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/) (CH)
 
 
 
-#### [[MuseumXTD - Conclusion|Conclusion]]
-*11h50-11h55*
+- #### [[MuseumXTD - Conclusion|Conclusion]]
+- *11h50-11h55*
 
 [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/)  
 Modératrice du forum MuseumXTD (CH)
 
 
 
-#### [[MuseumXTD - Perspectives|Perspectives]]
-*11h55-12h00*
+- #### [[MuseumXTD - Perspectives|Perspectives]]
+- *11h55-12h00*
 
 [[Delphine Rivier]]  
 Directrice, [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/) (CH)
