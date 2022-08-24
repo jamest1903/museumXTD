@@ -19,7 +19,7 @@ Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2
 
 - **Jeudi 13 octobre (9h-12h)** : présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
 
-[Voir le Programme](/Forum/index.html#Programme)
+[Voir le Programme](Navigation/Forum/index.html#Programme)
 
 
 ###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAEYJgeXLLfXwkZSw8_GgKt0WtPF7tkDuXbQC-I6VpXf9M37Um2mOFLesH4b_51ohnWkHkOKuSpLrk1qALGkfc0gYvvFoayAcCXoNzniVbnU6Tvq1Zch_Laj2LPmyVSzU8RQVi1QSi6eyvXNxgNT129acM05YVXB2Liai9ihK5HlwnSv18aVh82rbuZo23E9W0velqwDjvioB)**
