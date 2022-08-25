@@ -247,7 +247,7 @@ Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd
 
 
 
-- #### Présentation du projet de l'agence Computed.By
+- #### Présentation du projet de l'agence Computed\.By
 - *9h40-09h55*
 
 [Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)  

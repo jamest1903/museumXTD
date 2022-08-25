@@ -4,7 +4,7 @@ layout: layouts/post.njk
 date: 2022-08-17
 tags: #liens #forum #francais
 ---
-## Présentation de la plateforme MuseumXTD.ch
+## Présentation de la plateforme MuseumXTD\.ch
 
 [Marion Lehembre](https://www.linkedin.com/in/marion-lehembre910/)  
 Cheffe de projet adjointe, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
