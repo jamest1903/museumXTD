@@ -1,9 +1,8 @@
 ---
-title: MuseumXTD  
-layout: layouts/post.njk  
+title: MuseumXTD
+layout: layouts/post.njk
 date: 2022-08-04
-tags: #liens #forum #francais 
-
+tags: #liens #forum
 ---
 ## Quelles approches du numérique pour un musée en Suisse
 
@@ -16,10 +15,9 @@ Directeur, [Musée suisse de l'appareil photographique](https://www.cameramuseu
 [Diletta Guidi](https://www.dilettaguidi.com/)  
 Maître-Assistante en Science des Religions, [Université de Fribourg](https://www.unifr.ch/home/fr/) (CH)
 
-[Heidi Amrein](https://www.landesmuseum.ch/fr/a-propos-de-nous/organisation)  
-Conservatrice en chef & membre de la direction, [Musée national suisse](https://www.nationalmuseum.ch/fr) (CH)  
+[Heidi Amrein](https://www.landesmuseum.ch/fr/a-propos-de-nous/organisation), Conservatrice en chef, [Musée national suisse](https://www.nationalmuseum.ch/fr) (CH)
 
-Modération par [Alexandre Camus](https://www.unil.ch/collaboratoire/home/menuinst/qui-sommes-nous/notre-equipe/camus-alexandre.html), Responsable de recherche, [ColLaboratoire](https://www.unil.ch/collaboratoire/fr/home.html), Unité de recherche-action, collaborative et participative de l’Université de Lausanne (CH)  
+Modération par [Alexandre Camus](https://www.unil.ch/collaboratoire/home/menuinst/qui-sommes-nous/notre-equipe/camus-alexandre.html), Responsable de recherche, [ColLaboratoire](https://www.unil.ch/collaboratoire/fr/home.html), Unité de recherche-action, collaborative et participative de l’Université de Lausanne (CH)
 
   
 Retrouver le live du 12 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

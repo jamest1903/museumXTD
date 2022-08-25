@@ -1,8 +1,8 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
-date : 2022août18
-tags : #liens #forum #francais
+date: 2022-08-18
+tags: #liens #forum #francais
 
 ---
 #### Déploiement numérique de l’offre au public, enjeux d’un projet global

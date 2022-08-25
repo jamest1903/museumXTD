@@ -1,8 +1,8 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
-date : 2022août18
-tags : #liens #forum #francais
+date: 2022-08-18
+tags: #liens #forum #francais
 
 ---
 #### Perspectives

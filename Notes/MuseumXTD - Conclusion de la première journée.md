@@ -2,7 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-08-17
-tags: #liens #forum
+tags: #liens #forum #francais
 ---
 ## Conclusion de la première journée
 
@@ -19,7 +19,7 @@ Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd
 Directrice, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 
 [Marion Lehembre](https://www.linkedin.com/in/marion-lehembre910/)  
-Cheffe de projet adjointe, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
+Cheffe de projet adjointe, [Concilio Sàrl](https://www.concilioltd.com/) (CH)  
 
   
 Retrouver le live du 12 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
