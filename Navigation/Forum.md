@@ -3,12 +3,11 @@ title: MuseumXTD
 layout: layouts/post.njk
 ---
 
-
 # Forum
 
-#### Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à l'aula de la HEIG-VD Yverdon-les-Bains. Ce symposium réunira musées et experts du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
+#### Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à l'aula de la HEIG-VD, Yverdon-les-Bains. Ce symposium réunira musées et expert.e.s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
 
-- **Mercredi 12 octobre (9h-17h)** : présentations, retours d’expérience et tables rondes avec la présence de professionnel-le-s des musées, de chercheurs et chercheuses et de spécialistes du numérique
+- **Mercredi 12 octobre (9h-17h)** : présentations, retours d’expérience et tables rondes avec la présence de professionnel.le.s des musées, de chercheurs et chercheuses et de spécialistes du numérique
 
 - **Jeudi 13 octobre (9h-12h)** : présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
 
@@ -33,10 +32,10 @@ Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda
 [[Delphine Rivier]]  
 Directrice, [Musées de Pully](http://www.museedartdepully.ch) (CH)
 
-[Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/) 
+[Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/)  
 Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd.ch/rad/instituts/mei/) (CH)
 
-[Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/) 
+[Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/)  
 Directrice, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 
 
@@ -94,7 +93,7 @@ Directrice du développement international, [Arenametrix](https://arenametrix.co
 - #### [[MuseumXTD - Tatiana Jullier|Le musée numérique en toute légalité : quelles questions se poser ?]]
 - *11h25-11h45*
 
-[Tatiana Jullier](https://www.linkedin.com/in/tatiana-jullier-53918b209/?originalSubdomain=ch)
+[Tatiana Jullier](https://www.linkedin.com/in/tatiana-jullier-53918b209/?originalSubdomain=ch)  
 Avocate, [LALIVE](https://www.lalive.law/) (CH) 
 
 
@@ -124,10 +123,10 @@ Directeur des opérations, [0/1 - Hub numérique]() (CA)
 - #### [[MuseumXTD - Seemuseum Kreuzlingen|Seemuseum: Exploring digital change as a small museum]] (online)
 - *14h00-14h20*
 
-[Christian Hunziker](https://www.linkedin.com/in/hunzikerchristian/?originalSubdomain=ch)
+[Christian Hunziker](https://www.linkedin.com/in/hunzikerchristian/?originalSubdomain=ch)  
 Directeur, [Seemuseum Kreuzlingen](https://seemuseum.ch/) (CH)
 
-[Julian Fitze](https://seemuseum.ch/Museum#Team)
+Julian Fitze  
 Responsable Education et médiation, [Seemuseum Kreuzlingen](https://seemuseum.ch/ ) (CH)
 
 
@@ -147,7 +146,7 @@ Cofondateur & associé-gérant, [Digital Kingdom Sàrl](http://www.digitalking
 [Nicolas Godinot](https://www.linkedin.com/in/godinot/)   
 Responsable des contenus & conservateur des sciences de la nature, [Alimentarium](https://www.alimentarium.org/fr) (CH)
 
-Modération par [Selim Krichane](https://www.linkedin.com/in/selim-krichane-44313082/), Collaborateur scientifique à l’EPF & membre fondateur du GameLab, UNIL-EPFL (CH)
+Modération par [Selim Krichane](https://www.linkedin.com/in/selim-krichane-44313082/), Collaborateur scientifique à l’EPF & membre fondateur du [GameLab](https://wp.unil.ch/gamelab/), UNIL-EPFL (CH)
 
 
 
@@ -167,8 +166,7 @@ Responsable de la production des expositions & programmes, [EPFL Pavilions](http
 [Stéphane Kläfiger](https://museographie.ch/)  
 Muséographe indépendant (CH)
 
-Modération par [Isaac Pante](https://isaacpante.net/), Président, Dpt. Sciences du Langage et de l'Information  
-Faculté des lettres, UNIL (CH)
+Modération par [Isaac Pante](https://www.linkedin.com/in/isaacpante/?originalSubdomain=ch), Président, [Dpt. Sciences du Langage et de l'Information Faculté des lettres](https://www.unil.ch/sli/fr/home.html), UNIL (CH)
 
 
 
@@ -184,7 +182,7 @@ Co-fondateur d'[Odoma](https://www.odoma.ch/) & professeur assistant à l’Univ
 - *16h10-16h30*
 
 [Catherine Pugin](https://www.linkedin.com/in/catherinepugin/)  
-Déléguée au numérique, [Canton de Vaud]([https://www.vd.ch/strategie-numerique-du-canton-de-vaud-digitale-strategie-des-kantons-waadt/](https://www.vd.ch/strategie-numerique-du-canton-de-vaud-digitale-strategie-des-kantons-waadt/)) (CH) 
+Déléguée au numérique, [Canton de Vaud](https://www.vd.ch/strategie-numerique-du-canton-de-vaud-digitale-strategie-des-kantons-waadt/) (CH) 
 
 
 
@@ -249,20 +247,21 @@ Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd
 
 
 
-- #### Présentation du projet de l'agence Computed.by
+- #### Présentation du projet de l'agence Computed.By
 - *9h40-09h55*
 
-Christophe Guignard  
-Gordan Savicic  
-[Agence Computed.by](https://www.computedby.com/fr) (CH)
+[Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)  
+[Gordan Savicic](https://www.linkedin.com/in/gordan-savi%C4%8Di%C4%87-aa15233?originalSubdomain=ch)    
+[Agence Computed.By](https://www.computedby.com/fr) (CH)
 
 
 
 - #### Présentation du projet de l'agence Transverse 
 - *9h55-10h10*
 
-Ingrid Sorg  
-Julie Greset  
+[Ingrid Sorg](https://www.linkedin.com/in/ingridsorg/?originalSubdomain=ch)   
+[Julie Greset](https://www.linkedin.com/in/juliegreset/?originalSubdomain=ch)  
+[Laurie Pouly](https://www.linkedin.com/in/lauriepouly/?originalSubdomain=ch)   
 [Agence Transverse](https://transverse.ch/) (CH)
 
 
@@ -321,7 +320,7 @@ Directrice, [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/) (CH)
 - *11h50-11h55*
 
 [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/)  
-Modératrice du forum MuseumXTD (CH)
+ Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
 
 
 
