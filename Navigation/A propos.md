@@ -3,8 +3,6 @@ title: MuseumXTD
 layout: layouts/post.njk
 ---
 
-
-
 ## Le projet **MuseumXTD** 
 
 #### Le projet-pilote de recherche appliquée **MuseumXTD** (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l'environnement entrepreneurial et celui de l'innovation vaudois (start-ups, entreprises, Hautes Écoles).
@@ -13,7 +11,7 @@ Le projet s'appuie notamment sur un cas d'étude : il s'agit d'un dispositif num
 
 Mis à disposition des institutions muséales pour leur propre recherche et développement, les résultats du projet sont disponibles sur [museumxtd.ch](https://www.museumxtd.ch/). Conçu comme une plateforme d’informations, le site permet de diffuser les recherches et réflexions menées durant l’année qu'a duré le projet. Il est pensé comme une boîte à outils évolutive proposant des réponses aux nombreuses questions que posent l’implémentation et l’usage du numérique dans les musées de notre région. 
 
-Les résultats du projet seront présentés lors d'un forum les 12 et 13 octobre 2022 à l'aula de la HEIG-VD d'Yverdon-les-Bains qui réunira musées et experts du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
+Les résultats du projet seront présentés lors d'un forum les 12 et 13 octobre 2022 à l'aula de la HEIG-VD d'Yverdon-les-Bains qui réunira musées et expert.e.s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
 
 Contact  
 [info@museumxtd.ch](mailto:info@museumxtd.ch)
@@ -61,7 +59,7 @@ Gaël Paccard
 
 **Audiovisuel et streaming**   
 Alexandre Pinault, chef de projet   
-Céline Simonetta, assistante technique
+Céline Simonetto, assistante technique
 
 
 ##### Plateforme numérique MuseumXTD
@@ -89,7 +87,7 @@ Elena Mata
 Cécile Demaurex
 
 
-## Conseil scientifique et stratégique 
+## Conseil scientifique   
 
 **Isabelle Raboud,** Anc. Présidente de l’Association des Musées suisses
 
@@ -106,7 +104,7 @@ Cécile Demaurex
 **Fondation ArtTech**
 
 
-## Intervenant-es au forum des 12 et 13 octobre 2022
+## Liste des intervenant-es au forum des 12 et 13 octobre 2022
 
 - Léonie Alain
 - Nadir Alvarez
@@ -152,9 +150,9 @@ Cécile Demaurex
 - Maud Tissot
 - Camille Verdier
 
-ainsi que les personnes ayant offert généreusement et avec enthousiasme leur soutien au projet :
+## Remerciements
+Nous remercions les personnes ayant offert généreusement et avec enthousiasme leur soutien au projet :
 
-- Gilles Borel
 - Aline Delacrétaz
 - Benoit Frachebourg
 - Valentin Grosjean
@@ -173,67 +171,3 @@ ainsi que les personnes ayant offert généreusement et avec enthousiasme leur s
 
 Nos remerciements s'adressent à toutes les personnes ayant contribué au projet. 
 
-
-**Patrick Michel**, Archéologue, Maître d’enseignement et de recherche à l’UNIL
-
-**Prof. Arnaud Dufour**, Expert en Marketing Digital et eCommerce à l’HEIG-VD
-
-**Fondation ArtTech**
-
-  
-
-## Intervenant-es au forum des 12 et 13 octobre 2022
-
-  
-- Léonie Alain
-- Nadir Alvarez
-- Heidi Amrein
-- Jordan Anastassov
-- Giulia Bini
-- Alexandre Camus
-- Marianne Chevassus
-- Giovanni Colavizza
-- Jeanne Corthay
-- Luc Debraine
-- Vincent Fontana
-- Emmanuelle Giacometti
-- Olivier Glassey
-- Nicolas Godinot
-- Elisabeth Gravil
-- Diletta Guidi
-- Nicolas Henchoz
-- Christian Hunziker
-- Magali  Jenny
-- Solène Jimenez
-- Selim Krichane
-- Fabien Morf
-- Patrick Moser
-- Isaac Pante
-- Laura Nieder
-- Catherine Pugin
-- Isabelle Raboud
-- Olivier Reutenauer
-- Antoine Roland
-- Manuel Sigrist
-
-  
-
-ainsi que les personnes ayant offert généreusement et avec enthousiasme leur soutien au projet:
-
-- Benoit Frachebourg
-- Valentin Grosjean
-- Catherine Hirsch
-- Véronique Langlais
-- Veronica Liebl
-- Carolina Liebling
-- Franziska Mucha
-- Nicole Minder
-- Victoria Pieler
-- Olivier Ross
-- Stefan Rotarus
-- Veronica Tracchia
-
-  
-  
-
-Nos remerciements s'adressent à toutes les personnes ayant contribué au projet.
