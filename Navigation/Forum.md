@@ -358,5 +358,5 @@ Yverdon-les-Bains
 
 ---
 
-## Live A revoir
+## Live / A revoir
 Les sessions seront diffusées en direct [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw). Après le forum, les enregistrements seront en plus à disposition depuis notre site. 
