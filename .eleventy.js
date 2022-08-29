@@ -83,6 +83,7 @@ module.exports = config => {
   //let markdownItObsidian = require("markdown-it-obsidian")();
   let markdownItOptions = {
     html: true,
+    breaks: true,
     linkify: true,
     linkPattern: /\[\[([\w\s/!]+)(\|([\w\s/!]+))?\]\]/,
   };
