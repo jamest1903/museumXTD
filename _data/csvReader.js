@@ -5,6 +5,7 @@ function readCSV(name) {
   const input = fs.readFileSync(`./_data/${name}.csv`, 'utf8');
   const records = parse(input, {
     columns: true,
+    trim: true,
     bom: true,
     skip_empty_lines: true,
   });

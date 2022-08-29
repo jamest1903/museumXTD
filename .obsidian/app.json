@@ -26,5 +26,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
   "foldIndent": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "strictLineBreaks": true
 }

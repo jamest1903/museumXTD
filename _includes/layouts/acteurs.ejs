@@ -8,8 +8,7 @@ layout: layouts/base.ejs
         <h1>
             <%=row['Nom'] %> --- <%=row.URL%>
         </h1>
-        <p><%=row.Localisation%></p>
-        <p><%=row.Nature%></p>
+        <p><%=row.Localisation%> --- <%=row.Nature%></p>
         <ol>
             <li><%=row["Expertise numérique 1"]%></li>
             <% if(row["Expertise numérique 2"]) { %>
