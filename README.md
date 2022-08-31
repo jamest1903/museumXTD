@@ -18,7 +18,7 @@ The applied research pilot project **MuseumXTD** ("museum extended") explores th
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ## Getting started
-### Install git for windows
+### Install git for window$
 First we need to clone the repository to our local windows machine from GitHub. We do that by installing 'git'. Please go to the [git-for-windows](https://gitforwindows.org/) website and follow the simple instructions to install.
 ### Clone the museumXTD project
 1. Open a terminal by pressing the *windows key* and start typing *terminal*. Select the **terminal** app from the programs list. The Terminal will open under the default location: C:/Users/XXXXX
