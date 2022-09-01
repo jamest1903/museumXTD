@@ -32,17 +32,11 @@ function extractExcerpt(article) {
 
   let excerpt = null;
   const content = article.templateContent;
-  // The start and end separators to try and match to extract the excerpt
-  const separator = '</h1>';
-  const startPosition = content.indexOf(separator);
-
-  if (startPosition != -1) {
-    const excerptHTML = content.substring(startPosition, content.length).trim();
-    // remove HTML tags
-    excerpt = excerptHTML.replace(/<\/?[^>]+(>|$)/g, "").trim();
-    // remove line breaks
-    excerpt = excerpt.replace(/(\r\n|\n|\r)/gm, "");
-  };
+  const excerptHTML = content.trim();
+  // remove HTML tags
+  excerpt = excerptHTML.replace(/<\/?[^>]+(>|$)/g, "").trim();
+  // remove line breaks
+  excerpt = excerpt.replace(/(\r\n|\n|\r)/gm, " ");
   return excerpt;
   }
 

@@ -1,8 +1,8 @@
 ---
 title: Stéphanie Lugon  
 layout: layouts/post.njk  
-date: 2022-08-19
-tags: #liens #forum 
+date: #2022-08-19
+tags: liens forum 
 
 ---
 ## Stéphanie Lugon

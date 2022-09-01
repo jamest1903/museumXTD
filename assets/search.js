@@ -22,10 +22,12 @@ async function setup() {
 }
 
 const search = function() {
-  const searchString = document.getElementById('searchString').value;
+  let searchString = document.getElementById('searchString').value;
   if (searchString.length < 3) {
     return;
   }
+  // # char used in tags is not been matched in lunrjs so removing
+  searchString = searchString.replace('#','');
   let searchResults = idx.search(searchString ? searchString: '');
   // we need to add title, url from ref
   searchResults.forEach(r => {
