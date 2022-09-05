@@ -7,8 +7,9 @@ tags: question
 
 *Descriptif en quelques phrases*
  
-1. Référence #1 (lien vers une note "liens")
-	- *Une phrase de descriptif*
+1. Référence #1 (lien vers une note "liens")  
+
+- *Une phrase de descriptif*  
 ...
 
 

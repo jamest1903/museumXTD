@@ -9,7 +9,7 @@ La stratégie numérique est propre à chaque institution (voir [[Exemples de st
 ## Les étapes 
 1. [[AMS. La pratique muséale numérique. Une approche globale.]]
 	- Le document fournit  une checklist de points à aborder pour élaborer une stratégie numérique. 
-2. [[Virage NumeriCQ - Stratégie numérique de l'intention à l'action]]
+2. [[Virage NumeriCQ. Stratégie numérique de l'intention à l'action]]
 	- Virage NumeriCQ propose une définition de la stratégie numérique ainsi que  divers outils pour sa mise en oeuvre. 
 
 ## Les outils
@@ -21,7 +21,7 @@ La stratégie numérique est propre à chaque institution (voir [[Exemples de st
 	- Cet outil a comme objectif de fournir une évaluation objective de la maturité numérique d'une petite organisation. 
 4. [[Virage NumeriCQ - Cartographie de ma transformation numérique]]
 	- Cet outil a comme objectif de formuler les besoins et objectifs pour cadrer la stratégie. 
-5. [[ Journée professionnelle - La Stratégie numérique dans les musées, pour une approche globale du numérique ]] 
+5. [[ Journée professionnelle. La Stratégie numérique dans les musées, pour une approche globale du numérique ]] 
 	- L'ancien directeur du musée Alfred Danicourt, l’un des plus petits musées des Hauts-de-France, insiste sur l'étape d'analyse et d'état des lieux (en utilisant des outils comme la matrice MOFF/SWOT). 
 
 

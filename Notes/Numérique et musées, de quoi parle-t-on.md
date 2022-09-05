@@ -36,7 +36,7 @@ Comment l'introduction du numérique au musée redéfinit le périmètre des act
 ### L'impact sur les formes de médiation au sein des expositions 
 
 ### L'impact sur l'existence virtuelle du musée 
-4. [[Journée professionnelle - La Stratégie numérique dans les musées, pour une approche globale du numérique]]
+4. [[Journée professionnelle. La Stratégie numérique dans les musées, pour une approche globale du numérique]]
 	- Pour les musées, il est aussi intéressant de voir le numérique à travers son impact sur la manière de travailler : « Profondément participatif, le numérique nous amène à repenser (…) l’élaboration de nos projets, (…) en nous obligeant à co-construire, mais également à développer une approche à la fois incrémentale et itérative dans la conduite de nos projets, permettant _in fine_ une plus grande agilité. »
 
 5. [[MuseumXTD - Quelles approches du numérique pour un musée en Suisse]]
