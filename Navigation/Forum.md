@@ -7,9 +7,9 @@ layout: layouts/post.njk
 
 #### Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à l'aula de la HEIG-VD, Yverdon-les-Bains. Ce symposium réunira musées et expert.e.s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
 
-- **Mercredi 12 octobre (9h-17h)** : présentations, retours d’expérience et tables rondes avec la présence de professionnel.le.s des musées, de chercheurs et chercheuses et de spécialistes du numérique
+- **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel.le.s des musées, de chercheurs et chercheuses et de spécialistes du numérique
 
-- **Jeudi 13 octobre (9h-12h)** : présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
+- **Jeudi 13 octobre (9h-12h)**: présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
 
 ###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAEYJgeXLLfXwkZSw8_GgKt0WtPF7tkDuXbQC-I6VpXf9M37Um2mOFLesH4b_51ohnWkHkOKuSpLrk1qALGkfc0gYvvFoayAcCXoNzniVbnU6Tvq1Zch_Laj2LPmyVSzU8RQVi1QSi6eyvXNxgNT129acM05YVXB2Liai9ihK5HlwnSv18aVh82rbuZo23E9W0velqwDjvioB)** <br> [Programme 2022](#Programme) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
 
@@ -79,7 +79,7 @@ Directeur, {CORRESPONDANCES DIGITALES] [lien ici](https://correspondances.co/) (
 
 
 
-- #### [[MuseumXTD - Les données visiteurs, un outil au service d'une meilleure connaissance de vos publics|Les données visiteurs : un outil au service d'une meilleure connaissance de vos publics]]
+- #### [[MuseumXTD - Les données visiteurs, un outil au service d'une meilleure connaissance de vos publics|Les données visiteurs: un outil au service d'une meilleure connaissance de vos publics]]
 - *11h05-11h25*
 
 [Fabien Morf](https://www.linkedin.com/in/fabienmorf/)  
@@ -90,7 +90,7 @@ Directrice du développement international, [Arenametrix](https://arenametrix.co
 
 
 
-- #### [[MuseumXTD - Tatiana Jullier|Le musée numérique en toute légalité : quelles questions se poser ?]]
+- #### [[MuseumXTD - Tatiana Jullier|Le musée numérique en toute légalité: quelles questions se poser ?]]
 - *11h25-11h45*
 
 [Tatiana Jullier](https://www.linkedin.com/in/tatiana-jullier-53918b209/?originalSubdomain=ch)  
@@ -276,7 +276,7 @@ Directrice, [Espace des Inventions](https://www.espace-des-inventions.ch/) (CH)
 
 
 
-- #### [[MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité|Villa « Le Lac » 2.0 : quand le voyage dans le temps devient une réalité]]
+- #### [[MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité|Villa « Le Lac » 2.0: quand le voyage dans le temps devient une réalité]]
 - *10h50-11h00*
 
 [Patrick Moser](https://www.linkedin.com/in/patrickmosertraductions/)  
@@ -284,7 +284,7 @@ Conservateur, [Villa « Le Lac » Le Corbusier](https://villalelac.ch/fr/exposit
 
 
 
-- #### [[MuseumXTD - Déploiement numérique de l’offre au public, enjeux d’un projet global|Déploiement numérique de l’offre au public : enjeux d’un projet global]]
+- #### [[MuseumXTD - Déploiement numérique de l’offre au public, enjeux d’un projet global|Déploiement numérique de l’offre au public: enjeux d’un projet global]]
 - *11h00-11h15*
 
 [Vincent Fontana](https://www.linkedin.com/in/vincent-fontana/)  
@@ -308,7 +308,7 @@ Professeur UNIL & directeur, [Musée de la main UNIL-CHUV](https://www.museedela
 
 
 
-- #### [[MuseumXTD - Présentation du projet Temps de Jeu VR de l'Archeolab|Temps de jeu : La réalité virtuelle au service de l’histoire vivante]]
+- #### [[MuseumXTD - Présentation du projet Temps de Jeu VR de l'Archeolab|Temps de jeu: La réalité virtuelle au service de l’histoire vivante]]
 - *11h40-11h50*
 
 [[Delphine Rivier]]  

@@ -15,9 +15,9 @@ Conduit par la société Concilio, les Musées de Pully et la HEIG-VD, le projet
 
 Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à l'aula de la HEIG-VD, Yverdon-les-Bains. Ce symposium réunira musées et expert.e.s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
 
-- **Mercredi 12 octobre (9h-17h)** : présentations, retours d’expérience et tables rondes avec la présence de professionnel.le.s des musées, de chercheurs et chercheuses et de spécialistes du numérique
+- **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel.le.s des musées, de chercheurs et chercheuses et de spécialistes du numérique
 
-- **Jeudi 13 octobre (9h-12h)** : présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
+- **Jeudi 13 octobre (9h-12h)**: présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
 
 [Voir le Programme](Navigation/Forum/index.html#Programme)
 
@@ -29,6 +29,6 @@ Cette section offre une sélection de réflexions, d'exemples et d'outils suisse
 **Mise en ligne octobre 2022**
 
 ## Le projet Ramuz
-Un cas d'étude a été réalisé au sein du projet-pilote de recherche appliquée **MuseumXTD** : il s'agit d'un dispositif numérique, mené par les Musées de Pully dans le cadre de la mise en place d'un espace consacré à C. F. Ramuz et à la littérature, dont l’ouverture est prévue en 2023. 
+Un cas d'étude a été réalisé au sein du projet-pilote de recherche appliquée **MuseumXTD**: il s'agit d'un dispositif numérique, mené par les Musées de Pully dans le cadre de la mise en place d'un espace consacré à C. F. Ramuz et à la littérature, dont l’ouverture est prévue en 2023. 
 
 **Mise en ligne octobre 2022**
