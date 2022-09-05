@@ -16,7 +16,7 @@ Il propose des ressources destinées aux professionnels québécois mais égalem
 	- une note sur la [stratégie numérique](obsidian://open?vault=MuseumXTD%20(site%20internet)&file=Virage%20NumeriCQ%20-%20Strat%C3%A9gie%20num%C3%A9rique%20de%20l'intention%20%C3%A0%20l'action)
 
 Pages liées au projet: 
-- [[Virage NumeriCQ. Stratégie numérique de l'intention à l'action]]
+- [[Stratégie numérique. De l'intention à l'action]]
 - [[Virage NumeriCQ - Cartographie de ma transformation numérique]]
 - [[Virage NumeriCQ - Diagnostic de maturité numérique]]
 

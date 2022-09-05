@@ -1,5 +1,6 @@
-# museumXTD
-The applied research pilot project **MuseumXTD** ("museum extended") explores the challenges of the digital transition within small and medium-sized museums.
+# MuseumXTD website
+
+The MuseumXTD website uses simple text files in .markdown format to store its content. It needs Obsidian on a computer to edit the content and GitHub to host the pages. 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -18,6 +19,54 @@ The applied research pilot project **MuseumXTD** ("museum extended") explores th
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ## Getting started
+
+**The recommanded editing process is as follows:**
+
+- Pull the latest version of the website with the GitHub Desktop app 
+- Edit the files in the Obsidian app
+- Push the changes with the GitHub Desktop app
+
+You will need a GitHub account and permission to access the repository. 
+
+
+### Install the Github Desktop app  
+
+First you will need to clone the repository (the website content) to your personal computer. Go to the [GitHub Desktop page](https://desktop.github.com), download and install the app on your computer.
+
+#### Signing-in
+
+Open GitHub desktop and sign-in with your GitHub account.
+Windows: menu File > Options. In the options window, click Accounts and follow the steps to sign in.
+MacOS: menu GitHub Desktop > Preferences. In the preference window, click Accounts and follow the steps to sign in.
+
+#### Getting the content onto your computer
+1. Go to the [MuseumXTD repository page](https://github.com/MediaComem/museumXTD/)
+1. Click the Clone button 
+1. Copy the URL
+1. Open the GitHub Desktop app
+1. Go to menu File > Clone repository. Click on the URL tab and paste in the field named "Repository URL or GitHub username and repository".
+
+You will see a new folder called **museumXTD** inside of your Documents > GitHub folder which contains all the project files.
+
+### Install Obsidian
+If you wish to view the projects Markdown files and make changes or add new content you can do this via Obsidian. There are instructions on the [Obsidian-website](https://obsidian.md/) on how to install this tool. Once done you can select **Open folder as vault** and select the recently cloned project **museumXTD** which was created in your documents folder in the steps above.
+
+#### Making changes
+Before making changes make sure you have the latest version of the content.
+0. In GitHub Desktop check that the current branch is `main`
+0. Click "Fetch Origin"
+
+In Obsidian edit the content in the Notes folder. Only files saved to the Notes folder will be published on the website. 
+
+### Publishing to the website
+Open GitHub Desktop 
+0. Write a summary about your changes
+0. Click the *Commit* button
+
+!(images/read-me-images/Screenshot 2022-09-05 at 16.07.30.png)
+
+## Alternative setup with Obsidian Git
+
 ### Install git for windows
 First we need to clone the repository to our local windows machine from GitHub. We do that by installing 'git'. Please go to the [git-for-windows](https://gitforwindows.org/) website and follow the simple instructions to install. You will need to have your GitHub account added to the repository by the admin to be able to pust new commits. 
 1. Set your git email address and username
