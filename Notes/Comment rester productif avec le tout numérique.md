@@ -10,7 +10,7 @@ Impossible de nier que le numérique facilite le partage d’informations et le 
 
 En effet, le travailleur doit capter, traiter et restituer des informations à raison d'une dizaine en moyenne en même temps alors que notre mémoire de travail à court terme est limité à 7 ou 8 éléments. Le cerveau peut être alors en surcharge et avoir des problèmes d'attention.
 
-Plusieurs solutions sont évoquées dans cet article :
+Plusieurs solutions sont évoquées dans cet article:
 
 1) **Comprendre le fonctionnement de notre cerveau** par la métacognition (penser sur ses propres pensées) - « À cet instant précis, où va mon attention ? Est-ce que j’ai passé trop de temps sur cette tâche ? Pourquoi ? »
 

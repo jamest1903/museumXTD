@@ -17,13 +17,13 @@ La gratuité des réseaux sociaux fait souvent de ces derniers un outil rentable
 Comment développer une stratégie sur les réseaux sociaux ?
 Bien qu'une stratégie visant des résultats bien précis nécessite le recours à un professionnel compétent, la gestion général des réseaux sociaux demande simplement des compétences technologiques de bases ainsi qu'un niveau raisonnable de maîtrise des concepts de marketing. 
 
-ETAPES : 
-1. Définir l'objectif de la stratégie : pourquoi l'institution a-t-elle besoin de développer une stratégie sur les réseaux sociaux ? 
-2. Définir les publics cibles : qui sont-ils et quels seraient leurs intérêts à suivre l'institution sur les réseaux ?
+ETAPES: 
+1. Définir l'objectif de la stratégie: pourquoi l'institution a-t-elle besoin de développer une stratégie sur les réseaux sociaux ? 
+2. Définir les publics cibles: qui sont-ils et quels seraient leurs intérêts à suivre l'institution sur les réseaux ?
 3. Déterminer quel type(s) de post engendre le plus d'engagement ? 
 4. Affiner la stratégie
 
 RAPPELS 
 - les réseaux sociaux ont tendance à bien fonctionner dans des niches et il paraît pertinent alors de cibler un groupe démographique en particulier pour commencer
-- des données peuvent être accessibles et exploitables pour une meilleure connaissance : il reste néanmoins important de garder une distance critique vis-à-vis des données (notamment ceux issus des plateformes), qui sont souvent loin d'être exhaustives. 
+- des données peuvent être accessibles et exploitables pour une meilleure connaissance: il reste néanmoins important de garder une distance critique vis-à-vis des données (notamment ceux issus des plateformes), qui sont souvent loin d'être exhaustives. 
 - à ressources limitées, privilégiez un ou deux réseaux sociaux

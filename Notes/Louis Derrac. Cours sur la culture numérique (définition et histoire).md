@@ -6,7 +6,7 @@ tags: #liens #durabilite
 ---
 
 [Derrac, L. (2019). *Culture Numérique*](https://louisderrac.com/files/cours/culture-numerique/culture-numerique-1.pdf)
-Ce cours permet de mieux comprendre ce que l'on entend par _culture numérique_. Il propose :
+Ce cours permet de mieux comprendre ce que l'on entend par _culture numérique_. Il propose:
 
 ## A retenir
 - Une définition du numérique et de la culture numérique (à partir de la _slide_ 12).

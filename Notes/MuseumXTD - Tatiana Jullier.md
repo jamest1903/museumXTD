@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens forum francais
 ---
-## Le musée numérique en toute légalité : quelles questions se poser ?
+## Le musée numérique en toute légalité: quelles questions se poser ?
 
  [Tatiana Jullier](https://www.linkedin.com/in/tatiana-jullier-53918b209/?originalSubdomain=ch)  
 Avocate, [LALIVE](https://www.lalive.law/) (CH) 

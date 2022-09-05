@@ -21,4 +21,4 @@ Elle prend généralement la forme d'un document qui formalise les objectifs et 
 	- Voici quelques exemples concrets de stratégie numérique de grands musées à travers le monde. 
 
 
-Voir également : [[Comment élaborer une stratégie numérique|Comment élaborer une stratégie numérique ?]]
+Voir également: [[Comment élaborer une stratégie numérique|Comment élaborer une stratégie numérique ?]]

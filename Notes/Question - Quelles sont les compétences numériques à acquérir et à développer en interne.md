@@ -10,9 +10,9 @@ Certaines compétences liées au numérique nécessitent une expertise et un sav
 
 A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compétences de plus en plus *demandées* dans les musées.  
 
-## Collection : Numérisation des collections
+## Collection: Numérisation des collections
 - Voir [[Tate - Archives and access toolkit]]
-## Curation : Création de formats numériques
+## Curation: Création de formats numériques
 - Utilisation de catalogues numériques et de systèmes de gestion des actifs numériques
 - Utilisation de la photographie numérique et la manipulation d'images
 - Utilisation des médias sociaux
@@ -23,7 +23,7 @@ A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compét
 - Compréhension et connaissance du sujet de la propriété intellectuelle et autres sujets d'ordre légal
 	- Voir [[MuseumXTD - Tatiana Jullier]]
 	- Voir [[Cyber Sain et Sauf - Imaa]]
-## Marketing et communication : Diversification de la participation de publics plus larges 
+## Marketing et communication: Diversification de la participation de publics plus larges 
 - Utilisation des plateformes de médias sociaux
 	- Voir [[Question - Comment utiliser les réseaux sociaux]]
 - Utilisation des plateformes de musique numérique
@@ -34,7 +34,7 @@ A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compét
 - Utilisation la réalité augmentée/virtuelle
 	- Voir les définitions dans [[The impact of digital technology on arts culture in the UK]]
 - Capacité à concevoir et élaborer des stratégies, des politiques et des orientations pour garantir une réponse coordonnée et réfléchie au numérique
-## Education et apprentissage :  
+## Education et apprentissage:  
 - Création de ressources d'apprentissage interactives
 - Conception de ressources en ligne
 	- [[MuseumXTD - 0 1 Hub numérique]]

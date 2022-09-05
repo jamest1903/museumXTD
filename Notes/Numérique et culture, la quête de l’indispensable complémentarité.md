@@ -8,10 +8,10 @@ tags: liens mediation
 
 La conférence formalise le retour de trois professionnels d'institutions culturelles (cinéma, musée, analyse des politiques culturelles) et met en valeur la nécessité de penser le numérique dans une utilisation complémentaire à la production initiale de ces institutions. 
 
-Quelques concepts à retenir : 
+Quelques concepts à retenir: 
 - **On assiste à une individualisation de la consommation culturelle, accélérée par le numérique**. Pour Emmanuel Vergès, "il n’y a pas de substitution complète du numérique, mais il y a une forme de composition avec les autres pratiques". Aujourd'hui, on consomme plus la radio via des podcasts, la télé via du replay. Quid des contenus du musées ? 
 
-- **Les pratiques culturelles devraient prendre en compte les cultures à domiciles et culture de la contribution**. La crise du COVID-19 a permis de reconstruire la pratique collective à partir des espaces à domicile (faire venir chez nous) et aussi de co-produire des pratiques amateurs à partir de chez nous (produire et développer depuis le domicile). Ainsi la question de l'espace de consommation et de production des biens culturels se pose. L'adaptation du secteur au numérique se fera entre autres grâce aux politiques culturelles, qui doivent faire face à trois enjeux é venir, selon Emmanuel Vergès :  
+- **Les pratiques culturelles devraient prendre en compte les cultures à domiciles et culture de la contribution**. La crise du COVID-19 a permis de reconstruire la pratique collective à partir des espaces à domicile (faire venir chez nous) et aussi de co-produire des pratiques amateurs à partir de chez nous (produire et développer depuis le domicile). Ainsi la question de l'espace de consommation et de production des biens culturels se pose. L'adaptation du secteur au numérique se fera entre autres grâce aux politiques culturelles, qui doivent faire face à trois enjeux é venir, selon Emmanuel Vergès:  
 	- "« réinventer des médiations à l’aune du nouveau contexte de création et de réception des œuvres
 	- questionner la place à donner aux pratiques culturelles du domicile dans nos institutions collectives
 	- et enfin, légitimer ces cultures de la contribution »."
