@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
-date: {{date:YYYY-MM-DD}}
-tags: #liens #forum 
+tags: liens forum 
 
 ---
 ## Titre de l'intervention

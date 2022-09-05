@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: {{date:YYYY-MM-DD}}
-tags: #question
+tags: question
 ---
 # Intitulé de la question
 

@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: {{date:YYYY-MM-DD}}
-tags: #liens
+tags: liens
 ---
 NOM, P. (date). *Titre*. Edition, ville, pages etc. 
 *format APA*
