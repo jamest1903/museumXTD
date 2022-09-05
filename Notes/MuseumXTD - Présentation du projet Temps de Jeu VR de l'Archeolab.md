@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens forum francais
 ---
-#### Présentation du projet Temps de Jeu VR de l'Archeolab
+Temps de jeu: La réalité virtuelle au service de l’histoire vivante
 
 [[Delphine Rivier]]  
 Directrice des [Musées de Pully](http://www.museedartdepully.ch) (CH)  
