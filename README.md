@@ -6,9 +6,16 @@ The MuseumXTD website uses simple text files in .markdown format to store its co
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
   - [Getting started](#getting-started)
+    - [Install the Github Desktop app](#install-the-github-desktop-app)
+      - [Signing-in](#signing-in)
+      - [Getting the content onto your computer](#getting-the-content-onto-your-computer)
+    - [Install Obsidian](#install-obsidian)
+      - [Making changes](#making-changes)
+    - [Publishing to the website](#publishing-to-the-website)
+  - [Alternative setup with Obsidian Git](#alternative-setup-with-obsidian-git)
     - [Install git for windows](#install-git-for-windows)
     - [Clone the museumXTD project](#clone-the-museumxtd-project)
-    - [Install Obsidian](#install-obsidian)
+    - [Install Obsidian](#install-obsidian-1)
     - [Configuring Obsidian to automatically sync with GitHub to pull latest changes and to push new content](#configuring-obsidian-to-automatically-sync-with-github-to-pull-latest-changes-and-to-push-new-content)
       - [Some basic commands](#some-basic-commands)
   - [Adding new MarkDown files](#adding-new-markdown-files)
