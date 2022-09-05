@@ -1,0 +1,71 @@
+---
+layout: layouts/post.njk
+---
+<br>
+<h1>Ecosystème</h1>
+<p>Le projet MuseumXTD a notamment pour objectif de mieux comprendre quels sont les projets - dans les musées, dans les institutions académiques et au sein des agences - qui soutiennent les réflexions et mènent des projets de transformation digitale dans les musées du Canton de Vaud et plus largement, en Suisse.</p>
+<h3>Documentation</h3>
+<p>Enquête sur la digitalisation des musées de Suisse romande, vers une virtualisation de la culture Video - Forum J1:Alexandre Camus: Stratégie numérique des musées cantonaux vaudois</p>
+<div class="csvHeaderWrapper">
+    <div class="tab">
+        <button class="tablinks active" onclick="openTab(event, 'acteurs')">acteurs</button>
+        <button class="tablinks" onclick="openTab(event, 'projects')">projects</button>
+    </div>
+    <div id="acteurs" class="tabcontent" style="display: block">
+        <p>La liste de ces actrices et acteurs du changement n'est pas exhaustive. Vous pouvez nous contacter pour ajouter vos projets et références.</p>
+        <% csvReader.acteursData.forEach((row)=>{%>
+        <article>
+            <h3>
+                <%=row['Nom'] %> --- <%=row.URL%>
+            </h3>
+            <p><%=row.Localisation%> --- <%=row.Nature%></p>
+            <p><%=row["Expertise numérique 1"]%></p>
+            <% if(row["Expertise numérique 2"]) { %>
+                <p><%=row["Expertise numérique 2"]%></p>
+            <%} %>
+            <% if(row["Expertise numérique 3"]) { %>
+                <p><%=row["Expertise numérique 3"]%></p>
+            <%} %>
+            <% if(row["Expertise numérique 4"]) { %>
+                <p><%=row["Expertise numérique 4"]%></p>
+            <%} %>
+        </article>
+        <%});%>
+    </div>
+    <div id="projects" class="tabcontent">
+        <% csvReader.projectsData.forEach((row)=>{%>
+        <article>
+            <h3>
+                <%=row['Nom'] %> --- <%=row.URL%>
+            </h3>
+            <p><%=row["Début du projet"]%> -- <%=row.Localisation%></p>
+            <p><%=row.Descriptif%></p>
+            <p><%=row["Porteur de projet 1"]%></p>
+            <% if(row["Porteur de projet 2"]) { %>
+                <p><%=row["Porteur de projet 2"]%></p>
+            <%} %>
+            <% if(row["Porteur de projet 3"]) { %>
+                <p><%=row["Porteur de projet 3"]%></p>
+            <%} %>
+            <% if(row["Porteur de projet 4"]) { %>
+                <p><%=row["Porteur de projet 4"]%></p>
+            <%} %>
+        </article>
+        <%});%>
+    </div>
+</div>
+<script>
+function openTab(evt, tabName) {
+    var i, tabcontents, tablinks;
+    tabcontents = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontents.length; i++) {
+    tabcontents[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+</script>
