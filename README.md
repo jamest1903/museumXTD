@@ -36,7 +36,9 @@ First you will need to clone the repository (the website content) to your person
 #### Signing-in
 
 Open GitHub desktop and sign-in with your GitHub account.
+
 Windows: menu File > Options. In the options window, click Accounts and follow the steps to sign in.
+
 MacOS: menu GitHub Desktop > Preferences. In the preference window, click Accounts and follow the steps to sign in.
 
 #### Getting the content onto your computer
@@ -63,7 +65,7 @@ Open GitHub Desktop
 0. Write a summary about your changes
 0. Click the *Commit* button
 
-!(images/read-me-images/Screenshot 2022-09-05 at 16.07.30.png)
+![](images/read-me-images/Screenshot 2022-09-05 at 16.07.30.png)
 
 ## Alternative setup with Obsidian Git
 
