@@ -308,7 +308,7 @@ Professeur UNIL & directeur, [Musée de la main UNIL-CHUV](https://www.museedela
 
 
 
-- #### [[MuseumXTD - Présentation du projet Temps de Jeu VR de l'Archeolab|Présentation du projet Temps de Jeu VR de l'Archeolab]]
+- #### [[MuseumXTD - Présentation du projet Temps de Jeu VR de l'Archeolab|Temps de jeu : La réalité virtuelle au service de l’histoire vivante]]
 - *11h40-11h50*
 
 [[Delphine Rivier]]  
