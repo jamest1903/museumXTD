@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: liens outils management
 ---
 
-[Virage NumeriCQ - Cartographie de ma transformation numérique](https://viragenumeriqc.com/culture-et-numerique/cartographie-transformation-numerique/)
+[Virage NumeriCQ. Cartographie de ma transformation numérique](https://viragenumeriqc.com/culture-et-numerique/cartographie-transformation-numerique/)
 
 Cet outil a comme objectif de formuler les besoins et objectifs pour cadrer la stratégie.
 

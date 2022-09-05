@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: liens outils management
 ---
 
-[Virage NumeriCQ - Diagnostic de maturité numérique](https://docs.google.com/spreadsheets/d/1d77BekbvXFDBTZjhSDKhZvQjIY2dtMNPZPDiyw-Nq2Y/edit#gid=963154001)
+[Virage NumeriCQ. Diagnostic de maturité numérique](https://docs.google.com/spreadsheets/d/1d77BekbvXFDBTZjhSDKhZvQjIY2dtMNPZPDiyw-Nq2Y/edit#gid=963154001)
 
 Cet outil a comme objectif de fournir une évaluation objective de la maturité numérique d'une petite organisation. 
 
@@ -15,6 +15,6 @@ Cet outil a comme objectif de fournir une évaluation objective de la maturité 
 - L'équipe de [[MuseumXTD - 0 1 Hub numérique|0/1 Hub numérique]] intervient le 12 octobre 2022 lors du forum MuseumXTD
 
 
-Cette ressource fait partie du projet plus général Virage NumériCQ. [En savoir plus sur le projet](obsidian://open?vault=MuseumXTD%20(site%20internet)&file=Virage%20NumeriCQ). 
+Cette ressource fait partie du projet plus général [[Virage NumériCQ]]. [En savoir plus sur le projet](obsidian://open?vault=MuseumXTD%20(site%20internet)&file=Virage%20NumeriCQ). 
 
 Apparaît dans [[Comment élaborer une stratégie numérique]]

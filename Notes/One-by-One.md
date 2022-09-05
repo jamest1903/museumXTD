@@ -26,7 +26,7 @@ L'étude développe le concept de "digital literacy" ou "habilité numérique", 
 
 Lu dans l'étude (et traduit): "le personnel des petits musées a tendance à être responsable d'un certain nombre de tâches, et les rôles de gestion ont tendance à comporter un élément numérique plus important. Par conséquent, la demande de compétences numériques se concentre souvent sur des postes qui ne sont pas nécessairement spécifiques au numérique." (p.20)
 
-Deux des chercheurs sont intervenus dans la [[La Stratégie numérique dans les musées, pour une approche globale du numérique]] de 2018. Leur présentation et texte peuvent être retrouvés [ici](https://www.culture.gouv.fr/Thematiques/Musees/Les-musees-en-France/Les-politiques-des-musees-de-France/Colloques-et-journees-d-etudes-des-musees-de-France/Publications-colloques/Journee-professionnelle-La-strategie-numerique-dans-les-musees-Paris-05-10-2018). 
+Deux des chercheurs sont intervenus dans la [[La Stratégie numérique dans les musées. Pour une approche globale du numérique]] de 2018. Leur présentation et texte peuvent être retrouvés [ici](https://www.culture.gouv.fr/Thematiques/Musees/Les-musees-en-France/Les-politiques-des-musees-de-France/Colloques-et-journees-d-etudes-des-musees-de-France/Publications-colloques/Journee-professionnelle-La-strategie-numerique-dans-les-musees-Paris-05-10-2018). 
 
 
 Project#2 (2020) - [Structuring Museums to Deliver New Digital Experiences
