@@ -1,7 +1,7 @@
 ---
 title: Delphine Rivier  
 layout: layouts/post.njk
-tags : liens forum
+tags: liens forum
 ---
 
 ## Delphine Rivier

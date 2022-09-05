@@ -5,9 +5,9 @@ tags: liens rapport communication financement projet
 ---
 [MUSEUM BOOSTER (2021). Museum innovation Barometer](https://museumbooster.com/wp-content/uploads/2021/08/Museum-Innovation-Barometer-2021.pdf)
 
-Ce rapport synthétise :
+Ce rapport synthétise:
 
-- Les résultat du sondage : "An overview how museums worldwide are using technologies", pour : 
+- Les résultat du sondage: "An overview how museums worldwide are using technologies", pour: 
 	- les expositions
 	- la médiation
 	- la communication et les "feedbacks"

@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: question
 ---
 # Quelles sont les méthodologies liées au numérique à connaître ?
-Blandine Chavanne (ancienne cheffe du Service des musées de France par intérim) affirmait lors de la [[Journée professionnelle. La Stratégie numérique dans les musées, pour une approche globale du numérique]]) : "Profondément participatif, le numérique nous amène à repenser la méthodologie de l’élaboration de nos projets, en favorisant, ou plutôt, en nous obligeant à co-construire, mais également à développer une approche à la fois incrémentale et itérative dans la conduite de nos projets, permettant in fine une plus grande agilité.".
+Blandine Chavanne (ancienne cheffe du Service des musées de France par intérim) affirmait lors de la [[Journée professionnelle. La Stratégie numérique dans les musées, pour une approche globale du numérique]]) :"Profondément participatif, le numérique nous amène à repenser la méthodologie de l’élaboration de nos projets, en favorisant, ou plutôt, en nous obligeant à co-construire, mais également à développer une approche à la fois incrémentale et itérative dans la conduite de nos projets, permettant in fine une plus grande agilité.".
 
 
 
@@ -34,7 +34,7 @@ Innover réfère à la faculté de renouveler les propositions de solutions face
 	- Cet Innovation Workbook rapporte la méthodologie utilisée lors de *Museum as innovation platforms*, projet de deux années mené par Aboa Vetus & Ars Nova avec le Musée de la technologie d'Helsinki, l'Université humaniste des sciences appliquées Humak et la Junior Achievement Finland.
 
 ### Programmes locaux 
-7. [Open Geneva](https://opengeneva.org/), le festival d'innovation ouverte qui propose :
+7. [Open Geneva](https://opengeneva.org/), le festival d'innovation ouverte qui propose:
 	- des meetups mensuels
 	- un outil maison pour les hackathons (la Sparkboard)
 	- une plateforme de communication des projets en innovation ouverte
@@ -51,4 +51,4 @@ De plus en plus avec le numérique, les projets sont gérer en collaboration ave
 
 Video J1
 
-Olivier Ross: : Technothérapie
+Olivier Ross:: Technothérapie

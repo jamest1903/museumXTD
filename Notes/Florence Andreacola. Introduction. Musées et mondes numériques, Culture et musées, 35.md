@@ -7,7 +7,7 @@ tags: liens strategie
 [Andreacola, F. (2020). Introduction. *Culture et musées*, 35, 11-23.](https://journals.openedition.org/culturemusees/4381)
 
 
-Elle introduit ici le numéro de *Culture et musées*, dédié aux mondes numériques, et affirme que l'institution muséale a été "transformée et fragmentée par le numérique" selon trois axes : 
+Elle introduit ici le numéro de *Culture et musées*, dédié aux mondes numériques, et affirme que l'institution muséale a été "transformée et fragmentée par le numérique" selon trois axes: 
 1. le virage organisationnel (et notamment l'informatisation des collections)
 2. l'évolution numérique du média exposition et la co-construction de l'expérience muséale avec les visiteurs eux-mêmes
 3. l'apport de l'environnement médiatique du web aux contenus muséaux

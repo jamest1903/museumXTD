@@ -6,9 +6,9 @@ tags: #liens
 ---
 # Exemples de stratégie numérique de musées
 
-La stratégie numérique d'un musée relève de choix qui lui sont propres, en fonction de son environnement, ses objectifs et son positionnement face à ses collections et ses publics. Ci-dessous quelques exemples concrets de stratégie numérique de grands musées à travers le monde : 
+La stratégie numérique d'un musée relève de choix qui lui sont propres, en fonction de son environnement, ses objectifs et son positionnement face à ses collections et ses publics. Ci-dessous quelques exemples concrets de stratégie numérique de grands musées à travers le monde: 
 
-## A retenir : 
+## A retenir: 
 - [Chastagner, M. (05.03.2021). Agnès Benayer, Centre Pompidou: « La crise du covid-19 a indéniablement été un accélérateur pour notre transformation numérique ». *Club Innovation Culture*](http://www.club-innovation-culture.fr/itv-agnes-benayer-centre-pompidou-mars-2021/)
 	- Dans cette interview de CLIC, Agnès Benayer, directrice de la communication et du numérique du Centre Pompidou, évoque l'accélération de la stratégie numérique du musée grâce à sa mise en place en amont de la crise sanitaire. 
 - La [stratégie numérique du Louvre](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Presentation-de-Mme-Marion-Oechsli)
@@ -19,4 +19,4 @@ La stratégie numérique d'un musée relève de choix qui lui sont propres, en f
 	- Pour le directeur du Met, la pandémie a été une période d'expansion des activités du musée (la plus grande de ce siècle dernier), notamment grâce au numérique.
 
 
-Voir également : [[Comment élaborer une stratégie numérique]], [[Qu'est-ce qu'une stratégie numérique]]
+Voir également: [[Comment élaborer une stratégie numérique]], [[Qu'est-ce qu'une stratégie numérique]]

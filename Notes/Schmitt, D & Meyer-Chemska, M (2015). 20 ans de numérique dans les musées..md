@@ -6,16 +6,16 @@ tags: liens mediation
 
 [Schmitt, D & Meyer-Chemska, M (2015). 20 ans de numérique dans les musées. _La Lettre de l’OCIM_, p53-57]()
 
-Extrait : 
+Extrait: 
 "À partir d’un rappel historique de l’usage du numérique dans les musées, les auteurs montrent comment les différents outils développés et leurs évolutions ont influé sur l’expérience de visite et comment une approche critique de la médiation numérique par les institutions muséales permet de penser la médiation globale de l’exposition."
 
-Cet article développe une définition du "post-numérique" : 
+Cet article développe une définition du "post-numérique": 
 Le terme de "post-numérique" est utilisé pour signifier un effacement des technologies qui ne contraindraient plus les visiteurs à constamment s'adapter (« Car c’est de l’effacement des interfaces par les usages dans le quotidien que viendra l’opportunité de penser ces dispositifs au service des visiteurs. »). C'est l'idée que l'utilisation du numérique devrait être transparente pour les utilisateurs, soit que sa prise en main ne devrait pas nécessité un effort plus que nécessaire qui dégraderait la consommation du contenu. En d'autres termes, la forme ne devrait pas supplanter le contenu. 
 
 Les musées peuvent être à la fois un lieu d'innovation technologique tout en gardant une approche critique et exigeant que le numérique se place au niveau du discours et non l'inverse. Ils ne doivent pas déléguer la construction du sens aux nouvelles technologies.
 
 
-Les auteurs : 
+Les auteurs: 
 
 - Daniel Schmitt est Professeur des Universités en sciences de l'information et de la communication à l'Université polytechnique Hauts-de-France. Ses recherches portent sur la construction de sens, sur la dynamique cognitive et émotionnelle de l’expérience vécue dans les musées, en particulier lors de médiations instrumentées et dans des situations d'éducation non-formelle. [Source](https://hal.archives-ouvertes.fr/DANIEL_SCHMITT)
 

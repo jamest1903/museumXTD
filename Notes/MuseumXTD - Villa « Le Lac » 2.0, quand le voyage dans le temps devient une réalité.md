@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens forum francais
 ---
-## Villa « Le Lac » 2.0 : quand le voyage dans le temps devient une réalité
+## Villa « Le Lac » 2.0: quand le voyage dans le temps devient une réalité
 
 [Patrick Moser](https://www.linkedin.com/in/patrickmosertraductions/)  
 Conservateur, [Villa « Le Lac » Le Corbusier](https://villalelac.ch/fr/expositions) (CH)

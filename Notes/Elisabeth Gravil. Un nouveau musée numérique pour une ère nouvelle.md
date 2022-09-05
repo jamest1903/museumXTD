@@ -11,7 +11,7 @@ L'auteure aborde la question de l'intégration du numérique comme développemen
 ## A retenir
 - L'utilisation du numérique peut servir les missions du musée, mais encore faut-il définir une stratégie et considérer le numérique comme une ressource à optimiser selon sa vision, ses buts et son environnement. 
 - Définir une stratégie, c'est lier tout ce que faire le musée. 
-- La [transformation numérique](https://miro.medium.com/max/1400/1*Akhqk_swRs2_pe_-IRQVBA.png) est une question de priorité et de changements progressifs : il s'agit d'abord d'optimiser l'existant puis de dégager du temps pour développer de nouveaux services. 
+- La [transformation numérique](https://miro.medium.com/max/1400/1*Akhqk_swRs2_pe_-IRQVBA.png) est une question de priorité et de changements progressifs: il s'agit d'abord d'optimiser l'existant puis de dégager du temps pour développer de nouveaux services. 
 - L'utilisation du numérique peut aider à l'automatisation de certaines tâches. 
 - L'adoption de méthodes agile peut faciliter la prise de décision. 
 - Il devient nécessaire de considérer tous les types de publics, notamment les publics en ligne. 
