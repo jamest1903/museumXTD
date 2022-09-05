@@ -24,8 +24,10 @@
   "enabledPlugins": [],
   "obsidianCss": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes",
+  "newFileFolderPath": "Notes",
   "foldIndent": true,
   "foldHeading": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "trashOption": "local"
 }
