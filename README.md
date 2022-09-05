@@ -50,6 +50,8 @@ MacOS: menu GitHub Desktop > Preferences. In the preference window, click Accoun
 
 You will see a new folder called **museumXTD** inside of your Documents > GitHub folder which contains all the project files.
 
+![screenshot of github desktop](/images/read-me-images/screenshot-repository-page.png)
+
 ### Install Obsidian
 If you wish to view the projects Markdown files and make changes or add new content you can do this via Obsidian. There are instructions on the [Obsidian-website](https://obsidian.md/) on how to install this tool. Once done you can select **Open folder as vault** and select the recently cloned project **museumXTD** which was created in your documents folder in the steps above.
 
@@ -57,6 +59,8 @@ If you wish to view the projects Markdown files and make changes or add new cont
 Before making changes make sure you have the latest version of the content.
 1. In GitHub Desktop check that the current branch is `main`
 1. Click "Fetch Origin"
+
+![screenshot of github desktop](/images/read-me-images/screenshot-github_desktop-branch.png)
 
 In Obsidian edit the content in the Notes folder. Only files saved to the Notes folder will be published on the website. 
 
