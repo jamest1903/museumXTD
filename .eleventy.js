@@ -24,12 +24,12 @@ const getAllFiles = function(dirPath, arrayOfFiles) {
 }
 
 // https://keepinguptodate.com/pages/2019/06/creating-blog-with-eleventy/
+// creates the content for each MD file in the searchIndex json
 function extractExcerpt(article) {
   if (!article.hasOwnProperty('templateContent')) {
     console.warn('Failed to extract excerpt: Document has no property "templateContent".');
     return null;
   }
-
   let excerpt = null;
   const content = article.templateContent;
   const excerptHTML = content.trim();
@@ -37,6 +37,12 @@ function extractExcerpt(article) {
   excerpt = excerptHTML.replace(/<\/?[^>]+(>|$)/g, "").trim();
   // remove line breaks
   excerpt = excerpt.replace(/(\r\n|\n|\r)/gm, " ");
+  // adding tags from MD files meta data to search content
+  if(article.data.tags) {
+    for( let tag of article.data.tags) {
+      excerpt += (' ' + tag);
+    }
+  }
   return excerpt;
   }
 
@@ -78,9 +84,8 @@ module.exports = config => {
   let markdownItOptions = {
     html: true,
     breaks: true,
-    linkify: true,
-    linkPattern: /\[\[([\w\s/!]+)(\|([\w\s/!]+))?\]\]/,
-  };
+    linkify: true
+  }; 
 
   const slugify = require("slugify");
 
@@ -107,6 +112,7 @@ module.exports = config => {
       }
     }
   })
+  markdownLib.linkify.set(Options = {fuzzyLink: false});
   config.setLibrary("md", markdownLib);
 
   return {

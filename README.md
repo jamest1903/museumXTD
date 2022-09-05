@@ -48,17 +48,19 @@ Currently one of the menu items on Obsidian is **Open command palette**. Here yo
 ## Adding new MarkDown files
 - **title** This property is referenced in the ***layouts/base.njk*** HTML to use as the title to the browser tab. If not set it has the default value as *MuseumXTD* 
 - **layout** We add this to have your MD file contained in some HTML/CSS referenced in a njk file. For this project we have the standard HTML/CSS applied with layouts/post.njk
-- **date** This property can be included to your front matter to override the default date (file creation) and customize how the file is sorted in a collection. For more info on available formats see [here](https://www.11ty.dev/docs/dates/)
+- **tags** For Obsidian you can add this meta data for finding relative documents.
+- If you want to add other properties like **date** please add as a comment with the `#` symbol before it to avoid breaking the build process with invalid formats or data. This has been included in the template.md file as well as below for reference.
 
 Below is an example of the standard properties to add to your new MD file. post.njk will import the HTML from `base.njk` which imports the `main.css` styles to apply to your page.
 ```
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-06-23
+date: #2022-06-23
+tags: liens forum francais
 ---
 ```
-There is a **template.md** file on the root of the project which you can use for creating new markdown Files. If you wish to apply another layout to your MD file you can reference it's file name instead. Be sure to save your new layout file in the right folder *layouts* and have the correct syntax. Your MD file content will be rendered where you have added the following line `{{ content | safe }}` on your new .njk file
+There is a **template.md** file on the root of the project which you can copy for creating new markdown Files. If you wish to apply another layout to your MD file you can reference it's file name instead. Be sure to save your new layout file in the right folder *layouts* and have the correct syntax. Your MD file content will be rendered where you have added the following line `{{ content | safe }}` on your new .njk file
 
 ### New images
 All images are to be stored in the root **images** folder. When referencing any image on a MD file please follow this example `/images/nameFile.png`

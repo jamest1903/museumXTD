@@ -1,7 +1,8 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-06-23
+date: #YYYY-MM-DD
+tags: liens forum francais
 ---
 
 *Mettre documentation*
