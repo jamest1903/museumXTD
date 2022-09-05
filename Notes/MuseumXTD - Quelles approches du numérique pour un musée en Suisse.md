@@ -1,9 +1,7 @@
 ---
 title: MuseumXTD  
-layout: layouts/post.njk  
-date: 2022-08-04
-tags: #liens #forum #francais 
-
+layout: layouts/post.njk
+tags: liens forum francais
 ---
 ## Quelles approches du numérique pour un musée en Suisse
 

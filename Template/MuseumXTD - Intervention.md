@@ -2,7 +2,6 @@
 title: MuseumXTD  
 layout: layouts/post.njk  
 tags: liens forum 
-
 ---
 ## Titre de l'intervention
 

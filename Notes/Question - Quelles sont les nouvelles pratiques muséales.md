@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-22
-tags: #question
+tags: question
 ---
 # Quelles sont les nouvelles pratiques muséales
 

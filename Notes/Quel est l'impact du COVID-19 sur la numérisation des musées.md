@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-22
-tags: #question
+tags: question
 ---
 # Quel est l'impact du COVID-19 sur la numérisation des musées ?
 La crise sanitaire a été une période d'**expansion des activités** (la plus grande du siècle dernier, d'après [[Max Hollein. The Universal Museum and its Digital Expansion|Max Hollein, directeur du MoMA]]) et de **catalyseur de stratégie numérique** (et non d'initiateur). En effet, afin de rester visibles, les musées ont été forcés d'investir dans des formats différents et innovants. 

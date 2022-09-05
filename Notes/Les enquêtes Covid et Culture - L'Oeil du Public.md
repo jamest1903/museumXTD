@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-22
-tags: #liens #rapport
+tags: liens rapport
 ---
 
 [Etudes culture et covid](https://loeildupublic.com/etude-culture-covid/)

@@ -1,9 +1,7 @@
 ---
 title: Delphine Rivier  
-layout: layouts/post.njk  
-date : 2022-08-19
-tags : #liens #forum 
-
+layout: layouts/post.njk
+tags : liens forum
 ---
 
 ## Delphine Rivier

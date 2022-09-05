@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-11
-tags: #liens #strategie
+tags: liens strategie
 ---
 
 [AMS (2016). Quels musées voulons-nous demain? Le choix nous appartient](https://www.museums.ch/fr/assets/files/dossiers_f/Publikationen/VMS_Zukunft_F_web.pdf)

@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-07-26
-tags: #liens #technologies
+tags: liens technologies
 ---
 
 [Journée de recherche (19 mai 2022). *Journée de recherche-action « institutions patrimoniales et muséales et dispositifs immersifs »*. Campus Nation (Université Sorbonne Nouvelle)](https://metis-lab.com/2021/12/05/journee-de-recherche-action-institutions-patrimoniales-et-museales-et-dispositifs-immersifs/)

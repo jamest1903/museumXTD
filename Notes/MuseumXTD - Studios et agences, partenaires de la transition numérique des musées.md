@@ -1,9 +1,7 @@
 ---
 title: MuseumXTD  
-layout: layouts/post.njk  
-date: 2022-07-26
-tags: #liens #forum #francais 
-
+layout: layouts/post.njk
+tags: liens forum francais
 ---
 #### Studios et agences, partenaires de la transition numérique des musées
 

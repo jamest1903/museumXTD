@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-11
-tags: #liens #strategie
+tags: liens strategie
 ---
 
 [Andreacola, F. (2020). Introduction. *Culture et musées*, 35, 11-23.](https://journals.openedition.org/culturemusees/4381)

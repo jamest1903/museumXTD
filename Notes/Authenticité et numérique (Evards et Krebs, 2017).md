@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-07-20
-tags: #liens #mediation #contenunumerique #rapport
+tags: liens mediation contenunumerique rapport
 ---
 
 [Evrard, Y., & Krebs, A. (2017). The authenticity of the museum experience in the digital age: the case of the Louvre. Journal of Cultural Economics.](https://www.researchgate.net/publication/320133421_The_authenticity_of_the_museum_experience_in_the_digital_age_the_case_of_the_Louvre/link/5f71d7a892851c14bc9b1684/download) 

@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-31
-tags: #liens #rapport
+tags: liens rapport
 ---
 
 [Mêtis](https://metis-lab.com/)

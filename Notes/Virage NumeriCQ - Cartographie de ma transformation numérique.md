@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-22
-tags: #liens #outils #management
+tags: liens outils management
 ---
 
 [Virage NumeriCQ - Cartographie de ma transformation numérique](https://viragenumeriqc.com/culture-et-numerique/cartographie-transformation-numerique/)

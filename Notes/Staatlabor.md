@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-22
-tags: #liens #outils
+tags: liens outils
 ---
 [Staatlabor](https://www.staatslabor.ch/fr)
 

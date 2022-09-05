@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-16
-tags: #question
+tags: question
 ---
 # Quels sont les risques ?
 Les opportunités apportées par le numérique ne doivent pas faire oublier les risques et critiques associés. 

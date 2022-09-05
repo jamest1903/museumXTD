@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-08-17
-tags: #liens #forum #francais
+tags: liens forum francais
 ---
 ## Présentation de la plateforme MuseumXTD\.ch
 

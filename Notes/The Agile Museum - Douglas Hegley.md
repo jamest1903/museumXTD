@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-06-14
-tags: #liens #management
+tags: liens management
 ---
 
 [The Agile Museum - présentation](https://www.slideshare.net/dhegley/the-agile-museum-21st-century-leadership)

@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-06-16
-tags: #liens #mediation #contenunumerique #rapport
+tags: liens mediation contenunumerique rapport
 ---
 
 [Roederer C., Revat R., Pallud J. (2020), Does Digital Mediation Really Change the Museum Experience? Museomix in the Lyon-Fourvière Archaeological Museum, _International Journal of Arts Management,_ 22(3), 108-123.]()

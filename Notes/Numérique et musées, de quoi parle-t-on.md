@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-10
-tags: #question
+tags: question
 ---
 # Numérique et musées, de quoi parle-t-on ?
 Numérique, digital, culture ou transformation numérique, ... Comment se repérer et se positionner ? Cette page vous aide à poser certaines bases.
