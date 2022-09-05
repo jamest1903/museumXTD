@@ -55,15 +55,15 @@ If you wish to view the projects Markdown files and make changes or add new cont
 
 #### Making changes
 Before making changes make sure you have the latest version of the content.
-0. In GitHub Desktop check that the current branch is `main`
-0. Click "Fetch Origin"
+1. In GitHub Desktop check that the current branch is `main`
+1. Click "Fetch Origin"
 
 In Obsidian edit the content in the Notes folder. Only files saved to the Notes folder will be published on the website. 
 
 ### Publishing to the website
 Open GitHub Desktop 
-0. Write a summary about your changes
-0. Click the *Commit* button
+1. Write a summary about your changes
+1. Click the *Commit* button
 
 ![screenshot of github desktop](/images/read-me-images/screenshot-github_desktop.png)
 
