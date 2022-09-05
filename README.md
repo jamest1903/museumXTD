@@ -65,7 +65,7 @@ Open GitHub Desktop
 0. Write a summary about your changes
 0. Click the *Commit* button
 
-![](images/read-me-images/Screenshot 2022-09-05 at 16.07.30.png)
+![screenshot of github desktop](/images/read-me-images/screenshot-github_desktop.png)
 
 ## Alternative setup with Obsidian Git
 
