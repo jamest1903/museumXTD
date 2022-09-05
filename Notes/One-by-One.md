@@ -22,11 +22,11 @@ Pour étudier les compétences numériques présentes et à développer au sein 
 - offre (quelles sont les compétences recrutées et formées)
 - développement (comment les compétences sont entretenues)  
 
-L'étude développe le concept de "digital literacy" ou "habilité numérique", qui "englobe toutes les compétences dont un individu a besoin aujourd’hui pour vivre dans la culture du numérique" (voir la définition dans [[AMS. La pratique muséale numérique. Une approche globale.]]). 
+L'étude développe le concept de "digital literacy" ou "habilité numérique", qui "englobe toutes les compétences dont un individu a besoin aujourd’hui pour vivre dans la culture du numérique" (voir la définition dans [[[La pratique muséale numérique. Une approche globale.]]. 
 
 Lu dans l'étude (et traduit): "le personnel des petits musées a tendance à être responsable d'un certain nombre de tâches, et les rôles de gestion ont tendance à comporter un élément numérique plus important. Par conséquent, la demande de compétences numériques se concentre souvent sur des postes qui ne sont pas nécessairement spécifiques au numérique." (p.20)
 
-Deux des chercheurs sont intervenus dans la [[Journée professionnelle. La Stratégie numérique dans les musées, pour une approche globale du numérique]] de 2018. Leur présentation et texte peuvent être retrouvés [ici](https://www.culture.gouv.fr/Thematiques/Musees/Les-musees-en-France/Les-politiques-des-musees-de-France/Colloques-et-journees-d-etudes-des-musees-de-France/Publications-colloques/Journee-professionnelle-La-strategie-numerique-dans-les-musees-Paris-05-10-2018). 
+Deux des chercheurs sont intervenus dans la [[La Stratégie numérique dans les musées, pour une approche globale du numérique]] de 2018. Leur présentation et texte peuvent être retrouvés [ici](https://www.culture.gouv.fr/Thematiques/Musees/Les-musees-en-France/Les-politiques-des-musees-de-France/Colloques-et-journees-d-etudes-des-musees-de-France/Publications-colloques/Journee-professionnelle-La-strategie-numerique-dans-les-musees-Paris-05-10-2018). 
 
 
 Project#2 (2020) - [Structuring Museums to Deliver New Digital Experiences

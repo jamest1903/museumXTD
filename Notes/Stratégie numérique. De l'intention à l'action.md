@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: liens management strategie
 ---
 
-[Virage NumeriCQ. Stratégie numérique de l'intention à l'action](https://viragenumeriqc.com/culture-et-numerique/strategie-numerique-de-lintention-a-laction/)
+[Virage NumeriCQ. Stratégie numérique: de l'intention à l'action](https://viragenumeriqc.com/culture-et-numerique/strategie-numerique-de-lintention-a-laction/)
 
  Virage NumeriCQ propose une définition de la stratégie numérique ainsi que sa mise en application grâce à divers outils. Elle s'appuie notamment sur le travail réalisé par les participants du Forum des Innovations Culturelles au Québec en 2018. 
 
