@@ -7,7 +7,7 @@ tags: #liens #competence #rapport
 
 [One-by-One. Building digitally confident museums](https://one-by-one.uk/)
 
-One by One" est une initiative multi-partenaires (dont Arts & Humanities Research Council, [[Culture24]], l'université de Leicester) qui rassemble des organisations culturelles, des décideurs politiques, des universitaires, des organismes professionnels, des agences de soutien et des communautés de pratique, afin de créer des musées confiants dans le numérique. 
+One by One" est une initiative multi-partenaires (dont Arts & Humanities Research Council, [[Culture24]], l'Université de Leicester) qui rassemble des organisations culturelles, des décideurs politiques, des universitaires, des organismes professionnels, des agences de soutien et des communautés de pratique, afin de créer des musées confiants dans le numérique. 
 
 One by One" aide les musées de toute taille à mieux définir, améliorer, mesurer et intégrer la culture numérique de leur personnel et de leurs bénévoles dans tous les rôles et à tous les niveaux.  
 
@@ -15,7 +15,7 @@ One by One" aide les musées de toute taille à mieux définir, améliorer, mesu
 A l'aide d'études de cas de musées anglais (étude empirique entre septembre 2017 et février 2018), le groupe de recherche s'est attaché à 
 - cartographier les compétences numériques actuellement en œuvre dans les musées
 - comprendre la manière dont ces dernières sont déployées dans les institutions
-- et pointer les besoins en matière d'évolution de ces compétences
+- pointer les besoins en matière d'évolution de ces compétences
 
 Pour étudier les compétences numériques présentes et à développer au sein du musée, ils ont utilisé le concept de "skills ecosystem" qui se fonde sur 4 piliers :
 - déploiement (comment sont utilisées actuellement les compétences)

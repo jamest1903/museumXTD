@@ -22,4 +22,4 @@ Les auteurs :
 
 - Muriel Meyer-Chemenska est experte muséographe et directrice de l’agence Métapraxis (agence de muséographie et de médiation muséographique). Depuis 1990, elle conçoit les programmes muséographiques, les scénarios de visite, la muséographie et la médiation muséographique, assure une assistance à la maîtrise d’ouvrage et le commissariat d’expositions, la direction artistique et la maîtrise d’œuvre d’expositions permanentes et temporaires. Elle est membre de [[Mêtis]]. [Source](https://metis-lab.com/meyer-chemenska-muriel/)
 
-Apparaît dans [[Quels sont les risques du numérique dans les musées]]. 
+Apparaît dans [[Quels sont les risques]]. 

@@ -1,8 +1,9 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
-date: #2022-06-16
-tags: liens forum francais
+date: 2022-06-16
+tags: #liens #forum #francais
+
 ---
 ## Comment rendre son musée numérique ? Approche institutionnelle, approche en réseau, approche de co-construction
 

@@ -17,4 +17,5 @@ court paragraphe sur l'intérêt de la question
 6. cf article Le Gall, A.(2021) [Décarbonons la Culture ! Rapport du SHIFT project](http://www.tmnlab.com/2021/12/03/decarbonons-la-culture-rapport-du-shift-project/)
 7. cf retranscription [rapport Les Augures](http://www.tmnlab.com/2022/03/28/lancement-du-programme-augures-lab-numerique-responsable/)
 8. cf la méthodologie de calcul d'impact carbone des sites internet [ici](https://www.websitecarbon.com/how-does-it-work/)
+9. cf les articles dans [Le Temps](https://www.letemps.ch/dossiers/debats-dete-temps-ethique-un-monde-connecte)
 

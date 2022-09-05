@@ -5,7 +5,7 @@ date: 2022-07-20
 tags: #liens #technologies #rapport #competence
 ---
 
-[POSTNote, The impact of digital technologies on arts and culture in the UK, May 2022](https://researchbriefings.files.parliament.uk/documents/POST-PN-0669/POST-PN-0669.pdf) 
+[Cîrstea, A-M., Mutebi, N. (2022). The impact of digital technologies on arts and culture in the UK, *POSTNote*](https://researchbriefings.files.parliament.uk/documents/POST-PN-0669/POST-PN-0669.pdf) 
 
 Ce rapport synthétise les dynamiques des nouvelles technologies dans le secteur des arts et de la culture au Royaume-Uni.
 
@@ -18,3 +18,5 @@ Une importante bibliographie renvoie vers une littérature variée et intéressa
 
 Les *POSTNotes* sont des rapports de 4 pages chargés de fournir une analyse indépendante et équilibrée des questions politiques ayant un fondement scientifique et technologique aux Chambres des Communes du Royaume-Uni.  
 Voir [ici](https://www.parliament.uk/mps-lords-and-offices/offices/bicameral/post/publications/how-to-write-postnotes/) comment les notes sont produites. 
+
+Apparaît dans [[Quelles technologies pour quel impact]].

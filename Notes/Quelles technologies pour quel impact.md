@@ -21,9 +21,7 @@ tags: #question
 	- Les auteurs analysent et comparent les comportements de visiteurs en ligne (à travers le site internet) avec ceux de visiteurs sur place au musée du Louvre. 
 5. [[The adoption of digital technology in the arts]] 
 	- Le rapport (p11) distingue les technologies "facilitatrices", qui permettent aux organisations artistiques d'optimiser les façons de faire (plus simplement, plus rapidement ou d'une nouvelle manière) et les technologies "motrices", qui remplacent entièrement les façons établies de faire les choses ou changent les comportements et attentes des utilisateurs finaux. 
-6. [[Journée de recherche-action « institutions patrimoniales et muséales et dispositifs immersifs ».]]
-	-  Cette journée se concentre sur les applications technologies immersives ou "XR" : les attentes des publics dans et hors le musée face à ces technologies et le rôle du musée et son équipe dans les projets XR.  
 
 ## Utilisation selon un type de technologies
-4. [[Journée de recherche-action « institutions patrimoniales et muséales et dispositifs immersifs ».]]
+6. [[Journée de recherche-action « institutions patrimoniales et muséales et dispositifs immersifs ».]]
 	- Cette journée aborde les enjeux de la création en XR au sein des institutions muséales et patrimoniales en questionnant les rapports aux publics, les collaborations entre concepteurs, artistes et institutions, etc.

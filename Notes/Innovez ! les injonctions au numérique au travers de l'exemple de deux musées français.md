@@ -15,4 +15,4 @@ Les auteurs :
 
 - [Éva Sandri](https://journals.openedition.org/culturemusees/415)est maîtresse de conférences en sciences de l’information et de la communication à l’Inalco (équipes de recherche Cerlom et Gripic). Ses recherches portent sur les enjeux actuels de la médiation culturelle et sur l’imaginaire des dispositifs numériques au musée. Elle est l’auteure de « Discours circulants sur l’utilisation des technologies numériques dans la médiation culturelle », dans l’ouvrage _L’Essentiel de la médiation_, sous la direction de Michèle De Gioia et de Mario Marcon (2020). 
 
-Apparaît dans [[Quels sont les risques du numérique dans les musées]]
+Apparaît dans [[Quels sont les risques]]

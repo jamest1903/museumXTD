@@ -3,8 +3,8 @@ title: MuseumXTD
 layout: layouts/post.njk  
 date: 2022-08-04
 tags: #liens #forum #francais 
----
 
+---
 ## Redéfinir les limites du musée à l'ère numérique
 
 Comment faire lieu à l'ère digitale (matériel opensource remix, RA dans le musée, brèche muséale via expérience immersive. Comment repenser le musée comme centre dans  un éco-système numérique. 

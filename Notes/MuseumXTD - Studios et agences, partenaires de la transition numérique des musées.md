@@ -17,7 +17,7 @@ Responsable numérique & innovation, [Photo Elysée](https://elysee.ch/) (CH)
 Cofondateur & associé-gérant, [Digital Kingdom Sàrl](http://www.digitalkingdom.ch/) (CH)
 
 [Nicolas Godinot](https://www.linkedin.com/in/godinot/)  
-Responsable des contenus & conservateur des sciences de la nature, [Alimentarium](app://obsidian.md/www.alimentarium.org) (CH)
+Responsable des contenus & conservateur des sciences de la nature, [Alimentarium](https://www.alimentarium.org/fr)  (CH)
 
 Modération par [Selim Krichane](https://www.linkedin.com/in/selim-krichane-44313082/), Collaborateur scientifique à l’EPFL & membre fondateur du [GameLab](https://wp.unil.ch/gamelab/), UNIL-EPFL (CH)  
 

@@ -4,8 +4,17 @@ layout: layouts/post.njk
 date: 2022-05-22
 tags: #question
 ---
-# Comment collaborer avec des prestataires ?
-L'introduction du numérique dans les musées implique une nouvelle façon de penser la gestion de projet et la collaboration entre plusieurs entités. Quels sont les enjeux et les bonnes pratiques d'une collaboration réussie ?
+# Comment mener mon projet numérique ?
+L'introduction du numérique dans les musées implique une nouvelle façon de penser la gestion de projet et la collaboration multidisciplinaire. Quels sont les enjeux et les bonnes pratiques  ?
+
+**Gérer un projet
+
+[[Quelles sont les méthodologies liées au numérique à connaître]]
+
+[[Question - Comment évaluer un projet numérique]]
+
+**Collaborer avec une équipe multidisciplinaire
+
 
 1. [[MuseumXTD - Antoine Roland]]
 2. [[MuseumXTD - Seemuseum Kreuzlingen]]

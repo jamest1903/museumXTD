@@ -18,7 +18,7 @@ tags: #question
 5. [[Max Hollein. The Universal Museum and its Digital Expansion]]
 	- On retrouve cette notion de subjectivité du discours et de choix narratif du musée dans l'intervention du directeur du Met en mars 2022. 
 
-
+cf interview avec [Trilce Navarrete](https://metis-lab.com/2022/05/02/musees-et-numerique-un-entretien-avec-trilce-navarrete/)
 
 Video J1
 

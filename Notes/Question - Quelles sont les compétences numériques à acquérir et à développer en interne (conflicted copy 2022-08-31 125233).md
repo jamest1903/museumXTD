@@ -6,7 +6,7 @@ tags: #question
 
 ---
 # Quelles sont les compétences numériques à acquérir et à développer en interne ?
-Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire spécifiques extérieurs aux équipes du musée (voir [[Comment collaborer avec des prestataires]]). Néanmoins non seulement certaines méthodologies de travail peuvent être repenser en interne (voir [[Quelles sont les méthodologies liées au numérique à connaître]]) mais certains compétences numériques peuvent être développées en auto-formation ou en formation continue. 
+Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire spécifiques extérieurs aux équipes du musée (voir [[Question - Comment collaborer avec des prestataires]]). Néanmoins non seulement certaines méthodologies de travail peuvent être repenser en interne (voir [[Quelles sont les méthodologies liées au numérique à connaître]]) mais certains compétences numériques peuvent être développées en auto-formation ou en formation continue. 
 
 A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compétences de plus en plus *demandées* dans les musées.  
 
@@ -16,7 +16,7 @@ A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compét
 - Utilisation de catalogues numériques et de systèmes de gestion des actifs numériques
 - Utilisation de la photographie numérique et la manipulation d'images
 - Utilisation des médias sociaux
-	- Voir [[Comment utiliser les réseaux sociaux]]
+	- Voir [[Question - Comment utiliser les réseaux sociaux]]
 - Conservation d'objets numériques
 - (Re)Présentation de l'information
 - Communication en ligne
@@ -25,7 +25,7 @@ A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compét
 	- Voir [[Cyber Sain et Sauf - Imaa]]
 ## Marketing et communication : Diversification de la participation de publics plus larges 
 - Utilisation des plateformes de médias sociaux
-	- Voir [[Comment utiliser les réseaux sociaux]]
+	- Voir [[Question - Comment utiliser les réseaux sociaux]]
 - Utilisation des plateformes de musique numérique
 - Utilisation de la technologie d'identification par radiofréquence (RFID)
 - Utilisation du système de gestion des collections (CMS)

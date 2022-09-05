@@ -11,4 +11,4 @@ Dans cette vidéo, Lionel Bovier explique très succinctement (3'31) ce qu'il en
 
 Cette vidéo est une vidéo produite par [[Wikimedia CH]] sur sa chaîne YouTube. 
 
-Apparaît dans [[Quelles sont les nouvelles pratiques muséales]]. 
+Apparaît dans [[Question - Quelles sont les nouvelles pratiques muséales]]. 

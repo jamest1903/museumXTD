@@ -11,7 +11,7 @@ Quel est le rôle du musée aujourd'hui et comment pourrait-il évoluer ? Commen
 
 Elle argumente que le rapport au numérique n'est pas toujours bien compris dans les musées : "on a vu le numérique que **d'un point de vue "outil", sans voir que ça ouvrait un monde nouveau**, sans penser une **pensée numérique**, sans penser une **pensée virtuelle**." (7'15) Plus qu'un outil, le numérique redonne la place à la narration et la fiction et surtout, redonne aux musées leur place de fiction. Car pour elle, le musée est une question de subjectivité et de point de vue : les institutions construisent un discours à partir des collections et non la vérité absolue. Or la subjectivité est à communiquer de façon sensible, à l'aide de podcasts, vidéos, films, etc. 
 
-Apparaît dans [[Quelles sont les nouvelles pratiques muséales]]. 
+Apparaît dans [[Question - Quelles sont les nouvelles pratiques muséales]]. 
 
 Cf [[Max Hollein. The Universal Museum and its Digital Expansion]] - évoque également le point de vue subjectif du musée dans son discours. 
 

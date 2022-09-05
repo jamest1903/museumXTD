@@ -20,4 +20,4 @@ Plusieurs solutions sont évoquées dans cet article :
 3) **Valoriser le temps de pause et de récupération** pour préserver nos capacités cognitives
 
 
-Apparaît dans [[Quels sont les risques du numérique dans les musées]]
+Apparaît dans [[Quels sont les risques]]
