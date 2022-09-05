@@ -109,7 +109,7 @@ Equipe [Doors](https://ars.electronica.art/doors/en/), Ars Electronica (AT)
 
 
 
-- #### [[MuseumXTD - 0 1 Hub numérique]] 
+- #### [[MuseumXTD - 0 1 Hub numérique|La face cachée du numérique]] 
 - *13h40-14h00*
 
 [Léonie Alain](https://www.linkedin.com/in/leonie-alain-23202571/)  
