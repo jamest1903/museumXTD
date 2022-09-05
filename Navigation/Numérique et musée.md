@@ -22,7 +22,7 @@ Les ressources ont été choisies par nos soins et certaines sections sont encor
 [[Quelques outils]]
 
 
-## [[Comprendre la transformation numérique ]]
+## [[Comprendre la transformation numérique]]
 
 
 ## [[Transformer son musée]]
