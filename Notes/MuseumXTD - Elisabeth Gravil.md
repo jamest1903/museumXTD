@@ -15,5 +15,3 @@ Le COVID et les différentes crises sociales qui ont suivi n’ont fait qu’en 
 
   
 Retrouver le live du 12 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
-
-Jetez un coup d'œil sur notre "A retenir" sur [[Elisabeth Gravil. Un nouveau musée numérique pour une ère nouvelle]]

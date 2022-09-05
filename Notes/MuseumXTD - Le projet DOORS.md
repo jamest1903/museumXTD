@@ -20,5 +20,3 @@ DOORS team has developed a framework and methodology to help museums advance the
 
 
 Retrouver le live du 12 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
-
-Jetez un coup d'œil sur notre "A retenir" sur [[Le projet DOORS]]
