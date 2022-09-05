@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-27
-tags: #question
+tags: question
 ---
 # Quels sont les nouveaux revenus digitaux possibles pour un musée ?
 - enjeux -> trouver une nouvelle opportunité de se financer de façon éthique (est-ce possible avec le numérique?)

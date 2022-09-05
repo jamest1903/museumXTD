@@ -1,9 +1,7 @@
 ---
 title: MuseumXTD  
-layout: layouts/post.njk  
-date: 2022-07-25
-tags: #liens #forum #francais 
-
+layout: layouts/post.njk
+tags: liens forum francais
 ---
 ## Le musée numérique en toute légalité : quelles questions se poser ?
 

@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-22
-tags: #liens #outils #management
+tags: liens outils management
 ---
 
 [Virage NumeriCQ - Diagnostic de maturité numérique](https://docs.google.com/spreadsheets/d/1d77BekbvXFDBTZjhSDKhZvQjIY2dtMNPZPDiyw-Nq2Y/edit#gid=963154001)

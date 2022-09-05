@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-06-08
-tags: #liens #rapport
+tags: liens rapport
 ---
 
 [Unesco. (2021). Les musées dans le monde face à la pandémie de covid-19. Paris. Juin 2021](https://unesdoc.unesco.org/ark:/48223/pf0000376729)

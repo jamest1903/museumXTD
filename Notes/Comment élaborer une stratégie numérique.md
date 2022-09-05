@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-16
-tags: #question
+tags: question
 ---
 # Comment élaborer une stratégie numérique ?
 La stratégie numérique est propre à chaque institution (voir [[Exemples de stratégie numérique de musées]]), on peut cependant retrouver de grandes étapes dans l'élaboration de celle-ci. Une sélection d'articles et d'outils vous est proposée ci-dessous. 

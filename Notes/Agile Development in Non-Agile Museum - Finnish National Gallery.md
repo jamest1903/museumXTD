@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-06-14
-tags: #liens #management #competence
+tags: liens management competence
 ---
 
 [Agile Development in Non-Agile Museum](https://www.museumnext.com/article/agile-development-in-non-agile-museum/)

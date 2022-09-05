@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-07-19
-tags: #liens
+tags: liens
 ---
 
 [Museum at Digital Era. Conference, Belvédère](https://www.belvedere.at/digitalmuseum2022)

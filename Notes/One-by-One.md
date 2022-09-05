@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-07-25
-tags: #liens #competence #rapport
+tags: liens competence rapport
 ---
 
 [One-by-One. Building digitally confident museums](https://one-by-one.uk/)

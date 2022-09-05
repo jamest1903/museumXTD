@@ -1,9 +1,7 @@
 ---
 title: MuseumXTD  
-layout: layouts/post.njk  
-date: 2022-08-18
-tags: #liens #forum #francais
-
+layout: layouts/post.njk
+tags: liens forum francais
 ---
 #### Un temps pour la rematérialisation
 

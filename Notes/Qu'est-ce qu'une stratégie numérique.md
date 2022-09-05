@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-13
-tags: #question
+tags: question
 ---
 # Qu'est-ce qu'une stratégie numérique ?
 

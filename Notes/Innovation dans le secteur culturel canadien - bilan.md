@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-22
-tags: #liens #rapport #competence
+tags: liens rapport competence
 ---
 
 [Innovation dans le secteur culturel canadien - bilan](https://www.culturepourtous.ca/wp-content/uploads/2018/07/Bilan_culture_innovation_HR_pagin%C3%A9e.pdf)

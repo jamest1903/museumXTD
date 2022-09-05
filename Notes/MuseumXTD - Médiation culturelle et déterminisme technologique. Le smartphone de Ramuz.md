@@ -1,9 +1,7 @@
 ---
 title: MuseumXTD  
-layout: layouts/post.njk  
-date: 2022-08-17
-tags: #liens #forum #francais
-
+layout: layouts/post.njk
+tags: liens forum francais
 ---
 #### Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz
 

@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-13
-tags: #liens #strategie #rapport
+tags: liens strategie rapport
 ---
 
 [Journée professionnelle - La Stratégie numérique dans les musées, pour une approche globale du numérique](https://www.culture.gouv.fr/Thematiques/Musees/Les-musees-en-France/Les-politiques-des-musees-de-France/Colloques-et-journees-d-etudes-des-musees-de-France/Publications-colloques/Journee-professionnelle-La-strategie-numerique-dans-les-musees-Paris-05-10-2018) 

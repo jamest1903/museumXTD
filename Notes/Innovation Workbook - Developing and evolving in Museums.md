@@ -1,8 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-05-22
-tags: #liens
+tags: liens
 ---
 
 [Innovation Workbook - Developing and evolving in Museums (Aboa Vetus & Ars Nova, Museum of Technology, Humak)](https://www.ecsite.eu/sites/default/files/developing_and_evolving_in_museums_workbook.pdf)

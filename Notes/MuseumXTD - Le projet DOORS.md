@@ -1,9 +1,7 @@
 ---
 title: MuseumXTD  
-layout: layouts/post.njk  
-date: 2022-07-27
-tags: #liens #forum #anglais
-
+layout: layouts/post.njk
+tags: liens forum anglais
 ---
 ## DOORS: Digital Incubator for Museums
 [Ana Maria Carabelea](https://www.linkedin.com/in/ana-carabelea/) for Ars Electronica (AT), MUSEUM BOOSTER (AT), Ecsite (BE)
