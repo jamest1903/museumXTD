@@ -4,15 +4,16 @@ layout: layouts/post.njk
 date: 2022-06-09
 ---
 Voici une liste d'éléments à suivre pour écrire du contenu sur la plateforme MuseumXTD.   
+Faite un tour vers [ce guide Obsidian](https://johackim.com/obsidian) si vous n'êtes pas habitués au logiciel ou à la syntaxe Markdown. 
 
 # Contenus de [[Numérique et musée]]  
 ## 1. Les notes *question*  
 ### Structure de la note   
 Voir le modèle [[Note question]].   
 ### Formatage  
-- On ne peut pas inclure de *?* dans les titre des notes car Obsidian n'y permet pas les caractères spéciaux ( * / \ < > : ? | ). 
-- On peut néanmoins personnaliser le lien vers la note (permis par les double crochets) grâce à l'ajout d'une barre verticale à l'intérieur des crochets. Exemple:  
-	- [[La pratique muséale numérique. Une approche globale|La pratique muséale, une approche globale?]]    
+- On ne peut pas inclure de *?* dans les titres des notes car Obsidian n'y permet pas les caractères spéciaux ( * / \ < > : ? | ). 
+- On peut néanmoins personnaliser le lien vers la note (les double crochets) grâce à l'ajout d'une barre verticale à l'intérieur des crochets. Exemple:  
+	- "[ [ La pratique muséale numérique. Une approche globale|La pratique muséale, une approche globale? ] ]"    
 ### Contenu
 - L'intitulé de la question doit être repris dans le contenu de la note, en y intégrant à la fin un *?*
 - La réponse doit être claire et précise. 
