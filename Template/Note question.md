@@ -3,14 +3,15 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 ---
-# Intitulé de la question
+# Intitulé de la question  
+Réponse en quelques phrases  
+  
+1. [[Note ressource|Note ressource 1]]  
+   Résumé de la ressource en une phrase ou deux.   
+2. [[Note ressource|Note ressource 2]]   
+   Résumé de la ressource en une phrase ou deux.  
+etc. 
 
-*Descriptif en quelques phrases*
+Voir également: [[Note question|Note question associée]]
  
-1. Référence #1 (lien vers une note "liens")  
-
-- *Une phrase de descriptif*  
-...
-
-
-Voir également: *+ liens vers d'autres questions associées*
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
