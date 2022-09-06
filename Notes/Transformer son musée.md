@@ -6,7 +6,7 @@ date: 2022-08-31
 ---
 ## Gérer mon environnement numérique
 
-[[Comment élaborer une stratégie numérique]]
+[[Les outils à l'élaboration d'une stratégie numérique]]
 
 [[Comment mener mon projet numérique]]
 

@@ -20,7 +20,7 @@ Aujourd'hui, une stratégie numérique est une composante indispensable de la st
    Voici quelques exemples concrets de stratégie numérique de grands musées à travers le monde. 
 
 
-Voir également: [[Comment élaborer une stratégie numérique]]  
+Voir également: [[Les outils à l'élaboration d'une stratégie numérique]]  
 
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

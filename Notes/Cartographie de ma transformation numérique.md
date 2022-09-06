@@ -14,4 +14,6 @@ Cet outil a comme objectif de formuler les besoins et objectifs pour cadrer la s
 
 Cette ressource fait partie du projet plus général Virage NumériCQ. [En savoir plus sur le projet](obsidian://open?vault=MuseumXTD%20(site%20internet)&file=Virage%20NumeriCQ). 
 
-Apparaît dans [[Comment élaborer une stratégie numérique]]
+Apparaît dans [[Les outils à l'élaboration d'une stratégie numérique]]  
+
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)  

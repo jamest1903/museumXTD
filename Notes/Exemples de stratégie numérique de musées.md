@@ -19,6 +19,6 @@ La stratégie numérique d'un musée relève de choix qui lui sont propres, en f
 	- Pour le directeur du Met, la pandémie a été une période d'expansion des activités du musée (la plus grande de ce siècle dernier), notamment grâce au numérique.
 
 
-Voir également: [[Comment élaborer une stratégie numérique]], [[Qu'est-ce qu'une stratégie numérique]]
+Voir également: [[Les outils à l'élaboration d'une stratégie numérique]], [[Qu'est-ce qu'une stratégie numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)  
