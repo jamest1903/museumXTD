@@ -11,17 +11,17 @@ NB: Du markd... quoi? Jetez un coup d'œil à [ce guide Obsidian](https://johack
 ### Structure de la note   
 Voir le modèle [[Note question]].   
 ### Formatage  
-- [ ] On ne peut pas inclure de *?* dans les titres des notes car Obsidian n'y permet pas les caractères spéciaux ( * / \ < > : ? | ).  
-- [ ] On peut néanmoins personnaliser le lien vers la note (les double crochets) grâce à l'ajout d'une barre verticale à l'intérieur des crochets. Exemple:  
+- On ne peut pas inclure de *?* dans les titres des notes car Obsidian n'y permet pas les caractères spéciaux ( * / \ < > : ? | ).  
+- On peut néanmoins personnaliser le lien vers la note (les double crochets) grâce à l'ajout d'une barre verticale à l'intérieur des crochets. Exemple:  
 	- "[ [ La pratique muséale numérique. Une approche globale|La pratique muséale, une approche globale? ] ]"    
 ### Contenu
-- [ ] L'intitulé de la question doit être repris dans le contenu de la note, en y intégrant à la fin un *?*
-- [ ] La réponse doit être claire et précise. 
-- [ ] Les ressources doivent être listées numériquement dans l'ordre d'importance. 
-- [ ] Le résumé de la ressource doit reprendre une ou deux phrases du résumé présent dans la note *ressource*. Exemple (*cliquer sur la note pour l'ouvrir*): 
+- L'intitulé de la question doit être repris dans le contenu de la note, en y intégrant à la fin un *?*
+- La réponse doit être claire et précise. 
+- Les ressources doivent être listées numériquement dans l'ordre d'importance. 
+- Le résumé de la ressource doit reprendre une ou deux phrases du résumé présent dans la note *ressource*. Exemple (*cliquer sur la note pour l'ouvrir*): 
 	  1. [[La pratique muséale numérique. Une approche globale]]
 	     Ce document donne une définition de la stratégie numérique et les raisons de l'implémenter dans les musées. 
-- [ ] Une ou plusieurs notes *question* peuvent y être associées à la fin après *Voir également*.    
+- Une ou plusieurs notes *question* peuvent y être associées à la fin après *Voir également*.    
 
 ## 2. Les notes *ressources*  
 ### Structure de la note  
