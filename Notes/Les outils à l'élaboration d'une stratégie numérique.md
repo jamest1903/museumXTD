@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 ---
-# Les outils à l'élaboration d'une stratégie numérique
+# Les outils pour élaborer une stratégie numérique
 La stratégie numérique est propre à chaque institution (voir [[Exemples de stratégie numérique de musées]]). Voici cependant une sélection d'outils génériques utiles pour l'élaborer.  
 
 1. [[Le projet DOORS|DOORS: Digital Incubator for Museums]]
