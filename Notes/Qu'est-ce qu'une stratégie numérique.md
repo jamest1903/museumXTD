@@ -9,7 +9,7 @@ Elle permet d'intégrer des pratiques numériques en considérant l'ensemble des
 Elle prend généralement la forme d'un document qui formalise les objectifs et fournit un cadre à la transformation de l'institution.
  
 1. [[La pratique muséale numérique. Une approche globale]]  
-   Ce document donne une définition de la stratégie numérique et les raisons de l'implémenter dans les musées.
+   Ce document donne une définition de la stratégie numérique et les raisons de l'implémenter dans les musées.  
 2. [[Stratégie numérique. De l'intention à l'action]]   
    Virage NumeriCQ propose une définition de la stratégie numérique ainsi que sa mise en application grâce à divers outils. 
 3. [[La Stratégie numérique dans les musées. Pour une approche globale du numérique]]  
