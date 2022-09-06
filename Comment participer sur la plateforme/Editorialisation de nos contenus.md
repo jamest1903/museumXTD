@@ -3,12 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-06-09
 ---
-Vous trouverez ici une liste d'indications pour écrire sur la plateforme MuseumXTD.   
+# Comment éditer des notes *question* et *ressource* dans [[Numérique et musée]]
 
+NB: Du markd... quoi? Jetez un coup d'œil à [ce guide Obsidian](https://johackim.com/obsidian) pour mieux vous familiariser au logiciel et à la syntaxe markdown. 
 
-Le markdown, quesaco? Jetez un coup d'œil à [ce guide Obsidian](https://johackim.com/obsidian) pour mieux vous familiariser au logiciel et à la syntaxe Markdown. 
-
-# Contenus de [[Numérique et musée]]  
 ## 1. Les notes *question*  
 ### Structure de la note   
 Voir le modèle [[Note question]].   
@@ -31,7 +29,7 @@ Voir le modèle [[Note ressource]].
 ### Formatage
 - Le titre de la note doit être simple et correspondre au titre de la ressource (pas de mention de l'auteur ou de la date). 
 - Obsidian ne permet pas les caractères spéciaux ( * / \ < > : ? | ) dans les titres des notes.   
-#### Contenu
+### Contenu
 - La ressource doit être citée comme ci-dessous: 
 	- Auteur, Initiale., & Auteur, Initiale. (Date). Titre.
 - La citation doit rediriger vers l'article: pour cela, mettre la citation entre crochets simple et insérer le lien entre parenthèse après les crochets. Exemple: 
