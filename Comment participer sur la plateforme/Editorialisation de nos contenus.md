@@ -3,8 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-06-09
 ---
-Voici une liste d'éléments à suivre pour écrire du contenu sur la plateforme MuseumXTD.   
-Faite un tour vers [ce guide Obsidian](https://johackim.com/obsidian) si vous n'êtes pas habitués au logiciel ou à la syntaxe Markdown. 
+Vous trouverez ici une liste d'indications pour écrire sur la plateforme MuseumXTD.   
+
+
+Le markdown, quesaco? Jetez un coup d'œil à [ce guide Obsidian](https://johackim.com/obsidian) pour mieux vous familiariser au logiciel et à la syntaxe Markdown. 
 
 # Contenus de [[Numérique et musée]]  
 ## 1. Les notes *question*  

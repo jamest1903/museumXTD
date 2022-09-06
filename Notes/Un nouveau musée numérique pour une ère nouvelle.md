@@ -15,8 +15,8 @@ L'auteure propose une liste de leviers d'actions pour intégrer le numérique - 
 - "Optimisez vos basiques et processus de travail !" est une liste de questions à se poser en fonction des activités du musée pour mieux intégrer le numérique. 
 - Son [[MuseumXTD - Elisabeth Gravil|intervention au Forum MuseumXTD]] le 12 octobre 2022 
 
-
 [Elisabeth Gravil](https://www.linkedin.com/in/elisagravil/) est une consultante française qui a créé sa propre société, Museovation.  
 
+Apparaît dans [[Qu'est-ce qu'une stratégie numérique]], [[Comment élaborer une stratégie numérique]]  
 
-Apparaît dans [[Qu'est-ce qu'une stratégie numérique]], [[Comment élaborer une stratégie numérique]]
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

@@ -21,7 +21,7 @@ La stratégie numérique est propre à chaque institution (voir [[Exemples de st
 	- Cet outil développé par Virage NumériCQ a comme objectif de fournir une évaluation objective de la maturité numérique d'une petite organisation. 
 4. [[Cartographie de ma transformation numérique]]
 	- Cet outil développé par Virage NumériCQ a comme objectif de formuler les besoins et objectifs pour cadrer la stratégie. 
-5. [[La Stratégie numérique dans les musées. Pour une approche globale du numérique]] 
+5. [[La stratégie numérique dans les musées. Pour une approche globale du numérique]] 
 	- L'ancien directeur du musée Alfred Danicourt, l’un des plus petits musées des Hauts-de-France, insiste sur l'étape d'analyse et d'état des lieux (en utilisant des outils comme la matrice MOFF/SWOT). 
 
 

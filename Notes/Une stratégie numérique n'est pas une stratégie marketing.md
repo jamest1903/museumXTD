@@ -15,5 +15,6 @@ Les auteurs définissent la stratégie numérique en partant de ce qu'elle n'est
 
 Annie Chénier est la fondatrice de Cpour.ca, une entreprise québécoise qui accompagne les organisations dans leur transformation, leur stratégie et leurs communications numériques. Elle soutient le [réseau des ADN](https://wiki.reseauadn.ca/wiki/Accueil) au Québec. 
 
+Apparaît dans [[Qu'est-ce qu'une stratégie numérique]]  
 
-Apparaît dans [[Qu'est-ce qu'une stratégie numérique]]
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)  
