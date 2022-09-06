@@ -3,13 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-06-09
 ---
-
-
-Voici une liste d'éléments à suivre pour écrire du contenu sur la plateforme MuseumXTD. 
-
+Voici une liste d'éléments à suivre pour écrire du contenu sur la plateforme MuseumXTD.   
 
 # Contenus de [[Numérique et musée]]  
-## Les notes *question*  
+## 1. Les notes *question*  
 ### Structure de la note   
 Voir le modèle [[Note question]].   
 ### Formatage  
@@ -24,7 +21,8 @@ Voir le modèle [[Note question]].
 	  1. [[La pratique muséale numérique. Une approche globale]]
 	     Ce document donne une définition de la stratégie numérique et les raisons de l'implémenter dans les musées. 
 - Une ou plusieurs notes *question* peuvent y être associées à la fin après *Voir également*.    
-## Les notes *ressources*  
+
+## 2. Les notes *ressources*  
 ### Structure de la note  
 Voir le modèle [[Note ressource]]. 
 ### Formatage
