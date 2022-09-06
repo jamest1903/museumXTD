@@ -3,17 +3,16 @@ title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-06-08
 ---
+Liste d'éléments à respecter (en cours d'évolution/collaboratif). 
 
-Liste d'éléments à respecter (encours d'évolution/collaboratif) selon des instructions offocielles suisses. 
+## Les éléments propres au projet
+- Utiliser des points médians ⸱ plutôt que des tirets pour l'écriture inclusive.   
+- Ne pas inclure d'espaces avant les signes doubles (; : ! ? -). 
+- Ecrire **MuseumXTD** sans guillemets et en typologie **gras**. 
+- Utiliser *&* plutôt que *et* dans les titres des intervenants
+- Préférer *les 12 et 13 octobre 2022* plutôt que *le 12 et le 13 octobre 2022* 
 
-# Syntaxe
-- écriture inclusive ??
-
-
-- Inclure un espace avant des signes doubles (; : ! ? -)
-	- "*Par exemple:*" et non "*Par exemple:*"
-NB: Ce n'est pas notifié dans les instructions (cf source) mais c'est comme cela que c'est écrit. 
-
+## Les éléments de l'[Instructions de la Chancellerie fédérale sur la présentation des textes officiels en français](https://www.bk.admin.ch/bk/fr/home/documentation/langues/aides-redaction-et-traduction/instructions-de-la-chancellerie-federale-sur-la-presentation-des.html)
 - Les termes qui désignent des unités de temps (heure, minute, seconde) ne s’abrègent pas. On abrège toutefois le mot « heure » en « h » lorsqu’il est placé entre deux chiffres. 
 	- 10 heures, 5 minutes, 2 secondes 
 	- 5 h 30
@@ -61,7 +60,8 @@ NB: Ce n'est pas notifié dans les instructions (cf source) mais c'est comme cel
 	- on évitera d’écrire en lettres les nombres complexes.
 
 
-Source: [Instructions de la Chancellerie fédérale sur la présentation des textes officiels en français](https://www.bk.admin.ch/bk/fr/home/documentation/langues/aides-redaction-et-traduction/instructions-de-la-chancellerie-federale-sur-la-presentation-des.html)
+Source : [Instructions de la Chancellerie fédérale sur la présentation des textes officiels en français](https://www.bk.admin.ch/bk/fr/home/documentation/langues/aides-redaction-et-traduction/instructions-de-la-chancellerie-federale-sur-la-presentation-des.html)
+
 
 
 

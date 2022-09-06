@@ -1,1 +1,1 @@
-[[Accueil]]  |  [[Guide]]  |  [[Le projet Ramuz]]  |  [[Forum]]  |  [[Ecosystème]]  |  [[A propos|À propos]]  
+[[Accueil]]  |  [[Guide]]  |  [[Le projet Ramuz]]  |  [[Forum]]  |  [[Acteurs et projets]]  |  [[A propos|À propos]]  
