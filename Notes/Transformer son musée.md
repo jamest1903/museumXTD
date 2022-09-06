@@ -49,7 +49,7 @@ date: 2022-08-31
 
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](lien vers YouTube)
 
-[[Le projet Ramuz|Un exemple de projet: Ramuz et moi]]
+[[Le projet Ramuz|Un exemple de projet: Le projet Ramuz]]
 
 
 

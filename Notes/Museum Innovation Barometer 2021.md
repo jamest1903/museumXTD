@@ -24,4 +24,4 @@ Ce rapport synthétise:
 
 Il a été fait par l'agence Museum Booster, agence autrichienne, travaillant notamment sur [[MuseumXTD - Le projet DOORS|le projet DOORS]] (projet d'incubateur numérique pour musées) en collaboration avec Ars et Electronica et Ecsite. 
 
-Apparaît dans [[Quel est l'impact du COVID-19 sur la numérisation des musées]], [[Quelles technologies pour quel impact]]. 
+Apparaît dans [[Quel est l'impact du COVID-19 sur la numérisation des musées]], [[Q[[Quelles technologies pour quels impacts]]

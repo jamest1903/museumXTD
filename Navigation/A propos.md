@@ -7,7 +7,7 @@ layout: layouts/post.njk
 
 #### Le projet-pilote de recherche appliquée **MuseumXTD** (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l'environnement entrepreneurial et celui de l'innovation vaudois (start-ups, entreprises, Hautes Écoles).
 
-Le projet s'appuie notamment sur un cas d'étude : il s'agit d'un dispositif numérique, mené par les Musées de Pully dans le cadre de la mise en place d'un espace consacré à C. F. Ramuz et à la littérature, dont l’ouverture est prévue en 2023. 
+Le projet s'appuie notamment sur un cas d'étude: il s'agit d'un dispositif numérique, mené par les Musées de Pully dans le cadre de la mise en place d'un espace consacré à C. F. Ramuz et à la littérature, dont l’ouverture est prévue en 2023. 
 
 Mis à disposition des institutions muséales pour leur propre recherche et développement, les résultats du projet sont disponibles sur [museumxtd.ch](https://www.museumxtd.ch/). Conçu comme une plateforme d’informations, le site permet de diffuser les recherches et réflexions menées durant l’année qu'a duré le projet. Il est pensé comme une boîte à outils évolutive proposant des réponses aux nombreuses questions que posent l’implémentation et l’usage du numérique dans les musées de notre région. 
 
@@ -151,7 +151,7 @@ Cécile Demaurex
 - Camille Verdier
 
 ## Remerciements
-Nous remercions les personnes ayant offert généreusement et avec enthousiasme leur soutien au projet :
+Nous remercions les personnes ayant offert généreusement et avec enthousiasme leur soutien au projet:
 
 - Aline Delacrétaz
 - Benoit Frachebourg

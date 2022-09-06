@@ -9,9 +9,9 @@ date: 2022-08-31
 
 [[Qu'est-ce qu'une stratégie numérique]]
 
-[[Quelles technologies pour quel impact]]
+[[Quelles technologies pour quels impacts]]
 
-[[Question - Quels sont les nouveaux revenus digitaux possibles]]
+[[Quels sont les nouveaux revenus digitaux]]
 
 [[Quels sont les risques]]
 

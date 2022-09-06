@@ -16,7 +16,7 @@
     "publish": false,
     "open-with-default-app": true
   },
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "alphabetical",
   "attachmentFolderPath": "files",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
@@ -29,5 +29,11 @@
   "foldHeading": true,
   "strictLineBreaks": true,
   "spellcheck": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

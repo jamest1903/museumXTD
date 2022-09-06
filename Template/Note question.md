@@ -13,4 +13,4 @@ tags: question
 ...
 
 
-Voir également : *+ liens vers d'autres questions associées*
+Voir également: *+ liens vers d'autres questions associées*

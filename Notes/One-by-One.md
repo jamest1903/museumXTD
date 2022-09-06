@@ -22,7 +22,7 @@ Pour étudier les compétences numériques présentes et à développer au sein 
 - offre (quelles sont les compétences recrutées et formées)
 - développement (comment les compétences sont entretenues)  
 
-L'étude développe le concept de "digital literacy" ou "habilité numérique", qui "englobe toutes les compétences dont un individu a besoin aujourd’hui pour vivre dans la culture du numérique" (voir la définition dans [[[La pratique muséale numérique. Une approche globale.]]. 
+L'étude développe le concept de "digital literacy" ou "habilité numérique", qui "englobe toutes les compétences dont un individu a besoin aujourd’hui pour vivre dans la culture du numérique" (voir la définition dans [[La pratique muséale numérique. Une approche globale]]. 
 
 Lu dans l'étude (et traduit): "le personnel des petits musées a tendance à être responsable d'un certain nombre de tâches, et les rôles de gestion ont tendance à comporter un élément numérique plus important. Par conséquent, la demande de compétences numériques se concentre souvent sur des postes qui ne sont pas nécessairement spécifiques au numérique." (p.20)
 

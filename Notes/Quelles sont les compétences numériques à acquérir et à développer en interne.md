@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: question
 ---
 # Quelles sont les compétences numériques à acquérir et à développer en interne ?
-Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire spécifiques extérieurs aux équipes du musée (voir [[Question - Comment collaborer avec des prestataires]]). Néanmoins non seulement certaines méthodologies de travail peuvent être repenser en interne (voir [[Quelles sont les méthodologies liées au numérique à connaître]]) mais certains compétences numériques peuvent être développées en auto-formation ou en formation continue. 
+Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire spécifiques extérieurs aux équipes du musée. Néanmoins non seulement certaines méthodologies de travail peuvent être repenser en interne (voir [[Quelles sont les méthodologies liées au numérique à connaître]]) mais certains compétences numériques peuvent être développées en auto-formation ou en formation continue. 
 
 A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compétences de plus en plus *demandées* dans les musées.  
 

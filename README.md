@@ -6,9 +6,16 @@ The MuseumXTD website uses simple text files in .markdown format to store its co
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
   - [Getting started](#getting-started)
+    - [Install the Github Desktop app](#install-the-github-desktop-app)
+      - [Signing-in](#signing-in)
+      - [Getting the content onto your computer](#getting-the-content-onto-your-computer)
+    - [Install Obsidian](#install-obsidian)
+      - [Making changes](#making-changes)
+    - [Publishing to the website](#publishing-to-the-website)
+  - [Alternative setup with Obsidian Git](#alternative-setup-with-obsidian-git)
     - [Install git for windows](#install-git-for-windows)
     - [Clone the museumXTD project](#clone-the-museumxtd-project)
-    - [Install Obsidian](#install-obsidian)
+    - [Install Obsidian](#install-obsidian-1)
     - [Configuring Obsidian to automatically sync with GitHub to pull latest changes and to push new content](#configuring-obsidian-to-automatically-sync-with-github-to-pull-latest-changes-and-to-push-new-content)
       - [Some basic commands](#some-basic-commands)
   - [Adding new MarkDown files](#adding-new-markdown-files)
@@ -36,7 +43,9 @@ First you will need to clone the repository (the website content) to your person
 #### Signing-in
 
 Open GitHub desktop and sign-in with your GitHub account.
+
 Windows: menu File > Options. In the options window, click Accounts and follow the steps to sign in.
+
 MacOS: menu GitHub Desktop > Preferences. In the preference window, click Accounts and follow the steps to sign in.
 
 #### Getting the content onto your computer
@@ -53,17 +62,17 @@ If you wish to view the projects Markdown files and make changes or add new cont
 
 #### Making changes
 Before making changes make sure you have the latest version of the content.
-0. In GitHub Desktop check that the current branch is `main`
-0. Click "Fetch Origin"
+1. In GitHub Desktop check that the current branch is `main`
+1. Click "Fetch Origin"
 
 In Obsidian edit the content in the Notes folder. Only files saved to the Notes folder will be published on the website. 
 
 ### Publishing to the website
 Open GitHub Desktop 
-0. Write a summary about your changes
-0. Click the *Commit* button
+1. Write a summary about your changes
+1. Click the *Commit* button
 
-!(images/read-me-images/Screenshot 2022-09-05 at 16.07.30.png)
+![screenshot of github desktop](/images/read-me-images/screenshot-github_desktop.png)
 
 ## Alternative setup with Obsidian Git
 

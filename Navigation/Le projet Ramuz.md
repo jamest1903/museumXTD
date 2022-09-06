@@ -11,13 +11,10 @@ L'objectif est de démontrer, par un exemple concret, la pertinence et les condi
 
 [Vidéo de présentation lors du forum](lien vidéo)
 
-Les étapes du projet : 
+Les étapes du projet: 
 ![[Pasted image 20220620115232.png]]
 
-1. [[Case study - questionnement]]
-2. [[Case study - développement du projet]]
-3. [[Case study - Semaine Crunch]]
-4. [[Case study - app de co-création]]
-
-Remarques : 
-- mettre en valeur les questions de recherche 
+1. [[Case study - Covid & questionnement]]
+2. [[Case study - Le projet de transformation]]
+3. [[Case study - Le smartphone de Ramuz]]
+4. [[Case study - Ramuz & moi]]

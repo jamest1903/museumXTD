@@ -18,4 +18,4 @@ Une importante bibliographie renvoie vers une littérature variée et intéressa
 Les *POSTNotes* sont des rapports de 4 pages chargés de fournir une analyse indépendante et équilibrée des questions politiques ayant un fondement scientifique et technologique aux Chambres des Communes du Royaume-Uni.  
 Voir [ici](https://www.parliament.uk/mps-lords-and-offices/offices/bicameral/post/publications/how-to-write-postnotes/) comment les notes sont produites. 
 
-Apparaît dans [[Quelles technologies pour quel impact]].
+Apparaît dans [[Quelles technologies pour quels impacts]].
