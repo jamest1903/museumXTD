@@ -3,6 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-06-08
 ---
+# Syntaxe & typologie
 Liste d'éléments à respecter (en cours d'évolution/collaboratif). 
 
 ## Les éléments propres au projet
