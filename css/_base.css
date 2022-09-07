@@ -28,10 +28,7 @@ ul {
   margin-bottom: var(--line-height-m);
 }
 
-ul li {
-  list-style: none;
-  /* margin-top: var(--space-s); */
-}
+
 ul ul li {
   margin-left: 1.5em;
 }
