@@ -1,6 +1,6 @@
 ---
 title: MuseumXTD
-layout: layouts/post.njk
+layout: layouts/info.njk
 ---
 
 # Forum

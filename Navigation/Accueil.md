@@ -1,6 +1,6 @@
 ---
 title: MuseumXTD
-layout: layouts/post.njk
+layout: layouts/info.njk
 ---
 
 *1er paragraphe introductif -> qu'allez-vous trouver sur cette plateforme ?*
