@@ -8,7 +8,7 @@ tags: liens strategie rapport
 
 Ce colloque organisé en 2018 à Paris s'intéresse aux enjeux d’une approche globale du numérique au sein des institutions muséales, au-delà de la gestion des collections et de la médiation.  De nombreux musées de France, aussi bien grands que petits, ont témoigné de leur expérience quant à l'intégration du numérique en leur sein.   
 
-Les vidéos des interventions peuvent être retrouvées directement sur la page internet du colloque.  
+Les vidéos des interventions peuvent être retrouvées directement sur la page internet du colloque.   
 
 ## A retenir
 - Quelques citations des intervenants:
