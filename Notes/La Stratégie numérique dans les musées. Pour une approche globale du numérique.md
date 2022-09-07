@@ -20,6 +20,6 @@ Les vidéos des interventions peuvent être retrouvées directement sur la page 
 
 La journée a été organisée le 5 octobre 2018 à Paris par l'Institut national du patrimoine, l'ICOM France et l'Association Générale des Conservateurs des Collections Publiques de France.   
 
-Apparaît dans [[Exemples de stratégie numérique de musées]], [[Qu'est-ce qu'une stratégie numérique]], [[Les outils à l'élaboration d'une stratégie numérique]]   
+Apparaît dans [[Qu'est-ce qu'une stratégie numérique]], [[Les outils à l'élaboration d'une stratégie numérique]]   
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
