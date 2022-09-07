@@ -11,7 +11,7 @@ Ce colloque organisé en 2018 à Paris s'intéresse aux enjeux d’une approche 
 Les vidéos des interventions peuvent être retrouvées directement sur la page internet du colloque.   
 
 ## A retenir
-- Quelques citations des intervenants:
+- Quelques citations des intervenants: 
 	- "Profondément participatif, le numérique nous amène à repenser la méthodologie de l’élaboration de nos projets, en favorisant, ou plutôt, en nous obligeant à co-construire, mais également à développer une approche à la fois incrémentale et itérative dans la conduite de nos projets, permettant in fine une plus grande agilité." (Voir la conclusion de la journée par Blandine Chavanne, ancienne cheffe du Service des musées de France)
 	- "Il y a beaucoup d'expérimentations numériques qui se font au coup par coup, en fonction des opportunités financières ou de contexte de projet et que la question d'une globalité dans le projet de l'établissement a beaucoup de difficultés de se mettre en œuvre." (Jean-François Depelsenaire, Directeur de Videomuseum)
 	- "La stratégie numérique n'est en tous cas pas une question de moyens. On ne peut pas se retrancher derrière cette question. C'est plus de l'énergie, le sens de l'opportunité." (David de Sousa, ancien directeur du musée Alfred Danicourt de Péronne)
