@@ -77,7 +77,10 @@ Open Obsidian, and go to menu File > Open vault... then in the window click **Op
 
 # Editing the content
 
+Please also read our editing guidelines in "Comment participer sur la plateforme" folder.
+
 ## Making changes
+
 Before making changes, make sure you have the latest version of the content.
 1. In GitHub Desktop check that under Current Branch is `main`
 1. Click "Fetch Origin" 
@@ -113,6 +116,7 @@ All images are to be stored in the root **images** folder. When referencing any 
 Open the GitHub Desktop app
 1. Write a summary about your changes
 1. Click the *Commit* button
+1. Click *Push origin*
 
 This last step will upload your changes to GitHub. Once online, your notes will be processed into web pages (from .md to .html). There will be a delay of a few minutes before they are visible online Museumxtd.ch 
 
