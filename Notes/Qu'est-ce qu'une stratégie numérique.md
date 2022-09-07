@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: question
 ---
 # Qu'est-ce qu'une stratégie numérique?  
-Aujourd'hui, une stratégie numérique est une composante indispensable de la stratégie générale du musée (ou son Plan Scientifique et Culturel). Elle permet d'intégrer des pratiques numériques en considérant l'ensemble des fonctions et des activités du musée. Elle prend généralement la forme d'un document qui formalise les objectifs et fournit un cadre à la transformation de l'institution.
+Aujourd'hui, une stratégie numérique est une composante indispensable de la stratégie générale du musée (ou son Plan Scientifique et Culturel). Elle permet d'intégrer des pratiques numériques en considérant l'ensemble des fonctions et des activités du musée. Elle prend généralement la forme d'un document qui formalise les objectifs et fournit un cadre à la transformation de l'institution. 
 
 1. [[La pratique muséale numérique. Une approche globale]]  
    Ce document de l'AMS donne une définition de la stratégie numérique ainsi que les grandes étapes à son élaboration.  
