@@ -21,15 +21,15 @@ Plus qu'un outil, le *numérique* est généralement associé à une nouvelle fa
 Si le numérique est une *chose*, la transformation est un *processus* par lequel une organisation doit passer pour entrer dans l'ère du numérique.  
 3. [[MuseumXTD - Elisabeth Gravil|MuseumXTD - Transformation numérique des musées: vers une organisation phygitale]]
    La consultante française en stratégie numérique des institutions culturelles, Elisabeth Gravil, intervient sur ce que signifie la transformation numérique pour des petits et moyens musées. 
-4. [[AMS. Quels musées voulons-nous demain]] 
-   Ce rapport liste des questions à se poser en tant que musée afin de mieux cerner l'impact de grandes tendances sociétales (mondialisation, numérisation, individualisation etc.) sur le futur de l'institution. Il propose une définition de la numérisation (page 14). 
+4. [[Quels musées voulons-nous demain]] 
+   Ce rapport de l'AMS liste des questions à se poser en tant que musée afin de mieux cerner l'impact de grandes tendances sociétales (mondialisation, numérisation, individualisation etc.) sur le futur de l'institution. Il propose une définition de la numérisation (page 14). 
 
 Pour aller plus loin, voir [[Numérique et musée#Comprendre la transformation numérique|Comprendre la transformation numérique]]
 
 ## L'impact du numérique dans les fonctions du musée
 Comment l'introduction du numérique au musée redéfinit le périmètre des activités du musée. 
 3. [[Musées et mondes numériques (Introduction)]]
-   L'auteur propose une lecture de l'impact du numérique sur l'institution muséale à travers trois dimensions: "son organisation, ses formes de médiation au sein des expositions et son existence dans l’écosystème du web." 
+   L'auteur affirme que l'utilisation du numérique change la donne de l'accessibilité des contenus culturels, qui ne sont plus tellement dépendants du contact direct avec les collections physiques. 
 
 ### L'impact sur l'organisation muséale
 
@@ -38,7 +38,8 @@ Comment l'introduction du numérique au musée redéfinit le périmètre des act
 ### L'impact sur l'existence virtuelle du musée 
 
 
-4. [[La stratégie numérique dans les musées. Pour une approche globale du numérique]]- Pour les musées, il est aussi intéressant de voir le numérique à travers son impact sur la manière de travailler: « Profondément participatif, le numérique nous amène à repenser (…) l’élaboration de nos projets, (…) en nous obligeant à co-construire, mais également à développer une approche à la fois incrémentale et itérative dans la conduite de nos projets, permettant _in fine_ une plus grande agilité. »
+4. [[La stratégie numérique dans les musées. Pour une approche globale du numérique]]
+   Pour les musées, il est aussi intéressant de voir le numérique à travers son impact sur la manière de travailler: « Profondément participatif, le numérique nous amène à repenser (…) l’élaboration de nos projets, (…) en nous obligeant à co-construire, mais également à développer une approche à la fois incrémentale et itérative dans la conduite de nos projets, permettant _in fine_ une plus grande agilité. »
 
 5. [[MuseumXTD - Quelles approches du numérique pour un musée en Suisse]]
 	- Cette table ronde réunit professionnel.le.s de musées suisses qui s'expriment les enjeux pratiques de l'innovation numérique au service de la médiation: Qu’est-ce qu’un recours pertinent aux technologies numériques dans le domaine de la médiation muséale ? Et comment établir cette pertinence ?
