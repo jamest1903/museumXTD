@@ -16,7 +16,7 @@ Les auteurs analysent les injonctions dans le discours véhiculé autour de la t
 - Les dispositifs au musée Arleaton d'Arles sont uniquement choisis selon certains critères: pertinents, discrets, raisonnés. Le responsable du service des publics témoigne que « Le numérique serait catastrophique si on l’utilisait pour la technologie, c’était l’objectif d’interprétation qui conditionnait la technologie et pas l’inverse ». 
   
 Cet article est issu du dossier [*Musées et monde numériques*](https://journals.openedition.org/culturemusees/4353) sous la direction de [Florence Andreacola](http://andreacola.fr/).   
-Voir également [[Florence Andreacola. Introduction. Musées et mondes numériques, Culture et musées, 35]]  
+Voir également [[Musées et mondes numériques (Introduction)]]  
 
 Apparaît dans [[Quels sont les risques]]
 

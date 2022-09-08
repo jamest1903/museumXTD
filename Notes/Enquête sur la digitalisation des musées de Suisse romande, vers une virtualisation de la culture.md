@@ -13,14 +13,14 @@ L’enquête s'intéresse à la définition du numérique, son utilisation ainsi
 	1. Définition en **négatif**: le digital se définit en opposition avec l’analogique ou comme transposition immatérielle d'éléments physiques
 	2. Définition **utilitariste**: c'est un outil informationnel
 	3. Définition **créative**: le digital est un langage en soi, avec un potentiel créatif
-- Le virtuel est une extension du digital, un espace: « _un lieu d’expression des ressources digitales_ »
+- Le virtuel est une extension du digital, un espace: « _un lieu d’expression des ressources digitales_ ». 
 - Les musées suisses romands ont réagi de trois façons différentes dans leur utilisation du numérique lors de la pandémie: façon minimaliste (rien de particulier mis en place), pragmatique (initiatives pour garder l’attention) ou hyperactifs (quantité importante de contenus proposé). 
 - Dans une certaine mesure, les musées ont du capital à investir dans le numérique mais cela va par vague et par tendance. La difficulté à cerner et à définir le numérique est un frein qui peut empêcher les musées de se positionner et formaliser leurs besoins face au numérique. Ainsi même si celui-ci peut être vu comme une opportunité, son utilisation est ainsi moins prioritaire face aux outils et processus, certes moins numériques mais maitrisés, des musées. 
 - Les musées manquent généralement de capital humain et de compétences et font de l'outsourcing pour gérer les projets numériques, ce qui ne favorise ni la transmission d'information, ni celle de compétences, ni de gestion à long-terme. 
 - A l'époque de l'enquête, les musées traversaient une période de réflexivité face au numérique et de recherche d'équilibre. 
 - L'enquête conclut à une période *postnumérique* dans laquelle le digital sera invisible, voire que la problématique du digital sera dépassée. 
 - Les auteures synthétisent les réticences des professionnels des musées quant à l'utilisation du numérique dans les musées, notamment liées au manque de formation de ces derniers, au manque de financement ou à l'obsolescence des équipement (p. 27 du rapport). 
-
+- L'[[MuseumXTD - Quelles approches du numérique pour un musée en Suisse|intervention au forum MuseumXTD]] de Diletta Guidi le 12 octobre 2022.   
 
 Les auteures: 
 - Diletta Guidi, historienne de l’art, docteure en science politique, assistante à UniDistance Suisse et maître-assistante à l'Université de Fribourg. Elle intervient lors de la table ronde du forum [[MuseumXTD - Quelles approches du numérique pour un musée en Suisse]].  
