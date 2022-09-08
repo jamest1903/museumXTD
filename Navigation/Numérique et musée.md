@@ -4,7 +4,7 @@ layout: layouts/post.njk
 ---
 # Numérique et musée
 
-Cette section offre une sélection de réflexions, d'exemples et d'outils suisses et internationaux en accès libre qui permettent de comprendre qu'est-ce que la transition numérique pour les petits et moyens musées. 
+Cette section offre une sélection de réflexions, d'exemples et d'outils suisses et internationaux en accès libre qui permettent de comprendre ce qu'est la transition numérique pour les petits et moyens musées. 
 Elle met en lumière ses réalités et enjeux, permettant de se positionner face aux discours, mythes et injonctions qui viennent de l'extérieur de l'institution muséale.
 
 Les ressources ont été choisies par nos soins et certaines sections sont encore à compléter: vous n'êtes pas d'accord avec nous ? Vous voulez partager vos expériences et références ? Envoyez un message à cette adresse mail [info@museumxtd.ch](mailto:info@museumxtd.ch).  
@@ -17,9 +17,13 @@ Les ressources ont été choisies par nos soins et certaines sections sont encor
 
 [[Qu'est-ce qu'une stratégie numérique|Qu'est-ce qu'une stratégie numérique ?]]
 
-[[Quelles sont les méthodologies liées au numérique à connaître]]
+[[Quels sont les risques]]
 
-[[Quelques outils]]
+[[Les outils à l'élaboration d'une stratégie numérique]]
+
+[[Quelles sont les compétences numériques à acquérir et à développer en interne]]
+
+[[Comment mener mon projet numérique]]
 
 
 ## [[Comprendre la transformation numérique]]

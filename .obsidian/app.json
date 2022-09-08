@@ -16,7 +16,7 @@
     "publish": false,
     "open-with-default-app": true
   },
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "byModifiedTime",
   "attachmentFolderPath": "files",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
