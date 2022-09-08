@@ -109,11 +109,8 @@ Equipe [Doors](https://ars.electronica.art/doors/en/), Ars Electronica (AT)
 
 
 
-- #### [[MuseumXTD - 0 1 Hub numérique|La face cachée du numérique]] 
+- #### [[MuseumXTD - La face cachée du numérique|La face cachée du numérique]] 
 - *13h40-14h00*
-
-[Léonie Alain](https://www.linkedin.com/in/leonie-alain-23202571/)  
-Directrice des communications, [0/1 - Hub numérique](https://www.hub01.org/) (CA)
 
 [Olivier Ross](https://ca.linkedin.com/in/olivier-ross-b6009854)  
 Directeur des opérations, [0/1 - Hub numérique](https://www.hub01.org/) (CA)

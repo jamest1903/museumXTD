@@ -37,7 +37,7 @@ A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compét
 ## Education et apprentissage:  
 - Création de ressources d'apprentissage interactives
 - Conception de ressources en ligne
-	- [[MuseumXTD - 0 1 Hub numérique]]
+	- [[MuseumXTD - La face cachée du numérique]]
 - Production des copies d'objets pour des activités d'apprentissage
 - Adaptation aux scans 3D d'objets de musée ; impression 3D pour que les élèves puissent manipuler les objets
 - Utilisation de logiciels libres. 

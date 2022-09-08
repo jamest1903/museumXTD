@@ -20,7 +20,7 @@ L'article aborde les concepts clés du numérique qui, selon l'auteure, sont dé
 - Les espaces de **création collaboratif** sont des lieux dans lesquels "une multitude d’individus partagent leurs savoirs, leurs compétences et leurs visions au profit d’un projet commun."
 - "Dans le numérique, **l’itération** implique cette notion de répétition, mais avec une recherche constante d’amélioration."
 - L'intérêt des méthodes Agile, Kaban ou Lean dans le secteur culturel
-- L'[[MuseumXTD - 0 1 Hub numérique|intervention de l'équipe du 0/1 - Hub numérique]] le 12 octobre 2022 lors du forum MuseumXTD 
+- L'[[MuseumXTD - La face cachée du numérique|intervention de l'équipe du 0/1 - Hub numérique]] le 12 octobre 2022 lors du forum MuseumXTD 
 
   
 [0/1 - Hub numérique](https://www.hub01.org/a-propos/) est un organisme québécois fondé par Sporobole, qui vise à rendre accessibles les ressources et expertises nécessaires à la transformation numérique du milieu culturel et sans but lucratif.

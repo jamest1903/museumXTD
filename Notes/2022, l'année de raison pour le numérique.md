@@ -1,0 +1,22 @@
+---
+title: MuseumXTD
+layout: layouts/post.njk
+tags: liens
+---
+[Derrac, L. (2022). 2022 : l’année de raison pour le numérique ?](https://louisderrac.com/2022/01/13/2022-lannee-de-raison-pour-le-numerique/)  
+L'auteur recontextualise l'utilisation actuelle du numérique dans nos sociétés et pousse à une utilisation plus modérée et pertinente. Il propose des alternatives numériques face aux modèles dominants.  
+
+## A retenir
+- La crise du COVID-19 a montré les limites de certaines technologies numériques. 
+- Les technologies numériques ne sont pas des solutions en elles-mêmes: " les technologies numériques n’ont jamais transformé des dynamiques sociales. Au mieux, elles ne changent rien, au pire, elles amplifient des phénomènes existants."
+- Les enjeux associés aux technologies, comme leur impact environnemental ou l'utilisation des données personnelles, sont à prendre en compte. 
+- Il y a des priorités à mettre en place dans les besoins numériques individuels et collectifs.    
+- Des propositions d'alternatives numériques face aux modèle dominants (dans la deuxième partie de l'article). 
+
+  
+[Louis Derrac](https://louisderrac.com/) est consultant, formateur et enseignant français, spécialisé dans les domaines de l’éducation et du numérique.
+Il délivre des cours et formations, [accessibles sur son site](https://louisderrac.com/cours-et-formations/), notamment à propos de la culture du numérique, ses enjeux économiques, politiques et sociaux ainsi que les alternatives numériques existantes. 
+Il a co-fondé [[Resnumerica]], à la fois un media, un wiki de ressources, une veille informative et une communauté pour échanger.   
+Voir également [[Cours sur la culture numérique (définition et histoire)]]
+
+Apparaît dans [[Quels sont les risques]]

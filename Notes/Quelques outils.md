@@ -9,4 +9,4 @@ Cette section liste une sélection d'outils pour chaque type d'activité du mus�
 
 
 
-[[MuseumXTD - 0 1 Hub numérique]]
+[[MuseumXTD - La face cachée du numérique]]

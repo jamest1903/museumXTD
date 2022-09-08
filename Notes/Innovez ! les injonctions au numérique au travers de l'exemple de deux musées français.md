@@ -3,15 +3,22 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Appiotti, S. et Sandri, E. (2020). "Innovez ! Participez !" Interroger la relation entre musée et numérique au travers des injonctions adressées aux professionnels. Culture & Musées, 35, 25-48.](https://journals.openedition.org/culturemusees/4383#tocto2n4) 
+[Appiotti, S. et Sandri, E. (2020). "Innovez ! Participez !" Interroger la relation entre musée et numérique au travers des injonctions adressées aux professionnels. Culture & Musées](https://journals.openedition.org/culturemusees/4383#tocto2n4) 
 
-Les auteurs analysent les injonctions dans le discours véhiculé autour du passage au numérique des musées, dans lequel ils repèrent deux impératifs: celui de l'équipement numérique et celui de l'injonction à l participation.    
+Les auteurs analysent les injonctions dans le discours véhiculé autour de la transformation numérique des musées. Ils repèrent deux impératifs - celui de l'équipement numérique et celui de la participation- et les illustrent à travers la stratégie numérique de deux musées français: le musée Arleaton d'Arles et la RMN-Grand Palais à Paris.
 
-La transition numérique de deux musées français est analysée: le musée Arleaton d'Arles et la RMN-Grand Palais à Paris. Si le second a adopté l'utilisation du numérique pour se transformer en incubateur d'innovations numériques, l'objectif du premier est d'utiliser le numérique pour moderniser son discours. Profitant de la période de repositionnement de l'identité de l'institution, le musée a voulu trouver un équilibre entre l'élargissement du public ciblé et touché, l'obsolescence technologique et la matérialité excessive des dispositifs numériques. Ainsi, les dispositifs sont uniquement choisis selon certains critères: pertinents, discrets, raisonnés. 
 
-Les auteurs: 
-- [Sébastien Appiotti](https://journals.openedition.org/culturemusees/4423)est attaché temporaire d’enseignement et de recherche à l’IUT de Paris et doctorant en sciences de l’information et de la communication au Cemti (Université Paris 8). Ses recherches sont à la croisée de l’anthropologie de la communication, de l’économie politique de la communication, de la muséologie et de la socio-sémiotique, et portent notamment sur les pratiques photographiques des publics d’institutions culturelles. 
-
-- [Éva Sandri](https://journals.openedition.org/culturemusees/415)est maîtresse de conférences en sciences de l’information et de la communication à l’Inalco (équipes de recherche Cerlom et Gripic). Ses recherches portent sur les enjeux actuels de la médiation culturelle et sur l’imaginaire des dispositifs numériques au musée. Elle est l’auteure de « Discours circulants sur l’utilisation des technologies numériques dans la médiation culturelle », dans l’ouvrage _L’Essentiel de la médiation_, sous la direction de Michèle De Gioia et de Mario Marcon (2020). 
+## A retenir
+- Les injonctions peuvent être *top-down* (de la part des institutions structurantes, de la hiérarchie) ou *bottom-up* (de la part des professionnel.le.s eux-mêmes). 
+- Les équipement technologiques au musée sont accompagnés de discours promotionnels et technophiles à leur propos qui reposent parfois sur des mythes (par exemple, la technologie serait à l'origine de l'interactivité) et une logique de remplacement systématique d'anciens dispositifs. 
+- La paradigme de la participation arrive dans le cadre du "renouvellement des missions du musées" (Delarge, 2018). Se concrétise alors un croisement entre cette nouvelle approche des missions par la participation et l'utilisation du numérique dans les musées. Tout cela soutenu par les défenseurs des réseaux sociaux ou des cultures participatives de fans.
+- "Le croisement de ces deux impératifs se matérialise dans la conception de dispositifs numériques qui contribuent au repositionnement d’institutions marquées par une réflexion commune sur leurs missions et leur devenir suite à de grands projets de rénovation."
+- Les dispositifs au musée Arleaton d'Arles sont uniquement choisis selon certains critères: pertinents, discrets, raisonnés. Le responsable du service des publics témoigne que « Le numérique serait catastrophique si on l’utilisait pour la technologie, c’était l’objectif d’interprétation qui conditionnait la technologie et pas l’inverse ». 
+  
+Cet article est issu du dossier [*Musées et monde numériques*](https://journals.openedition.org/culturemusees/4353) sous la direction de [Florence Andreacola](http://andreacola.fr/).   
+Voir également [[Florence Andreacola. Introduction. Musées et mondes numériques, Culture et musées, 35]]  
 
 Apparaît dans [[Quels sont les risques]]
+
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+

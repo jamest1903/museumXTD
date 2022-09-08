@@ -18,7 +18,8 @@ L’enquête s'intéresse à la définition du numérique, son utilisation ainsi
 - Dans une certaine mesure, les musées ont du capital à investir dans le numérique mais cela va par vague et par tendance. La difficulté à cerner et à définir le numérique est un frein qui peut empêcher les musées de se positionner et formaliser leurs besoins face au numérique. Ainsi même si celui-ci peut être vu comme une opportunité, son utilisation est ainsi moins prioritaire face aux outils et processus, certes moins numériques mais maitrisés, des musées. 
 - Les musées manquent généralement de capital humain et de compétences et font de l'outsourcing pour gérer les projets numériques, ce qui ne favorise ni la transmission d'information, ni celle de compétences, ni de gestion à long-terme. 
 - A l'époque de l'enquête, les musées traversaient une période de réflexivité face au numérique et de recherche d'équilibre. 
-- L'enquête conclut à une période "postnumérique" dans laquelle le digital sera invisible, voire que la problématique du digital sera dépassée. 
+- L'enquête conclut à une période *postnumérique* dans laquelle le digital sera invisible, voire que la problématique du digital sera dépassée. 
+- Les auteures synthétisent les réticences des professionnels des musées quant à l'utilisation du numérique dans les musées, notamment liées au manque de formation de ces derniers, au manque de financement ou à l'obsolescence des équipement (p. 27 du rapport). 
 
 
 Les auteures: 

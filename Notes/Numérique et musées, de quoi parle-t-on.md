@@ -9,8 +9,8 @@ Pour une définition de la stratégie numérique, voir [[Qu'est-ce qu'une strat�
 
 ## Définitions
 ### La pensée numérique
-Plus qu'un "outil", le *numérique* est généralement associé à une nouvelle façon de pensée, un *paradigme*. 
-1. [[Louis Derrac. Cours sur la culture numérique (définition et histoire)]]
+Plus qu'un outil, le *numérique* est généralement associé à une nouvelle façon de pensée, un *paradigme*. 
+1. [[Cours sur la culture numérique (définition et histoire)]]
 	- Ce cours permet de mieux comprendre ce que l'on entend par _culture numérique_. Il propose:
 		- Une définition du numérique et de la culture numérique (à partir de la _slide_ 12).
 		- Une brève histoire illustrée du numérique (dès la _slide_ 28).
@@ -36,7 +36,9 @@ Comment l'introduction du numérique au musée redéfinit le périmètre des act
 ### L'impact sur les formes de médiation au sein des expositions 
 
 ### L'impact sur l'existence virtuelle du musée 
-4. [[J[[La stratégie numérique dans les musées. Pour une approche globale du numérique]]- Pour les musées, il est aussi intéressant de voir le numérique à travers son impact sur la manière de travailler: « Profondément participatif, le numérique nous amène à repenser (…) l’élaboration de nos projets, (…) en nous obligeant à co-construire, mais également à développer une approche à la fois incrémentale et itérative dans la conduite de nos projets, permettant _in fine_ une plus grande agilité. »
+
+
+4. [[La stratégie numérique dans les musées. Pour une approche globale du numérique]]- Pour les musées, il est aussi intéressant de voir le numérique à travers son impact sur la manière de travailler: « Profondément participatif, le numérique nous amène à repenser (…) l’élaboration de nos projets, (…) en nous obligeant à co-construire, mais également à développer une approche à la fois incrémentale et itérative dans la conduite de nos projets, permettant _in fine_ une plus grande agilité. »
 
 5. [[MuseumXTD - Quelles approches du numérique pour un musée en Suisse]]
 	- Cette table ronde réunit professionnel.le.s de musées suisses qui s'expriment les enjeux pratiques de l'innovation numérique au service de la médiation: Qu’est-ce qu’un recours pertinent aux technologies numériques dans le domaine de la médiation muséale ? Et comment établir cette pertinence ?
