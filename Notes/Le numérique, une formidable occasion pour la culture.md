@@ -9,12 +9,11 @@ tags: #liens #outils #infrastructure
 L'article aborde les concepts clés du numérique qui, selon l'auteure, sont déjà ancrés dans les pratiques artistiques et propose de s'inspirer et appliquer au secteur culturel des méthodes de gestion organisationnelle du numérique.  
 
 ## A retenir
-- "L’enjeu fondamental d’une transformation numérique n’est donc pas de s’adapter à de nouvelles technologies, mais plutôt de **modifier en profondeur** nos façons de penser et d’agir." 
-- "Pourquoi **réaliser un plan** si nous ne sommes pas pour le suivre ? Avons-nous fait inutilement des plans stratégiques durant toutes ces années ? Bien sûr que non ! Il est essentiel de réaliser des plans stratégiques pour avoir une idée claire où nous devons mener notre organisation. Ce qui est important par contre, c’est de continuellement évaluer notre plan stratégique, afin de s’assurer que nous sommes toujours dans la bonne direction, avec le meilleur chemin possible pour y arriver."
 - Les **concepts clés du numérique** sont
 	- la créativité/innovation
 	- la collaboration
-	- l’itération"
+	- l’itération"- "L’enjeu fondamental d’une transformation numérique n’est donc pas de s’adapter à de nouvelles technologies, mais plutôt de **modifier en profondeur** nos façons de penser et d’agir." 
+- "Pourquoi **réaliser un plan** si nous ne sommes pas pour le suivre ? Avons-nous fait inutilement des plans stratégiques durant toutes ces années ? Bien sûr que non ! Il est essentiel de réaliser des plans stratégiques pour avoir une idée claire où nous devons mener notre organisation. Ce qui est important par contre, c’est de continuellement évaluer notre plan stratégique, afin de s’assurer que nous sommes toujours dans la bonne direction, avec le meilleur chemin possible pour y arriver."
 - Les fondamentaux de ces concepts correspondent aux habitudes naturelles des artistes. 
 - "[...] **pour pouvoir être créatif et innover**, il est nécessaire d’avoir un regard particulier sur ce qui nous entoure. C’est ce regard spécifique qui nous donnera l’occasion d’avancer une proposition inédite, qu’elle soit artistique ou autre, nous permettant ainsi de sortir des sentiers battus."
 - Les espaces de **création collaboratif** sont des lieux dans lesquels "une multitude d’individus partagent leurs savoirs, leurs compétences et leurs visions au profit d’un projet commun."

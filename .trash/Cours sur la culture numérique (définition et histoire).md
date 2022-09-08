@@ -16,5 +16,5 @@ Ce cours permet de mieux comprendre ce que l'on entend par _culture numérique_.
 Il délivre des cours et formations, [accessibles sur son site](https://louisderrac.com/cours-et-formations/), notamment à propos de la culture du numérique, ses enjeux économiques, politiques et sociaux ainsi que les alternatives numériques existantes. 
 Il a co-fondé [[Resnumerica]], à la fois un media, un wiki de ressources, une veille informative et une communauté pour échanger. 
   
-Apparaît dans [[Numérique et musées, de quoi parle-t-on]]
+Apparaît dans [[Numérique et musées, quelques concepts clés]]
 

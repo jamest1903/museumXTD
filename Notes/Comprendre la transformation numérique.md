@@ -5,7 +5,7 @@ date: 2022-08-31
 
 ---
 
-[[Numérique et musées, de quoi parle-t-on]]
+[[Numérique et musées, quelques concepts clés]]
 
 [[Qu'est-ce qu'une stratégie numérique]]
 

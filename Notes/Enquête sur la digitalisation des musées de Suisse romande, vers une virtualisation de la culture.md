@@ -29,4 +29,4 @@ Les auteures:
 
 L'enquête ayant été réalisée à distance, un rapport méthodologique a été rédigé ([lien ici](https://unidistance.ch/fileadmin/files/files_unidistance.ch/Documentation/Recherche/Muse%CC%81es2.0_Re%CC%81flexions_me%CC%81thodologie-a%CC%80-distance.pdf)). 
 
-Apparaît dans [[Numérique et musées, de quoi parle-t-on]] et [[Quel est l'impact du COVID-19 sur la numérisation des musées]]. 
+Apparaît dans [[Numérique et musées, quelques concepts clés]] et [[Quel est l'impact du COVID-19 sur la numérisation des musées]]. 

@@ -4,9 +4,7 @@ layout: layouts/post.njk
 tags: liens outils competence
 ---
 
-[Resnumerica](https://resnumerica.org/)
 
-Resnumerica.org est une communauté et un projet de ressource en commun, pour aider à **comprendre, réfléchir, critiquer la « chose numérique »**. Il s’adresse aux citoyen·ne·s, aux éducateurices, et aux pouvoirs publics.
 
 Il se compose de plusieurs briques:
 - [Un média pour s’interroger](https://resnumerica.org/media/)
