@@ -9,9 +9,9 @@ Les auteurs définissent la stratégie numérique en partant de ce qu'elle n'est
 
 ## A retenir
 - **Une stratégie numérique n'est pas**: 
-	- Une stratégie marketing numérique, qui est la mise en place du positionnement de son institution - notamment via les canaux numériques. Mais la stratégie marketing numérique est un des éléments de la stratégie numérique générale d'une institution.   
-	- L’implantation et l’utilisation de nouveaux outils technologiques, bien que ces enjeux doivent être traités à travers la réflexion sur la stratégie numérique.   
-- **La stratégie numérique est** la formulation de réponses à des questions plus fondamentales concernant la réorganisation de l'institution dans une économie immatérielle
+	- une stratégie marketing, qui est la mise en place du positionnement de l'institution, notamment via les canaux numériques. Elle est un des éléments de la stratégie numérique.   
+	- l’implantation et l’utilisation de nouveaux outils technologiques, bien que ces enjeux doivent être traités à travers la réflexion sur la stratégie numérique.   
+- **Une stratégie numérique est** la formulation de réponses à des questions plus fondamentales concernant la réorganisation de l'institution dans une économie immatérielle. 
 
 Annie Chénier est la fondatrice de Cpour.ca, une entreprise québécoise qui accompagne les organisations dans leur transformation, leur stratégie et leurs communications numériques. Elle soutient le [réseau des ADN](https://wiki.reseauadn.ca/wiki/Accueil) au Québec. 
 

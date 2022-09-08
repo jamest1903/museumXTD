@@ -13,7 +13,7 @@ date: 2022-08-31
 
 [[Quels sont les nouveaux revenus digitaux]]
 
-[[Quels sont les risques]]
+[[Quels sont les opportunités et les freins]]
 
 [[Quel est l'impact du COVID-19 sur la numérisation des musées]]
 

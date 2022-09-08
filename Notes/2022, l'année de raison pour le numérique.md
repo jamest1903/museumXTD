@@ -15,8 +15,9 @@ L'auteur recontextualise l'utilisation actuelle du numérique dans nos société
 
   
 [Louis Derrac](https://louisderrac.com/) est consultant, formateur et enseignant français, spécialisé dans les domaines de l’éducation et du numérique.
-Il délivre des cours et formations, [accessibles sur son site](https://louisderrac.com/cours-et-formations/), notamment à propos de la culture du numérique, ses enjeux économiques, politiques et sociaux ainsi que les alternatives numériques existantes. 
-Il a co-fondé [[Resnumerica]], à la fois un media, un wiki de ressources, une veille informative et une communauté pour échanger.   
-Voir également [[Cours sur la culture numérique (définition et histoire)]]
+Il délivre des cours et formations, [accessibles sur son site](https://louisderrac.com/cours-et-formations/), notamment à propos de la culture du numérique, ses enjeux économiques, politiques et sociaux ainsi que les alternatives numériques existantes.  
+Il a co-fondé [Resnumerica](https://resnumerica.org/), à la fois un media, un wiki de ressources, une veille informative et une communauté pour échanger.   
 
-Apparaît dans [[Quels sont les risques]]
+Apparaît dans [[Quels sont les opportunités et les freins]]
+
+Voir également [[Culture numérique]]. 

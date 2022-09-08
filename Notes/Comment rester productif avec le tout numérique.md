@@ -15,9 +15,8 @@ Impossible de nier que le numérique facilite le partage d’informations et le 
 	- **Dompter ses outils numériques** pour éviter sa surcharge cognitive. Pour cela, il faut trouver l'outil qui convient, ne pas multiplier les outils et s'armer de patience (6 mois sont nécessaires pour s'approprier un outil comme [Notion](https://www.notionfacile.fr/) d'après un formateur)
 	- **Valoriser le temps de pause et de récupération** pour préserver nos capacités cognitives
 
-Cet article de Maddyness évoque [CogX](https://cogx.fr/), une agence de conseil en sciences cognitives. 
+Cet article de [Maddyness](https://www.maddyness.com/) évoque [CogX](https://cogx.fr/), une agence de conseil en sciences cognitives. 
 
 Voir également l'intervention de [[MuseumXTD - La face cachée du numérique|0/1 - Hub numérique sur l'utilisation professionnelle des outils numériques]] lors de notre forum MuseumXTD.  
 
-
-Apparaît dans [[Quels sont les risques]]
+Apparaît dans [[Quels sont les opportunités et les freins]], [[Quelques outils]]

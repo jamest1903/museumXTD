@@ -19,7 +19,7 @@ L’enquête s'intéresse à la définition du numérique, son utilisation ainsi
 - Les musées manquent généralement de capital humain et de compétences et font de l'outsourcing pour gérer les projets numériques, ce qui ne favorise ni la transmission d'information, ni celle de compétences, ni de gestion à long-terme. 
 - A l'époque de l'enquête, les musées traversaient une période de réflexivité face au numérique et de recherche d'équilibre. 
 - L'enquête conclut à une période *postnumérique* dans laquelle le digital sera invisible, voire que la problématique du digital sera dépassée. 
-- Les auteures synthétisent les réticences des professionnels des musées quant à l'utilisation du numérique dans les musées, notamment liées au manque de formation de ces derniers, au manque de financement ou à l'obsolescence des équipement (p. 27 du rapport). 
+- Les auteures synthétisent les réticences des musées à l'utilisation du numérique, notamment en raison du manque de formation du personnel, du manque de financement ou de l'obsolescence des équipements (p. 27 du rapport). 
 - L'[[MuseumXTD - Quelles approches du numérique pour un musée en Suisse|intervention au forum MuseumXTD]] de Diletta Guidi le 12 octobre 2022.   
 
 Les auteures: 

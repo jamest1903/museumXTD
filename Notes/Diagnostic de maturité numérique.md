@@ -6,17 +6,14 @@ tags: liens outils management
 
 [Virage NumeriCQ. Diagnostic de maturité numérique](https://docs.google.com/spreadsheets/d/1d77BekbvXFDBTZjhSDKhZvQjIY2dtMNPZPDiyw-Nq2Y/edit#gid=963154001)
 
-Cet outil a comme objectif de fournir une évaluation objective de la maturité numérique d'une petite organisation. 
+Cet outil a comme objectif de fournir un outil d'évaluation de la maturité numérique d'une petite organisation.
 
 ## A retenir
-- Il a été créé de façon collaborative en partenariat avec le [Réseau ADN](https://wiki.reseauadn.ca/wiki/%C3%80_propos_du_R%C3%A9seau_ADN) (Agent Du Numérique), et notamment 0/1 Hub numérique. 
-- Il est distribué avec la licence creative commons.
-- Il peut tout à fait être utilisé pour réaliser votre propre diagnostic de maturité numérique et vous pouvez utiliser la version interactive [ici](https://viragenumeriqc.com/formations/). 
-- L'équipe de [[MuseumXTD - La face cachée du numérique|0/1 Hub numérique]] intervient le 12 octobre 2022 lors du forum MuseumXTD
+- A disposition en format open access, il permet de réaliser un diagnostic de maturité numérique (version interactive [ici](https://viragenumeriqc.com/formations/)).  
+- L'[[MuseumXTD - La face cachée du numérique|intervention de 0/1 Hub numérique]] le 12 octobre 2022. 
 
+Cette ressource fait partie du projet [[Virage NumériCQ]]. Il a été créé de façon collaborative en partenariat avec le [Réseau ADN](https://wiki.reseauadn.ca/wiki/%C3%80_propos_du_R%C3%A9seau_ADN) (Agent Du Numérique), et notamment [0/1 Hub numérique](https://www.hub01.org/). 
 
-Cette ressource fait partie du projet plus général [[Virage NumériCQ]]. [En savoir plus sur le projet](obsidian://open?vault=MuseumXTD%20(site%20internet)&file=Virage%20NumeriCQ). 
-
-Apparaît dans [[Les outils à l'élaboration d'une stratégie numérique]]  
+Apparaît dans [[Comment élaborer une stratégie numérique]]  
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)  
