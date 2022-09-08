@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: question
 ---
 # Numérique et musées, de quoi parle-t-on ?
-Numérique, digital, culture ou transformation numérique, ... Comment se repérer et se positionner? Cette page vous aide à poser certaines bases.
+Numérique, NUMERIQUE, culture ou transformation numérique, ... Comment se repérer et se positionner? Cette page vous aide à poser certaines bases.
 Pour une définition de la stratégie numérique, voir [[Qu'est-ce qu'une stratégie numérique]]. 
 
 ## Définitions
