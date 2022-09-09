@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-*Citation de la ressource:* [Auteur, Initiale., & Auteur, Initiale. (Date). Titre.]()
+[Auteur, Initiale., & Auteur, Initiale. (Date). Titre.]()
 
 Résumé de la ressource
 

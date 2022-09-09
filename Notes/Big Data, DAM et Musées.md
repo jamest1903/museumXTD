@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Bourliataux-Lajoinie, S. (2022). Quand la technologie s’invite au musée.](https://theconversation.com/quand-la-technologie-sinvite-au-musee-178059)
+[Gravil, E. (2021). Big Date, DAM et Musées.](https://elisagravil.medium.com/big-data-dam-mus%C3%A9es-ebe1073c6dd9)
 
 Résumé de la ressource
 
@@ -15,6 +15,6 @@ etc.
 Contexte (*quelques mots sur l'auteur ou sur le projet*)
 
 
-Apparaît dans [[Numérique et musée, quelques concepts clés]]
+Apparaît dans [[Question - Comment créer une base de données numériques pour ses collections]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

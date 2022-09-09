@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Gallet, F. Musée virtuel: futur des expos?](https://tendances.orange.fr/culture-pop/culture/article-musee-virtuel-futur-des-expos-CNT000000W3qaG.html)
+
 
 Résumé de la ressource
 
@@ -17,4 +17,4 @@ Contexte (*quelques mots sur l'auteur ou sur le projet*)
 
 Apparaît dans [[Note question]]
 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)https://elisagravil.medium.com/big-data-dam-mus%C3%A9es-ebe1073c6dd9

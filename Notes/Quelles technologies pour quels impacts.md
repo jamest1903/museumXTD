@@ -8,9 +8,9 @@ tags: question
 
 ## Utilisation selon les **départements des musées**
 1. [[Museum Innovation Barometer 2021]]
-	- L'agence Museum Booster présente les résultats de son sondage sur l'utilisation du numérique dans les musées. Elle analyse à la fois les raisons générales d'utiliser les nouvelles technologies en 2020 (page 14) ainsi que les technologies les plus utilisées selon les département (expositions, médiation, communication etc.). 
+	- L'agence Museum Booster présente les résultats de son sondage sur l'utilisation du numérique dans les musées. Elle analyse à la fois les raisons générales d'utiliser les nouvelles technologies en 2020 (p.14) ainsi que les technologies les plus utilisées selon les département (expositions, médiation, communication etc.). 
 2. [[The impact of digital technology on arts culture in the UK]]
-	- Cette POSTNote pour le parlement britannique définit et classe selon leur usage les technologies émergeantes pertinentes pour le secteur des industries culturelles et créatives (dont les technologies XR, blockchain, NFTs ou services de streaming). 
+	- Cette *POSTNote* pour le parlement britannique définit et classe selon leur usage les technologies émergeantes pertinentes pour le secteur des industries culturelles et créatives (dont les technologies XR, blockchain, NFTs ou services de streaming). 
 
 
 ## Utilisation selon les interactions avec les visiteurs
