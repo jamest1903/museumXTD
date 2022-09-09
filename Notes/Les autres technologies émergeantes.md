@@ -3,6 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
+# Les autres technologies émergeantes
 NFTs, blockchain, métaverse, intelligence artificielle. Les technologies émergeantes qui intègrent le monde des musées. 
 
 1. [En 2022, quelles perspectives pour le secteur de la culture ?](https://www.ladn.eu/mondes-creatifs/tendances-culture-2022-nft-cryptoart-art-immersif-streaming-transition-ecologique/?utm_source=newsletter_ladn&utm_medium=email&utm_campaign=news_ladn_tendance&utm_content=20220215)

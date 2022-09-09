@@ -3,6 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
+# Les technologies immersives (XR)
 Les technologies immersives se rapportent à la réalité virtuelle (*VR*), la réalité augmentée (*AR*) et la réalité mixte (*MR*). Elles sont regroupées sous l'appellation réalité étendue (*XR*). 
 
 1. [Glossaire VR, AR, XR](https://reality.fr/glossaire/)

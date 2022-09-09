@@ -3,6 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
+# Culture numérique
 Plus qu'un outil, le *numérique* est généralement associé à une nouvelle façon de penser, un *paradigme*.   
 
 1. [Derrac, L. (2019). *Culture Numérique*](https://louisderrac.com/files/cours/culture-numerique/culture-numerique-1.pdf)

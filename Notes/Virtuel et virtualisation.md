@@ -3,6 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
+# Virtuel et virtualisation
 Le musée virtuel est un espace nouveau, libéré des contraintes physiques. Il permet de nouveaux modes d'interactions avec le visiteur. 
 
 1. [[Enquête sur la digitalisation des musées de Suisse romande, vers une virtualisation de la culture]] 

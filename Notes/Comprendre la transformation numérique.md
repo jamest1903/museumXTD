@@ -4,7 +4,7 @@ layout: layouts/post.njk
 date: 2022-08-31
 
 ---
-
+# Comprendre la transformation numérique
 [[Numérique et musée, quelques définitions]]
 
 [[Qu'est-ce qu'une stratégie numérique]]
