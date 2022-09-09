@@ -33,6 +33,8 @@ Cette section liste une sélection de guides et d'outils pour chaque type d'acti
 ## [[Nos outils]]
 Dans le cadre du projet, nous avons mis en place plusieurs outils: découvrez notre retour d'expérience. 
 
+
+A rajouter quelque part : 
 - [outilsnum](https://outilsnum.fr/)
   Cette newsletter géré par Eric Bouchet rapporte les dernières actualités à propos d'outils numériques utiles pour l'organisation, la communication, la pensée visuelle et l'automatisation. 
 - [Digital Pathways (by Culture 24)](https://digipathways.co.uk/resources/)
