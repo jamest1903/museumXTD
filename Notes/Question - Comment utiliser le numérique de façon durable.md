@@ -16,4 +16,5 @@ court paragraphe sur l'intérêt de la question
 7. cf retranscription [rapport Les Augures](http://www.tmnlab.com/2022/03/28/lancement-du-programme-augures-lab-numerique-responsable/)
 8. cf la méthodologie de calcul d'impact carbone des sites internet [ici](https://www.websitecarbon.com/how-does-it-work/)
 9. cf les articles dans [Le Temps](https://www.letemps.ch/dossiers/debats-dete-temps-ethique-un-monde-connecte)
+10. cf [Guide pour réduire les impacts du numérique sur l'environnement](https://www.francenum.gouv.fr/guides-et-conseils/pilotage-de-lentreprise/ecologie/guide-pour-reduire-les-impacts-du-numerique-sur)
 
