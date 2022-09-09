@@ -13,7 +13,7 @@ Les ressources ont été choisies par nos soins et certaines sections sont encor
 
 
 ## Pour démarrer
-[[Numérique et musée, quelques concepts clés]]
+[[Numérique et musée, quelques définitions]]
 
 [[Qu'est-ce qu'une stratégie numérique]]
 

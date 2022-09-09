@@ -11,6 +11,6 @@ Les technologies immersives se rapportent à la réalité virtuelle (*VR*), la r
    Ce rapport synthétise les dynamiques des nouvelles technologies dans le secteur des arts et de la culture au Royaume-Uni.  
 
 
-Apparaît dans [[Numérique et musée, quelques concepts clés]]
+Apparaît dans [[Numérique et musée, quelques définitions]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

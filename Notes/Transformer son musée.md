@@ -14,7 +14,7 @@ date: 2022-08-31
 
 [[Question - Comment utiliser le numérique de façon durable]]
 
-[[Quelques outils#Numérique et musée Gérer ses projets Gérer ses projets|Les outils pour gérer ses projets]]
+[[Quelques outils]]
 
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](lien vers YouTube)
 
@@ -43,9 +43,7 @@ date: 2022-08-31
 
 [[Question - Comment encourager la participation du visiteur]]
 
-[[Quelques outils#Ressources Transmettre aux visiteurs Transmettre aux visiteurs|Les outils pour transmettre aux visiteurs]]
-
-[[Quelques outils#Ressources Le visiteur à l'œuvre Le visiteur à l'œuvre|Les outils pour faire participer le visiteur]]
+[[Quelques outils]]
 
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](lien vers YouTube)
 

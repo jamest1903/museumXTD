@@ -20,6 +20,6 @@ Plus qu'un outil, le *numérique* est généralement associé à une nouvelle fa
    L'article de 0/1 Hub numérique aborde les concepts clés du numérique qui, selon l'auteure, sont déjà ancrés dans les pratiques artistiques. 
 
 
-Apparaît dans [[Numérique et musée, quelques concepts clés]]
+Apparaît dans [[Numérique et musée, quelques définitions]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

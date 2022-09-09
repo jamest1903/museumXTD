@@ -10,7 +10,8 @@ Numérique, numérisation, digital ou culture numérique, ... Comment se repére
 2. [[Numérique ou digital]]
 3. [[Virtuel et virtualisation]]
 4. [[Les technologies immersives (XR)]]
-5. UX
+5. [[Les autres technologies émergeantes]]
+6. Expérience utilisateur, expérience visiteur
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 

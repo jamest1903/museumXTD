@@ -20,4 +20,4 @@ L'auteur affirme que l'utilisation du numérique change la donne de l'accessibil
 [Florence Andreacola](http://andreacola.fr/) est une chercheuse de l'université de Grenoble et travaille sur la place du numérique au musée et l’expérience de visite dans le contexte d'une culture numérique. Elle introduit ici le numéro de *Culture et musées* dans lequel 7 articles viennent apporter un nouvel éclairage, chacun sur l'un des trois axes. 
 Voir également [[Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français]]
 
-Apparaît dans [[Numérique et musée, quelques concepts clés]]. 
+Apparaît dans [[Numérique et musée, quelques définitions]]. 
