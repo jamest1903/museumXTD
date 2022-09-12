@@ -46,11 +46,13 @@ Cette section liste une liste de guides pour s'outiller numériquement selon cha
 Dans le cadre du projet, nous avons mis en place plusieurs outils: découvrez notre retour d'expérience. 
 
 
+
 A rajouter quelque part : 
 - **TRES GENERAL** [Digital Pathways (by Culture 24)](https://digipathways.co.uk/resources/)
   Cette banque de ressources en ligne fournit aux personnes qui travaillent dans et avec les musées les outils et les connaissances dont elles ont besoin pour développer leurs compétences numériques.
+  - sera intégré dans tous les cas dans la liste d'initiatives internationales
+- **TRES GENERAL AUSSI** mais beaucoup de templates : [La Caisse à outils de la Machinerie](https://machineriedesarts.ca/outils/)
+	- à intégrer dans Comment élaborer sa stratégie numérique?
 
-- [managementvisuel](https://www.managementvisuel.fr/)
-- COMMENT L'UTILISER ? La [boîte à outil de Québac Numéricq](https://quebecnumerique.com/boite-outils/)
-- [Les formations de Virage NumeriCQ](https://viragenumeriqc.com/formations/)
+- **COMMENT L'UTILISER ?** La [boîte à outil de Québac Numéricq](https://quebecnumerique.com/boite-outils/)
 - **UTILE ?** [Liste d'outils numérique par Québec Numéricq](https://quebecnumerique.com/boite-outils/#tab-143-0)
