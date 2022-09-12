@@ -11,6 +11,8 @@ Cette section liste une liste de guides pour s'outiller numériquement selon cha
 ## Pour démarrer
 - [Outils numériques du manager](https://outilsnum.us16.list-manage.com/track/click?u=a58e88a35e86b513128facc00&id=9e7f3e507c&e=264b52892a)
   Eric Bouchet vous propose plus de 20 outils pour communiquer, partager l'information, et organiser le travail de l'équipe. Il est l'auteur de l'infolettre [outilsnum](https://outilsnum.fr/), qui rapporte les dernières actualités à propos d'outils numériques utiles. 
+- [Liste d'outils numérique par Québec Numéricq](https://quebecnumerique.com/boite-outils/#tab-143-0)
+  Québec numérique liste simplement une sélection d'outils numériques (gratuits et payants) sous *Opérations*, puis sous *Logiciels/applications*. 
 
 ## Gestion de projet
 - [5 applications de gestion de projet](https://www.cqam.org/activites/applications-de-gestion-de-projet/)
@@ -55,4 +57,4 @@ A rajouter quelque part :
 	- à intégrer dans Comment élaborer sa stratégie numérique?
 
 - **COMMENT L'UTILISER ?** La [boîte à outil de Québac Numéricq](https://quebecnumerique.com/boite-outils/)
-- **UTILE ?** [Liste d'outils numérique par Québec Numéricq](https://quebecnumerique.com/boite-outils/#tab-143-0)
+- **UTILE ?** 
