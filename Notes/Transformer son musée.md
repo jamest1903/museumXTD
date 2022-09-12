@@ -15,7 +15,7 @@ date: 2022-08-31
 
 [[Question - Comment utiliser le numérique de façon durable]]
 
-[[Quelques outils]]
+[[Boîte à outils]]
 
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](lien vers YouTube)
 
@@ -26,9 +26,9 @@ date: 2022-08-31
 
 [[Question - Quels sont les nouveaux formats de contenus]]
 
-[[Quelques outils#Numérique et musée Gérer les collections Numériser ses collections|Les outils pour numériser ses collections]]
+[[Boîte à outils#Numérique et musée Gérer les collections Numériser ses collections|Les outils pour numériser ses collections]]
 
-[[Quelques outils]]
+[[Boîte à outils]]
 
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](lien vers YouTube)
 
@@ -44,7 +44,7 @@ date: 2022-08-31
 
 [[Question - Comment encourager la participation du visiteur]]
 
-[[Quelques outils]]
+[[Boîte à outils]]
 
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](lien vers YouTube)
 

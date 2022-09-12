@@ -1,14 +1,20 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-06-23
-tags: #question
+tags: question
 ---
 # Boîte à outils
-Cette section liste une sélection de guides et d'outils pour chaque type d'activité du musée, facilement accessibles et *peu coûteux*.  
+Entre le temps incompressible nécessaire à leur prise en main ou la complémentarité de leurs fonctionnalités, les outils numériques peuvent être difficiles à adopter. L'essentiel est finalement de les réguler plus que de les multiplier.    
+
+Cette section liste des guides pour s'outiller numériquement selon chaque type d'activité du musée
+, facilement accessibles et *peu coûteux*.  
+
+## Pour démarrer
+- [Outils numériques du manager](https://outilsnum.us16.list-manage.com/track/click?u=a58e88a35e86b513128facc00&id=9e7f3e507c&e=264b52892a)
+  Eric Bouchet vous propose plus de 20 outils pour communiquer, partager l'information, et organiser le travail de l'équipe. Il est l'auteur de l'infolettre [outilsnum](https://outilsnum.fr/), qui rapporte les dernières actualités à propos d'outils numériques utiles. 
 
 ## Gestion de projet
-- [La boîte à outils d'EnabledByDesign](https://enabledbydesign.ch/tools/
+- [La boîte à outils d'EnabledByDesign](https://enabledbydesign.ch/tools/)    
   [EnabledByDesign](https://enabledbydesign.ch/about-us) (EPFL et ECAL) propose un plusieurs outils utiles dans le cadre d'un projet mené à plusieurs mains. 
 - [5 applications de gestion de projet](https://www.cqam.org/activites/applications-de-gestion-de-projet/)
   Le Conseil Québécois des Arts Médiatiques conseille 5 applications de projet en gestion libre ou gratuites. Ce guide fait partie des [ressources du réseau québécois des ADN](http://www.pearltrees.com/cpourca/chroniques-des-adn/id29695737). 

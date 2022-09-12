@@ -19,4 +19,4 @@ Cet article de [Maddyness](https://www.maddyness.com/) évoque [CogX](https://co
 
 Voir également l'intervention de [[MuseumXTD - La face cachée du numérique|0/1 - Hub numérique sur l'utilisation professionnelle des outils numériques]] lors de notre forum MuseumXTD.  
 
-Apparaît dans [[Quels sont les opportunités et les freins]], [[Quelques outils]]
+Apparaît dans [[Quels sont les opportunités et les freins]], [[Boîte à outils]]

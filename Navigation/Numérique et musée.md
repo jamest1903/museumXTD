@@ -23,7 +23,7 @@ Les ressources ont été choisies par nos soins et certaines sections sont encor
 
 [[Quelles sont les compétences numériques à acquérir et à développer en interne]]
 
-[[Quelques outils]]
+[[Boîte à outils]]
 
 ## [[Comprendre la transformation numérique]]
 

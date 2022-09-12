@@ -5,7 +5,9 @@ tags:
 ---
 
 ## Basecamp
+## Harvest 
 ## Miro
+## Canva
 ## Sendinblue
 ## Infomaniak
 ## Obsidian
