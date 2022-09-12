@@ -15,6 +15,6 @@ etc.
 Contexte (*quelques mots sur l'auteur ou sur le projet*)
 
 
-Apparaît dans [[Question - Comment créer une base de données numériques pour ses collections]]
+Apparaît dans [[Comment créer une base de données numériques pour ses collections]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

@@ -3,7 +3,15 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Réseau canadien d'information sur le patrimoine (RCIP). (2018). Recommandations relatives à la préservation numérique pour les petits musées.](https://www.canada.ca/fr/reseau-information-patrimoine/services/preservation-numerique/recommandations-petits-musees.html#a4)
+[Gestion des collections, par le Réseau canadien d'information sur le patrimoine (RCIP)](https://www.canada.ca/fr/services/culture/histoire-patrimoine/museologie-conservation/gestion-collections.html)
+
+
+
+## A retenir
+- Les [recommandations relatives à la préservation numérique pour les petits musées.](https://www.canada.ca/fr/reseau-information-patrimoine/services/preservation-numerique/recommandations-petits-musees.html#a4) datées de 2018
+- [Lignes directrices pour le choix d’un système de gestion des collections](https://www.canada.ca/fr/reseau-information-patrimoine/services/systemes-gestion-collections/lignes-directrice-choix-sgc.html)
+  Le Réseau canadien d'information sur le patrimoine propose des questions à se poser pour choisir un système de gestion des collections adapté aux besoins et aux ressources à disposition du musée.    
+
 
 Bien qu'il existe déjà des normes de préservation numérique bien établies, il peut être difficile pour les petits et moyens musées d'y répondre. Pourtant, les options autres que ne rien faire ou ne faire que des sauvegardes présentent des risques inutiles.
 Dans cette perspective, le [Réseau canadien d'information sur le patrimoine (RCIP)](https://www.canada.ca/fr/reseau-information-patrimoine.html) fournit des recommandations et une boîte à outil pour la préservation numérique. 

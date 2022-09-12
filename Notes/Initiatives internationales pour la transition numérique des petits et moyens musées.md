@@ -11,7 +11,10 @@ Liste non-exhaustive de projets à l'international.
 - Digitorials (Suisse)
 - [[Virage NumériCQ]] (Québec)
 - [Digital Kultur](https://kreativ.mfg.de/digitale-kultur/) de Kreative (Allemagne)
-- [[Culture24]] - [Let's Get Real](https://www.culture24.org.uk/lets-get-real/) (Royaume-Uni)
+- [[Culture24]]
+	- [Let's Get Real](https://www.culture24.org.uk/lets-get-real/) (Royaume-Uni)
+	- [Digital Pathways (by Culture 24)](https://digipathways.co.uk/resources/)
+	  Cette banque de ressources en ligne fournit aux personnes qui travaillent dans et avec les musées les outils et les connaissances dont elles ont besoin pour développer leurs compétences numériques.
 - [[One-by-One]] (Royaume-Uni)
 - [Digital Culture Compass](https://digitalculturecompass.org.uk/about) (Royaume-Uni)
 - [Digital Transformation Report. Building capacity for digital transformation across the Europeana Initiative stakeholders](https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/Europeana_Network_Task_Forces/Final_reports/Digital_transformation_report.pdf) (Royaume-Uni x Europeana)
