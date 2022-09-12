@@ -15,7 +15,7 @@ Cette section liste une liste de guides pour s'outiller numériquement selon cha
 ## Gestion de projet
 - [5 applications de gestion de projet](https://www.cqam.org/activites/applications-de-gestion-de-projet/)
   Le Conseil Québécois des Arts Médiatiques conseille 5 applications de projet en gestion libre ou gratuites. Ce guide fait partie des [ressources du réseau québécois des ADN](http://www.pearltrees.com/cpourca/chroniques-des-adn/id29695737).   
-- PERTINENT ? [La boîte à outils d'EnabledByDesign](https://enabledbydesign.ch/tools/)    
+- **PERTINENT ?** [La boîte à outils d'EnabledByDesign](https://enabledbydesign.ch/tools/)    
   [EnabledByDesign](https://enabledbydesign.ch/about-us) (EPFL et ECAL) propose un plusieurs outils utiles dans le cadre d'un projet mené à plusieurs mains.
 
 
@@ -38,7 +38,7 @@ Cette section liste une liste de guides pour s'outiller numériquement selon cha
 ## Humanités numériques 
 - [Digital humanities resources & tools](https://dhcenter-unil-epfl.ch/en/resources/)
   Le [dhcenter de l'UNIL-EPFL](https://dhcenter-unil-epfl.ch/) met à disposition un ensemble d'outils concernant le management de données et les collections numériques. 
-- [Boîte à outils de Digit_Hum](https://digithum.huma-num.fr/ressources/boiteaoutils/)
+- [Boîte à outils de Digit Hum](https://digithum.huma-num.fr/ressources/boiteaoutils/)
   Cette boîte à outil présente un panorama des outils numériques susceptibles d'accompagner les chercheurs, ingénieurs et étudiants en sciences humaines et sociales dans leurs projets de recherche.
   
 
@@ -47,10 +47,10 @@ Dans le cadre du projet, nous avons mis en place plusieurs outils: découvrez no
 
 
 A rajouter quelque part : 
-- TRES GENERAL [Digital Pathways (by Culture 24)](https://digipathways.co.uk/resources/)
+- **TRES GENERAL** [Digital Pathways (by Culture 24)](https://digipathways.co.uk/resources/)
   Cette banque de ressources en ligne fournit aux personnes qui travaillent dans et avec les musées les outils et les connaissances dont elles ont besoin pour développer leurs compétences numériques.
 
 - [managementvisuel](https://www.managementvisuel.fr/)
 - COMMENT L'UTILISER ? La [boîte à outil de Québac Numéricq](https://quebecnumerique.com/boite-outils/)
 - [Les formations de Virage NumeriCQ](https://viragenumeriqc.com/formations/)
-- UTILE ? [Liste d'outils numérique par Québec Numéricq](https://quebecnumerique.com/boite-outils/#tab-143-0)
+- **UTILE ?** [Liste d'outils numérique par Québec Numéricq](https://quebecnumerique.com/boite-outils/#tab-143-0)
