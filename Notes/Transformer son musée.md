@@ -11,7 +11,7 @@ date: 2022-08-31
 
 [[Comment mener mon projet numérique]]
 
-[[Question - Quelles sont les compétences numériques à acquérir et à développer en interne]]
+[[Quelles sont les compétences numériques à acquérir et à développer en interne]]
 
 [[Question - Comment utiliser le numérique de façon durable]]
 

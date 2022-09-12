@@ -1,10 +1,11 @@
 ---
 title: MuseumXTD  
-layout: layouts/post.njk
-tags: question
+layout: layouts/post.njk  
+tags: question 
+
 ---
-# Quelles sont les compétences numériques à acquérir et à développer en interne?
-Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire spécifiques extérieurs aux équipes du musée. Néanmoins non seulement certaines méthodologies de travail peuvent être repenser en interne (voir [[Quelles sont les méthodologies liées au numérique à connaître]]) mais certains compétences numériques peuvent être développées en auto-formation ou en formation continue. 
+# Quelles sont les compétences numériques à acquérir et à développer en interne ?
+Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire qui ne se trouvent à l'intérieur des équipes des musées (voir [[Comment mener mon projet numérique]]). Néanmoins, non seulement certaines méthodologies de travail peuvent être repensées en interne (voir [[Quelles sont les méthodologies liées au numérique à connaître]]), mais certaines compétences numériques peuvent être développées en auto-formation ou en formation continue. 
 
 A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compétences de plus en plus *demandées* dans les musées.  
 
@@ -35,6 +36,7 @@ A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compét
 ## Education et apprentissage:  
 - Création de ressources d'apprentissage interactives
 - Conception de ressources en ligne
+	- [[MuseumXTD - La face cachée du numérique]]
 - Production des copies d'objets pour des activités d'apprentissage
 - Adaptation aux scans 3D d'objets de musée ; impression 3D pour que les élèves puissent manipuler les objets
 - Utilisation de logiciels libres. 
