@@ -6,13 +6,15 @@ tags: question
 # Comment mener mon projet numérique ?
 L'introduction du numérique dans les musées implique une nouvelle façon de penser la gestion de projet et la collaboration multidisciplinaire. Quels sont les enjeux et les bonnes pratiques  ?
 
-**Gérer un projet
+## Gérer un projet
 
 [[Quelles sont les méthodologies liées au numérique à connaître]]
 
 [[Question - Comment évaluer un projet numérique]]
 
-**Collaborer avec une équipe multidisciplinaire
+voir aussi [Conception de projet numérique: le canvas à avoir sous la main](https://quebecnumerique.com/conception-de-projet-numerique-le-canevas-a-avoir-sous-la-main/)
+
+## Collaborer avec une équipe multidisciplinaire
 
 
 1. [[MuseumXTD - Antoine Roland]]
