@@ -13,7 +13,7 @@ date: 2022-08-31
 
 [[Quelles sont les compétences numériques à acquérir et à développer en interne]]
 
-[[Question - Comment utiliser le numérique de façon durable]]
+[[Comment utiliser le numérique de façon durable]]
 
 [[Boîte à outils]]
 
