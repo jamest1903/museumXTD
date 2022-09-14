@@ -8,11 +8,11 @@ tags: liens
 L'auteure questionne la compatibilité entre la transition numérique et la transition écologique, présentant les arguments pour et contre. 
 
 ## A retenir
-- Deux positions contradictoires: 
-	- Certes, la transition numérique a un fort impact sur l'environnement mais la performance et l'efficience du numérique peut aider à la transition écologique mondiale. 
-	- La question est plutôt de savoir si la transition numérique est compatible avec les exigences de justice nécessaires à la transition écologique. Or l'économiste Rober Gordan affirme que "le numérique et les optimisations sur lesquelles il débouche sont proprement révolutionnaires, mais hélas seulement en faveur d’une minorité restreinte" et que donc la transition numérique serait par essence néolibérale. 
+- La présentation de deux positions contradictoires.
+	- La transition numérique a un fort impact sur l'environnement mais la performance et l'efficience du numérique peut aider à la transition écologique mondiale. 
+	- La transition numérique ne serait pas compatible avec les exigences de justice nécessaires à la transition écologique. 
 - La problématique de l'impact de certaines pratiques numériques dû au manque d’outils nécessaires à leur évaluation. 
-- Le concept de sobriété numérique, qui consiste à une consommation des équipements et pratique des usages numériques plus modérée et critique. 
+- Le concept de sobriété numérique, qui consiste en une consommation des équipements, et pratique des usages numériques plus modérées et critiques. 
   
 L'article a été écrit par [Catalina González Jamett](https://topolitique.ch/author/catalina-gonzalez-jamett/), sociologue environnementaliste dans *TOPO*, le média des étudiants et étudiantes de Genève. 
 

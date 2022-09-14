@@ -7,7 +7,7 @@ tags: liens
 
 ## A retenir
 - CarbonViz est une extension disponible sur Firefox, Chrome ou Edge.
-- L'outil vise à rendre visible l’impact de nos activités numériques, notamment sur le Web, sur notre consommation d’énergie et les rejets de CO2 associés. 
+- L'outil vise à rendre visible l’impact des activités numériques, notamment sur le Web, sur notre consommation d’énergie et les rejets de CO2 associés. 
   
 CarbonViz a été conçu au sein du laboratoire [Media Engineering Institute](https://heig-vd.ch/rad/instituts/mei) de la HEIG-VD. 
 

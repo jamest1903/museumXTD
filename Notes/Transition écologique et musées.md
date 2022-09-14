@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: liens
 ---
 # Transition écologique et musées
-Cette note rassemble des interventions sur la sensibilisation aux enjeux de la transition écologiques pour et par les musées. 
+Cette note rassemble des interventions sur la sensibilisation aux enjeux de la transition écologique pour et par les musées. 
 
 ## A retenir
 - [Sobriété numérique et industries créatives : quelle entente durable?](https://www.youtube.com/watch?v=8-qzPRBDdkg&ab_channel=CultureLink)   
@@ -14,7 +14,7 @@ Cette note rassemble des interventions sur la sensibilisation aux enjeux de la t
 - [Comment sensibiliser aux questions environnementales?](https://www.museumconnections.com/archives-2022__trashed/retour-sur-museum-connections-2022/questions-environnementales/)     
   Cette table ronde du salon [Museum Connection](https://www.museumconnections.com/) de 2022 présente les moyens mis en place par certaines institutions pour sensibiliser aux enjeux écologiques envers le grand public. 
  - [Déclic écologique au musée](https://www.youtube.com/watch?v=1rhWOl1tO-s&ab_channel=MasterMus%C3%A9esetNouveauxM%C3%A9dias)    
-   Cette journée d'étude organisée par la formation [Master Musées et Nouveaux Médias](http://www.univ-paris3.fr/master-musees-et-nouveaux-medias-br-mention-direction-de-projets-ou-d-etablissements-culturels-538471.kjsp) en avril 2022 mène une réflexion sur un avenir numérique plus écologique dans les musées. Une synthèse est disponible sur ce [lien LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6926147033812619264/). 
+   Cette journée d'étude organisée par la formation [Master Musées et Nouveaux Médias](http://www.univ-paris3.fr/master-musees-et-nouveaux-medias-br-mention-direction-de-projets-ou-d-etablissements-culturels-538471.kjsp) en 2022 mène une réflexion sur un avenir numérique plus écologique dans les musées. Une synthèse est disponible sur ce [lien LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6926147033812619264/). 
 
 
 Apparaît dans [[Comment utiliser le numérique de façon durable]]
