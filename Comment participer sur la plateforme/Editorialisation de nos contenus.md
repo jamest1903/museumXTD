@@ -5,7 +5,7 @@ date: 2022-06-09
 ---
 # Comment éditer des notes *question* et *ressource* dans [[Numérique et musée]]
 
-NB: Du markd... quoi? Jetez un coup d'œil à [ce guide Obsidian](https://johackim.com/obsidian) pour mieux vous familiariser au logiciel et à la syntaxe markdown. 
+Du markd... quoi? Jetez un coup d'œil à [ce guide Obsidian](https://johackim.com/obsidian) pour mieux vous familiariser au logiciel et à la syntaxe ==markdown==. 
 
 ## 1. Les notes *question*  
 ### Structure de la note   
