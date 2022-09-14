@@ -7,23 +7,28 @@ tags: question
 court paragraphe sur l'intérêt de la question
 
 
-1. [[L'Académie Numérique Responsable]]
-   L'Institut du Numérique Responsable propose un MOOC de sensibilisation au numérique responsable d'une durée de 30 minutes.
+1. [[Comment faire des usages numériques responsables et durables]]
+   Martine Rioux explique la différence entre la sobriété numérique, le numérique durable et le numérique responsable. 
+2. [[L'Académie Numérique Responsable]]
+   L'Institut du Numérique Responsable propose un MOOC sur le numérique responsable d'une durée de 30 minutes.
+3. [[Transition numérique et protection de l’environnement]]
+   Catalina González Jamett questionne la compatibilité entre la transition numérique et la transition écologique, présentant les arguments pour et contre.
 2. [[Favoriser la transition numérique tout en contrôlant son empreinte]]
    Marguerite Courtel synthétise les enjeux du développement durable, appliqués au secteur des industries culturelles et créatives.  
-3. [[Transition numérique et protection de l’environnement]]
 4. [[La vérité sur l’empreinte carbone du numérique]]
+   Sarah Sermondadaz explique et illustre ce qui se cache derrière l'évaluation de l'empreinte carbone en kilogrammes équivalent CO2.   
+5. [[CarbonViz]]
+   Cet outil conçu par le MEI de la HEIG-VD permet de visualiser en direct les données téléchargées et la quantité de CO2 émise correspondante.
+5. [[Éco-conception, le brouillard à venir]]
+   Gauthier Roussilhe démêle les enjeux de l'éco-conception d'un service numérique et présente une méthodologie pour éco-concevoir un service. 
+6. [[Transition écologique et musées]]
+   Cette note rassemble des interventions sur la sensibilisation aux enjeux de la transition écologiques pour et par les musées.
 
 -------
 6. initiative zurichoise [ethix](https://ethix.ch/fr/contact)
-7. la journée d'étude: [Déclic écologique au musée](https://www.linkedin.com/posts/catherine-jabaly-a6517889_journ%C3%A9e-d%C3%A9tude-d%C3%A9clic-%C3%A9cologique-au-mus%C3%A9e-ugcPost-6925838839806611456-rvad?utm_source=linkedin_share&utm_medium=member_desktop_web)
-8. [Table ronde - Sobriété numérique et industries créatives, quelle entente durable ?](https://www.youtube.com/watch?v=8-qzPRBDdkg&ab_channel=CultureLink)
-9. article Le Gall, A.(2021) [Décarbonons la Culture ! Rapport du SHIFT project](http://www.tmnlab.com/2021/12/03/decarbonons-la-culture-rapport-du-shift-project/)
-10. retranscription [rapport Les Augures](http://www.tmnlab.com/2022/03/28/lancement-du-programme-augures-lab-numerique-responsable/)
 11. la méthodologie de calcul d'impact carbone des sites internet [ici](https://www.websitecarbon.com/how-does-it-work/)
 12. les articles dans [Le Temps](https://www.letemps.ch/dossiers/debats-dete-temps-ethique-un-monde-connecte)
 13. [Guide pour réduire les impacts du numérique sur l'environnement](https://www.francenum.gouv.fr/guides-et-conseils/pilotage-de-lentreprise/ecologie/guide-pour-reduire-les-impacts-du-numerique-sur)
-14. [Ressources de Gauthier Roussilhe](https://gauthierroussilhe.com/ressources)
 15. Émissions de vulgarisation par Jamy Gourmaud : [Comment recycler son smartphone ?](https://www.youtube.com/watch?v=CvahjN75er8) et [Comment faire durer nos batteries de téléphone plus longtemps ?](https://www.youtube.com/watch?v=9M1Rw7h05Xk)
 -   Au niveau français : 
     -   [GreenIT](https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf)

@@ -5,7 +5,7 @@ tags: liens
 ---
 [INR (Institut du Numérique Responsable). Académie Numérique Responsable](https://www.academie-nr.org/)
 
-L'Institut du Numérique Responsable propose un MOOC de sensibilisation au numérique responsable d'une durée de 30 minutes. Il existe également un MOOC approfondi sur le sujet du numérique responsable (4h30).
+L'Institut du Numérique Responsable propose un MOOC sur le numérique responsable d'une durée de 30 minutes. Il existe également un MOOC approfondi sur le sujet du numérique responsable (4h30).
 
 ## A retenir
 - Le double visage du numérique: 
