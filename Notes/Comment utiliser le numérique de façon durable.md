@@ -4,8 +4,7 @@ layout: layouts/post.njk
 tags: question
 ---
 # Comment utiliser le numérique de façon durable?
-court paragraphe sur l'intérêt de la question
-
+La nature immatérielle du numérique ne doit pas faire oublier l'impact de son utilisation sur l'environnement. Se transformer numériquement inclut de prendre en considération les enjeux de la transition écologique.  
 
 1. [[Comment faire des usages numériques responsables et durables]]
    Martine Rioux explique la différence entre la sobriété numérique, le numérique durable et le numérique responsable. 
@@ -24,6 +23,9 @@ court paragraphe sur l'intérêt de la question
 6. [[Transition écologique et musées]]
    Cette note rassemble des interventions sur la sensibilisation aux enjeux de la transition écologiques pour et par les musées.
 
+ 
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+
 -------
 6. initiative zurichoise [ethix](https://ethix.ch/fr/contact)
 11. la méthodologie de calcul d'impact carbone des sites internet [ici](https://www.websitecarbon.com/how-does-it-work/)
@@ -37,3 +39,5 @@ court paragraphe sur l'intérêt de la question
 - [https://ecolebranchee.com/comment-faire-des-usages-numeriques-responsables-et-durables/](https://ecolebranchee.com/comment-faire-des-usages-numeriques-responsables-et-durables/)  
 - [https://www.cci.fr/actualites/le-numerique-responsable-cest-quoi](https://www.cci.fr/actualites/le-numerique-responsable-cest-quoi)
 - [https://digitalswitzerland.com/circular-economy-paper/](https://digitalswitzerland.com/circular-economy-paper/)   (voir si trop éloigné de nos préoccupations)
+
+

@@ -8,7 +8,8 @@ Le musée virtuel est un espace nouveau, libéré des contraintes physiques. Il 
 
 1. [[Enquête sur la digitalisation des musées de Suisse romande, vers une virtualisation de la culture]] 
    L’enquête s'intéresse à la définition du numérique et du virtuel (à partir de la p. 6). Elle a été réalisée auprès de professionnel·le·s des musées vaudois, interrogés en 2020. 
-2. [La Tangente. Le musée virtuel, vers de nouvelles manières d'interagir avec l'art](https://www.latangente.io/inspirations/le-musee-virtuel-vers-de-nouvelles-manieres-d-interagir-avec-l-art)
+2. [Le musée virtuel, vers de nouvelles manières d'interagir avec l'art](https://www.latangente.io/inspirations/le-musee-virtuel-vers-de-nouvelles-manieres-d-interagir-avec-l-art)
+   L'agence publique La Tangente aborde la question de la virtualisation de la culture sous le prisme des nouveaux modes d'interactions avec les publics.  
 
 Apparaît dans [[Numérique et musée, quelques définitions]]
 

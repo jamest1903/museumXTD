@@ -8,10 +8,10 @@ tags: liens technologies rapport competence
 Ce rapport synthétise les dynamiques des nouvelles technologies dans le secteur des arts et de la culture au Royaume-Uni.
 
 ## A retenir
-- La définition et l'utilisation des technologies émergeantes qui sont susceptibles d'affecter l'avenir du secteur des industries culturelles et créatives. 
-- L'impact des technologies sur les publics et visiteurs, sur les artistes et les créateurs ainsi que sur les organisations et institutions culturelles.
-- Des recherches lors du confinement ont montré la présence d'écarts de compétences professionnelles entre institutions. Il s'agit non seulement de compétences techniques mais aussi d'un manque de "digital leadership" nécessaire pour comprendre quelles technologies utiliser de façon pertinente. 
-- La taille des institutions jouent sur leur capacité à utiliser le numérique. Alors que les institutions plus importantes ont bénéficié de la période de COVID-19, les plus petites entités ont du changer leur modèle d'affaire et développer des compétences en interne pour utiliser le numérique. Ainsi, nombreuses sont celles pour qui l'utilisation du numérique n'est pas rentable.
+- La **définition et l'utilisation des technologies émergeantes** qui sont susceptibles d'affecter l'avenir du secteur des industries culturelles et créatives (p. 2 et 3). 
+- L'**impact** des technologies sur les publics et visiteurs, sur les artistes et les créateurs ainsi que sur les organisations et institutions culturelles.
+- Des recherches lors du confinement ont montré la présence d'**écarts de compétences professionnelles** entre institutions. Il s'agit non seulement de compétences techniques mais aussi d'un manque de *digital leadership* nécessaire pour comprendre quelles technologies utiliser de façon pertinente. 
+- La **taille des institutions** jouent sur leur capacité à utiliser le numérique. Alors que les institutions plus importantes ont bénéficié de la période de COVID-19, les plus petites entités ont du changer leur modèle d'affaire et développer des compétences en interne pour utiliser le numérique. Ainsi, nombreuses sont celles pour qui l'utilisation du numérique n'est pas rentable.
 - L'importante bibliographie renvoie vers une littérature variée et intéressante. 
 
 Les [*POSTNotes*](https://post.parliament.uk/research/) sont des synthèses destinées aux membres du parlement du Royaume-Uni

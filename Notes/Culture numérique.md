@@ -6,8 +6,8 @@ tags: liens
 # Culture numérique
 Plus qu'un outil, le *numérique* est généralement associé à une nouvelle façon de penser, un *paradigme*.   
 
-1. [Derrac, L. (2019). *Culture Numérique*](https://louisderrac.com/files/cours/culture-numerique/culture-numerique-1.pdf)
-   Ce cours permet de mieux comprendre ce que l'on entend par _culture numérique_. Il propose:
+1. [Culture Numérique](https://louisderrac.com/files/cours/culture-numerique/culture-numerique-1.pdf)
+   Louis Derrac met à disposition un cours, qui permet de mieux comprendre ce que l'on entend par _culture numérique_. Il propose:
 	   - Une définition du numérique et de la culture numérique (à partir de la p.12).
 	   - Une brève histoire illustrée du numérique (à partir de la p.28).
 

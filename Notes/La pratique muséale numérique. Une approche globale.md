@@ -15,11 +15,11 @@ Ce document de l'AMS donne une définition de la stratégie numérique ainsi que
 	- réaliser un inventaire et évaluer les expertises et ressources existantes
 	- décider et planifier les projets 
 - La stratégie peut **se rédiger** sous forme de *living document* ou en ligne sur un *site wiki* (cf glossaire p.18). Ces deux types de documents permettent d'effectuer régulièrement des mises à jour. 
-- Le document fournit **une *checklist*** pour élaborer une stratégie numérique (p.5):  
+- Le document fournit une *checklist* pour élaborer une stratégie numérique (p.5):  
 		1. **Etablir un état des lieux** de la position actuelle du musée et de ses processus existants  
-		2. **Définir les priorités** de la pratique muséale numérique et convenir **d’objectifs concrets et mesurables** selon un principe *SMART* (spécifique, mesurable, acceptable, réaliste et temporellement défini)  
-		3. **Associer** l’état actuel de l’institution à une vision de l’objectif, **développer** des lignes directrices pour des mesures pratiques et discuter du développement souhaité à un niveau idéal et pratique.   
-- **Une liste des mises en pratiques** dans les musées suisses (dès la p.12) montre des utilisations pertinentes du numérique dans les musées.
+		2. **Définir les priorités** de la pratique muséale numérique et **convenir d’objectifs** concrets et mesurables selon un principe *SMART* (spécifique, mesurable, acceptable, réaliste et temporellement défini)  
+		3. **Associer l’état actuel** de l’institution à une vision de l’objectif, **développer des lignes directrices** pour des mesures pratiques et discuter du développement souhaité à un niveau idéal et pratique.   
+- Une liste des mises en pratiques dans les musées suisses (dès la p.12) montre des utilisations pertinentes du numérique dans les musées.
 
 [Plus de publications de l'AMS ici.](https://www.museums.ch/fr/publications/nouvelles-parutions/) 
 
