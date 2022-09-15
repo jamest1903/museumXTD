@@ -19,6 +19,14 @@ layout: layouts/tablesBase.njk
                 <div id="acteurs" class="tabcontent" style="display: block">
                     <br>
                     <p><%=acteursTitle?acteursTitle:"La liste de ces actrices et acteurs du changement n'est pas exhaustive. Vous pouvez nous contacter pour ajouter vos projets et références."%></p>
+                    <div id="tools">
+                        <input type="search" id="searchActeurs" placeholder="Recherche">
+                        <div id="sort">
+                            <button id="az">A -> Z</button>
+                            <button id="sector">Secteur</button>
+                            <button id="local">Lieu</button>
+                        </div>
+                    </div>
                     <% csvReader.acteursData.forEach((row)=>{%>
                     <article>
                         <h3>
@@ -63,19 +71,24 @@ layout: layouts/tablesBase.njk
                 </div>
             </div>
             <script>
-            function openTab(evt, tabName) {
-                var i, tabcontents, tablinks;
-                tabcontents = document.getElementsByClassName("tabcontent");
-                for (i = 0; i < tabcontents.length; i++) {
-                tabcontents[i].style.display = "none";
+                function openTab(evt, tabName) {
+                    var i, tabcontents, tablinks;
+                    tabcontents = document.getElementsByClassName("tabcontent");
+                    for (i = 0; i < tabcontents.length; i++) {
+                    tabcontents[i].style.display = "none";
+                    }
+                    tablinks = document.getElementsByClassName("tablinks");
+                    for (i = 0; i < tablinks.length; i++) {
+                    tablinks[i].className = tablinks[i].className.replace(" active", "");
+                    }
+                    document.getElementById(tabName).style.display = "block";
+                    evt.currentTarget.className += " active";
                 }
-                tablinks = document.getElementsByClassName("tablinks");
-                for (i = 0; i < tablinks.length; i++) {
-                tablinks[i].className = tablinks[i].className.replace(" active", "");
-                }
-                document.getElementById(tabName).style.display = "block";
-                evt.currentTarget.className += " active";
-            }
+            </script>
+            <script defer>
+                document.getElementById('searchActeurs').addEventListener('input', (event) => {
+                    search();
+                });
             </script>
 		</div>
 	</div>
