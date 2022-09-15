@@ -3,13 +3,17 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 ---
-# Qu'est-ce que la communication digitale ?
-La communication digitale apporte de la visibilité aux institutions. Elle peut utiliser un site internet, l'utilisation des réseaux sociaux, l'envoi de newsletter. C'est une communication dématérialisée, à la différence d'une communication physique (comme les panneaux publicitaire). 
-- Augmentation de la notoriété, dépasser les frontières géographiques, retour sur investissement
+# Comment réinventer sa communication à l'ère du numérique ?
+La communication digitale apporte de la visibilité aux institutions grâce à des canaux comme un site internet, les réseaux sociaux, l'envoi de newsletter etc. A la différence d'une communication physique, 
+Parce qu'elle est dématérialisée, elle permet de diffuser de l'information sans contrainte géographiques ou physiques, est plus rapide et souvent financièrement accessible: c'est donc un bon retour sur investissement pour les plus petites institutions. 
+
+. - Augmentation de la notoriété, dépasser les frontières géographiques, retour sur investissement
 - 
 https://www.mbway.com/actualite-chambery/la-communication-digitale-quest-ce-que-cest?gclid=Cj0KCQjw94WZBhDtARIsAKxWG-_cFFRYw3VWI5-9vOL-aj3nt-TYoc2KKOXpLgUGbKHP2r7cpItO6PcaAvPzEALw_wcB 
 
-- [définition de la communication digitale par wikipédia](https://fr.wikipedia.org/wiki/Communication_num%C3%A9rique)
+1. [[Définition de la communication numérique]]
+2. 
+   
 - + définitions et enjeux pour les musées  
 - [Quelques comptes Instagram de musée originaux et inspirants](https://nell-associes.com/blog/les-musees-a-suivre-sur-instagram-quand-la-mediation-numerique-se-decline-sur-les-reseaux-sociaux/) 
 
