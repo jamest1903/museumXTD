@@ -8,8 +8,8 @@ tags: liens
 Résumé de la ressource
 
 ## A retenir
-- 1er élément à retenir en quelques phrases
-- 2ème élément en quelques phrases  
+- La définition des *réseaux sociaux* et l'intérêt de leur utilisation dans un cadre muséal (p. 2)
+- Une liste d'étapes à suivre pour se familiariser avec les réseaux sociaux et se former à leur utilisation
 etc. 
   
 Contexte (*quelques mots sur l'auteur ou sur le projet*)
