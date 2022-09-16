@@ -308,8 +308,8 @@ Professeur UNIL & directeur, [Musée de la main UNIL-CHUV](https://www.museedela
 - #### [[MuseumXTD - Présentation du projet Temps de Jeu VR de l'Archeolab|Temps de jeu: La réalité virtuelle au service de l’histoire vivante]]
 - *11h40-11h50*
 
-[[Delphine Rivier]]  
-Directrice, [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/) (CH)
+[Aurèle Cellérier](https://www.linkedin.com/in/aur%C3%A8le-cell%C3%A9rier-1996a9b1/?originalSubdomain=ch)  
+Conservateur, ArchéoLab-Villa Romaine ([Musées de Pully](https://www.museedartdepully.ch/fr/accueil/)) (CH)
 
 
 
