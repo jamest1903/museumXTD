@@ -21,3 +21,4 @@ Etapes ?
   Le [Réseau canadien d'information sur le patrimoine (RCIP)](https://www.canada.ca/fr/reseau-information-patrimoine.html) fournit des recommandations et une boîte à outil pour la [[Patrimoine numérique|préservation de matériaux numérique]]. 
 - [Des outils numériques pour recueillir, sauvegarder, transmettre et diffuser la patrimoine immatériel](https://www.culturecdq.ca/images/Annee_numerique/Guides/Guide_Patrimoine_Immateriel.pdf)
   "Ce guide vise à présenter les différentes manière de capter, conserver, interpréter, transmettre et diffuser le patrimoine culturel immatériel à l'aide de nouveaux outils numériques."
+- [Nouveaux défis pour les collections et les réserves](https://www.yuca.tv/fr/icom/webinaire-7-octobre-2020)

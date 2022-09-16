@@ -7,39 +7,18 @@ tags: question
 # Quelles sont les compétences numériques à acquérir et à développer en interne ?
 Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire différents de ceux des équipes des musées. Néanmoins, non seulement certaines méthodologies de travail peuvent être repensées en interne mais certaines compétences numériques peuvent être développées en auto-formation ou en formation continue. 
 
-A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compétences de plus en plus *demandées* dans les musées.  
+1. [[Numérique, quelles compétences nécessaires pour les professionnels des musées]]
+2. [[One-by-One]]
+3. [[Un rapport analyse l’organisation et les lacunes des compétences numériques dans les musées britanniques]]
+   Compte-rendu du premier rapport de One-by-One en français.
+4. [Rétablir et recréer : Stimuler l’emploi dans le secteur des musées](https://icom.museum/fr/news/webinaire-de-licom-retablir-et-recreer-stimuler-lemploi-dans-le-secteur-des-musees/)
+5. [Rester en contact, la transformation numérique des musées en temps de COVID-19](https://icom.museum/fr/news/webinaire-transformation-numerique-musees/)
+   Dans le cadre d'une série de webinaires sur le renforcement des capacités pour les professionnel.le.s de musées, cette intervention fait le point sur les compétences numériques essentielles. 
 
-## Collection: Numérisation des collections
-- Voir [[Tate - Archives and access toolkit]]
-## Curation: Création de formats numériques
-- Utilisation de catalogues numériques et de systèmes de gestion des actifs numériques
-- Utilisation de la photographie numérique et la manipulation d'images
-- Utilisation des médias sociaux
-	- Voir [[Question - Comment utiliser les réseaux sociaux]]
-- Conservation d'objets numériques
-- (Re)Présentation de l'information
-- Communication en ligne
-- Compréhension et connaissance du sujet de la propriété intellectuelle et autres sujets d'ordre légal
-	- Voir [[MuseumXTD - Tatiana Jullier]]
-	- Voir [[Cyber Sain et Sauf - Imaa]]
-## Marketing et communication: Diversification de la participation de publics plus larges 
-- Utilisation des plateformes de médias sociaux
-	- Voir [[Question - Comment utiliser les réseaux sociaux]]
-- Utilisation des plateformes de musique numérique
-- Utilisation de la technologie d'identification par radiofréquence (RFID)
-- Utilisation du système de gestion des collections (CMS)
-- Utilisation des plateformes de messagerie électronique
-- Utilisation des applications tierces
-- Utilisation la réalité augmentée/virtuelle
-	- Voir les définitions dans [[The impact of digital technology on arts culture in the UK]]
-- Capacité à concevoir et élaborer des stratégies, des politiques et des orientations pour garantir une réponse coordonnée et réfléchie au numérique
-## Education et apprentissage:  
-- Création de ressources d'apprentissage interactives
-- Conception de ressources en ligne
-	- [[MuseumXTD - La face cachée du numérique]]
-- Production des copies d'objets pour des activités d'apprentissage
-- Adaptation aux scans 3D d'objets de musée ; impression 3D pour que les élèves puissent manipuler les objets
-- Utilisation de logiciels libres. 
-## Informatique et métiers techniques
-- Développement de nouvelles interactivités
-- Construction et assurance de la maintenance, la mise à jour et la pérennité des infrastructures et des réseaux informatiques des musées, l'administration des serveurs et le stockage des données
+
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+
+
+
+
+

@@ -34,7 +34,7 @@ date: 2022-08-31
 ## Concevoir l'expérience visiteur
 [[Question - Comment utiliser les réseaux sociaux]]
 
-[[Comment réinventer sa communication à l'ère du numérique]]
+[[Qu'est-ce que la communication digitale]]
 
 [[Question - Qu'est-ce que la médiation numérique]]
 

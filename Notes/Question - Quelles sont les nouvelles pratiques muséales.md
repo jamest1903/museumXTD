@@ -18,6 +18,7 @@ tags: question
 	- On retrouve cette notion de subjectivité du discours et de choix narratif du musée dans l'intervention du directeur du Met en mars 2022. 
 
 cf interview avec [Trilce Navarrete](https://metis-lab.com/2022/05/02/musees-et-numerique-un-entretien-avec-trilce-navarrete/)
+voir article [Scénarios pour un futur des musées à l'heure du web 3.0](https://www.bem.builders/share/scnarios-pour-un-futur-des-muses-lheure-du-web-30)
 
 Video J1
 
