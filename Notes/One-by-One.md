@@ -6,13 +6,17 @@ tags: liens competence rapport
 
 [One-by-One. Building digitally confident museums](https://one-by-one.uk/)
 
-One by One" est une initiative multi-partenaires (dont Arts & Humanities Research Council, [[Culture24]], l'Université de Leicester) qui rassemble des organisations culturelles, des décideurs politiques, des universitaires, des organismes professionnels, des agences de soutien et des communautés de pratique, afin de créer des musées confiants dans le numérique. 
-
-One by One" aide les musées de toute taille à mieux définir, améliorer, mesurer et intégrer la culture numérique de leur personnel et de leurs bénévoles dans tous les rôles et à tous les niveaux.  
+*One by One* est une initiative multi-partenaires britannique (dont Arts & Humanities Research Council, [Culture24](https://www.culture24.org.uk/, l'Université de Leicester) dont l'objectif est de créer des musées confiants dans le numérique. 
+Le projet aide les musées de toute taille à mieux définir, améliorer, mesurer et intégrer la culture numérique de leur personnel et de leurs bénévoles dans tous les rôles et à tous les niveaux.  
 
 ## A retenir
-- Trois projets
-- 2. 
+- Trois phases aux objectifs différents: 
+	- Projet n°1 (2017-2020) - [Mapping the Museum Digital Skills Ecosystem: Phase One Report (English)](https://doi.org/10.29311/2018.01)
+		- CLIC fournit un compte-rendu en français [du rapport](https://www.club-innovation-culture.fr/rapport-organisation-lacunes-competences-numeriques-musees-britanniques/)
+	- Projet n°2 (2020) - [Structuring Museums to Deliver New Digital Experiences](https://leicester.figshare.com/articles/report/Understanding_the_digital_skills_literacies_of_UK_museum_people_Phase_Two_Report/10196294)
+	- Projet n°3 (2021-2022) - [Building the Digital Literacies of UK Museums](https://one-by-one.uk/2021/08/11/project-3-summary/)
+
+Voir également l'intervention des responsables du projet dans [[La stratégie numérique dans les musées. Pour une approche globale du numérique]]. 
 
 
 
@@ -53,9 +57,8 @@ Lu dans l'étude (et traduit): "le personnel des petits musées a tendance à ê
 Deux des chercheurs sont intervenus dans la [[La stratégie numérique dans les musées. Pour une approche globale du numérique]] de 2018. Leur présentation et texte peuvent être retrouvés [ici](https://www.culture.gouv.fr/Thematiques/Musees/Les-musees-en-France/Les-politiques-des-musees-de-France/Colloques-et-journees-d-etudes-des-musees-de-France/Publications-colloques/Journee-professionnelle-La-strategie-numerique-dans-les-musees-Paris-05-10-2018). 
 
 
-Project#2 (2020) - [Structuring Museums to Deliver New Digital Experiences
-](https://leicester.figshare.com/articles/report/Understanding_the_digital_skills_literacies_of_UK_museum_people_Phase_Two_Report/10196294)
-Project#3 (2021-2022) - [Building the Digital Literacies of UK Museums](https://one-by-one.uk/2021/08/11/project-3-summary/)
+
+
 
 
 

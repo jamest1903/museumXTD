@@ -5,7 +5,7 @@ tags: liens
 ---
 [Auteur, Initiale., & Auteur, Initiale. (Date). Un rapport analyse l’organisation et les lacunes des compétences numériques dans les musées britanniques.](https://www.club-innovation-culture.fr/rapport-organisation-lacunes-competences-numeriques-musees-britanniques/)
 
-Résumé de la ressource
+CLIC fournit un compte-rendu en français du premier rapport de [[One-by-One]].
 
 ## A retenir
 - 1er élément à retenir en quelques phrases

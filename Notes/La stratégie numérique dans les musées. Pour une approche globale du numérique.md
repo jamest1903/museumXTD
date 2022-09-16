@@ -18,6 +18,7 @@ Les vidéos des interventions peuvent être retrouvées directement sur la page 
 - Parmi de nombreuses **interventions** intéressantes: 
 	- Comment le musée Alfred Danicourt de Péronne, l'un des plus petits musées des Haut-de-France, a mis [le numérique au service de sa visibilité](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Intervention-de-M.-David-de-Sousa). 
 	- Le document d'élaboration de la [stratégie numérique du Louvre](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Presentation-de-Mme-Marion-Oechsli)
+	- Une synthèse de la première partie du projet de recherche britannique [[One-by-One]]: la [présentation](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Presentation-de-Mme-Sally-Anne-Barnes-et-de-M.-Ross-Parry) et la [retranscription](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Intervention-de-Mme-Sally-Anne-Barnes-et-de-M.-Ross-Parry) de l'intervention. 
 
 La journée a été organisée le 5 octobre 2018 à Paris par l'Institut national du patrimoine, l'ICOM France et l'Association Générale des Conservateurs des Collections Publiques de France.   
 
