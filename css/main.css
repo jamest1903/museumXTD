@@ -66,7 +66,8 @@ body {
 * main content container
 */
 .main-container {
-    width: 90%;
+    /* width: 90%; */
+    width: calc(100% - var(--space-l) - var(--space-l));
     margin-top: 15vh;
     margin-left: auto;
     margin-right: auto;
