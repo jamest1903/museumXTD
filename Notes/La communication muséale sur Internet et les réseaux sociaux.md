@@ -9,7 +9,7 @@ Ce travail s'intéresse aux stratégies d'adhésion utilisées par les musées a
 
 ## A retenir
 - L'objectif de démocratisation de la culture sous-tendu par l'utilisation des médias en ligne. 
-- Les différences d'engagements des publics en ligne selon les réseaux sociaux. 
+- Les différences d'engagement des publics en ligne selon les réseaux sociaux. 
 - Le portrait type de l'utilisateur.rice de réseaux social qui prend contact avec le musée.  
   
 Ce mémoire a été rédigé dans le cadre du Master en journalisme et communication de l'Université de Genève, sous la direction du Dr. Patrick Amey. 
