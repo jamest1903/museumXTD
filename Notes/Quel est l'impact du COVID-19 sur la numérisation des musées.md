@@ -17,7 +17,7 @@ Néanmoins, l'enjeu post-COVID19 est de trouver un degré de numérisation plus 
 4. [[Rapport COVID-19 de l'ICOM]]
    Le rapport a permis l’analyse de près de 1 600 réponses à l'enquête, recueillies entre le 7 avril 2020 et le 7 mai 2020 auprès des professionnels de musées, représentant 107 pays et 5 continents.
 4. [[Museum Innovation Barometer 2021]]
-	- Le rapport analyse l'impact du COVID-19 sur les activités d'environ 200 musées ainsi que le recours au numérique. 
+   Le rapport analyse l'impact du COVID-19 sur les activités d'environ 200 musées ainsi que le recours au numérique. 
 5. [[Rapports NEMO]]
    Le Network of European Museum Organisations (NEMO) a publié 3 rapports à partir de 2 enquêtes sur les conséquences de la période de COVID-19 sur els musées, en mettant en évidence le développement de services numériques. 
 
