@@ -42,6 +42,11 @@ body {
 
 }
 
+.boxed-frame {
+    border: 1px solid var(--black) ;
+}
+
+
 /*
 * Search bar styles
 */
@@ -61,7 +66,7 @@ body {
 * main content container
 */
 .main-container {
-    width: 80%;
+    width: 90%;
     margin-top: 15vh;
     margin-left: auto;
     margin-right: auto;
@@ -75,13 +80,45 @@ body {
     text-align: left;
 }
 
+
+
+/* logo header */
+#mastfeet,
+#masthead {
+    text-align: justify;
+    margin-top: var(--space-l);
+    margin-right: var(--space-l);
+    margin-left: var(--space-l);
+
+}
+#masthead > span {
+}
+#mastfeet::after,
+#masthead::after {
+    content: " ";
+    display: inline-block;
+    width: 100%;
+}
+
+#mastfeet {
+    transform: rotateZ(180deg);
+}
+
+footer {
+    padding-top: 70vh;
+    padding-bottom: var(--space-l);
+}
+
+
+
+/* layout for Acteurs & Projets */
 /*
 * CSS styles for the CSV tables
 */
 .csvHeaderWrapper {
-    width: 60vw;
+
     position: relative;
-    left: calc(-25vw + 50%);
+
 }
 /* Style the tab */
 .tab {
@@ -113,34 +150,51 @@ body {
 .tabcontent {
     display: none;
     overflow-wrap: break-word;
-    padding: 6px 12px;
-    border: 1px solid #ccc;
     border-top: none;
   }
 
-/* logo header */
-#mastfeet,
-#masthead {
-    text-align: justify;
-    margin-top: var(--space-l);
-    margin-right: var(--space-l);
-    margin-left: var(--space-l);
+  
 
-}
-#masthead > span {
-}
-#mastfeet::after,
-#masthead::after {
-    content: " ";
-    display: inline-block;
-    width: 100%;
-}
 
-#mastfeet {
-    transform: rotateZ(180deg);
-}
-
-footer {
-    padding-top: 70vh;
+.acteurs--article,
+.projects--article {
+    padding-top: var(--space-l);
+    padding-right: var(--space-m);
     padding-bottom: var(--space-l);
+    padding-left: var(--space-m);
+    /* margin-bottom: var(--space-l); */
+
+
+    border-top: 1px solid var(--black) ;
+    border-right: 1px solid var(--black) ;
+    border-left: 1px solid var(--black) ;
+}
+
+@media screen and (min-width:600px) {
+    .acteurs--article,
+    .projects--article {
+        padding-right: var(--space-l);
+        padding-left: var(--space-l);
+    }
+}
+
+.acteurs--article:last-of-type(),
+.projects--article:last-of-type() {
+    border-bottom: 1px solid var(--black) ;
+}
+
+.acteurs--article--title,
+.projects--article--title {
+    margin-top: 0;
+    margin-bottom: var(--space-m);
+}
+
+.acteurs--article--info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-s) var(--space-l);
+}
+
+.acteurs--article--services {
+    margin-bottom: 0 ;
 }
