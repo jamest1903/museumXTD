@@ -9,7 +9,7 @@ tags: liens strategie
 Ce document de l'AMS donne une définition de la stratégie numérique ainsi que les grandes étapes de son élaboration. Il présente des idées de mise en pratique (projets numériques, application web, *gamification*, etc.) et des projets de musées suisses. 
 
 
-## A retenir 
+## À retenir 
 - Une **stratégie numérique** sert à relier les projets existants et futurs de l'institution autour d'une vision et d'un objectif communs. 
 - Elle se traduit par un **outil managérial** qui permet de:
 	- réaliser un inventaire et évaluer les expertises et ressources existantes

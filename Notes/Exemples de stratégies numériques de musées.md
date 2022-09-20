@@ -6,7 +6,7 @@ tags: liens
 # Exemples de stratégies numériques de musées
 Vous trouverez sur cette page quelques exemples concrets de stratégies numériques de grands musées à travers le monde: 
 
-## A retenir: 
+## À retenir 
 - [Musée du Louvre. Elaboration d'une stratégie numérique](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Presentation-de-Mme-Marion-Oechsli)
 	- Ce document présente l'élaboration de la stratégie numérique du Louvre, réalisée avec Accenture. Il a été présenté lors de la [[La stratégie numérique dans les musées. Pour une approche globale du numérique|journée professionnelle sur la stratégie numérique dans les musées, à Paris, en 2018]].
 - [Strategic Narrative. Our world, our story, our future](https://www.tepapa.govt.nz/sites/default/files/strategic_narrative.pdf)

@@ -8,7 +8,7 @@ tags: liens management strategie
 
  Le projet Virage NumeriCQ propose une définition de la stratégie numérique ainsi que divers outils pour sa mise en application. Il s'appuie notamment sur le travail réalisé par les participants du Forum des Innovations Culturelles au Québec, en 2018. 
 
-## A retenir
+## À retenir
 
 - La **définition**: "Une stratégie numérique est un processus de transformation et de développement permettant de s’adapter aux changements (…) amenés par la nouvelle économie." 
 - Le **processus**:  

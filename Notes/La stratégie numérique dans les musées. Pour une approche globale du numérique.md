@@ -10,7 +10,7 @@ Ce colloque, organisé en 2018 à Paris, s'intéresse aux enjeux d’une approch
 
 Les vidéos des interventions peuvent être retrouvées directement sur la page internet du colloque.   
 
-## A retenir
+## À retenir
 - Quelques **citations** des intervenant·e·s: 
 	- "Profondément participatif, le numérique nous amène à repenser la méthodologie de l’élaboration de nos projets. En favorisant, ou plutôt, en nous obligeant à co-construire, mais également à développer une approche – à la fois incrémentale et itérative dans la conduite de nos projets – permettant *in fine* une plus grande agilité." (Voir la conclusion de la journée par Blandine Chavanne, ancienne cheffe du Service des musées de France)
 	- "Il y a beaucoup d'expérimentations numériques qui se font au coup par coup, en fonction des opportunités financières ou de contexte de projet. La question d'une globalité dans le projet de l'établissement a beaucoup de difficultés à se mettre en œuvre." (Jean-François Depelsenaire, Directeur de Videomuseum)

@@ -7,7 +7,7 @@ tags: liens
 
 Les auteurs de cet article définissent la stratégie numérique en partant de ce qu'elle n'est pas.  
 
-## A retenir
+## À retenir
 - **Une stratégie numérique n'est pas**: 
 	- Une stratégie marketing, qui définit le positionnement de l'institution, notamment via les canaux numériques. La stratégie marketing est donc l'un des éléments de la stratégie numérique.   
 	- L’implantation et l’utilisation de nouveaux outils technologiques, bien que ces enjeux doivent être réfléchis dans la stratégie numérique.   
