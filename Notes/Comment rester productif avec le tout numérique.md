@@ -13,7 +13,7 @@ Le numérique facilite le partage d’informations et le travail collaboratif. P
 - Le travailleur doit capter, traiter et restituer des informations à raison d'une dizaine en même temps, en moyenne. De son côté, notre mémoire de travail à court terme est limitée à sept ou huit éléments. Le cerveau peut donc se retrouver en surcharge et souffrir de problèmes d'attention.
 - Les solutions évoquées:
 	- **Comprendre le fonctionnement de notre cerveau** par la métacognition (soit *penser sur ses propres pensées*): "À cet instant précis, où va mon attention? Ai-je passé trop de temps sur cette tâche? Pourquoi?"
-	- **Dompter ses outils numériques** pour éviter la surcharge cognitive. Pour cela, il faut trouver celui qui convient, ne pas multiplier les outils et s'armer de patience (six mois sont nécessaires pour s'approprier un logiciel comme [Notion](https://www.notionfacile.fr/) d'après un formateur)
+	- **Dompter ses outils numériques** pour éviter la surcharge cognitive. Pour cela, il faut trouver celui qui convient, ne pas multiplier les outils et s'armer de patience (six mois sont nécessaires pour s'approprier un logiciel comme [Notion](https://www.notionfacile.fr/) d'après un formateur).
 	- **Valoriser le temps de pause et de récupération** pour préserver nos capacités cognitives.
 
 Cet article de [Maddyness](https://www.maddyness.com/) évoque [CogX](https://cogx.fr/), une agence de conseil en sciences cognitives. 

@@ -7,10 +7,10 @@ tags: question
 La transformation numérique de son institution ne nécessite pas forcément d'adopter tous les outils *tendance* ou de multiplier des projets supposément novateurs. Il s'agit de:
 - Reconnaître l'intérêt de l'utilisation du numérique pour le musée à travers **une vision**:
 	- Globale
-	- À long terme
+	- À long terme.
 - Implémenter le numérique selon **des objectifs**:
 	- Préalablement et clairement définis
-	- À la hauteur des ressources disponibles
+	- À la hauteur des ressources disponibles.
 - Garder à l'esprit que les opportunités apportées par le numérique peuvent s'accompagner **de risques**.
 
 Cette page vous présente donc quelques réflexions critiques sur la transformation numérique:
