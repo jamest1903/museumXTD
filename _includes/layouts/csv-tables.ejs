@@ -37,16 +37,19 @@ layout: layouts/tablesBase.njk
                                 <!-- <span><a href=""><%=row.URL%></a></span> -->
                                 <span><%=row.URL%></span>
                             </div>
-                            <ul class="acteurs--article--services">
-                                <li><%=row["Expertise numérique 1"]%></li>
-                                <% if(row["Expertise numérique 2"]) { %>
-                                <li><%=row["Expertise numérique 2"]%></li>
-                                <%} %> <% if(row["Expertise numérique 3"]) { %>
-                                <li><%=row["Expertise numérique 3"]%></li>
-                                <%} %> <% if(row["Expertise numérique 4"]) { %>
-                                <li><%=row["Expertise numérique 4"]%></li>
-                                <%} %>
-                                </ul>
+                            <div class="acteurs--article--services">
+
+                                <ul >
+                                    <li><%=row["Expertise numérique 1"]%></li>
+                                    <% if(row["Expertise numérique 2"]) { %>
+                                        <li><%=row["Expertise numérique 2"]%></li>
+                                        <%} %> <% if(row["Expertise numérique 3"]) { %>
+                                            <li><%=row["Expertise numérique 3"]%></li>
+                                            <%} %> <% if(row["Expertise numérique 4"]) { %>
+                                                <li><%=row["Expertise numérique 4"]%></li>
+                                                <%} %>
+                                            </ul>
+                                        </div>
                             </a>
                         </article>
                     <%});%>
@@ -55,21 +58,29 @@ layout: layouts/tablesBase.njk
                     <br>
                     <p><%=projectsTitle?projectsTitle:"La liste de ces projects"%></p>
                     <% csvReader.projectsData.forEach((row)=>{%>
-                        <article class="projects--article">
-                            <h3 class="projects--article--title">
-                              <%=row['Nom'] %> --- <%=row.URL%>
-                            </h3>
-                            <span><%=row["Début du projet"]%> -- <%=row.Localisation%></span>
-                            <span><%=row.Descriptif%></span>
-                            <p><%=row["Porteur de projet 1"]%></p>
-                            <% if(row["Porteur de projet 2"]) { %>
-                            <p><%=row["Porteur de projet 2"]%></p>
-                            <%} %> <% if(row["Porteur de projet 3"]) { %>
-                            <p><%=row["Porteur de projet 3"]%></p>
-                            <%} %> <% if(row["Porteur de projet 4"]) { %>
-                            <p><%=row["Porteur de projet 4"]%></p>
-                            <%} %>
-                          </article>
+                      <article class="projects--article">
+                        <a href="<%=row.URL%>">
+                          <h3 class="projects--article--title"><%=row['Nom'] %></h3>
+                          <span><%=row["Début du projet"]%></span>
+                          <!-- <div class="projects--article--info"> -->
+                            <!-- <span><%=row.Localisation%></span> -->
+                          <!-- </div> -->
+                          <div class="projects--article--services">
+
+                            <span class="projects--article--description"><%=row.Descriptif%></span>
+                            <ul> 
+                              <li><%=row["Porteur de projet 1"]%></li>
+                              <% if(row["Porteur de projet 2"]) { %>
+                              <li><%=row["Porteur de projet 2"]%></li>
+                                <%} %> <% if(row["Porteur de projet 3"]) { %>
+                              <li><%=row["Porteur de projet 3"]%></li>
+                                  <%} %> <% if(row["Porteur de projet 4"]) { %>
+                              <li><%=row["Porteur de projet 4"]%></li>
+                                    <%} %>
+                            </ul>
+                          </div>
+                        </a>
+                      </article>
                     <%});%>
                 </div>
             </div>
