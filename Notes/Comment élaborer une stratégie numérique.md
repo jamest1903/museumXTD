@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: question
 ---
 # Comment élaborer une stratégie numérique?
-Différents outils et méthodes permettent d'élaborer une stratégie numérique, dont le contenu reste propre à chaque institution (voir [[Exemples de stratégie numérique de musées]]).  
+Différents outils et méthodes permettent d'élaborer une stratégie numérique, dont le contenu reste propre à chaque institution (voir [[Exemples de stratégies numériques de musées]]).  
 
 1. [[Le projet DOORS|DOORS: Digital Incubator for Museums]]   
    Le projet DOORS est un programme de soutien favorisant la transformation numérique de musées européens. Il met à disposition de la documentation sur les méthodes et outils utilisés. 

@@ -120,6 +120,28 @@ footer {
     position: relative;
 
 }
+
+#tools {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#tools > input, div#sort {
+    width: 20%;
+    margin: 20px;
+    border-style: double;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+#sort {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
 /* Style the tab */
 .tab {
     width: fit-content;

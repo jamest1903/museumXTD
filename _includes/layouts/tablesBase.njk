@@ -7,7 +7,7 @@
     <title>{{title}}</title>
     <link rel="stylesheet" href="{{ '/css/main.css' | url }}" />
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/assets/search.js" defer></script>
+    <script src="/assets/tableSearch.js" defer></script>
   </head>
   <body>
     <div class="containerTop">
@@ -23,17 +23,6 @@
         <!-- <a class="menuitem" href='/tables/'>Acteurs & Projects</a> -->
         <a class="menuitem" href='/Navigation/A propos/'>À propos</a>
       </div>
-{#   **** to be added at a later date
-      <div id="search">
-        <input type="search" id="searchString" placeholder="Veuillez entrer plus de trois lettres">
-        <div id="results" class="hidden">
-          <h3>Résultats</h3>
-          <ul id="resultList">
-          </ul>
-        </div>
-        <p id="noResults" class="hidden"> Désolé, aucun résultat n'a été trouvé. </p>
-      </div>
-#}
     </div>
     {{ content | safe }}
     <footer>

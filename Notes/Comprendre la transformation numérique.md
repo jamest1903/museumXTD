@@ -9,7 +9,7 @@ date: 2022-08-31
 
 [[Qu'est-ce qu'une stratégie numérique]]
 
-[[Quelles technologies pour quels impacts]]
+[[Quelles sont les tendances des technologies]]
 
 [[Quels sont les nouveaux revenus digitaux]]
 

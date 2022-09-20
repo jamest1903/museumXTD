@@ -5,7 +5,7 @@ tags: liens
 ---
 # Patrimoine numérique
 - [Patrimoine numérique](https://fr.unesco.org/themes/information-preservation/digital-heritage/concept-digital-heritage)
-  La définition de l'Unesco du patrimoine numérique et les enjeux de sa préservation. 
+  Sur cette page, l'Unesco définit le concept de *patrimoine numérique* et les enjeux liés à sa préservation. 
 
 Apparaît dans [[Numérique et musée, quelques définitions]]
 
