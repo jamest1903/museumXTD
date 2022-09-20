@@ -14,7 +14,7 @@ En voici quelques uns:
 3. [[Cartographie de ma transformation numérique]]
    Cet outil, également développé par Virage NumériCQ, permet de formuler les besoins et objectifs pour élaborer une stratégie numérique. 
 4. [Le numérique au service de la visibilité du musée](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Intervention-de-M.-David-de-Sousa)   
-   Le musée Alfred Danicourt de Péronne a mis en place une méthodologie fondée sur l'utilisation d'une matrice MOFF/SWOT. 
+   Le musée Alfred Danicourt de Péronne a mis en place une méthodologie fondée sur l'utilisation d'une matrice MOFF/SWOT. Son directeur est intervenu lors de la journée [[Stratégie numérique. De l'intention à l'action]]. 
 
 
 Voir également [[Qu'est-ce qu'une stratégie numérique]].   
