@@ -36,11 +36,11 @@ date: 2022-08-31
 
 [[Qu'est-ce que la communication digitale]]
 
-[[Question - Qu'est-ce que la médiation numérique]]
+[[Quel est l'impact du numérique sur la médiation culturelle]]
 
 [[Qu'est-ce que le marketing digital]]
 
-[[Question - Comment encourager la participation du visiteur]]
+[[Comment encourager la participation du visiteur]]
 
 [[Boîte à outils]]
 
