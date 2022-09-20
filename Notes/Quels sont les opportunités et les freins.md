@@ -8,7 +8,7 @@ La transformation numérique de son institution ne nécessite pas forcément d'a
 - Reconnaître l'intérêt de l'utilisation du numérique pour le musée à travers **une vision**:
 	- Globale
 	- À long terme
-- Implémenter le numérique selon **des objectifs**
+- Implémenter le numérique selon **des objectifs**:
 	- Préalablement et clairement définis
 	- À la hauteur des ressources disponibles
 - Garder à l'esprit que les opportunités apportées par le numérique peuvent s'accompagner **de risques**.

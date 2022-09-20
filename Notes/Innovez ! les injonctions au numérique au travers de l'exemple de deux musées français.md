@@ -21,7 +21,7 @@ Ces impératifs sont illustrés à travers la stratégie numérique de deux mus�
 	- Pertinents
 	- Discrets
 	- Raisonnés
-	Le responsable du service des publics explique: « Le numérique serait catastrophique si on l’utilisait pour la technologie, c’était l’objectif d’interprétation qui conditionnait la technologie et pas l’inverse ». 
+	Le responsable du service des publics explique: "Le numérique serait catastrophique si on l’utilisait pour la technologie, c’était l’objectif d’interprétation qui conditionnait la technologie et pas l’inverse."
   
 Cet article est issu du dossier [*Musées et monde numériques*](https://journals.openedition.org/culturemusees/4353) sous la direction de [Florence Andreacola](http://andreacola.fr/).   
 

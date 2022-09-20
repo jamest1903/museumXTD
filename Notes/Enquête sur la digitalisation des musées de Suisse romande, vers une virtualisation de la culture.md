@@ -14,7 +14,7 @@ Elle présente les actions développées par ces derniers durant la période de 
 	1. Définition en **négatif**: le numérique est caractérisé en opposition avec l’analogique ou comme une transposition immatérielle d'éléments physiques
 	2. Définition **utilitariste**: c'est un outil informationnel
 	3. Définition **créative**: le numérique est un langage en soi, avec un potentiel créatif.
-- Le virtuel est une extension du numérique, un espace, « un lieu d’expression des ressources digitales ». 
+- Le virtuel est une extension du numérique, un espace, "un lieu d’expression des ressources digitales". 
 - Dans leur utilisation du numérique lors de la pandémie, les musées suisses romands ont réagi de trois façons différentes:
 	- Minimaliste (rien de particulier mis en place)
 	- Pragmatique (initiatives pour garder l’attention)
