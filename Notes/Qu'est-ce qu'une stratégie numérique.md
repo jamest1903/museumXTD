@@ -17,7 +17,7 @@ Elle prend généralement la forme d'un document qui formalise les objectifs et 
    Elisabeth Gravil propose une liste de leviers d'actions pour intégrer le numérique dans chaque département du musée.  
 5. [[Une stratégie numérique n'est pas une stratégie marketing]]  
    Les auteurs de cet article définissent la stratégie numérique en partant de ce qu'elle n'est pas. 
-6. [[Exemples de stratégie numérique de musées]]  
+6. [[Exemples de stratégies numériques de musées]]  
    Quelques exemples concrets de stratégies mises en place par des grands musées à travers le monde. 
 
 
