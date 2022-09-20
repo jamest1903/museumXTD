@@ -28,45 +28,45 @@ layout: layouts/tablesBase.njk
                         </div>
                     </div>
                     <% csvReader.acteursData.forEach((row)=>{%>
-                    <article>
-                        <h3>
-                            <%=row['Nom'] %> --- <%=row.URL%>
-                        </h3>
-                        <p><%=row.Localisation%> --- <%=row.Nature%></p>
-                        <p><%=row["Expertise numérique 1"]%></p>
-                        <% if(row["Expertise numérique 2"]) { %>
-                            <p><%=row["Expertise numérique 2"]%></p>
-                        <%} %>
-                        <% if(row["Expertise numérique 3"]) { %>
-                            <p><%=row["Expertise numérique 3"]%></p>
-                        <%} %>
-                        <% if(row["Expertise numérique 4"]) { %>
-                            <p><%=row["Expertise numérique 4"]%></p>
-                        <%} %>
-                    </article>
+                    <article class="acteurs--article">
+                        <h3 class="acteurs--article--title"><%=row['Nom'] %></h3>
+                        <div class="acteurs--article--info">
+                            <span><%=row.Nature%></span>
+                            <span><%=row.Localisation%></span>
+                            <span><a href="<%=row.URL%>">Site web</a></span>
+                        </div>
+                        <ul class="acteurs--article--services">
+                            <li><%=row["Expertise numérique 1"]%></li>
+                            <% if(row["Expertise numérique 2"]) { %>
+                            <li><%=row["Expertise numérique 2"]%></li>
+                            <%} %> <% if(row["Expertise numérique 3"]) { %>
+                            <li><%=row["Expertise numérique 3"]%></li>
+                            <%} %> <% if(row["Expertise numérique 4"]) { %>
+                            <li><%=row["Expertise numérique 4"]%></li>
+                            <%} %>
+                            </ul>
+                        </article>
                     <%});%>
                 </div>
                 <div id="projects" class="tabcontent">
                     <br>
                     <p><%=projectsTitle?projectsTitle:"La liste de ces projects"%></p>
                     <% csvReader.projectsData.forEach((row)=>{%>
-                    <article>
-                        <h3>
-                            <%=row['Nom'] %> --- <%=row.URL%>
-                        </h3>
-                        <p><%=row["Début du projet"]%> -- <%=row.Localisation%></p>
-                        <p><%=row.Descriptif%></p>
-                        <p><%=row["Porteur de projet 1"]%></p>
-                        <% if(row["Porteur de projet 2"]) { %>
+                        <article class="projects--article">
+                            <h3 class="projects--article--title">
+                              <%=row['Nom'] %> --- <%=row.URL%>
+                            </h3>
+                            <span><%=row["Début du projet"]%> -- <%=row.Localisation%></span>
+                            <span><%=row.Descriptif%></span>
+                            <p><%=row["Porteur de projet 1"]%></p>
+                            <% if(row["Porteur de projet 2"]) { %>
                             <p><%=row["Porteur de projet 2"]%></p>
-                        <%} %>
-                        <% if(row["Porteur de projet 3"]) { %>
+                            <%} %> <% if(row["Porteur de projet 3"]) { %>
                             <p><%=row["Porteur de projet 3"]%></p>
-                        <%} %>
-                        <% if(row["Porteur de projet 4"]) { %>
+                            <%} %> <% if(row["Porteur de projet 4"]) { %>
                             <p><%=row["Porteur de projet 4"]%></p>
-                        <%} %>
-                    </article>
+                            <%} %>
+                          </article>
                     <%});%>
                 </div>
             </div>

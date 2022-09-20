@@ -207,6 +207,7 @@ footer {
 
 .acteurs--article--title,
 .projects--article--title {
+    font-size: var(--font-size-m);
     margin-top: 0;
     margin-bottom: var(--space-m);
 }
@@ -219,4 +220,6 @@ footer {
 
 .acteurs--article--services {
     margin-bottom: 0 ;
+    color: var(--greyText);
+    list-style: none;
 }
