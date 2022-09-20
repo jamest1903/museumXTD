@@ -1,5 +1,6 @@
 :root {
 
+--font-serif: Georgia, 'Times New Roman', Times, serif ;
 
 /* font sizes */
 --font-size-xs: clamp(0.825rem, 3.5vw, 0.9rem) ;

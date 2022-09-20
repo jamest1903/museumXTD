@@ -20,31 +20,34 @@ layout: layouts/tablesBase.njk
                     <br>
                     <p><%=acteursTitle?acteursTitle:"La liste de ces actrices et acteurs du changement n'est pas exhaustive. Vous pouvez nous contacter pour ajouter vos projets et références."%></p>
                     <div id="tools">
-                        <input type="search" id="searchActeurs" placeholder="Recherche">
+                        <input type="search" id="searchActeurs" class="search-bar" placeholder="Recherche">
                         <div id="sort">
-                            <button id="az">A -> Z</button>
-                            <button id="sector">Secteur</button>
-                            <button id="local">Lieu</button>
+                            <button id="az" class="sort--segment sort--segment__selected">A>Z</button>
+                            <button id="sector" class="sort--segment">Secteur</button>
+                            <button id="local" class="sort--segment">Lieu</button>
                         </div>
                     </div>
                     <% csvReader.acteursData.forEach((row)=>{%>
-                    <article class="acteurs--article">
-                        <h3 class="acteurs--article--title"><%=row['Nom'] %></h3>
-                        <div class="acteurs--article--info">
-                            <span><%=row.Nature%></span>
-                            <span><%=row.Localisation%></span>
-                            <span><a href="<%=row.URL%>">Site web</a></span>
-                        </div>
-                        <ul class="acteurs--article--services">
-                            <li><%=row["Expertise numérique 1"]%></li>
-                            <% if(row["Expertise numérique 2"]) { %>
-                            <li><%=row["Expertise numérique 2"]%></li>
-                            <%} %> <% if(row["Expertise numérique 3"]) { %>
-                            <li><%=row["Expertise numérique 3"]%></li>
-                            <%} %> <% if(row["Expertise numérique 4"]) { %>
-                            <li><%=row["Expertise numérique 4"]%></li>
-                            <%} %>
-                            </ul>
+                        <article class="acteurs--article">
+                            <a href="<%=row.URL%>">
+                            <h3 class="acteurs--article--title"><%=row['Nom'] %></h3>
+                            <div class="acteurs--article--info">
+                                <span><%=row.Nature%></span>
+                                <span><%=row.Localisation%></span>
+                                <!-- <span><a href=""><%=row.URL%></a></span> -->
+                                <span><%=row.URL%></span>
+                            </div>
+                            <ul class="acteurs--article--services">
+                                <li><%=row["Expertise numérique 1"]%></li>
+                                <% if(row["Expertise numérique 2"]) { %>
+                                <li><%=row["Expertise numérique 2"]%></li>
+                                <%} %> <% if(row["Expertise numérique 3"]) { %>
+                                <li><%=row["Expertise numérique 3"]%></li>
+                                <%} %> <% if(row["Expertise numérique 4"]) { %>
+                                <li><%=row["Expertise numérique 4"]%></li>
+                                <%} %>
+                                </ul>
+                            </a>
                         </article>
                     <%});%>
                 </div>

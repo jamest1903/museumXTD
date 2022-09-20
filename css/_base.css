@@ -270,10 +270,12 @@ h6 > strong > a {
 /* h6 > strong > a:hover {
   color: var(--black);
 } */
+
 h6 > a:not(:last-child),
 h6 > strong:not(:last-child) {
   margin-inline-end: var(--space-m);
 }
+
 h6 > strong > a,
 h6 > strong > a:visited {
   font-weight: normal;
@@ -312,3 +314,5 @@ img {
 img + img {
   margin-top: var(--space-m);
 }
+
+
