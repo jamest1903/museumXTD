@@ -12,7 +12,7 @@ Elle propose une liste de leviers d'actions pour intégrer le numérique dans ch
 ## A retenir 
 - La [transformation numérique](https://miro.medium.com/max/1400/1*Akhqk_swRs2_pe_-IRQVBA.png) est une **question de priorités et de changements progressifs**: il s'agit d'abord d'optimiser l'existant, puis de dégager du temps pour développer de nouveaux services. 
 - La section **"Optimisez vos basiques et processus de travail !"** est une liste de questions à se poser en fonction des activités du musée pour mieux intégrer le numérique. 
-- L'[[MuseumXTD - Elisabeth Gravil|intervention de madame Gavil au forum MuseumXTD]] le 12 octobre 2022 
+- L'[[MuseumXTD - Elisabeth Gravil|intervention de madame Gavil au forum MuseumXTD]] le 12 octobre 2022. 
 
 [Elisabeth Gravil](https://www.linkedin.com/in/elisagravil/) est une consultante française qui a créé sa propre société, Museovation.  
 
