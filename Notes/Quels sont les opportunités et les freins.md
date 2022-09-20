@@ -15,9 +15,9 @@ La transformation numérique de son institution ne nécessite pas forcément d'a
 
 Cette page vous présente donc quelques réflexions critiques sur la transformation numérique:
 1. [[Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français]]
-   Les auteurs de cet article analysent les injonctions dans le discours véhiculé autour de la transformation numérique des musées.
+   Les auteur·e·s de cet article analysent les injonctions dans le discours véhiculé autour de la transformation numérique des musées.
 2. [[20 ans de numérique dans les musées]]
-   Les auteurs de l'article montrent comment les différents outils développés et leur évolution ont influé sur l’expérience de visite et la manière de penser la médiation. 
+   Les auteur·e·s de l'article montrent comment les différents outils développés et leur évolution ont influé sur l’expérience de visite et la manière de penser la médiation. 
 3. [[2022, l'année de raison pour le numérique]]
    Louis Derrac recontextualise l'utilisation actuelle du numérique dans nos sociétés et pousse à un usage plus modéré et pertinent. 
 4. [[Enquête sur la digitalisation des musées de Suisse romande, vers une virtualisation de la culture]]
