@@ -10,7 +10,7 @@ En voici quelques uns:
 1. [[Le projet DOORS|DOORS: Digital Incubator for Museums]]   
    Le projet DOORS est un programme de soutien favorisant la transformation numérique de musées européens. Il met à disposition de la documentation sur les méthodes et outils utilisés. 
 2. [[Diagnostic de maturité numérique]]   
-   Cet outil développé par Virage NumériCQ fournit un outil d'évaluation de la *maturité numérique* d'une petite organisation. 
+   Cet outil développé par Virage NumériCQ permet d'évaluer la *maturité numérique* d'une petite organisation. 
 3. [[Cartographie de ma transformation numérique]]
    Cet outil, également développé par Virage NumériCQ, permet de formuler les besoins et objectifs pour élaborer une stratégie numérique. 
 4. [Le numérique au service de la visibilité du musée](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Intervention-de-M.-David-de-Sousa)   
