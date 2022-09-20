@@ -38,7 +38,7 @@ date: 2022-08-31
 
 [[Question - Qu'est-ce que la médiation numérique]]
 
-[[Question - Qu'est-ce que le marketing digital]]
+[[Qu'est-ce que le marketing digital]]
 
 [[Question - Comment encourager la participation du visiteur]]
 

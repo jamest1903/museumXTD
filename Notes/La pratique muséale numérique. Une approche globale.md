@@ -21,7 +21,7 @@ Ce document de l'AMS donne une définition de la stratégie numérique ainsi que
 		3. **Associer l’état actuel** de l’institution à une vision de l’objectif, **développer des lignes directrices** pour des mesures pratiques et discuter du développement souhaité à un niveau idéal et pratique.   
 - Une liste des mises en pratiques dans les musées suisses (dès la p.12) montre des utilisations pertinentes du numérique dans les musées.
 
-[Plus de publications de l'AMS ici.](https://www.museums.ch/fr/publications/nouvelles-parutions/) 
+Plus de publications de l'Association des Musées Suisses [ici](https://www.museums.ch/fr/publications/nouvelles-parutions/).
 
 
 Apparaît dans [[Qu'est-ce qu'une stratégie numérique]], [[Comment élaborer une stratégie numérique]]  

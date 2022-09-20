@@ -5,16 +5,15 @@ tags: liens
 ---
 [AMS. (2014). Réseaux sociaux et musées. Aide à la décision](https://www.museums.ch/fr/publications/standards/r%C3%A9seaux-sociaux.html)
 
-Résumé de la ressource
+ Cette brochure développe quelques points important à connaître pour commencer à utiliser les médias sociaux dans l’environnement des musées.
 
 ## A retenir
 - La définition des *réseaux sociaux* et l'intérêt de leur utilisation dans un cadre muséal (p. 2)
-- Une liste d'étapes à suivre pour se familiariser avec les réseaux sociaux et se former à leur utilisation
-etc. 
+- Une liste d'étapes détaillées à suivre pour se former à leur utilisation (dès la p. 3). 
   
-Contexte (*quelques mots sur l'auteur ou sur le projet*)
+Plus de publications de l'Association des Musées Suisses [ici](https://www.museums.ch/fr/publications/nouvelles-parutions/).
 
 
-Apparaît dans [[Note question]]
+Apparaît dans [[Qu'est-ce que la communication digitale]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
