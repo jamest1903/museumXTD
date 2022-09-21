@@ -18,4 +18,4 @@ Ce rapport résulte d'un sondage réalisé entre décembre 2020 et mai 2021 aupr
 
 Il a été réalisé par l'agence autrichienne Museum Booster, partenaire du [[MuseumXTD - Le projet DOORS|projet DOORS]] (projet d'incubateur numérique pour musées) en collaboration avec Ars et Electronica et Ecsite. 
 
-Apparaît dans [[Quel est l'impact du COVID-19 sur la numérisation des musées]], [[Quelles sont les tendances des technologies]]
+Apparaît dans [[Quel est l'impact du COVID-19 sur la numérisation des musées]], [[Technologies, quelles tendances]]

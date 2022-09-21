@@ -8,4 +8,4 @@ tags: liens
 [Lien de la vidéo](https://youtu.be/_-kcKxJCZPw) 
 
 Le présenter comme un cas d'étude utilisant une méthodologie qui va au-delà de l'approche *tool-centric*. 
-Voir si on le garde dans les [[Quel est l'impact du numérique sur la médiation culturelle]] ou [[Quelles sont les tendances des technologies]]
+Voir si on le garde dans les [[Quel est l'impact du numérique sur la médiation culturelle]] ou [[Technologies, quelles tendances]]

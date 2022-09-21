@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 ---
-# Quelles sont les tendances des technologies?
+# Technologies, quelles tendances?
 Les dispositifs numériques ont des impacts différents selon la technologie ou l'utilisation qui en est faite. Si la pertinence de leur utilisation peut être déterminée au cas par cas, il existe néanmoins quelques tendances dans et hors du monde muséal.   
 
 1. [[Museum Innovation Barometer 2021]]

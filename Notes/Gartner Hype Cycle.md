@@ -13,6 +13,6 @@ Le *Gartner Hype Cycle* est une représentation graphique et conceptuelle de la 
 - Un [article](https://www.ictjournal.ch/articles/2022-08-22/immersion-automatisation-et-optimisation-au-menu-du-hype-cycle-de-gartner) de l'ICT journal qui traite de l'édition 2022. 
 
 
-Apparaît dans [[Quelles sont les tendances des technologies]]
+Apparaît dans [[Technologies, quelles tendances]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
