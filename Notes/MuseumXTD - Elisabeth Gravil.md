@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens forum francais
 ---
-## Transformation numérique des musées: vers une organisation phygitale
+## Transformation numérique des musées: vers une organisation phygitale ?
 
 [Elisabeth Gravil](https://www.linkedin.com/in/elisagravil/)  
 Dirigeante de [Museovation](https://museovation.co/) – Conseil en Stratégie Numérique des Institutions Culturelles (FR)

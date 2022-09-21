@@ -17,7 +17,7 @@ date: 2022-08-31
 
 [[Boîte à outils]]
 
-[Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](lien vers YouTube)
+[Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
 
 ## Gérer les collections
 [[Comment créer une base de données numériques pour ses collections|Comment créer une base de données numériques pour ses collections ?]]
@@ -28,12 +28,10 @@ date: 2022-08-31
 
 [[Boîte à outils]]
 
-[Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](lien vers YouTube)
+[Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
 
 
 ## Concevoir l'expérience visiteur
-[[Question - Comment utiliser les réseaux sociaux]]
-
 [[Qu'est-ce que la communication digitale]]
 
 [[Quel est l'impact du numérique sur la médiation culturelle]]
@@ -44,7 +42,7 @@ date: 2022-08-31
 
 [[Boîte à outils]]
 
-[Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](lien vers YouTube)
+[Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
 
 [[Le projet Ramuz|Un exemple de projet: Le projet Ramuz]]
 

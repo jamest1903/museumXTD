@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens forum francais
 ---
-#### Un temps pour la rematérialisation
+## Un temps pour la rematérialisation
 
 [Yvan Schwab](https://www.linkedin.com/in/yvan-schwab-30453b67/)  
 Directeur, [Musée Alexis Forel](https://museeforel.ch/) (CH)
@@ -13,4 +13,4 @@ Outre le lien humain, ce projet a pour ambition de reprendre contact avec les ma
 Les ateliers ont été proposés dans les espaces du musée, là où les fondateurs de l’institution y ont eux-mêmes réalisé leurs œuvres depuis 1918 en créant une maison des artistes.   
 
   
-Retrouver le live du 13 octobre [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).    
+Retrouver le live du 13 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).    
