@@ -36,8 +36,6 @@ NUMERISATION
 -   
 -   
 
--   A toolkit to think and plan for Artificial Intelligence in museums [https://themuseumsai.network/toolkit](https://themuseumsai.network/toolkit)
-
 
 Voir également: [[Le musée numérique en toute légalité. Quelles questions se poser]]
  
