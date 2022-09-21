@@ -5,19 +5,21 @@ layout: layouts/info.njk
 
 ## Le projet **MuseumXTD** 
 
-#### Le projet-pilote de recherche appliquée **MuseumXTD** (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l'environnement entrepreneurial et celui de l'innovation vaudois (start-ups, entreprises, Hautes Écoles).
+#### Le projet pilote de recherche appliquée **MuseumXTD** (pour "museum extended") explore les enjeux de la transition numérique au sein des petits et moyens musées. Il expérimente également de nouvelles méthodologies de travail, en associant l'environnement entrepreneurial et celui de l'innovation vaudoise (*start-ups*, entreprises, Hautes écoles).
 
-Le projet s'appuie notamment sur un cas d'étude: il s'agit d'un dispositif numérique, mené par les Musées de Pully dans le cadre de la mise en place d'un espace consacré à C. F. Ramuz et à la littérature, dont l’ouverture est prévue en 2023. 
+MuseumXTD s'appuie notamment sur un cas d'étude: la conception d’un dispositif numérique au sein des Musées de Pully, dans le cadre du projet consacré à C.F. Ramuz et à la littérature. L'ouverture est prévue en 2023. 
 
-Mis à disposition des institutions muséales pour leur propre recherche et développement, les résultats du projet sont disponibles sur [museumxtd.ch](https://www.museumxtd.ch/). Conçu comme une plateforme d’informations, le site permet de diffuser les recherches et réflexions menées durant l’année qu'a duré le projet. Il est pensé comme une boîte à outils évolutive proposant des réponses aux nombreuses questions que posent l’implémentation et l’usage du numérique dans les musées de notre région. 
+Les résultats du projet sont disponibles sur [museumxtd.ch](https://www.museumxtd.ch/). Ils sont mis à disposition des institutions muséales pour leur propres recherches et développement. Le site est conçu comme une plateforme d’informations: il permet de diffuser les recherches et réflexions menées durant l’année qu'a duré le projet.
+C'est une sorte de boîte à outils évolutive. Elle tente de répondre aux nombreuses questions liées à l’implémentation et à l’usage du numérique dans les musées de notre région. 
 
-Les résultats du projet seront présentés lors d'un forum les 12 et 13 octobre 2022 à l'aula de la HEIG-VD d'Yverdon-les-Bains qui réunira musées et expert.e.s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
+Les résultats du projet seront présentés lors d'un forum qui réunira des musées, ainsi que des expert·e·s de la transition numériques des institutions culturelles.
+Ce forum aura lieu les 12 et 13 octobre 2022 à l'Aula de la HEIG-VD d'Yverdon-les-Bains.
 
 Contact  
 [info@museumxtd.ch](mailto:info@museumxtd.ch)
 
-**MuseumXTD** est mené par la société Concilio, les Musées de Pully et la HEIG-VD. Il s'achève le 31 octobre 2022.  
-En tant que projet de transformation, il bénéficie du soutien du Service des Affaires culturelles du Canton de Vaud ainsi que de celui de l’Office fédéral de la culture.
+**MuseumXTD** est un projet mené par la société Concilio, les Musées de Pully et la HEIG-VD. Il s'achève le 31 octobre 2022.  
+En tant que projet de transformation, il bénéficie du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.
 
 
 ![](/images/Logo-Canton_de_Vaud.svg) ![](/images/EDI_BAK_FR_RGB_POS_HOCH.png)
@@ -73,7 +75,7 @@ James Taylor
 ##### Webapp "Le smartphone de Ramuz"
 
 **Conception**   
-Laurent Bolli, d'après le projet développé pendant la semaine Crunch à la HEIG-VD par les étudiant-e-s Merima Kahvedzic, Massimo Malla, Matthieu Godi, Laura To et Alison Walpen
+Laurent Bolli, d'après le projet développé pendant la semaine Crunch à la HEIG-VD par les étudiant·e·s Merima Kahvedzic, Massimo Malla, Matthieu Godi, Laura To et Alison Walpen
 
 **Développement technique**   
 Jonathan Favre Lamarine
@@ -83,29 +85,28 @@ Jonathan Favre Lamarine
 **Communication**  
 Elena Mata
 
-**Catering et logistique**  
+**Restauration et logistique**  
 Cécile Demaurex
 
 
 ## Conseil scientifique   
 
-**Isabelle Raboud,** Anc. Présidente de l’Association des Musées suisses
+**Isabelle Raboud,** Anc. présidente de l’Association des musées suisses
 
-**Gilles Borel,** Directeur du Musée de géologie & Président de l’Association des Musées de Lausanne et Pully
+**Gilles Borel,** directeur du Musée de géologie & président de l’Association des musées de Lausanne et Pully
 
-**Alexandre Camus**, Responsable de recherche, ColLaboratoire, Unité de recherche-action, collaborative et participative de l’Université de Lausanne
+**Alexandre Camus**, responsable de recherche, ColLaboratoire, Unité de recherche-action, collaborative et participative de l’Université de Lausanne (UNIL)
 
-**Selim Krichane**, Collaborateur scientifique à l’EPFL & membre fondateur du GameLab UNIL-EPFL
+**Selim Krichane**, collaborateur scientifique à l’EPFL & membre fondateur du GameLab UNIL-EPFL
 
-**Patrick Michel**, Archéologue & Maître d’enseignement et de recherche à l’UNIL
+**Patrick Michel**, archéologue & maître d’enseignement et de recherche à l’UNIL
 
-**Prof. Arnaud Dufour**, Expert en Marketing Digital et eCommerce à l’HEIG-VD
+**Prof. Arnaud Dufour**, expert en marketing digital et *e-commerce* à l’HEIG-VD
 
 **Fondation ArtTech**
 
 
-## Liste des intervenant-es au forum des 12 et 13 octobre 2022
-
+## Intervenant·e·s au forum des 12 et 13 octobre 2022
 - Léonie Alain
 - Nadir Alvarez
 - Jordan Anastassov
@@ -116,7 +117,7 @@ Cécile Demaurex
 - Giovanni Colavizza
 - Jeanne Corthay
 - Luc Debraine
-- L'équipe DOORS
+- L'équipe du projet DOORS
 - Julian Fitze
 - Vincent Fontana
 - Emmanuelle Giacometti
@@ -152,7 +153,6 @@ Cécile Demaurex
 
 ## Remerciements
 Nous remercions les personnes ayant offert généreusement et avec enthousiasme leur soutien au projet:
-
 - Aline Delacrétaz
 - Benoit Frachebourg
 - Valentin Grosjean
@@ -160,14 +160,12 @@ Nous remercions les personnes ayant offert généreusement et avec enthousiasme 
 - Véronique Langlais
 - Veronica Liebl
 - Carolina Liebling
-- Franziska Mucha
 - Nicole Minder
+- Franziska Mucha
 - Lionel Pernet
 - Victoria Pieler
 - Olivier Ross
 - Stefan Rotarus
 - Veronica Tracchia
-
-
-Nos remerciements s'adressent à toutes les personnes ayant contribué au projet. 
+- Et toutes les personnes ayant contribué à MuseumXTD.
 
