@@ -10,8 +10,9 @@ Liste d'éléments à respecter (en cours d'évolution/collaboratif).
 - Utiliser des points médians ⸱ plutôt que des tirets pour l'écriture inclusive.   
 - Ne pas inclure d'espaces avant les signes doubles (; : ! ? -). 
 - Ecrire **MuseumXTD** sans guillemets et en typologie **gras**. 
-- Utiliser *&* plutôt que *et* dans les titres des intervenants
-- Préférer *les 12 et 13 octobre 2022* plutôt que *le 12 et le 13 octobre 2022* 
+- Utiliser *&* plutôt que *et* dans les titres des intervenants.
+- Préférer *les 12 et 13 octobre 2022* plutôt que *le 12 et le 13 octobre 2022*. 
+- Préférer les termes francophones au maximum, bien que l'usage de mots anglais ou dérivés n'est pas proscrits. 
 
 ## Les éléments de l'[Instructions de la Chancellerie fédérale sur la présentation des textes officiels en français](https://www.bk.admin.ch/bk/fr/home/documentation/langues/aides-redaction-et-traduction/instructions-de-la-chancellerie-federale-sur-la-presentation-des.html)
 - Les termes qui désignent des unités de temps (heure, minute, seconde) ne s’abrègent pas. On abrège toutefois le mot « heure » en « h » lorsqu’il est placé entre deux chiffres. 

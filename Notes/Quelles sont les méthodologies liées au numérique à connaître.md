@@ -9,7 +9,7 @@ Blandine Chavanne (ancienne cheffe du Service des musées de France) affirmait l
 
 ## LA METHODE AGILE
 La méthode Agile est une des principales méthodes de gestion organisationnelles du numérique. Bien que celle-ci (et d'autres) s'est développée dans le secteur des technologies de l'information, certains principes fondamentaux peuvent être compris et adaptés au secteur muséal. 
-1. [[0 1 Hub numérique - Le numérique, une formidable occasion pour la culture|Hub01 - Le numérique, une formidable occasion pour la culture]]
+1. [[Le numérique, une formidable occasion pour la culture|Hub01 - Le numérique, une formidable occasion pour la culture]]
 	-  Cet article résume dans un paragraphe les fondamentaux et l'histoire de la méthode Agile, avec d'autres méthodologies.  
 2. [[The Agile Museum - Douglas Hegley]]
 	- Directeur du département de numérique au Met, Douglas Hegley fait la distinction entre une méthodologie agile utilisée par des développeurs et une méthodologie agile appliquée dans les musées qui reprend l'état d'esprit. 

@@ -79,10 +79,32 @@ body {
 * CSS styles for the CSV tables
 */
 .csvHeaderWrapper {
-    width: 100vw;
+    width: 60vw;
     position: relative;
     left: calc(-25vw + 50%);
 }
+
+#tools {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#tools > input, div#sort {
+    width: 20%;
+    margin: 20px;
+    border-style: double;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+#sort {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
 /* Style the tab */
 .tab {
     width: fit-content;
@@ -112,6 +134,7 @@ body {
 /* Style the tab content */
 .tabcontent {
     display: none;
+    overflow-wrap: break-word;
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;

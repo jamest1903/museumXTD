@@ -194,20 +194,8 @@ Cheffe de projet adjointe, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 - #### [[MuseumXTD - Conclusion de la première journée|Conclusion de la première journée]]
 - *16h40-16h50*
 
-[[Delphine Rivier]]  
-Directrice, [Musées de Pully](http://www.museedartdepully.ch) (CH)
-
-[[Stéphanie Lugon]]  
-Conservatrice du projet muséal La Muette, [Musées de Pully](http://www.museedartdepully.ch) (CH)
-
-[Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/)  
-Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd.ch/rad/instituts/mei/) (CH)
-
-[Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/)  
-Directrice, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
-
-[Marion Lehembre](https://www.linkedin.com/in/marion-lehembre910/)  
-Cheffe de projet adjointe, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
+[Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/)  
+Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
 
 
 ---
@@ -244,7 +232,7 @@ Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd
 
 
 
-- #### Présentation de projet de l'agence Computed.By
+- #### Projet Ramuz: présentation de projet de l'agence Computed.By
 - *9h40-09h55*
 
 [Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)  
@@ -253,7 +241,7 @@ Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd
 
 
 
-- #### Présentation du projet de l'agence Transverse 
+- #### Projet Ramuz: présentation du projet de l'agence Transverse 
 - *9h55-10h10*
 
 [Ingrid Sorg](https://www.linkedin.com/in/ingridsorg/?originalSubdomain=ch)   
@@ -297,7 +285,7 @@ Directeur, [Musée Alexis Forel](https://museeforel.ch/) (CH)
 
 
 
-- #### [[MuseumXTD - Quel numérique face à la pluralité de cultures numériques|Quel numérique face à la pluralité de cultures numériques ?]]
+- #### [[MuseumXTD - Quel numérique face à la pluralité de cultures numériques|Quel numérique face à la pluralité de cultures numériques?]]
 - *11h30-11h40*
 
 [Olivier Glassey](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=881059&LanCode=37)  
@@ -308,36 +296,17 @@ Professeur UNIL & directeur, [Musée de la main UNIL-CHUV](https://www.museedela
 - #### [[MuseumXTD - Présentation du projet Temps de Jeu VR de l'Archeolab|Temps de jeu: La réalité virtuelle au service de l’histoire vivante]]
 - *11h40-11h50*
 
-[[Delphine Rivier]]  
-Directrice, [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/) (CH)
+[Aurèle Cellérier](https://www.linkedin.com/in/aur%C3%A8le-cell%C3%A9rier-1996a9b1/?originalSubdomain=ch)  
+Conservateur, ArchéoLab-Villa Romaine ([Musées de Pully](https://www.museedartdepully.ch/fr/accueil/)) (CH)
 
 
 
-- #### [[MuseumXTD - Conclusion|Conclusion]]
-- *11h50-11h55*
+- #### [[MuseumXTD - Conclusion et perspectives|Conclusion et perspectives]]
+- *11h50-12h00*
 
 [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/)  
- Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
+Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
 
-
-
-- #### [[MuseumXTD - Perspectives|Perspectives]]
-- *11h55-12h00*
-
-[[Delphine Rivier]]  
-Directrice, [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/) (CH)
-
-[[Stéphanie Lugon]]  
-Conservatrice du projet muséal La Muette, [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/) (CH)
-
-[Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/)  
-Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd.ch/rad/instituts/mei/) (CH)
-
-[Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/)  
-Directrice, [Concilio Sàrl](https://www.concilioltd.com/) ([Concilio Sàrl](https://www.concilioltd.com/) (CH)
-
-[Marion Lehembre](https://www.linkedin.com/in/marion-lehembre910/)  
-Cheffe de projet adjointe, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 
 
 ---

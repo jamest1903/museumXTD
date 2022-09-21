@@ -1,30 +1,30 @@
----
+x---
 title: MuseumXTD  
 layout: layouts/post.njk  
 ---
 # Numérique et musée
 
-Cette section offre une sélection de réflexions, d'exemples et d'outils suisses et internationaux en accès libre qui permettent de comprendre ce qu'est la transition numérique pour les petits et moyens musées. 
-Elle met en lumière ses réalités et enjeux, permettant de se positionner face aux discours, mythes et injonctions qui viennent de l'extérieur de l'institution muséale.
+Cette section permet de comprendre ce qu'est la transition numérique pour les petits et moyens musées, au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre.
+Mettant en lumière les réalités et enjeux de la transition numérique, les pages ci-dessous permettent de se positionner face aux discours, mythes et injonctions extérieures à l'institution muséale.
+C'est dans le cadre de ce périmètre que s'est développé le projet. 
 
-Les ressources ont été choisies par nos soins et certaines sections sont encore à compléter: vous n'êtes pas d'accord avec nous ? Vous voulez partager vos expériences et références ? Envoyez un message à cette adresse mail [info@museumxtd.ch](mailto:info@museumxtd.ch).  
+Les ressources ont été choisies par nos soins et certaines sections sont encore à compléter: Vous n'êtes pas d'accord avec nous? Vous voulez partager vos expériences et références? Envoyez un message à cette adresse mail [info@museumxtd.ch](mailto:info@museumxtd.ch).  
 
 [[MuseumXTD - Présentation de la plateforme MuseumXTD.ch|En savoir plus]]
 
 
 ## Pour démarrer
-[[Numérique et musées, de quoi parle-t-on|Numérique et musées, de quoi parle-t-on ?]]
+[[Numérique et musée, quelques définitions]]
 
-[[Qu'est-ce qu'une stratégie numérique|Qu'est-ce qu'une stratégie numérique ?]]
+[[Qu'est-ce qu'une stratégie numérique]]
 
-[[Quels sont les risques]]
+[[Quels sont les opportunités et les freins]]
 
-[[Les outils à l'élaboration d'une stratégie numérique]]
+[[Comment élaborer une stratégie numérique]]
 
 [[Quelles sont les compétences numériques à acquérir et à développer en interne]]
 
-[[Comment mener mon projet numérique]]
-
+[[Boîte à outils]]
 
 ## [[Comprendre la transformation numérique]]
 

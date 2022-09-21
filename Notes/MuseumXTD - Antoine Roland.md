@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens forum francais
 ---
-## Comment rendre son musée numérique ? Approche institutionnelle, approche en réseau, approche de co-construction
+## Comment rendre son musée numérique? Approche institutionnelle, approche en réseau, approche de co-construction
 
 [Antoine Roland](https://www.linkedin.com/in/antoine-roland?originalSubdomain=fr)   
 Directeur, {CORRESPONDANCES DIGITALES] [lien ici](https://correspondances.co/) (FR)

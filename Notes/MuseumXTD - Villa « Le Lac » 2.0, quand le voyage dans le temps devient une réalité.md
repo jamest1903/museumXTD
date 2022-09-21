@@ -12,4 +12,4 @@ Conservateur, [Villa « Le Lac » Le Corbusier](https://villalelac.ch/fr/exposit
 Grâce à la technologie de réalité augmentée et aux nombreuses photos des années 1920 à nos jours rassemblées depuis près d’un quart de siècle, nous pouvons ouvrir une fenêtre sur le passé qui permet au voyageur temporel de se promener dans la Villa « Le Lac » Le Corbusier et le jardin tels qu’ils se présentaient dans les années 1920, 1930, 1940, 1950, 1960… Une immersion 3D dans l’histoire d’un chef-d’œuvre d’architecture moderne construit il y a 100 ans !  
 
   
-Retrouver le live du 13 octobre [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).   
+Retrouver le live du 13 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).   
