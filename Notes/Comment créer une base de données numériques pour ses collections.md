@@ -8,6 +8,10 @@ Etapes ?
 - Numériser ses collections
 - Créer et gérer sa base de données
 
+NUMERISATION
+1. [Numérisez vos collections : Guide à l'intention des gestionnaires chargés de la planification et de la mise en œuvre de projets de numérisation](https://www.canada.ca/fr/reseau-information-patrimoine/services/numerisation/numerisez-collections-guide-gestionnaires.html#a8a1)
+2. [Tips for Digitizing Your Art Collection Easily & Cost Effectively](https://www.artworkarchive.com/blog/tips-for-digitizing-your-art-collection-easily-cost-effectively) 
+3. 
 
 - [La vie intime des objets culturels](https://journals.openedition.org/culturemusees/4871)
    Jeffrey Schnapp aborde les problématiques relatives à la numérisation des archives et des objets culturels. Il distingue trois enjeux relatifs aux collections patrimoniales numérisées : 
@@ -28,3 +32,13 @@ Etapes ?
 	- explication sur l'intérêt de la ressource
 - Uniris ?
 - SwissCollNet ?
+- -   “
+-   
+-   
+-   A collection of museum digitization strategies [https://www.cogapp.com/museum-digital-strategy-examples-resources](https://www.cogapp.com/museum-digital-strategy-examples-resources) 
+-   A toolkit to think and plan for Artificial Intelligence in museums [https://themuseumsai.network/toolkit](https://themuseumsai.network/toolkit)
+
+
+Voir également: [[Le musée numérique en toute légalité. Quelles questions se poser]]
+ 
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
