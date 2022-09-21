@@ -35,7 +35,7 @@ NUMERISATION
 - -   “
 -   
 -   
--   A collection of museum digitization strategies [https://www.cogapp.com/museum-digital-strategy-examples-resources](https://www.cogapp.com/museum-digital-strategy-examples-resources) 
+
 -   A toolkit to think and plan for Artificial Intelligence in museums [https://themuseumsai.network/toolkit](https://themuseumsai.network/toolkit)
 
 
