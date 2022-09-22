@@ -31,6 +31,6 @@ De nombreuses ressources existent sur le sujet. En voici un échantillon.
 10. [Nouveaux défis pour les collections et les réserves](https://www.yuca.tv/fr/icom/webinaire-7-octobre-2020) -> très tourné covid. Je n'arrive pas à trouver un intérêt direct. 
 
 
-Voir également: [[Le musée numérique en toute légalité. Quelles questions se poser]]
+Voir également: [[Le musée numérique en toute légalité. Quelles questions se poser]], [[Patrimoine numérique]]
  
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
