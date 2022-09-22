@@ -34,7 +34,7 @@ date: 2022-08-31
 ## Concevoir l'expérience visiteur
 [[Qu'est-ce que la communication numérique]]
 
-[[Quel est l'impact du numérique sur la médiation culturelle]]
+[[Quel est l'apport du numérique à la médiation culturelle]]
 
 [[Qu'est-ce que le marketing digital]]
 

@@ -31,7 +31,7 @@ La communication numérique soutient les actions de marketing de l'institution. 
 10. [La boîte à outils web de Québec numérique](https://quebecnumerique.com/boite-outils/#tab-85-0)   
     Dans la section *Communication et Marketing*, Québec numérique propose une liste de ressources pour utiliser les réseaux ou mieux référencer son site internet.
 
-Voir également: [[Qu'est-ce que le marketing digital]], [[Quel est l'impact du numérique sur la médiation culturelle]]
+Voir également: [[Qu'est-ce que le marketing digital]], [[Quel est l'apport du numérique à la médiation culturelle]]
  
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 

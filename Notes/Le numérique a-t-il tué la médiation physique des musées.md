@@ -15,6 +15,6 @@ L'auteur questionne l'apport du numérique aux médiations sensorielles, humaine
 Correspondances Digitales est une agence en ingénierie culturelle. Retrouvez son fondateur, Antoine Roland, lors du [[MuseumXTD - Antoine Roland|forum MuseumXTD]]. 
 
 
-Apparaît dans [[Quel est l'impact du numérique sur la médiation culturelle]]
+Apparaît dans [[Quel est l'apport du numérique à la médiation culturelle]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
