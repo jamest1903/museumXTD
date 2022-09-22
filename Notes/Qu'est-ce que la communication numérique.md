@@ -3,11 +3,11 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 ---
-# Qu'est-ce que la communication digitale ?
-La communication digitale est l'utilisation de *médias* numériques, comme un site internet, les réseaux sociaux ou les newsletter. Elle permet de rendre visibles les activités des institutions. 
+# Qu'est-ce que la communication numérique ?
+La communication numérique est l'utilisation de *médias* numériques, comme un site internet, les réseaux sociaux ou les newsletter. Elle permet de rendre visibles les activités des institutions. 
 Parce qu'elle est dématérialisée, elle permet de diffuser de l'information sans contraintes géographiques ou physiques, est rapide et souvent financièrement accessible: c'est donc un bon retour sur investissement pour les plus petites institutions.
 
-La communication digitale soutien les actions de marketing de l'institution. Elle est également différente de la médiation culturelle. 
+La communication numérique soutient les actions de marketing de l'institution. Elle est également différente de la médiation culturelle. 
 
 
 1. [[Définition de la communication numérique]]   

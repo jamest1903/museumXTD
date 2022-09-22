@@ -15,6 +15,6 @@ Ce travail s'intéresse aux stratégies utilisées par les musées pour attirer 
 Ce mémoire a été rédigé dans le cadre du Master en journalisme et communication de l'Université de Genève, sous la direction du Dr. Patrick Amey. 
 
 
-Apparaît dans [[Qu'est-ce que la communication digitale]]
+Apparaît dans [[Qu'est-ce que la communication numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

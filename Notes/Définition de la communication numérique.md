@@ -14,6 +14,6 @@ Cette page donne une définition générale de ce qu'est la communication numér
 - La communication numérique permet le développement de nouveaux outils de mesure d'efficacité.
 
 
-Apparaît dans [[Qu'est-ce que la communication digitale]]
+Apparaît dans [[Qu'est-ce que la communication numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

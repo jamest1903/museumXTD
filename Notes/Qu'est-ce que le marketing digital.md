@@ -14,4 +14,4 @@ Les canaux digitaux ne sont pas à favoriser au détriment des canaux physiques:
 - [Arenametrix](https://arenametrix.com/animer-parcours-visiteurs-sites-multiple-2/)
 
 
-Voir [[Qu'est-ce que la communication digitale]]
+Voir [[Qu'est-ce que la communication numérique]]
