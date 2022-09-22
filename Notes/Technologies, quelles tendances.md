@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: question
 ---
 # Technologies, quelles tendances?
-Les dispositifs numériques ont des impacts différents selon la technologie ou l'utilisation qui en est faite. Certaines technologies sont plus ou moins récurrentes dans les musées et peuvent faire l'objet de certaines tendances.    
+Les dispositifs numériques mis en place dans les musées utilisent plusieurs technologies selon l'objectif souhaité. Certaines sont plus populaires que d'autres.     
 
 1. [[Museum Innovation Barometer 2021]]
    Ce rapport synthétise les usages actuels et envisagés du numérique selon différentes activités (à partir de la p.15). Il s'agit d'un sondage effectué auprès de professionnel.les de musée du monde entier. 
