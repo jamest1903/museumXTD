@@ -8,7 +8,7 @@ tags: liens
 Ce court article fournit quelques conseils et étapes clés afin de concevoir une newsletter de musée.
 
 ## A retenir
-- L'objectif d'une newsletter: maintenir la relation avec les publics et les fidéliser. Elle sert d'une part à amener l'information au public et, d'une autre part, à attirer le public au musée. 
+- L'objectif d'une newsletter: maintenir la relation avec les publics et les fidéliser, en leur transmettant de l'information et les inciter à venir au musée. 
 - Une liste de conseils pour:
 	- choisir le logiciel d'emailing
 	- constituer sa base de données de contact

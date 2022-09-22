@@ -11,7 +11,7 @@ date: 2022-08-31
 
 [[Technologies, quelles tendances]]
 
-[[Quels sont les nouveaux revenus digitaux]]
+[[Quels nouveaux modèles d'affaire avec le numérique]]
 
 [[Quels sont les opportunités et les freins]]
 
