@@ -17,6 +17,8 @@ Voici quelques ressources qui traitent de l'utilisation du numérique dans la m�
    Antoine Roland questionne l'apport du numérique aux médiations sensorielles, humaines ou matérielles mises en place dans les musées.
 4. [[Quel avenir pour l'expérience muséale]]
    La directrice de la Médiation et de la programmation culturelle au musée du Louvre aborde sa vision du numérique et son rapport à la fiction dans le musée. Selon elle, l'utilisation du numérique n'est pas toujours bien compris.
+5. [[La médiation numérique, entre innovation, surproduction et sobriété…]]
+   Maïté Labat, a été chargée de développer les projets numériques du Louvre comme le [Louvre+](https://www.louvre.fr/louvreplus) ou l'[exposition immersive de la Joconde](https://www.grandpalais.fr/fr/evenement/la-joconde-exposition-immersive). Interrogée par *Com’en Histoire*, elle raconte son expérience et partage sa vision sur ces nouveaux formats de contenus.  
 4. [[Forum#13 octobre 2022 9h-12h|Forum MuseumXTD: journée du 13 octobre 2022]]
    La deuxième journée du forum est l'occasion de présenter des projets de professionnel.les de musées qui ont utilisé le numérique pour réinventer le lien avec leurs publics.  
    
