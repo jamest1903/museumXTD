@@ -8,7 +8,7 @@ tags: liens
 L'auteure évoque les grandes tendances des réseaux sociaux et la manière dont les musées peuvent s'adapter. 
 
 ## A retenir
-- Les conséquences des grandes tendances sur les réseaux sociaux sur la communication des musées  
+- Comment les grandes tendances de réseaux sociaux influencent la communication des musées.   
 - L'utilisation de statistiques et rapports sur les réseaux sociaux, publiés par les grandes entreprises du secteur tels que Hootsuite, We Are Social ou GlobalWebIndex.
   
 Cet article provient de la section [ICOM Voices](https://icom.museum/fr/actualites/?c=539) qui invite tous les membres de l’ICOM à proposer des articles traitant des thèmes susmentionnés en anglais, français ou espagnol.

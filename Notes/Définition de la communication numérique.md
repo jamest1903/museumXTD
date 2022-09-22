@@ -9,7 +9,7 @@ Cette page donne une définition générale de ce qu'est la communication numér
 
 ## A retenir
 - La définition: "la communication numérique est un champ des sciences de l’information relatif à l'utilisation de l’ensemble des médias numériques : le [web](https://fr.wikipedia.org/wiki/Web "Web"), les [médias sociaux](https://fr.wikipedia.org/wiki/M%C3%A9dias_sociaux "Médias sociaux") ou les [terminaux mobiles](https://fr.wikipedia.org/wiki/Terminaux_mobiles "Terminaux mobiles") par exemple. Ces médias sont utilisés comme des canaux de diffusion, de partage et de création d'informations".
-- Les médias sociaux sont les principaux outils de communications numériques. 
+- Les médias sociaux sont les principaux outils de la communication numérique. 
 - Les usages liés à la communication numérique sont en constante évolution et s'inscrivent dans le cadre d'une connectivité toujours de plus en plus importante. 
 - La communication numérique permet le développement de nouveaux outils de mesure d'efficacité.
 

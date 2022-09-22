@@ -4,10 +4,10 @@ layout: layouts/post.njk
 tags: question
 ---
 # Qu'est-ce que la communication digitale ?
-La communication digitale est l'utilisation des *médias* numériques, comme un site internet, les réseaux sociaux ou les infolettres, afin de rendre visibles les activités des institutions. 
-Parce qu'elle est dématérialisée, elle permet de diffuser de l'information sans contrainte géographiques ou physiques, est rapide et souvent financièrement accessible: c'est donc un bon retour sur investissement pour les plus petites institutions.
+La communication digitale est l'utilisation de *médias* numériques, comme un site internet, les réseaux sociaux ou les newsletter. Elle permet de rendre visibles les activités des institutions. 
+Parce qu'elle est dématérialisée, elle permet de diffuser de l'information sans contraintes géographiques ou physiques, est rapide et souvent financièrement accessible: c'est donc un bon retour sur investissement pour les plus petites institutions.
 
-Les canaux digitaux ne sont pas à favoriser au détriment des canaux physiques: ils sont un des moyens pour atteindre les objectifs de communication d'un musée. La communication est elle-même un des leviers d'action du marketing.  
+La communication digitale soutien les actions de marketing de l'institution. Elle est également différente de la médiation culturelle. 
 
 
 1. [[Définition de la communication numérique]]   
@@ -17,7 +17,7 @@ Les canaux digitaux ne sont pas à favoriser au détriment des canaux physiques:
 3. [[A la fois personnelle et virale. La communication du musée réinventée]]  
    Ainhoa Simòn Diez évoque les grandes tendances des réseaux sociaux et la manière dont les musées peuvent s'adapter. 
 4. [[La communication muséale sur Internet et les réseaux sociaux]]  
-   Ce travail s'intéresse aux stratégies d'adhésion utilisées par les musées afin d'attirer les internautes et à ce qui poussent les internautes à prendre contact avec les musées sur les réseaux sociaux. 
+   Ce travail s'intéresse aux stratégies utilisées par les musées pour attirer les internautes et à ce qui poussent ces derniers à prendre contact avec les musées sur les réseaux sociaux. 
 5. [[Déployer une newsletter impactante pour votre musée, les étapes clés]]     
    Ce court article fournit quelques conseils et étapes clés afin de concevoir une newsletter de musée.
 6. [[Emailing et génération Z. Peut-on encore utiliser le canal email pour communiquer avec les jeunes]]    
@@ -31,7 +31,7 @@ Les canaux digitaux ne sont pas à favoriser au détriment des canaux physiques:
 10. [La boîte à outils web de Québec numérique](https://quebecnumerique.com/boite-outils/#tab-85-0)   
     Dans la section *Communication et Marketing*, Québec numérique propose une liste de ressources pour utiliser les réseaux ou mieux référencer son site internet.
 
-Voir également: [[Qu'est-ce que le marketing digital]]
+Voir également: [[Qu'est-ce que le marketing digital]], [[Quel est l'impact du numérique sur la médiation culturelle]]
  
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 
