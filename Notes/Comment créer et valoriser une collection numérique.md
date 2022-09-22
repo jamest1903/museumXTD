@@ -28,7 +28,7 @@ De nombreuses ressources existent sur le sujet. En voici un échantillon.
 9. [Lignes directrices pour le choix d’un système de gestion des collections](https://www.canada.ca/fr/reseau-information-patrimoine/services/systemes-gestion-collections/lignes-directrice-choix-sgc.html)
   Le [Réseau canadien d'information sur le patrimoine (RCIP)](https://www.canada.ca/fr/reseau-information-patrimoine.html) propose des questions à se poser pour choisir un système de gestion des collections adapté aux besoins et aux ressources à disposition du musée. Cette ressource traite aborde la l'aspect des infrastructures pour un musée.     
 
-- [Nouveaux défis pour les collections et les réserves](https://www.yuca.tv/fr/icom/webinaire-7-octobre-2020) -> très tourné covid. Je n'arrive pas à trouver un intérêt direct. 
+10. [Nouveaux défis pour les collections et les réserves](https://www.yuca.tv/fr/icom/webinaire-7-octobre-2020) -> très tourné covid. Je n'arrive pas à trouver un intérêt direct. 
 
 
 Voir également: [[Le musée numérique en toute légalité. Quelles questions se poser]]
