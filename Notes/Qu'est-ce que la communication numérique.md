@@ -4,10 +4,10 @@ layout: layouts/post.njk
 tags: question
 ---
 # Qu'est-ce que la communication numérique ?
-La communication numérique est l'utilisation de *médias* numériques, comme un site internet, les réseaux sociaux ou les newsletter. Elle permet de rendre visibles les activités des institutions. 
+La communication numérique utilise les *médias* numériques, comme les réseaux sociaux ou les newsletters. Elle permet de rendre visibles les activités des institutions. 
 Parce qu'elle est dématérialisée, elle permet de diffuser de l'information sans contraintes géographiques ou physiques, est rapide et souvent financièrement accessible: c'est donc un bon retour sur investissement pour les plus petites institutions.
 
-La communication numérique soutient les actions de marketing de l'institution. Si elle peut promouvoir les activités de médiation culturelle, elle ne s'y substitut pas.  
+La communication numérique est un des leviers d'action du marketing de l'institution. Si elle peut également promouvoir les activités de médiation culturelle, elle ne s'y substitut pas.  
 
 1. [[Définition de la communication numérique]]   
    Cette page Wikipédia donne une définition générale de ce qu'est la communication numérique, ou *digitale*.

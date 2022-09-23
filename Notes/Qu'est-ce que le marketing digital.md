@@ -4,9 +4,12 @@ layout: layouts/post.njk
 tags: question
 ---
 # Qu'est-ce que le marketing digital ?
+Le marketing digital peut se définir comme l'atteinte d'objectifs propres au marketing grâce à l'usage des technologies numériques. Il suppose de gérer la présence de l'organisation sur l'ensemble des médias et des plateforme en ligne. 
 
-Les canaux digitaux ne sont pas à favoriser au détriment des canaux physiques: ils sont un des moyens pour atteindre les objectifs de marketing d'un musée.  
+Le marketing vise à l'application d'un plan opérationnel pour susciter des comportements favorables de la part du consommateur envers l'offre des institutions. Pour cela, il s'appuie sur l'élaboration d'une stratégie en fonction de l'environnement, du positionnement et des publics cibles de l'institution. 
 
+1. [[Le marketing culturel. Quelle plus-value]]
+   Fabien Morf définit ce qu'est le marketing et ce qu'il implique pour le secteur culturel. 
 - [Maîtrisez les fondamentaux de votre présence sur le web](https://www.latangente.io/boite-a-outils)
   Cette boîte à outils développée par l'agence publique [La Tangente](https://www.latangente.io/) propose quelques clés pour améliorer sa présence en ligne. 
 - [Guide de la découvrabilité et des bonnes pratiques sur le Web](https://culturelaval.ca/guide-decouvrabilite-bonnes-pratiques/)
