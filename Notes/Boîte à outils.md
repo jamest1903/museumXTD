@@ -17,6 +17,7 @@ Les outils numériques peuvent être difficiles à adopter, entre l'offre abonda
 5. [La Caisse à outils de la Machinerie](https://machineriedesarts.ca/outils/)
   De nombreux modèles et outils pour réaliser sa transformation numérique (inscription nécessaire). 
 6. [[Les outils numériques liés au marketing et à la communication]]
+   Dans le champ du marketing et de la communication, le numérique implique le développement de certains outils qui lui sont propres. 
 
 
 ## [[Les outils utilisés par MuseumXTD]]
