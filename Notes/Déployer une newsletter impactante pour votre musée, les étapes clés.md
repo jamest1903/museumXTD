@@ -17,6 +17,6 @@ Ce court article fournit quelques conseils et étapes clés afin de concevoir un
 Retrouvez d'autres articles sur le [blog de .Museum](https://welcome.museum/fr/actualites/) pour gagner en visibilité grâce à une présence en ligne efficace et maîtrisée.
 
 
-Apparaît dans [[Qu'est-ce que la communication numérique]]
+Apparaît dans [[Quels sont les outils numériques liés au marketing et à la communication]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

@@ -24,9 +24,9 @@ date: 2022-08-31
 ## Concevoir l'expérience visiteur
 [[Comment penser la médiation culturelle avec le numérique]]
 
-[[Qu'est-ce que la communication numérique]]
+[[Quels sont les outils numériques liés au marketing et à la communication]]
 
-[[Qu'est-ce que le marketing digital]]
+[[Comment penser le marketing et la communication avec le numérique]]
 
 [[Comment encourager la participation du visiteur]]
 

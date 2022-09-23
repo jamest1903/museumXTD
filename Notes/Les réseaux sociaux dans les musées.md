@@ -14,6 +14,6 @@ Ce mémoire s'intéresse à la manière dont les musées s'emparent des réseaux
   
 Ce mémoire a été rédigé dans le cadre du du cours de muséologie 2019-2020 de l'ICOM. 
 
-A INCLURE dans [[Qu'est-ce que la communication numérique]] ou répète d'autres ressources
+A INCLURE dans [[Quels sont les outils numériques liés au marketing et à la communication]] ou répète d'autres ressources
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
