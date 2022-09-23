@@ -11,7 +11,7 @@ La nature immatérielle du numérique ne doit pas faire oublier l'impact de son 
 2. [[Transition écologique et musées]]
    Cette note rassemble des interventions sur la sensibilisation aux enjeux de la transition écologique pour et par les musées.
 3. [[Comment faire des usages numériques responsables et durables]]
-   Martine Rioux explique la différence entre la *sobriété numérique*, le *numérique durable* et le *numérique responsable*. 
+   Martine Rioux explique la différence entre *sobriété numérique*, *numérique durable* et *numérique responsable*. 
 4. [[L'Académie Numérique Responsable]]
    L'Institut du Numérique Responsable propose un MOOC de 30 minutes sur le numérique responsable.
 5. [[Transition numérique et protection de l’environnement]]
