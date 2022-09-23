@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-06-09
 ---
-# Comment éditer des notes *question* et *ressource* dans [[Numérique et musée]]
+# Comment éditer des notes *question* et *ressource* dans [[Numérique et Musée]]
 
 Du markd... quoi? Jetez un coup d'œil à [ce guide Obsidian](https://johackim.com/obsidian) pour mieux vous familiariser au logiciel et à la syntaxe markdown. 
 

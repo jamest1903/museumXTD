@@ -2,7 +2,7 @@ x---
 title: MuseumXTD  
 layout: layouts/post.njk  
 ---
-# Numérique et musée
+# Numérique & Musée
 
 Cette section permet de comprendre ce qu'est la transition numérique pour les petits et moyens musées, au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre.
 Mettant en lumière les réalités et enjeux de la transition numérique, les pages ci-dessous permettent de se positionner face aux discours, mythes et injonctions extérieures à l'institution muséale.
