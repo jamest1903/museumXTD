@@ -14,6 +14,8 @@ tags: question
 3. [[Museum Innovation Barometer 2021]]
    Il s'agit d'un sondage effectué entre décembre 2020 et mai 2021 auprès de professionnel.les de musées du monde entier. Il référence des idées de financement d'activités numériques ainsi que des rapport sur la monétisation du numérique. 
 [A paradigmatic change in finance and funding in the cultural and creative industries](https://economiststalkart.org/2022/06/28/a-paradigmatic-change-in-finance-and-funding-in-the-cultural-and-creative-industries%ef%bf%bc/)
+[Les musées doivent repenser leur modèle économique avec le digital](https://www.tom.travel/2018/01/23/les-musees-doivent-repenser-leur-modele-economique-avec-le-digital/)
+[Musées : quels modèles économiques à l'ère numérique?](https://www.pourleco.com/consommation/musees-quels-modeles-economiques-lere-numerique)
 
 
 [[Rapports NEMO]]
