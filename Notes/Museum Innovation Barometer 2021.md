@@ -14,7 +14,8 @@ Il s'agit d'un sondage effectué entre décembre 2020 et mai 2021 auprès de pro
 	- de transformation numérique de musée réussie (à partir de la p.49)
 	- d'initiatives de communication digitale (à partir de la p.54)
 	- de bonnes idées (à partir de la p.72)
-	- 3 rapports de recherche d'information sur la monétisation du numérique (à partir de la p.77)
+	- des idées de financement d'activités numériques (à partir de la p.59)
+	- des rapports de recherche d'information sur la monétisation du numérique (à partir de la p.77)
 
 Le rapport a été réalisé par l'agence autrichienne Museum Booster, partenaire du [[MuseumXTD - Le projet DOORS|projet DOORS]] (projet d'incubateur numérique pour musées) en collaboration avec Ars et Electronica et Ecsite. 
 
