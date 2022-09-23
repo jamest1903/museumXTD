@@ -8,11 +8,11 @@ tags: liens
 Artwork Archive fournit une liste de conseils pour numériser ses collections avec peu de moyens. 
 
 ## A retenir
-- Ce que la numérisation des collections apportent à un musée et ses publics. 
+- Ce que la numérisation des collections apporte à un musée et ses publics. 
 - Une liste d'étapes pour numériser ses collections, en les photographiant, sans avoir de compétences techniques. 
 - Des liens vers d'autres conseils pour approfondir le sujet (Tip #8). 
 
-Artwork Archive fournit plusieurs outils pour gérer, préserver et afficher ses collections d'art. 
+Artwork Archive fournit plusieurs outils pour gérer, préserver et présenter ses collections d'art. 
 
 Apparaît dans [[Comment créer et valoriser une collection numérique]]
 
