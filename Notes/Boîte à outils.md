@@ -16,8 +16,8 @@ Les outils numériques peuvent être difficiles à adopter, entre l'offre abonda
   Cette boîte à outil présente un panorama des outils numériques susceptibles d'accompagner les chercheurs, ingénieurs et étudiants en sciences humaines et sociales dans leurs projets de recherche.
 5. [La Caisse à outils de la Machinerie](https://machineriedesarts.ca/outils/)
   De nombreux modèles et outils pour réaliser sa transformation numérique (inscription nécessaire). 
-6. [Ressources autour du marketing et de la communication](https://louisderrac.com/ressources/ressources-autour-du-marketing-et-de-la-communication/)
-   Louis Derrac propose une sélection de templates, sites et d’outils liées aux métiers du marketing et de la communication. Voir également ses autre ressources [ici](https://louisderrac.com/ressources/). 
+6. [[Les outils numériques liés au marketing et à la communication]]
+
 
 ## [[Les outils utilisés par MuseumXTD]]
 Dans le cadre du projet, nous avons mis en place plusieurs outils: découvrez notre retour d'expérience. 
