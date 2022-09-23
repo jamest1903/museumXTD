@@ -11,7 +11,7 @@ Cette note rassemble des interventions sur la sensibilisation aux enjeux de la t
   Cette table ronde organisée par [LINCC](https://lincc.parisandco.paris/) en 2021 aborde:
 	  - Les enjeux de la sobriété numérique
 	  - La manière de mesurer son impact en tant qu'industries créatives. 
-- [Transition verte: comment mettre en œuvre le développement durable ?](https://www.museumconnections.com/archives-2022__trashed/retour-sur-museum-connections-2022/transition-verte/)     
+- [Transition verte: comment mettre en œuvre le développement durable?](https://www.museumconnections.com/archives-2022__trashed/retour-sur-museum-connections-2022/transition-verte/)     
    Cette table ronde du salon [Museum Connection](https://www.museumconnections.com/) 2022 présente les actions mises en place par certains musées dans le monde pour réduire leur impact environnemental. 
 - [Comment sensibiliser aux questions environnementales?](https://www.museumconnections.com/archives-2022__trashed/retour-sur-museum-connections-2022/questions-environnementales/)     
   Une autre table ronde du salon [Museum Connection](https://www.museumconnections.com/) qui présente les mesures prises par certaines institutions pour sensibiliser le public aux enjeux écologiques. 

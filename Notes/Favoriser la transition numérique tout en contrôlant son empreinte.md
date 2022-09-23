@@ -15,7 +15,7 @@ Marguerite Courtel synthétise les enjeux du développement durable, appliqués 
 		- Les vidéos en ligne génèrent environ 1% des émissions mondiales, soit autant qu'un pays comme l'Espagne
 		- 60 à 80% des usages proviennent d'une consommation culturelle et de divertissement (majoritairement la VoD). 
 - Quelques indicateurs et recommandations pour mettre en place une politique de numérique responsable: 
-	- [Nega Octet](https://negaoctet.org/), qui propose un référentiel et un accompagnement (partie gratuite et payante). 
+	- [Nega Octet](https://negaoctet.org/), qui propose un référentiel et un accompagnement (partie gratuite et payante)
 	- [GR491](https://gr491.isit-europe.org/), qui offre 57 recommandations pour la conception responsable de services numériques. 
 
 Les Augures est une agence française créée en 2020. Elle vise à fédérer les acteurs de la culture autour des enjeux du développement durable. Elle accompagne les structures culturelles dans leur politiques responsables. 

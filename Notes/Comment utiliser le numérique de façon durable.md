@@ -21,7 +21,7 @@ La nature immatérielle du numérique ne doit pas faire oublier l'impact de son 
 7. [[CarbonViz]]
    Cet outil – conçu par l'Institut d'Ingénierie des Médias de la HEIG-VD (MEI) – permet de visualiser en direct les données téléchargées et la quantité de CO2 émise correspondante.
 8. [[Éco-conception, le brouillard à venir]]
-   Gauthier Roussilhe présente une méthodologie pour concevoir un service respectant l'environnement et les principes du développement durable.
+   Gauthier Roussilhe présente une méthodologie pour concevoir des services numériques pertinents tout en réduisant leur empreinte environnementale.
 
 
  
