@@ -13,7 +13,7 @@ La nature immatérielle du numérique ne doit pas faire oublier l'impact de son 
 3. [[Comment faire des usages numériques responsables et durables]]
    Martine Rioux explique la différence entre *sobriété numérique*, *numérique durable* et *numérique responsable*. 
 4. [[L'Académie Numérique Responsable]]
-   L'Institut du Numérique Responsable propose un MOOC de 30 minutes sur le numérique responsable.
+   L'Institut du Numérique Responsable propose un MOOC de 30 minutes sur le sujet.
 5. [[Transition numérique et protection de l’environnement]]
    Catalina González Jamett questionne la compatibilité entre la transition numérique et la transition écologique. 
 6. [[La vérité sur l’empreinte carbone du numérique]]
