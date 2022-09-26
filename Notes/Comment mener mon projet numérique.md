@@ -5,6 +5,7 @@ tags: question
 ---
 # Comment mener mon projet numérique ?
 L'introduction du numérique dans les musées implique une nouvelle façon de penser la gestion de projet et la collaboration multidisciplinaire. Quels sont les enjeux et les bonnes pratiques  ?
+*faire apparaître le sommaire dans le chapeau*
 
 ## Gérer un projet
 

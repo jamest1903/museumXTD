@@ -40,9 +40,18 @@ Cet outil de conception en ligne permet de créer des documents visuels à parti
 Sendinblue est une solution d'emailing française. 
 ### A retenir: 
 - La gestion des contacts (et la segmentation) est gratuite et illimitée: seulement l'envoi d'e-mails est payant.
-- 
+- Sa prise en main facilitée par de nombreux tutoriels. 
 
-## Infomaniak
-## Obsidian
+## [Infomaniak](https://www.infomaniak.com/fr)
+Spécialiste de l'hébergement de sites web, l'entreprise fournit de nombreux autres services informatiques. 
+### A retenir: 
+- La nationalité suisse de l'entreprise. 
+- les nombreux outils de productivité: mail, drive, hébergement web, cloud etc. 
+
+## [Obsidian](https://obsidian.md/)
+Obsidian est un logiciel de prise de notes connectées. 
+### A retenir: 
+
+
 ## Github
 

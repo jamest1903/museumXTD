@@ -11,17 +11,17 @@ La nature immatérielle du numérique ne doit pas faire oublier l'impact de son 
 2. [[Transition écologique et musées]]
    Cette note rassemble des interventions sur la sensibilisation aux enjeux de la transition écologique pour et par les musées.
 3. [[Comment faire des usages numériques responsables et durables]]
-   Martine Rioux explique la différence entre la sobriété numérique, le numérique durable et le numérique responsable. 
+   Martine Rioux explique la différence entre *sobriété numérique*, *numérique durable* et *numérique responsable*. 
 4. [[L'Académie Numérique Responsable]]
-   L'Institut du Numérique Responsable propose un MOOC sur le numérique responsable d'une durée de 30 minutes.
+   L'Institut du Numérique Responsable propose un MOOC de 30 minutes sur le sujet.
 5. [[Transition numérique et protection de l’environnement]]
-   Catalina González Jamett questionne la compatibilité entre la transition numérique et la transition écologique, présentant les arguments pour et contre. 
+   Catalina González Jamett questionne la compatibilité entre la transition numérique et la transition écologique. 
 6. [[La vérité sur l’empreinte carbone du numérique]]
    Sarah Sermondadaz explique et illustre ce qui se cache derrière l'évaluation de l'empreinte carbone en kilogrammes équivalent CO2.   
 7. [[CarbonViz]]
-   Cet outil conçu par le MEI de la HEIG-VD permet de visualiser en direct les données téléchargées et la quantité de CO2 émise correspondante.
+   Cet outil – conçu par l'Institut d'Ingénierie des Médias de la HEIG-VD (MEI) – permet de visualiser en direct les données téléchargées et la quantité de CO2 émise correspondante.
 8. [[Éco-conception, le brouillard à venir]]
-   Gauthier Roussilhe démêle les enjeux de l'éco-conception d'un service numérique et présente une méthodologie pour éco-concevoir un service. 
+   Gauthier Roussilhe présente une méthodologie pour concevoir des services numériques pertinents tout en réduisant leur empreinte environnementale.
 
 
  

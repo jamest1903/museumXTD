@@ -6,12 +6,15 @@ tags: liens
 [Sermondadaz, S. (2021). La vérité sur l’empreinte carbone du numérique.](https://www.heidi.news/explorations/green-it-ou-les-paris-suisses-de-l-informatique-durable/la-verite-sur-l-empreinte-carbone-du-numerique)    
 L'auteure explique et illustre, par des constats étonnants, ce qui se cache derrière l'évaluation de l'empreinte carbone en kilogrammes équivalent CO2.   
 
-## A retenir
+## À retenir
 - Le calcul de l’empreinte carbone de nos activités numériques, en kilogrammes équivalent CO2. 
 - Des constats qui contredisent certaines idées reçues:
 	- Envoyer un mail avec un pièce jointe a autant, voire plus d'impact que de l'imprimer. 
-	- Lire son journal sur papier ou en ligne? Pour la planète, mieux vaut lire la déclinaison PDF, puis lire sur le site web, et finalement, le journal papier. 
-	- La consommation électrique d'une borne WiFi n’est pas proportionnelle à la quantité de données transmises puisqu'elle est souvent allumée en permanence.  
+	- Lire son journal sur du papier ou en ligne? Pour la planète le mieux est de lire:
+		- La déclinaison PDF
+		- Puis sur le site web
+		- Finalement, dans sa version imprimée. 
+	- La consommation électrique d'une borne WiFi n’est pas proportionnelle à la quantité de données transmises, puisqu'elle est souvent allumée en permanence.  
 -   La découverte du site internet [Low Tech Magazine](https://solar.lowtechmagazine.com/fr/), qui fonctionne grâce à de l’électricité solaire produite à Barcelone.
   
 [Sarah Sermondadaz](https://www.heidi.news/profil/sarah-sermondadaz) est une ingénieur de formation et journaliste scientifique qui travaille pour [Heidi News](https://www.heidi.news/). 

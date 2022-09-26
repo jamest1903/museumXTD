@@ -7,18 +7,18 @@ tags: liens
 
 Marguerite Courtel synthétise les enjeux du développement durable, appliqués au secteur des industries culturelles et créatives.  
 
-## A retenir
-- Le numérique est la cause de 4% des gaz à effet de serre (GES) mondiaux.
-- L'impact:  
-	- dans la scénographie et production d'exposition 
-	- l'utilisation du numérique et notamment de la vidéo, qui a un impact majeur, car: 
-		- les vidéos en ligne génèrent environ 1% des émissions mondiales, soit autant qu'un pays comme l'Espagne)
-		- 60 à 80% des usages vidéos proviennent de la consommation de la culture et du divertissement (majoritairement la VoD). 
-- Quelques indicateurs et recommandations pour mettre en place une politique de numérique responsable : 
-	- [Nega Octet](https://negaoctet.org/), qui propose un référentiel et un accompagnement (partie gratuite et payante). 
+## À retenir
+- Le numérique est responsable de 4% des émissions de gaz à effet de serre (GES) mondiales.
+- L'impact environnemental est important au niveau de:  
+	- La scénographie et la production d'expositions 
+	-  L'utilisation de la vidéo, car: 
+		- Les vidéos en ligne génèrent environ 1% des émissions mondiales, soit autant qu'un pays comme l'Espagne
+		- 60 à 80% des usages proviennent d'une consommation culturelle et de divertissement (majoritairement la VoD). 
+- Quelques indicateurs et recommandations pour mettre en place une politique de numérique responsable: 
+	- [Nega Octet](https://negaoctet.org/), qui propose un référentiel et un accompagnement (partie gratuite et payante)
 	- [GR491](https://gr491.isit-europe.org/), qui offre 57 recommandations pour la conception responsable de services numériques. 
 
-Les Augures est une agence française créée en 2020. Elle vise à fédérer les acteurs de la culture autour d'enjeux du développement durable et accompagne les structures culturelles dans leur politiques responsables. 
+Les Augures est une agence française créée en 2020. Elle vise à fédérer les acteurs de la culture autour des enjeux du développement durable. Elle accompagne les structures culturelles dans leur politiques responsables. 
 
 Apparaît dans [[Comment utiliser le numérique de façon durable]]
 

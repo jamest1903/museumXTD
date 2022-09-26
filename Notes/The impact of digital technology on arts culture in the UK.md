@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: liens technologies rapport competence
 ---
 
-[Cîrstea, A-M., Mutebi, N. (2022). The impact of digital technologies on arts and culture in the UK.](https://researchbriefings.files.parliament.uk/documents/POST-PN-0669/POST-PN-0669.pdf) 
+[Cîrstea, A-M., Mutebi, N. (2022). The impact of digital technologies on arts and culture in the UK.](https://researchbriefings.files.parliament.uk/documents/POST-PN-0669/POST-PN-0669.pdf)    
 Ce rapport synthétise les dynamiques des nouvelles technologies dans le secteur des arts et de la culture au Royaume-Uni.
 
 ## A retenir
@@ -18,7 +18,7 @@ Les [*POSTNotes*](https://post.parliament.uk/research/) sont des synthèses dest
 concernant des questions politiques ayant un fondement scientifique et technologique.
 
 
-Apparaît dans [[Les technologies immersives (XR)]], [[Les autres technologies émergeantes]], [[Quelles sont les tendances des technologies]]
+Apparaît dans [[Les technologies immersives (XR)]], [[Les autres technologies émergeantes]], [[Technologies, quelles tendances]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 
