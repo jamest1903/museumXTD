@@ -13,6 +13,7 @@ Les ressources ont été choisies par nos soins et certaines sections sont encor
 [[MuseumXTD - Présentation de la plateforme MuseumXTD.ch|En savoir plus]]
 
 
+
 ## Pour démarrer
 [[Numérique et musée, quelques définitions]]
 
