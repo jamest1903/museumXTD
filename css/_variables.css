@@ -1,5 +1,6 @@
 :root {
 
+--font-serif: Georgia, 'Times New Roman', Times, serif ;
 
 /* font sizes */
 --font-size-xs: clamp(0.825rem, 3.5vw, 0.9rem) ;
@@ -18,6 +19,7 @@
 --white: #fefefe ;
 --black: #333 ;
 --greyXTD: #CFCFCF ;
+--greyText: hsl(0, 0%, 46%) ;
 /* --blue: #002BC6 ; */
 --blue: mediumblue ;
 

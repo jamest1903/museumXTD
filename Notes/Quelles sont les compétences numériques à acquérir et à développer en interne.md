@@ -4,42 +4,28 @@ layout: layouts/post.njk
 tags: question 
 
 ---
-# Quelles sont les compétences numériques à acquérir et à développer en interne ?
-Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire qui ne se trouvent à l'intérieur des équipes des musées (voir [[Comment mener mon projet numérique]]). Néanmoins, non seulement certaines méthodologies de travail peuvent être repensées en interne (voir [[Quelles sont les méthodologies liées au numérique à connaître]]), mais certaines compétences numériques peuvent être développées en auto-formation ou en formation continue. 
+# Quelles sont les compétences numériques à acquérir et à développer en interne?
+Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire différents de ceux des équipes des musées. Néanmoins:
+- Certaines méthodologies de travail peuvent être repensées en interne
+- Des compétences numériques peuvent être développées de manière autodidacte ou en formation continue.
 
-A partir de l'étude [[One-by-One]], voici une liste (non-exhaustive) de compétences de plus en plus *demandées* dans les musées.  
+Cette section vous présente quelques références pertinentes en la matière:
+1. [[Numérique, quelles compétences nécessaires pour les professionnels des musées]]   
+   Antoine Roland énumère les compétences développées par les professionnel·le·s des musées pour travailler avec le numérique.
+2. [[One-by-One]]     
+   Ce projet de recherche est une initiative britannique multi-partenaires (incluant notamment l'*Arts & Humanities Research Council*, [Culture24](https://www.culture24.org.uk/,) et l'Université de Leicester). Son objectif est de renforcer les compétences et la confiance des musées en matière de numérique.
+3. [Analyse de l’organisation et des lacunes de compétences numériques dans les musées britanniques](https://www.club-innovation-culture.fr/rapport-organisation-lacunes-competences-numeriques-musees-britanniques/)     
+   Le Club Innovation & Culture (CLIC) fournit ici un compte-rendu en français du premier rapport de [[One-by-One]].
+4. [Rétablir et recréer : Stimuler l’emploi dans le secteur des musées](https://icom.museum/fr/news/webinaire-de-licom-retablir-et-recreer-stimuler-lemploi-dans-le-secteur-des-musees/)    
+   Ce webinaire du Conseil international des musées (ICOM) fait partie d'une série de conférences sur le renforcement des capacités pour les professionnel·e·s de la branche.
+5. [Rester en contact, la transformation numérique des musées en temps de COVID-19](https://icom.museum/fr/news/webinaire-transformation-numerique-musees/)     
+   Un autre webinaire pertinent de l'ICOM, toujours dans la même série. 
 
-## Collection: Numérisation des collections
-- Voir [[Tate - Archives and access toolkit]]
-## Curation: Création de formats numériques
-- Utilisation de catalogues numériques et de systèmes de gestion des actifs numériques
-- Utilisation de la photographie numérique et la manipulation d'images
-- Utilisation des médias sociaux
-	- Voir [[Question - Comment utiliser les réseaux sociaux]]
-- Conservation d'objets numériques
-- (Re)Présentation de l'information
-- Communication en ligne
-- Compréhension et connaissance du sujet de la propriété intellectuelle et autres sujets d'ordre légal
-	- Voir [[MuseumXTD - Tatiana Jullier]]
-	- Voir [[Cyber Sain et Sauf - Imaa]]
-## Marketing et communication: Diversification de la participation de publics plus larges 
-- Utilisation des plateformes de médias sociaux
-	- Voir [[Question - Comment utiliser les réseaux sociaux]]
-- Utilisation des plateformes de musique numérique
-- Utilisation de la technologie d'identification par radiofréquence (RFID)
-- Utilisation du système de gestion des collections (CMS)
-- Utilisation des plateformes de messagerie électronique
-- Utilisation des applications tierces
-- Utilisation la réalité augmentée/virtuelle
-	- Voir les définitions dans [[The impact of digital technology on arts culture in the UK]]
-- Capacité à concevoir et élaborer des stratégies, des politiques et des orientations pour garantir une réponse coordonnée et réfléchie au numérique
-## Education et apprentissage:  
-- Création de ressources d'apprentissage interactives
-- Conception de ressources en ligne
-	- [[MuseumXTD - La face cachée du numérique]]
-- Production des copies d'objets pour des activités d'apprentissage
-- Adaptation aux scans 3D d'objets de musée ; impression 3D pour que les élèves puissent manipuler les objets
-- Utilisation de logiciels libres. 
-## Informatique et métiers techniques
-- Développement de nouvelles interactivités
-- Construction et assurance de la maintenance, la mise à jour et la pérennité des infrastructures et des réseaux informatiques des musées, l'administration des serveurs et le stockage des données
+Voir également [[Comment mener mon projet numérique]]
+
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+
+
+
+
+
