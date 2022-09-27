@@ -4,25 +4,25 @@ layout: layouts/post.njk
 tags: question
 ---
 # Comment mener mon projet numérique ?
-L'introduction du numérique dans les musées implique une nouvelle façon de penser la gestion de projet et la collaboration multidisciplinaire. Quels sont les enjeux et les bonnes pratiques  ?
-*faire apparaître le sommaire dans le chapeau*
-
-## Gérer un projet
-
-[[Quelles sont les méthodologies liées au numérique à connaître]]
-
-[[Question - Comment évaluer un projet numérique]]
-
-voir aussi [Conception de projet numérique: le canvas à avoir sous la main](https://quebecnumerique.com/conception-de-projet-numerique-le-canevas-a-avoir-sous-la-main/)
-
-## Collaborer avec une équipe multidisciplinaire
+L'utilisation du numérique au musée amène à repenser non seulement la méthodologie de gestion de projet mais également la façon de collaborer avec les différentes parties prenantes. Il conduit également à mettre en place un suivi et des indicateurs.  
 
 
-1. [[MuseumXTD - Antoine Roland]]
+1. [[MuseumXTD - Studios et agences, partenaires de la transition numérique des musées]]
 2. [[MuseumXTD - Seemuseum Kreuzlingen]]
-3. [[MuseumXTD - Studios et agences, partenaires de la transition numérique des musées]]
-4. [[Le projet Ramuz]]
-5. [[The adoption of digital technology in the arts]]
-	- Commentaires de Jane Finnis, CEO of [[Culture24]]: “Digital is a signifier of the bigger changes that organisations need to make. The nature of online technologies are driving these changes – requiring cultural organisations to be more open, more participatory, more inclusive, and less hierarchical.” (p13)
-6. [[Agile Development in Non-Agile Museum - Finnish National Gallery]] 
-	- Taika Dahlbom, web producer à la Finnish National Gallery, évoque les enjeux quant à l'introduction d'une méthodologie agile au sein de l'environnement de travail muséal. 
+   En 2019, le Seemuseum Kreuzlingen s'est lancé dans un voyage de transformation numérique grâce au projet digitorials.ch. Depuis lors, le Seemuseum a exploré divers formats numériques, utilisant sa petite taille comme un atout clé pour mettre en œuvre le changement.
+3. [[Le projet Ramuz]]
+   L'objectif est de démontrer, par un exemple concret, la pertinence et les conditions de réussite de dispositifs numériques au sein du musée. Ce cas d'étude cherche à exploiter le potentiel de collaboration et de co-construction du numérique avec les publics, et à développer un discours co-construit avec eux.
+4. [[Le numérique, une formidable occasion pour la culture]]
+   L'article aborde les concepts clés du numérique qui, selon l'auteure, sont déjà ancrés dans les pratiques artistiques et propose de s'inspirer et appliquer au secteur culturel des méthodes de gestion organisationnelle du numérique.
+5. [[Agile Development in Non-Agile Museum]]
+   Taika Dahlbom, Web Producer à la Finnish National Gallery, évoque les enjeux de la collaboration du musée avec l'équipe de développement du site internet. 
+6. [[The Agile Museum]]
+   Cet article traite de la possibilité d'adopter les méthodes de management comme Lean ou Agile dans les musées et d'implémenter progressivement leurs pratiques.
+7. [[Rapports NEMO]]
+   Le Network of European Museum Organisations (NEMO) a publié 3 rapports sur les conséquences de la période de COVID-19 sur les musées, en mettant en évidence le développement de services numériques. Le rapport fournit des recommandations, dont la nécessité d'élaborer des mesures, des cadres et des méthodes solides pour suivre les activités numériques. 
+8. [[Europeana Impact Playbook]]
+   L'impact Playbook d'Europeana a pour objectif d'aider les professionnels à mieux planifier, mesurer et comprendre l'impact du patrimoine culturel numérique
+
+
+ 
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

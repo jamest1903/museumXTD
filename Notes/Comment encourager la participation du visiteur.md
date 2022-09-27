@@ -30,3 +30,8 @@ Comment le numérique facilite la contribution des publics aux missions du musé
 Video J1:
 
 Antoine Roland: Comment rendre son musée numérique ? Approche institutionnelle, approche en réseau, approche de co-construction 
+
+## LES HACKATHONS
+Un hackathon est un évènement lors duquel des bases de données accessibles sont utilisées pour élaborer des projets, notamment à l'aide de code. Selon [un communiqué](https://www.admin.ch/gov/fr/start/dokumentation/medienmitteilungen.msg-id-56205.html) de la Bibliothèque Nationale de Suisse, qui a déjà organisé des hackathons, le "fait de _hacker_ ces données ou plutôt de les mettre en lien et de jouer avec elles permet de tisser de nouvelles interconnexions et d’explorer des utilisations créatives comme des statistiques visualisées, des exploitations pour la recherche ou de nouvelles _apps_. De telles applications peuvent, en fonction des résultats des ateliers expérimentaux, être profitables pour les spécialistes des _digital humanities_, les wikipédiens ou un large public."  
+4. [[Open Data CH]] organise des hackathons culturels avec [[Wikimedia CH]]  
+5. [[Coding Da Vinci]]
