@@ -49,9 +49,17 @@ Spécialiste de l'hébergement de sites web, l'entreprise fournit de nombreux au
 - les nombreux outils de productivité: mail, drive, hébergement web, cloud etc. 
 
 ## [Obsidian](https://obsidian.md/)
-Obsidian est un logiciel de prise de notes connectées. 
+Obsidian est un logiciel gratuit de prise de notes interconnectées, en format markdown. 
 ### A retenir: 
+- La gratuité du logiciel et l'hébergement des données en local. 
+- Du markd... quoi? Jetez un coup d'œil à [ce guide Obsidian](https://johackim.com/obsidian) pour mieux vous familiariser au logiciel et à la syntaxe markdown.
+- Ce logiciel est recommandé avec l'utilisation de la méthode de prise de note [Zettelkasten](https://fr.wikipedia.org/wiki/Zettelkasten).
 
 
-## Github
+## [Github](https://github.com/) 
+Ce service permet de stocker et gérer du code. Il sert notamment aux développeurs de travailler ensemble sur des projets de code. 
+### A retenir: 
+- Faites un tour sur [ce tuto](https://fr.tuto.com/blog/2020/10/github.htm). 
+- Nous avons utilisé Github pour réaliser le site internet depuis Obsidian, grâce à l'aide de l'équipe du Media Engineering Institute. 
+
 
