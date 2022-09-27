@@ -15,7 +15,7 @@ Ces impératifs sont illustrés à travers la stratégie numérique de deux mus�
 
 
 ## À retenir
-- Les injonctions peuvent être *top-down* (venant du haut, soit des institutions structurantes ou de la hiérarchie) ou *bottom-up* (venant du bas, soit des professionnel.le.s eux-mêmes). 
+- Les injonctions peuvent être *top-down* (venant du haut, soit des institutions structurantes ou de la hiérarchie) ou *bottom-up* (venant du bas, soit des professionnel·le·s eux-mêmes). 
 - Les équipement technologiques sont accompagnés de discours promotionnels et technophiles. Ils reposent parfois sur des mythes (la technologie serait à l'origine de l'interactivité) et sur une logique de remplacement systématique du matériel. 
 - Les dispositifs au musée Arleaton d'Arles sont uniquement choisis s'ils sont:
 	- Pertinents

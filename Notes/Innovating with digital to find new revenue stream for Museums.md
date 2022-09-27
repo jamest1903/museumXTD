@@ -12,7 +12,7 @@ L'auteur présente plusieurs exemples d'activités numériques monétisées, dé
 - Des exemples de monétisation déjà en place dans quelques musées, notamment anglo-saxons. 
 - La traduction de l'article en français par Arénametrix [ici](https://arenametrix.com/musees-innovation-numerique-revenu/). 
   
-Jim Richardson dirige MuseumNext, un réseau de professionnel.les de musées à travers le monde. Le site internet possède de nombreuses [ressources](https://www.museumnext.com/articles/) sur les enjeux actuels des musées. 
+Jim Richardson dirige MuseumNext, un réseau de professionnel·le·s de musées à travers le monde. Le site internet possède de nombreuses [ressources](https://www.museumnext.com/articles/) sur les enjeux actuels des musées. 
 
 
 Apparaît dans [[Note question]]

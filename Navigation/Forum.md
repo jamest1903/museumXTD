@@ -7,7 +7,7 @@ layout: layouts/info.njk
 
 #### Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à l'aula de la HEIG-VD, Yverdon-les-Bains. Ce symposium réunira musées et expert.e.s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
 
-- **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel.le.s des musées, de chercheurs et chercheuses et de spécialistes du numérique
+- **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel·le·s des musées, de chercheurs et chercheuses et de spécialistes du numérique
 
 - **Jeudi 13 octobre (9h-12h)**: présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
 
