@@ -21,7 +21,8 @@ L'utilisation du numérique au musée amène à repenser non seulement la métho
 7. [[La pratique muséale numérique. Une approche globale]]
    Ce document de l'AMS donne une définition de la stratégie numérique ainsi que les grandes étapes de son élaboration. Il fournit des recommandations quant à l'évaluation des projets (p. 8). 
 8. [[Performance Indicators]]
-9. [Évaluation finale du projet](https://www.hermes.admin.ch/fr/gestion-du-projet/comprendre/resultats/evaluation-finale-du-projet.html)
+   L'auteure aborde la question des indicateurs particuliers au secteur patrimonial. 
+9. [[Évaluation finale du projet]]
 10. [[Exemples de mises en place de projets numériques]]
 
  
