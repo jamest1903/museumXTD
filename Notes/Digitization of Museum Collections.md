@@ -17,6 +17,6 @@ Cette publication vise à clarifier les principes généraux en matière de droi
 Cette ressource en ligne a été conçue à la suite du webinaire *[When museums go online](https://www.digitizationpolicies.com/when-museums-go-online/)*, qui a été organisé le 11 décembre 2020 par l'ICOM et l'Université de Genève. 
 
 
-Apparaît dans [[Le musée numérique en toute légalité. Quelles questions se poser]]
+Apparaît dans [[Quel cadre légal pour la transformation numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

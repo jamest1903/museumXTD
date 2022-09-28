@@ -22,13 +22,13 @@ date: 2022-08-31
 
 
 ## Concevoir l'expérience visiteur
-[[Comment penser la médiation culturelle avec le numérique]]
+[[Comment encourager la participation du visiteur]]
 
 [[Comment penser le marketing et la communication avec le numérique]]
 
 [[Les outils numériques liés au marketing et à la communication]]
 
-[[Comment encourager la participation du visiteur]]
+[[ABANDON]]
 
 [[Le projet Ramuz|Un exemple de projet: le projet Ramuz]]
 

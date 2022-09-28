@@ -16,6 +16,6 @@ Cette plateforme propose des conseils, des ressources, des normes et des sémina
 Retrouvez plus de ressources d'[Europeana](https://pro.europeana.eu/about-us/mission) sur [cette page](https://pro.europeana.eu/about-us/services-and-tools). 
 
 
-Apparaît dans [[Le musée numérique en toute légalité. Quelles questions se poser]]
+Apparaît dans [[Quel cadre légal pour la transformation numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

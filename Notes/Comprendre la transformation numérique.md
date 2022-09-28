@@ -13,7 +13,7 @@ date: 2022-08-31
 
 [[Quels nouveaux modèles d'affaire avec le numérique]]
 
-[[Le musée numérique en toute légalité. Quelles questions se poser]]
+[[Quel cadre légal pour la transformation numérique]]
 
 [[Quels sont les opportunités et les freins]]
 

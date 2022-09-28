@@ -15,7 +15,7 @@ Cette journée de colloque traite des risques et des challenges pour intégrer l
 Cette journée a été organisée par l'association [Mêtis](https://metis-lab.com/), une plate-forme de rencontres et de ressources pour les acteurs des musées. 
 
 
-Apparaît dans [[Comment encourager la participation du visiteur]]
+Apparaît dans [[Les technologies immersives (XR)]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 
