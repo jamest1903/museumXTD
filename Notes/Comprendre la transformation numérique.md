@@ -13,6 +13,8 @@ date: 2022-08-31
 
 [[Quels nouveaux modèles d'affaire avec le numérique]]
 
+[[Le musée numérique en toute légalité. Quelles questions se poser]]
+
 [[Quels sont les opportunités et les freins]]
 
 [[Quel est l'impact du COVID-19 sur la numérisation des musées]]

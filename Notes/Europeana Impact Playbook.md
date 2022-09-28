@@ -12,7 +12,7 @@ L'impact Playbook d'Europeana a pour objectif d'aider les professionnels à mieu
 - Une [quatrième phase](https://pro.europeana.eu/event/looking-back-at-the-impact-assessment-process-phase-4) focalisée sur l'évaluation de son impact. 
 - Des outils pragmatiques délivrés à chaque phase.
   
-Retrouvez plus de ressources du [NEMO](https://www.ne-mo.org/about-us/who-we-are.html) sur [cette page](https://www.ne-mo.org/about-us/resources.html). 
+Retrouvez plus de ressources d'[Europeana](https://pro.europeana.eu/about-us/mission) sur [cette page](https://pro.europeana.eu/about-us/services-and-tools). 
 
 
 Apparaît dans [[Comment mener mon projet numérique]]

@@ -4,6 +4,18 @@ layout: layouts/post.njk
 tags: liens technologies
 ---
 
-[Journée de recherche (2022). Journée de recherche-action « institutions patrimoniales et muséales et dispositifs immersifs ». Campus Nation (Université Sorbonne Nouvelle)](https://metis-lab.com/2021/12/05/journee-de-recherche-action-institutions-patrimoniales-et-museales-et-dispositifs-immersifs/)
+[Journée de recherche (2022). Journée de recherche-action « institutions patrimoniales et muséales et dispositifs immersifs »](https://metis-lab.com/2021/12/05/journee-de-recherche-action-institutions-patrimoniales-et-museales-et-dispositifs-immersifs/)
 
-Cette journée action-recherche repose sur une volonté de cerner les défis à relever pour favoriser les synergies possibles entre les professionnels institutionnels, les chercheurs académiques et les professionnels de la création XR. Les tables rondes et les ateliers  réunissent ces acteurs. Ils présenteront et discuteront de la création en XR au sein des institutions muséales et patrimoniales en questionnant les rapports aux publics, les collaborations entre concepteurs, artistes et institutions, etc.
+Cette journée de colloque traite des risques et des challenges pour intégrer les dispositifs immersifs dans les parcours de visite de lieux culturels et sur les attentes des publics envers ces nouvelles technologies.
+
+## A retenir
+- Les captations des tables rondes et les compte-rendu des ateliers. 
+- La table ronde 1 "[Promesses des dispositifs XR et attentes des publics](https://metis-lab.com/2022/07/13/captations-de-la-journee-de-recherche-action-institutions-patrimoniales-et-museales-et-dispositifs-immersifs/)". 
+  
+Cette journée a été organisée par l'association [Mêtis](https://metis-lab.com/), une plate-forme de rencontres et de ressources pour les acteurs des musées. 
+
+
+Apparaît dans [[Comment encourager la participation du visiteur]]
+
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+
