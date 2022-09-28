@@ -8,7 +8,9 @@ L'utilisation du numérique au musée amène à repenser non seulement la métho
 
 
 1. [[MuseumXTD - Studios et agences, partenaires de la transition numérique des musées]]
-2. [[Le numérique, une formidable occasion pour la culture]]
+2. [Conception de projet numérique : le canevas à avoir sous la main](https://quebecnumerique.com/conception-de-projet-numerique-le-canevas-a-avoir-sous-la-main/)
+   Québec numérique propose un modèle pour structurer ses idées et développer une idée de projet. 
+3. [[Le numérique, une formidable occasion pour la culture]]
    L'article aborde les concepts clés du numérique qui, selon l'auteure, sont déjà ancrés dans les pratiques artistiques. L'auteur propose de s'inspirer et d'appliquer au secteur culturel des méthodes de gestion organisationnelle du numérique.  
 3. [[The Agile Museum]]
    Cet article traite de la possibilité d'adopter les méthodes de management, comme Lean ou Agile, dans les musées et d'implémenter progressivement leurs pratiques.
