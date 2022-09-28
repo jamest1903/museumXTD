@@ -4,12 +4,12 @@ layout: layouts/post.njk
 tags: question
 ---
 # Comment mener mon projet numérique ?
-L'utilisation du numérique au musée amène à repenser non seulement la méthodologie de gestion de projet mais également la façon de collaborer avec les différentes parties prenantes. Le processus itératif inhérent aux nouvelles méthodologies de projet conduit à mettre en place un suivi et des indicateurs pour évaluer les projets.  
+L'utilisation du numérique au musée amène à repenser non seulement la méthodologie de gestion de projet mais également la façon de collaborer avec les différentes parties prenantes. Le processus itératif inhérent aux nouvelles méthodologies de projet renforce la nécessité de mettre en place un suivi et des indicateurs pour évaluer les projets.  
 
 
 1. [[MuseumXTD - Studios et agences, partenaires de la transition numérique des musées]]
 2. [[Le numérique, une formidable occasion pour la culture]]
-   L'article aborde les concepts clés du numérique qui, selon l'auteure, sont déjà ancrés dans les pratiques artistiques et propose de s'inspirer et appliquer au secteur culturel des méthodes de gestion organisationnelle du numérique.
+   L'article aborde les concepts clés du numérique qui, selon l'auteure, sont déjà ancrés dans les pratiques artistiques. L'auteur propose de s'inspirer et d'appliquer au secteur culturel des méthodes de gestion organisationnelle du numérique.  
 3. [[The Agile Museum]]
    Cet article traite de la possibilité d'adopter les méthodes de management, comme Lean ou Agile, dans les musées et d'implémenter progressivement leurs pratiques.
 4. [[Rapports NEMO]]
@@ -23,6 +23,7 @@ L'utilisation du numérique au musée amène à repenser non seulement la métho
 8. [[Performance Indicators]]
    L'auteure aborde la question des indicateurs particuliers au secteur patrimonial. 
 9. [[Évaluation finale du projet]]
+   La Confédération fournit, parmi les modules de la méthodologie HERMES, un modèle d'évaluation finale de projet.  
 10. [[Exemples de mises en place de projets numériques]]
 
  
