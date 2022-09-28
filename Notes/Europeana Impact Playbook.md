@@ -15,6 +15,6 @@ L'impact Playbook d'Europeana a pour objectif d'aider les professionnels à mieu
 Retrouvez plus de ressources d'[Europeana](https://pro.europeana.eu/about-us/mission) sur [cette page](https://pro.europeana.eu/about-us/services-and-tools). 
 
 
-Apparaît dans [[Comment mener mon projet numérique]]
+Apparaît dans [[Comment évaluer un projet numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

@@ -23,6 +23,6 @@ Cet article traite de la possibilité d'adopter les méthodes de management, com
 
 
 
-Apparaît dans [[Comment mener mon projet numérique]]
+Apparaît dans [[Comment mener un projet numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

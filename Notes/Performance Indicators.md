@@ -16,6 +16,6 @@ L'auteure aborde la question des indicateurs particuliers au secteur patrimonial
 [Trilce Navarrete](https://trilcenavarrete.com/) est une chercheuse en humanités digitales. Voir également son entretien dans [[Musées et numérique]] et son article sur le [[Crowdsourcing the digital transformation of heritage|crowdsourcing]]. 
 
 
-Apparaît dans [[Comment mener mon projet numérique]]
+Apparaît dans [[Comment évaluer un projet numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

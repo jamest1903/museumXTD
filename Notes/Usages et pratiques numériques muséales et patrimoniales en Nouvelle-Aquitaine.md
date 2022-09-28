@@ -16,6 +16,6 @@ Ce dossier présente 6 usages et pratiques du numérique, sous forme de *chroniq
 Ce guide a été co-réalisé par le [service Numérique culturel](https://www.culture-nouvelle-aquitaine.fr/thematiques/numerique-culturel) de la région Nouvelle-Aquitaine et {CORRESPONDANCES DIGITALES] ([lien ici](https://correspondances.co/)). 
 
 
-Apparaît dans [[Comment mener mon projet numérique]]
+Apparaît dans [[Comment mener un projet numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

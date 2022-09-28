@@ -30,6 +30,6 @@ Innover réfère à la faculté de renouveler les propositions de solutions face
 9. Le [[Staatlabor]], une plateforme sur le sujet de l'innovation pour les administrations
 
 
-De plus en plus avec le numérique, les projets sont gérer en collaboration avec des acteurs multiples - voir [[Comment mener mon projet numérique]]. 
+De plus en plus avec le numérique, les projets sont gérer en collaboration avec des acteurs multiples - voir [[Comment mener un projet numérique]]. 
 
 

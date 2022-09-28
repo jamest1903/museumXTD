@@ -12,11 +12,10 @@ Le but de ce guide est de "contribuer au développement d’une culture de l’�
 	- théorie: définition et utilité
 	- et pratique: comment procéder concrètement au travers de 5 phases. 
 - Un glossaire en fin de brochure. 
-etc. 
   
- Ce guide a été rédigé par le Pour-cent culturel Migros et Pro Helvetia. Des spécialistes du secteur de la culture et de l'administration y ont également participé.
+ Ce guide a été rédigé par le [Pour-cent culturel Migros](https://www.migros-engagement.ch/fr/pour-cent-culturel) et [Pro Helvetia](https://prohelvetia.ch/fr/). Des spécialistes du secteur de la culture et de l'administration y ont également participé.
 
 
-Apparaît dans [[Note question]]
+Apparaît dans [[Comment évaluer un projet numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

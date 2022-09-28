@@ -20,6 +20,6 @@ Le Network of European Museum Organisations (NEMO) a publié 3 rapports à parti
 Retrouvez plus de ressources du [NEMO](https://www.ne-mo.org/about-us/who-we-are.html) sur [cette page](https://www.ne-mo.org/about-us/resources.html). 
 
 
-Apparaît dans [[Quel est l'impact du COVID-19 sur la numérisation des musées]]
+Apparaît dans [[Quel est l'impact du COVID-19 sur la numérisation des musées]], [[Comment évaluer un projet numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
