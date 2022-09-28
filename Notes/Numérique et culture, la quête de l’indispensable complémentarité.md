@@ -6,10 +6,10 @@ tags: liens mediation
 
 [Lebrun, L. (24.01.2022) Numérique et culture : la quête de l’indispensable complémentarité.](https://www.lejournaldesarts.fr/numerique-et-culture-la-quete-de-lindispensable-complementarite-158691)
 
-La conférence rassemble trois professionnel.les d'institutions culturelles autour de l'intérêt et des tendances de l'utilisation du numérique. 
+La conférence rassemble trois professionnel·le·s d'institutions culturelles autour de l'intérêt et des tendances de l'utilisation du numérique. 
 
 # A retenir
-- La tendance d'**individualisation de la consommation culturelle** est accélérée par le numérique. 
+- La tendance d'**individualisation de la consommation culturelle** est accélérée par le numérique, selon Emmanuel Vergès, co-directeur de l'Observatoire des Politiques culturelles. 
 - **Trois enjeux à venir** pour les politiques culturelles:  
 	- Réinventer des médiations à l’aune du nouveau contexte de création et de réception des œuvres. 
 	- Questionner la place à donner aux pratiques culturelles du domicile dans nos institutions collectives. 

@@ -15,8 +15,11 @@ Comment le numérique facilite la contribution des publics aux missions du musé
 1. [Musées et numérique : un entretien avec Trilce Navarrete](https://metis-lab.com/2022/05/02/musees-et-numerique-un-entretien-avec-trilce-navarrete/)     
    La chercheuse aborde ce qu'est aujourd'hui la participation du visiteur et le changement apporté par le numérique dans le rapport des publics face au musée.  
 2. [[Numérique et culture, la quête de l’indispensable complémentarité]]
-   Selon Emmanuel Vergès, on assiste à une individualisation des pratiques culturelles, renforcée par la période de confinement. Dans un contexte où les espaces privés sont devenus, entre autres, des espaces de consommation et de production, les politiques culturelles vont devoir prendre en compte ces pratiques culturelles à domicile et la culture de contribution. 
-2. [[Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine]]
+   La conférence présente l'intérêt et les tendances de l'utilisation du numérique, notamment l'individualisation et la domiciliation des pratiques culturelles. 
+3. [[Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine]]
+   Ce dossier présente 6 usages et pratiques du numérique, dont la participation des publics, sous forme de *chroniques*, dans le secteur culturel de la région Nouvelle-Aquitaine en France.   
+
+
 4. [[Journée de recherche-action « institutions patrimoniales et muséales et dispositifs immersifs ».]]
 5. musée alpin, sur le modèle de notrehistoire.ch
 6. ~~cf [notrehistoire.ch](https://notrehistoire.ch/posts/notrehistoire-guide-plateformes-contributives) (module participatif cf. mail Stéphanie) - [guide des plateformes contributives](https://notrehistoire.ch/posts/notrehistoire-guide-plateformes-contributives)~~
