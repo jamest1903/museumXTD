@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Gestion des collections, par le Réseau canadien d'information sur le patrimoine (RCIP)](https://www.canada.ca/fr/services/culture/histoire-patrimoine/museologie-conservation/gestion-collections.html)
+### [Gestion des collections, par le Réseau canadien d'information sur le patrimoine (RCIP)](https://www.canada.ca/fr/services/culture/histoire-patrimoine/museologie-conservation/gestion-collections.html)
 
 
 

@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Europeana. Copyright and digital cultural heritage.](https://pro.europeana.eu/page/copyright-and-digital-cultural-heritage)    
-
+### [Europeana. Copyright and digital cultural heritage.](https://pro.europeana.eu/page/copyright-and-digital-cultural-heritage)    
 Cette plateforme propose des conseils, des ressources, des normes et des séminaires en ligne gratuits, actualisés et spécialisés, sur le partage et la réutilisation des collections en ligne. 
 
 ## A retenir

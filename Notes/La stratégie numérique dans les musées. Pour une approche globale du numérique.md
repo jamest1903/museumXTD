@@ -3,9 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens strategie rapport
 ---
-
-[Journée professionnelle. "La stratégie numérique dans les musées.", Paris, 05/10/2018](https://www.culture.gouv.fr/Thematiques/Musees/Les-musees-en-France/Les-politiques-des-musees-de-France/Colloques-et-journees-d-etudes-des-musees-de-France/Publications-colloques/Journee-professionnelle-La-strategie-numerique-dans-les-musees-Paris-05-10-2018) 
-
+### [Journée professionnelle. "La stratégie numérique dans les musées.", Paris, 05/10/2018](https://www.culture.gouv.fr/Thematiques/Musees/Les-musees-en-France/Les-politiques-des-musees-de-France/Colloques-et-journees-d-etudes-des-musees-de-France/Publications-colloques/Journee-professionnelle-La-strategie-numerique-dans-les-musees-Paris-05-10-2018) 
 Ce colloque, organisé en 2018 à Paris, s'intéresse aux enjeux d’une approche globale du numérique au sein des institutions muséales, au-delà de la gestion des collections et de la médiation. De nombreux grands et petits musées de France, témoignent de leur expérience quant à l'intégration du numérique en leur sein.   
 
 Les vidéos des interventions peuvent être retrouvées directement sur la page internet du colloque.   

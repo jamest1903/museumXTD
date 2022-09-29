@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-## Exemples de projets de numérisation des collections et leurs applications
+### Exemples de projets de numérisation des collections et leurs applications
 Vous trouverez sur cette page quelques exemples concrets de projets de numérisation de collections de musées et leurs applications:
 
 - [Archives and Access toolkit (Tate)](https://www.tate.org.uk/art/archive/archives-access-toolkit)   

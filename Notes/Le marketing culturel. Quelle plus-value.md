@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Morf, F. (2020). Le Marketing culturel: quelle plus-value?](https://loeildupublic.com/le-marketing-culturel-quelle-plus-value/)
-
+### [Morf, F. (2020). Le Marketing culturel: quelle plus-value?](https://loeildupublic.com/le-marketing-culturel-quelle-plus-value/)
 Fabien Morf définit ce qu'est le marketing et ce qu'il implique pour le secteur culturel. 
 
 ## A retenir

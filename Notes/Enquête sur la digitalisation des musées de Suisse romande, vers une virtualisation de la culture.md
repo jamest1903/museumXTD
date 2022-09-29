@@ -3,9 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens rapport
 ---
-
-[Guidi, D. et Jenny, M. (2021). Enquête sur la digitalisation des musées de Suisse romande: vers une virtualisation de la culture ?](https://unidistance.ch/en/history/research-project/musee-20-enquete-sur-la-digitalisation-des-musees-suisses)  
-
+### [Guidi, D. et Jenny, M. (2021). Enquête sur la digitalisation des musées de Suisse romande: vers une virtualisation de la culture ?](https://unidistance.ch/en/history/research-project/musee-20-enquete-sur-la-digitalisation-des-musees-suisses)  
 L’enquête s'intéresse à la définition du numérique, son utilisation ainsi que son évolution dans les musées. Elle a été réalisée auprès de professionnel·le·s des musées vaudois, interrogés en 2020.
 Elle présente les actions développées par ces derniers durant la période de COVID-19 et interroge quant à la position critique à adopter face au numérique.  
 
@@ -27,10 +25,10 @@ Elle présente les actions développées par ces derniers durant la période de 
 	- Manque de formation du personnel
 	- Manque de financement
 	- L'obsolescence des équipements (p. 27 du rapport). 
-- L'[[MuseumXTD - Quelles approches du numérique pour un musée en Suisse|intervention au forum MuseumXTD]] de Diletta Guidi le 12 octobre 2022.   
+- L'[[MuseumXTD - Enjeux pratiques de la transition numérique au service de la médiation muséale|intervention au forum MuseumXTD]] de Diletta Guidi le 12 octobre 2022.   
 
 Les auteures: 
-- Diletta Guidi, historienne de l’art, docteure en science politique, assistante à UniDistance Suisse et maître-assistante à l'Université de Fribourg. Elle intervient lors de la table ronde du forum [[MuseumXTD - Quelles approches du numérique pour un musée en Suisse]].  
+- Diletta Guidi, historienne de l’art, docteure en science politique, assistante à UniDistance Suisse et maître-assistante à l'Université de Fribourg. Elle intervient lors de la table ronde du forum [[MuseumXTD - Enjeux pratiques de la transition numérique au service de la médiation muséale]].  
 - Magali Jenny, docteure en anthropologie des religions, chargée de cours à UniDistance Suisse.
 - Alix Hagen, Bachelor en Histoire de l'art et Science des Religions et Master en Histoire de l'art (en cours) à l'Université de Fribourg, expériences dans différents musées (Fri Art, Tibet Museum).
 

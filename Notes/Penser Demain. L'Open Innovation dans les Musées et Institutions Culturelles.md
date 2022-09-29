@@ -15,6 +15,6 @@ etc.
 Contexte (*quelques mots sur l'auteur ou sur le projet*)
 
 
-Apparaît dans [[Quelles sont les méthodologies liées au numérique à connaître]]
+Apparaît dans [[Innovation]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

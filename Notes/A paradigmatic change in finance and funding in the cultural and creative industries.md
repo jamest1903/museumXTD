@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Loots, E et all. (2022). A paradigmatic change in finance and funding in the cultural and creative industries](https://economiststalkart.org/2022/06/28/a-paradigmatic-change-in-finance-and-funding-in-the-cultural-and-creative-industries%ef%bf%bc/)
-
+### [Loots, E et all. (2022). A paradigmatic change in finance and funding in the cultural and creative industries](https://economiststalkart.org/2022/06/28/a-paradigmatic-change-in-finance-and-funding-in-the-cultural-and-creative-industries%ef%bf%bc/)
 Les auteurs proposent une sélection commentée en anglais de 5 articles représentant, selon eux, un changement paradigmatique dans la façon de financer le secteur culturel. 
 
 ## A retenir

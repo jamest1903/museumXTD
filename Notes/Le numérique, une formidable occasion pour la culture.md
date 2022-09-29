@@ -27,4 +27,4 @@ L'article aborde les concepts clés du numérique qui, selon l'auteure, sont dé
 Il publie cet article pour [0/1 - Hub numérique](https://www.hub01.org/a-propos/), un organisme québécois fondé par Sporobole, qui vise à rendre accessibles les ressources et expertises nécessaires à la transformation numérique du milieu culturel et sans but lucratif. 0/1 - Hub numérique fait partie du [Réseau ADN](https://wiki.reseauadn.ca/wiki/%C3%80_propos_du_R%C3%A9seau_ADN) (Agent Du Numérique). Ils interviendront au [[MuseumXTD - La face cachée du numérique|au forum MuseumXTD]]  le 12 octobre 2022. 
 
    
-Apparaît dans [[Culture numérique]], [[Quelles sont les méthodologies liées au numérique à connaître]]. 
+Apparaît dans [[Culture numérique]], [[Innovation]]. 

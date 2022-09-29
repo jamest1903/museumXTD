@@ -4,9 +4,9 @@ layout: layouts/post.njk
 tags: liens forum anglais
 ---
 ## DOORS: Digital Incubator for Museums
-[Ana Maria Carabelea](https://www.linkedin.com/in/ana-carabelea/) for Ars Electronica (AT), MUSEUM BOOSTER (AT), Ecsite (BE)
+[Ana Maria Carabelea](https://www.linkedin.com/in/ana-carabelea/)
 
-[DOORS: Digital Incubator for Museums](https://ars.electronica.art/doors/en/) was developed by Ars Electronica, MUSEUM BOOSTER and Ecsite within the Horizon 2020 research and innovation programme. The programme focuses specifically on small and medium-scale institutions.
+[DOORS: Digital Incubator for Museums](https://ars.electronica.art/doors/en/) was developed by [Ars Electronica](https://ars.electronica.art/news/en/) (AT), [MUSEUM BOOSTER](https://museumbooster.com/) (AT) and [Ecsite](https://www.ecsite.eu/) (BE) within the Horizon 2020 research and innovation programme. The programme focuses specifically on small and medium-scale institutions.
  
 DOORS' approach is not focused on the technology itself, but on the underlying strategies, transformation processes and value propositions required for a digital transformation, as well as the shared benefits of working with creative & technology partners. The digital needs to be gradually built into the DNA of museums as opposed to isolating these endeavours and investments. We deem capability to be essential in the uncertain times, which is why the programme also focuses on:
 - creating conversations that challenge mind-sets and connect people to each other

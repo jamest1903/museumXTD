@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Gartner Hype Cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)
-
+### [Gartner Hype Cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)
 Le *Gartner Hype Cycle* est une représentation graphique et conceptuelle de la maturité des technologies émergeantes sur le marché.  
 
 ## A retenir

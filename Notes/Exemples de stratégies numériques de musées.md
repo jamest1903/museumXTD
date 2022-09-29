@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-# Exemples de stratégies numériques de musées
+### Exemples de stratégies numériques de musées
 Vous trouverez sur cette page quelques exemples concrets de stratégies numériques de grands musées à travers le monde: 
 
 - [Musée du Louvre. Elaboration d'une stratégie numérique](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Presentation-de-Mme-Marion-Oechsli)

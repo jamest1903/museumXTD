@@ -3,13 +3,13 @@ title: MuseumXTD
 layout: layouts/post.njk  
 tags: liens forum 
 ---
-## Projet Ramuz. Présentation de projet de l'agence Computed·By–Coding creative projects
+## Projet Ramuz. Présentation de projet de l'agence Computed·By – Coding creative projects
 
 [Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)
-Responsable de la relation client, [Computed·By–Coding creative projects](https://www.computedby.com/fr) (CH)     
+Responsable de la relation client, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)     
 
 [Gordan Savicic](https://www.linkedin.com/in/gordan-savi%C4%8Di%C4%87-aa15233?originalSubdomain=ch)
-Designer d'interaction, [Computed·By–Coding creative projects](https://www.computedby.com/fr) (CH)
+Designer d'interaction, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)
 
 
   

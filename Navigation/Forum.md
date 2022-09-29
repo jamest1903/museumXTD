@@ -29,18 +29,12 @@ Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda
 - #### [[MuseumXTD - Introduction|Introduction]]
 - *9h00-9h20*  
 
-[[Delphine Rivier]]  
-Directrice, [Musées de Pully](http://www.museedartdepully.ch) (CH)
-
-[Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/)  
-Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd.ch/rad/instituts/mei/) (CH)
-
 [Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/)  
 Directrice, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 
 
 
-- #### [[MuseumXTD - Elisabeth Gravil|Transformation numérique des musées : vers une organisation phygitale ?]]
+- #### [[MuseumXTD - Elisabeth Gravil|Transformation numérique des musées : vers une organisation phygitale?]]
 - *9h20-9h40*  
 
 [Elisabeth Gravil](https://www.linkedin.com/in/elisagravil/)  
@@ -48,7 +42,7 @@ Dirigeante de [Museovation](https://museovation.co/) – Conseil en Stratégie N
 
 
 
-- #### [[MuseumXTD - Quelles approches du numérique pour un musée en Suisse|Quelles approches du numérique pour un musée en Suisse ?]]
+- #### [[MuseumXTD - Enjeux pratiques de la transition numérique au service de la médiation muséale|Enjeux pratiques de la transition numérique au service de la médiation muséale?]]
 - *9h40-10h10* 
 
 [Marianne Chevassus](https://museeduleman.ch/le-musee/lequipe/)  
@@ -58,7 +52,7 @@ Conservatrice adjointe, [Musée du Léman Nyon](https://museeduleman.ch/) (CH)
 Directeur, [Musée suisse de l'appareil photographique](https://www.cameramuseum.ch/) (CH)
 
 [Diletta Guidi](https://www.dilettaguidi.com/)  
-Maître-Assistante en Science des Religions, [Université de Fribourg](https://www.unifr.ch/home/fr/) (CH)
+Maître-Assistante en sciences sociales, [Université de Fribourg](https://www.unifr.ch/home/fr/) (CH)
 
 [Heidi Amrein](https://www.landesmuseum.ch/fr/a-propos-de-nous/organisation)  
 Conservatrice en chef & membre de la direction, [Musée national suisse](https://www.nationalmuseum.ch/fr) (CH)
@@ -101,7 +95,8 @@ Avocate, [LALIVE](https://www.lalive.law/) (CH)
 - #### [[MuseumXTD - Le projet DOORS|DOORS: Digital Incubator for Museums]] (online)
 - *11h45-12h05*
 
-Equipe [Doors](https://ars.electronica.art/doors/en/), Ars Electronica (AT)
+[Ana Maria Carabelea](https://www.linkedin.com/in/ana-carabelea/)
+pour [Ars Electronica](https://ars.electronica.art/news/en/) (AT), [MUSEUM BOOSTER](https://museumbooster.com/) (AT) et [Ecsite](https://www.ecsite.eu/) (BE)
 
 
 
@@ -232,14 +227,14 @@ Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd
 
 
 
-- #### [[Projet Ramuz. Présentation de projet de l'agence Computed·By–Coding creative projects]]
+- #### [[Projet Ramuz. Présentation de projet de l'agence Computed·By – Coding creative projects]]
 - *9h40-09h55*
 
 [Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)
-Responsable de la relation client, [Computed·By–Coding creative projects](https://www.computedby.com/fr) (CH)     
+Responsable de la relation client, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)     
 
 [Gordan Savicic](https://www.linkedin.com/in/gordan-savi%C4%8Di%C4%87-aa15233?originalSubdomain=ch)
-Designer d'interaction, [Computed·By–Coding creative projects](https://www.computedby.com/fr) (CH)
+Designer d'interaction, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)
 
 
 
@@ -309,7 +304,7 @@ Conservateur, ArchéoLab-Villa Romaine ([Musées de Pully](https://www.museedart
 
 
 
-- #### [[MuseumXTD - Conclusion et perspectives|Conclusion et perspectives]]
+- #### [[MuseumXTD - Conclusion et perspectives|Conclusion & perspectives]]
 - *11h50-12h00*
 
 [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/)  

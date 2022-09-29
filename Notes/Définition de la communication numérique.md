@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Wikipédia. Communication numérique.](https://fr.wikipedia.org/wiki/Communication_num%C3%A9rique)
-
+### [Wikipédia. Communication numérique.](https://fr.wikipedia.org/wiki/Communication_num%C3%A9rique)
 Cette page donne une définition générale de ce qu'est la communication numérique, ou *digitale*. 
 
 ## A retenir
