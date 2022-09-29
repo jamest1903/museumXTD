@@ -1,5 +1,6 @@
 const fs = require("fs")
 const path = require("path")
+const {parse} = require('csv-parse/sync');
 let avoid=['.eleventy.js','.git','.gitignore','.obsidian','assets','css','docs','node_modules','tables','_data','_includes','package.json','package-lock.json'];
 
 const getAllFiles = function(dirPath, arrayOfFiles) {
@@ -46,11 +47,33 @@ function extractExcerpt(article) {
   return excerpt;
   }
 
+// Building TableCSV data
+let projectsData;
+let acteursData;
+
+function readCSV(name) {
+  const input = fs.readFileSync(`./_data/${name}.csv`, 'utf8');
+  const records = parse(input, {
+    columns: true,
+    trim: true,
+    bom: true,
+    skip_empty_lines: true,
+  });
+  return records;
+}
+
+
 module.exports = config => {
   // Set directories to pass through to the dist folder
   config.addPassthroughCopy('./images/');
   config.addPassthroughCopy("./css");
   config.addPassthroughCopy("./assets");
+
+  // creating TableCSV data
+  projectsData = readCSV('projects');
+  acteursData = readCSV('acteurs');
+  config.addCollection("acteursData" , () => acteursData);
+  config.addCollection("projectsData" , () => projectsData);
 
   //Creating a collection of all files to loop in creating search index
   config.addCollection("allFiles", function(collection) {

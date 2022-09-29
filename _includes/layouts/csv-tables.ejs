@@ -11,98 +11,73 @@ layout: layouts/tablesBase.njk
 				<%- content %>
 			</div>
             <br>
-            <div class="csvHeaderWrapper">
-                <div class="tab">
-                    <button class="tablinks active" onclick="openTab(event, 'acteurs')">acteurs</button>
-                    <button class="tablinks" onclick="openTab(event, 'projects')">projects</button>
+            <div class='csvHeaderWrapper'>
+                <div class='tab'>
+                    <button class='tablinks active' onclick='openTab(event, "acteurs")'>acteurs</button>
+                    <button class='tablinks' onclick='openTab(event, "projects")'>projects</button>
                 </div>
-                <div id="acteurs" class="tabcontent" style="display: block">
+                <div id='acteurs' class='tabcontent' style='display: block'>
                     <br>
                     <p><%=acteursTitle?acteursTitle:"La liste de ces actrices et acteurs du changement n'est pas exhaustive. Vous pouvez nous contacter pour ajouter vos projets et références."%></p>
-                    <div id="tools">
-                        <input type="search" id="searchActeurs" class="search-bar" placeholder="Recherche">
-                        <div id="sort">
-                            <button id="az" class="sort--segment sort--segment__selected">A>Z</button>
-                            <button id="sector" class="sort--segment">Secteur</button>
-                            <button id="local" class="sort--segment">Lieu</button>
+                    <div id='tools'>
+                        <input type='search' id='searchActeurs' class='search-bar' placeholder='Recherche'>
+                        <div id='sort'>
+                            <button id='az' onclick='sortCSVData(event, "acteurs","az")' class='sort--segment'>A>Z</button>
+                            <button id='sector' onclick='sortCSVData(event, "acteurs","sector")' class='sort--segment'>Secteur</button>
+                            <button id='local' onclick='sortCSVData(event,"acteurs","local")' class='sort--segment'>Lieu</button>
+                        </div>
+                        <div id='resultsActeurs' class='hidden'>
+                            <h3>Résultats</h3>
+                            <ul>
+                            </ul>
+                        </div>
+                        <p id='noResults' class='hidden'> Désolé, aucun résultat n'a été trouvé. </p>
+                    </div>
+                    <div id='acteursData'></div>
+                </div>
+                </div>
+                <div id='projects' class='tabcontent'>
+                    <br>
+                    <p><%=projectsTitle?projectsTitle:'La liste de ces projects'%></p>
+                    <div id='tools'>
+                        <input type='search' id='searchProjects' class='search-bar' placeholder='Recherche'>
+                        <div id='sort'>
+                            <button id='az' onclick='sortCSVData(event,"projects","az")' class='sort--segment'>A -> Z</button>
+                            <button id='sector' onclick='sortCSVData(event,"projects","sector")' class='sort--segment'>Début du projet</button>
+                            <button id='local' onclick='sortCSVData(event,"projects","local")' class='sort--segment'>Lieu</button>
+                        </div>
+                        <div id='resultsProjects' class='hidden'>
+                            <h3>Résultats</h3>
+                            <ul>
+                            </ul>
                         </div>
                     </div>
-                    <% csvReader.acteursData.forEach((row)=>{%>
-                        <article class="acteurs--article">
-                            <a href="<%=row.URL%>">
-                            <h3 class="acteurs--article--title"><%=row['Nom'] %></h3>
-                            <div class="acteurs--article--info">
-                                <span><%=row.Nature%></span>
-                                <span><%=row.Localisation%></span>
-                                <!-- <span><a href=""><%=row.URL%></a></span> -->
-                                <span><%=row.URL%></span>
-                            </div>
-                            <div class="acteurs--article--services">
-
-                                <ul >
-                                    <li><%=row["Expertise numérique 1"]%></li>
-                                    <% if(row["Expertise numérique 2"]) { %>
-                                        <li><%=row["Expertise numérique 2"]%></li>
-                                        <%} %> <% if(row["Expertise numérique 3"]) { %>
-                                            <li><%=row["Expertise numérique 3"]%></li>
-                                            <%} %> <% if(row["Expertise numérique 4"]) { %>
-                                                <li><%=row["Expertise numérique 4"]%></li>
-                                                <%} %>
-                                            </ul>
-                                        </div>
-                            </a>
-                        </article>
-                    <%});%>
-                </div>
-                <div id="projects" class="tabcontent">
-                    <br>
-                    <p><%=projectsTitle?projectsTitle:"La liste de ces projects"%></p>
-                    <% csvReader.projectsData.forEach((row)=>{%>
-                      <article class="projects--article">
-                        <a href="<%=row.URL%>">
-                          <h3 class="projects--article--title"><%=row['Nom'] %></h3>
-                          <span><%=row["Début du projet"]%></span>
-                          <!-- <div class="projects--article--info"> -->
-                            <!-- <span><%=row.Localisation%></span> -->
-                          <!-- </div> -->
-                          <div class="projects--article--services">
-
-                            <span class="projects--article--description"><%=row.Descriptif%></span>
-                            <ul> 
-                              <li><%=row["Porteur de projet 1"]%></li>
-                              <% if(row["Porteur de projet 2"]) { %>
-                              <li><%=row["Porteur de projet 2"]%></li>
-                                <%} %> <% if(row["Porteur de projet 3"]) { %>
-                              <li><%=row["Porteur de projet 3"]%></li>
-                                  <%} %> <% if(row["Porteur de projet 4"]) { %>
-                              <li><%=row["Porteur de projet 4"]%></li>
-                                    <%} %>
-                            </ul>
-                          </div>
-                        </a>
-                      </article>
-                    <%});%>
+                    <div id='projectsData'></div>
                 </div>
             </div>
             <script>
                 function openTab(evt, tabName) {
                     var i, tabcontents, tablinks;
-                    tabcontents = document.getElementsByClassName("tabcontent");
+                    tabcontents = document.getElementsByClassName('tabcontent');
                     for (i = 0; i < tabcontents.length; i++) {
-                    tabcontents[i].style.display = "none";
+                    tabcontents[i].style.display = 'none';
                     }
-                    tablinks = document.getElementsByClassName("tablinks");
+                    tablinks = document.getElementsByClassName('tablinks');
                     for (i = 0; i < tablinks.length; i++) {
-                    tablinks[i].className = tablinks[i].className.replace(" active", "");
+                    tablinks[i].className = tablinks[i].className.replace(' active', '');
                     }
-                    document.getElementById(tabName).style.display = "block";
-                    evt.currentTarget.className += " active";
+                    document.getElementById(tabName).style.display = 'block';
+                    evt.currentTarget.className += ' active';
                 }
             </script>
             <script defer>
                 document.getElementById('searchActeurs').addEventListener('input', (event) => {
-                    search();
+                    searchActeurs(event);
                 });
+                document.getElementById('searchProjects').addEventListener('input', (event) => {
+                    searchProjects(event);
+                });
+                
             </script>
 		</div>
 	</div>
