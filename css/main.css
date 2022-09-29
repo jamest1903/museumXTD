@@ -1,5 +1,6 @@
 @import '_variables.css';
 @import '_base.css';
+@import '_typography.css';
 @import '_layout-info.css';
 
 html {
@@ -80,7 +81,7 @@ body {
   }
   
   #menuToggle label {
-    position: absolute;
+    position: relative;
     z-index: 2;
   }
 
@@ -90,6 +91,7 @@ body {
   
   #menu-mobile {
     position: fixed;
+    top: -1000vw;
     padding-top: var(--space-xl);
     padding-bottom: var(--space-l);
     margin-top: -12px;
@@ -110,7 +112,7 @@ body {
   * Slide the menu in from left when the input is checked
   */
   #menuToggle input:checked ~ #menu-mobile {
-    /* left: 25px; */
+    top: auto;
     background-color: white;
     height: auto;
     opacity: 1;
@@ -129,14 +131,31 @@ body {
 * Search bar styles
 */
 #search {
-    font-weight: 400;
     color: rgba(0,0,0,.95);
-    float: right;
-    margin-right: 4%;
-    max-width: 30%;
+    margin-top: var(--space-l);
+    margin-right: var(--space-l);
+    margin-left: var(--space-l);
+
 }
 .hidden {
     display: none;
+}
+input#searchString {
+    width: 100%;
+    /* font-size: var(--font-size-m); */
+}
+input#searchString:focus,
+input#searchString:focus-visible,
+input#searchString:focus-within {
+
+    outline: none;
+    box-shadow: 0 0 600px 100px;
+}
+#resultList li {
+    list-style: none;
+}
+#resultList a {
+    display: inline-block;
 }
 
 
@@ -215,7 +234,7 @@ footer {
 }
 .search-bar {
     font-family: var(--font-serif);
-    font-size: var(--font-size-xs) ;
+    font-size: var(--font-size-s) ;
     
     padding-top: var(--space-m);
     padding-right: var(--space-l);
@@ -223,6 +242,7 @@ footer {
     padding-left: var(--space-l);
 
     border: 1px solid var(--black);
+    border-radius: 0;
 
 }
 

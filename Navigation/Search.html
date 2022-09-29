@@ -1,0 +1,18 @@
+---
+layout: layouts/base-mobile.njk
+---
+
+<div id="search">
+  <input
+    type="search"
+    id="searchString"
+    class="search-bar"
+    placeholder="Veuillez entrer plus de trois lettres"
+  />
+  {# <button onclick="search()">Chercher</button> #}
+  <div id="results" class="hidden">
+    <h3 class="font-size--m">Résultats</h3>
+    <ul id="resultList"></ul>
+  </div>
+  <p id="noResults" class="hidden">Désolé, aucun résultat n'a été trouvé.</p>
+</div>
