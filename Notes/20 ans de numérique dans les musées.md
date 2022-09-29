@@ -3,9 +3,8 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens mediation
 ---
-
-[Schmitt, D & Meyer-Chemska, M (2015). 20 ans de numérique dans les musées.](https://journals.openedition.org/ocim/1605)  
-Extrait: "À partir d’un rappel historique de l’usage du numérique dans les musées, les auteurs montrent comment les différents outils développés et leurs évolutions ont influé sur l’expérience de visite et comment une approche critique de la médiation numérique par les institutions muséales permet de penser la médiation globale de l’exposition."
+### [Schmitt, D & Meyer-Chemska, M (2015). 20 ans de numérique dans les musées.](https://journals.openedition.org/ocim/1605)  
+Extrait: À partir d’un rappel historique de l’usage du numérique dans les musées, les auteurs montrent comment les différents outils développés et leurs évolutions ont influé sur l’expérience de visite et comment une approche critique de la médiation numérique par les institutions muséales permet de penser la médiation globale de l’exposition.
 
 ## À retenir
 - Les musées peuvent être un lieu d'innovation technologique, tout en gardant une approche critique sur le numérique. Les nouvelles technologies doivent se placer au service du discours et non l'inverse. 
