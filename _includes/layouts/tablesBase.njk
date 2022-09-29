@@ -1,32 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en'>
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <meta http-equiv='X-UA-Compatible' content='ie=edge' />
     <title>{{title}}</title>
-    <link rel="stylesheet" href="{{ '/css/main.css' | url }}" />
-    <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/assets/buildCSVContent.js"></script>
+    <link rel='stylesheet' href='{{ '/css/main.css' | url }}' />
+    <script src='https://unpkg.com/lunr/lunr.js'></script>
+    <script src='/assets/buildCSVContent.js'></script>
   </head>
   <body>
-    <div class="containerTop">
-      <div id="masthead">
+    <div class='containerTop'>
+      <div id='masthead'>
         M u s e u m X T D
       </div>
       <!-- topbar Menu -->
-      <div class="navMenu">
-        <a class="menuitem" href='/'>Accueil</a>
-        <!-- <a class="menuitem" href='/Navigation/Guide/'>Numérique & Musée</a> -->
-        <!-- <a class="menuitem" href="/Navigation/Musées de Pully - cas d'étude/">Cas Ramuz</a> -->
-        <a class="menuitem" href='/Navigation/Forum/'>Forum</a>
-        <!-- <a class="menuitem" href='/tables/'>Acteurs & Projects</a> -->
-        <a class="menuitem" href='/Navigation/A propos/'>À propos</a>
+      <div class='navMenu'>
+        <a class='menuitem' href='/'>Accueil</a>
+        <!-- <a class='menuitem' href='/Navigation/Guide/'>Numérique & Musée</a> -->
+        <!-- <a class='menuitem' href='/Navigation/Musées de Pully - cas d'étude/'>Cas Ramuz</a> -->
+        <a class='menuitem' href='/Navigation/Forum/'>Forum</a>
+        <!-- <a class='menuitem' href='/tables/'>Acteurs & Projects</a> -->
+        <a class='menuitem' href='/Navigation/A propos/'>À propos</a>
       </div>
     </div>
     {{ content | safe }}
     <footer>
-      <div id="mastfeet">
+      <div id='mastfeet'>
         M u s e u m X T D
       </div>
     </footer>

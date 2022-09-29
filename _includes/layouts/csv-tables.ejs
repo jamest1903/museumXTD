@@ -11,61 +11,63 @@ layout: layouts/tablesBase.njk
 				<%- content %>
 			</div>
             <br>
-            <div class="csvHeaderWrapper">
-                <div class="tab">
-                    <button class="tablinks active" onclick="openTab(event, 'acteurs')">acteurs</button>
-                    <button class="tablinks" onclick="openTab(event, 'projects')">projects</button>
+            <div class='csvHeaderWrapper'>
+                <div class='tab'>
+                    <button class='tablinks active' onclick='openTab(event, "acteurs")'>acteurs</button>
+                    <button class='tablinks' onclick='openTab(event, "projects")'>projects</button>
                 </div>
-                <div id="acteurs" class="tabcontent" style="display: block">
+                <div id='acteurs' class='tabcontent' style='display: block'>
                     <br>
                     <p><%=acteursTitle?acteursTitle:"La liste de ces actrices et acteurs du changement n'est pas exhaustive. Vous pouvez nous contacter pour ajouter vos projets et références."%></p>
-                    <div id="tools">
-                        <input type="search" id="searchActeurs" class="search-bar" placeholder="Recherche">
-                        <div id="sort">
-                            <button id="az" class="sort--segment sort--segment__selected">A>Z</button>
-                            <button id="sector" class="sort--segment">Secteur</button>
-                            <button id="local" class="sort--segment">Lieu</button>
+                    <div id='tools'>
+                        <input type='search' id='searchActeurs' class='search-bar' placeholder='Recherche'>
+                        <div id='sort'>
+                            <button id='az' onclick='sortCSVData("acteurs","az")' class='sort--segment sort--segment__selected'>A>Z</button>
+                            <button id='sector' onclick='sortCSVData("acteurs","sector")' class='sort--segment'>Secteur</button>
+                            <button id='local' onclick='sortCSVData("acteurs","local")' class='sort--segment'>Lieu</button>
                         </div>
-                        <div id="resultsActeurs" class="hidden">
+                        <div id='resultsActeurs' class='hidden'>
                             <h3>Résultats</h3>
                             <ul>
                             </ul>
                         </div>
-                        <p id="noResults" class="hidden"> Désolé, aucun résultat n'a été trouvé. </p>
+                        <p id='noResults' class='hidden'> Désolé, aucun résultat n'a été trouvé. </p>
                     </div>
+                    <div id='acteursData'></div>
                 </div>
                 </div>
-                <div id="projects" class="tabcontent">
+                <div id='projects' class='tabcontent'>
                     <br>
-                    <p><%=projectsTitle?projectsTitle:"La liste de ces projects"%></p>
-                    <div id="tools">
-                        <input type="search" id="searchProjects" class="search-bar" placeholder="Recherche">
-                        <div id="sort">
-                            <button id="az" class="sort--segment sort--segment__selected">A -> Z</button>
-                            <button id="sector" class="sort--segment">Secteur</button>
-                            <button id="local" class="sort--segment">Lieu</button>
+                    <p><%=projectsTitle?projectsTitle:'La liste de ces projects'%></p>
+                    <div id='tools'>
+                        <input type='search' id='searchProjects' class='search-bar' placeholder='Recherche'>
+                        <div id='sort'>
+                            <button id='az' onclick='sortCSVData("projects","az")' class='sort--segment sort--segment__selected'>A -> Z</button>
+                            <button id='sector' onclick='sortCSVData("projects","sector")' class='sort--segment'>Début du projet</button>
+                            <button id='local' onclick='sortCSVData("projects","local")' class='sort--segment'>Lieu</button>
                         </div>
-                        <div id="resultsProjects" class="hidden">
+                        <div id='resultsProjects' class='hidden'>
                             <h3>Résultats</h3>
                             <ul>
                             </ul>
                         </div>
                     </div>
+                    <div id='projectsData'></div>
                 </div>
             </div>
             <script>
                 function openTab(evt, tabName) {
                     var i, tabcontents, tablinks;
-                    tabcontents = document.getElementsByClassName("tabcontent");
+                    tabcontents = document.getElementsByClassName('tabcontent');
                     for (i = 0; i < tabcontents.length; i++) {
-                    tabcontents[i].style.display = "none";
+                    tabcontents[i].style.display = 'none';
                     }
-                    tablinks = document.getElementsByClassName("tablinks");
+                    tablinks = document.getElementsByClassName('tablinks');
                     for (i = 0; i < tablinks.length; i++) {
-                    tablinks[i].className = tablinks[i].className.replace(" active", "");
+                    tablinks[i].className = tablinks[i].className.replace(' active', '');
                     }
-                    document.getElementById(tabName).style.display = "block";
-                    evt.currentTarget.className += " active";
+                    document.getElementById(tabName).style.display = 'block';
+                    evt.currentTarget.className += ' active';
                 }
             </script>
             <script defer>
