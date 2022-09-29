@@ -9,7 +9,7 @@ Les technologies immersives se rapportent à la réalité virtuelle (*VR*), la r
 1. [Glossaire VR, AR, XR](https://reality.fr/glossaire/)
 2. [XR4all. What is XR?](https://xr4all.eu/xr/)
 3. [[The impact of digital technology on arts culture in the UK]]
-   Ce rapport synthétise les dynamiques des nouvelles technologies dans le secteur des arts et de la culture au Royaume-Uni. Il propose également des définitions de ces technologies (p. 2 et 3). 
+   Ce rapport synthétise les dynamiques des nouvelles technologies dans le secteur des arts et de la culture au Royaume-Uni. Il propose également des définitions de ces technologies (p.2 et 3). 
 
 
 Apparaît dans [[Numérique et musée, quelques définitions]]

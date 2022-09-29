@@ -5,7 +5,7 @@ tags: liens forum francais
 ---
 ## Redéfinir les limites du musée à l'ère numérique
 
-Comment faire lieu à l'ère digitale (matériel opensource remix, RA dans le musée, brèche muséale via expérience immersive. Comment repenser le musée comme centre dans  un éco-système numérique. 
+Comment faire lieu à l'ère digitale (matériel opensource remix, RA dans le musée, brèche muséale via expérience immersive). Comment repenser le musée comme centre dans un éco-système numérique. 
 
 [Nicolas Henchoz](https://www.linkedin.com/in/nicolas-henchoz-32ab902/)  
 Fondateur & directeur, [EPFL+ECAL Lab](https://epfl-ecal-lab.ch/) (CH)

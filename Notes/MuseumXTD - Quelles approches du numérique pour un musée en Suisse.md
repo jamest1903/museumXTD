@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens forum francais
 ---
-## Quelles approches du numérique pour un musée en Suisse
+## Quelles approches du numérique pour un musée en Suisse?
 
 [Marianne Chevassus](https://museeduleman.ch/le-musee/lequipe/)  
 Conservatrice adjointe, [Musée du Léman Nyon](https://museeduleman.ch/) (CH)

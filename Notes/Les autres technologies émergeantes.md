@@ -18,7 +18,7 @@ tags: liens
    Métavers
 6. [How are museums using artificial intelligence, and is AI the future of museums?](https://www.museumnext.com/article/artificial-intelligence-and-the-future-of-museums/)     
    Intelligence artificielle
-7. [The museums + AI network](https://themuseumsainetwork.files.wordpress.com/2020/02/20190317_museums-and-ai-toolkit_rl_web.pdf)     
+7. [The museums + AI network](https://themuseumsai.network/toolkit/)     
    Intelligence artificielle
 
 

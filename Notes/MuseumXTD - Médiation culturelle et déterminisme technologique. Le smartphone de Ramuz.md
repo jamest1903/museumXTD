@@ -11,4 +11,4 @@ Historien & praticien de l'action et de l'agir culturels et concepteur de la [
 Dans le cadre du projet Ramuz, l'association La Marmite a été mandatée afin de développer un dispositif de médiation numérique notamment à partir de la correspondance de l'auteur romand. Par l'entremise de son concepteur, Mathieu Menghini, elle présentera le cadre du projet et ses enjeux.  
 
 
-Retrouver le live du 13 octobre [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
+Retrouver le live du 13 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

@@ -20,11 +20,11 @@ layout: layouts/tablesBase.njk
                     <br>
                     <p><%=acteursTitle?acteursTitle:"La liste de ces actrices et acteurs du changement n'est pas exhaustive. Vous pouvez nous contacter pour ajouter vos projets et références."%></p>
                     <div id="tools">
-                        <input type="search" id="searchActeurs" placeholder="Recherche">
+                        <input type="search" id="searchActeurs" class="search-bar" placeholder="Recherche">
                         <div id="sort">
-                            <button id="az">A -> Z</button>
-                            <button id="sector">Secteur</button>
-                            <button id="local">Lieu</button>
+                            <button id="az" class="sort--segment sort--segment__selected">A>Z</button>
+                            <button id="sector" class="sort--segment">Secteur</button>
+                            <button id="local" class="sort--segment">Lieu</button>
                         </div>
                         <div id="resultsActeurs" class="hidden">
                             <h3>Résultats</h3>
@@ -34,15 +34,16 @@ layout: layouts/tablesBase.njk
                         <p id="noResults" class="hidden"> Désolé, aucun résultat n'a été trouvé. </p>
                     </div>
                 </div>
+                </div>
                 <div id="projects" class="tabcontent">
                     <br>
                     <p><%=projectsTitle?projectsTitle:"La liste de ces projects"%></p>
                     <div id="tools">
-                        <input type="search" id="searchProjects" placeholder="Recherche">
+                        <input type="search" id="searchProjects" class="search-bar" placeholder="Recherche">
                         <div id="sort">
-                            <button id="az">A -> Z</button>
-                            <button id="sector">Secteur</button>
-                            <button id="local">Lieu</button>
+                            <button id="az" class="sort--segment sort--segment__selected">A -> Z</button>
+                            <button id="sector" class="sort--segment">Secteur</button>
+                            <button id="local" class="sort--segment">Lieu</button>
                         </div>
                         <div id="resultsProjects" class="hidden">
                             <h3>Résultats</h3>

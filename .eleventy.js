@@ -92,7 +92,11 @@ module.exports = config => {
     for (const filePathString of all_files) {
       if(filePathString.indexOf(fileName+'.md')>-1){
         let filePathArray = filePathString.split(path.sep);
-        let i = filePathArray.indexOf(fileName+'.md');      
+        let i = filePathArray.indexOf(fileName+'.md');
+        // Same file name can exist in .trash folder
+        if(filePathArray[i-1] === '.trash') {
+          continue;
+        }
         if(filePathArray[i-1] === 'museumXTD') {
           return '';
         }

@@ -9,12 +9,14 @@ date: 2022-08-31
 
 [[Qu'est-ce qu'une stratégie numérique]]
 
-[[Quelles sont les tendances des technologies]]
+[[Technologies, quelles tendances]]
 
-[[Quels sont les nouveaux revenus digitaux]]
+[[Quels nouveaux modèles d'affaire avec le numérique]]
+
+[[Quel cadre légal pour la transformation numérique]]
 
 [[Quels sont les opportunités et les freins]]
 
 [[Quel est l'impact du COVID-19 sur la numérisation des musées]]
 
-[Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](lien vers YouTube)
+[Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)

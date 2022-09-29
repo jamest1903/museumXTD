@@ -9,4 +9,4 @@ tags: liens forum francais
 Directeur de projet au Media Engineering Institute de la HEIG-VD (CH)
 
   
-Retrouver le live du 13 octobre [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
+Retrouver le live du 13 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
