@@ -16,6 +16,8 @@ Vous trouverez sur cette page quelques exemples concrets de projets de numérisa
   Le Harvard Art Museums expose le *regard* des ordinateurs sur l'art, en recueillant les caractéristiques générées par des machine à propos de plus de 100 000 œuvres d'art, grâce à l'intelligence artificielle. 
 - [Matterport Discover (Oxford Natural History Museum)](https://matterport.com/discover/space/Sfkr3s8RkC2)     
   Le musée d'histoire naturelle d'Oxford a numérisé son bâtiment néogothique, que l'on peut découvrir directement sur la plateforme Matterport Discover. 
+- [[Le Musée départemental d’art religieux de Sées se double d’un musée numérique]]
+  Florence Caillet-Baraniak raconte le développement du projet Hors les murs du musée départemental d'art religieux de Sées en France.
 
 
 

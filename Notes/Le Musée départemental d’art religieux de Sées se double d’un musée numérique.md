@@ -7,19 +7,15 @@ tags: liens mediation
 Florence Caillet-Baraniak raconte le développement du projet Hors les murs du musée départemental d'art religieux de Sées en France. Celui-ci vise à numériser une grande partie des collections du musée, qui ne peut être exposée.
 
 ## A retenir  
--  Un projet qui répond au besoin de "faire du musée un véritable outil d’interprétation du patrimoine religieux", inscrit dns
-- d'exposer l'ensemble de l'exposition physique d'une collection nombreuse
--   Quels sont les avantages apportés par le numérique en termes de médiation ?
+-  Un projet au service du plan scientifique et culturel du musée qui veut "faire du musée un véritable outil d’interprétation du patrimoine religieux"([en savoir plus](https://archives.orne.fr/musee-departemental-dart-religieux)). 
+- Un retour d'expérience:
     -   "Le numérique permet d’avoir un parcours de visite plus vaste avec plusieurs entrées. La structure d’un site internet avec ses différents onglets permet d’aborder le parcours visiteur de diverses manières."
--   ont travaillé avec un cabinet d'assistance à la maîtrise d'ouvrage (cahier des charges), un studio spécialisé (réalisation) et photographe expert (réalisation)
--   Réaction du public :
-    -   "Le public est marqué par le type de pièces que nous traitons."
-    -   "Notre musée numérique apporte un axe ethnologique de compréhension sur des pratiques des sociétés anciennes."
-
-  
-Contexte (*quelques mots sur l'auteur ou sur le projet*)
+    - "Notre musée numérique apporte un axe ethnologique de compréhension sur des pratiques des sociétés anciennes."
+- La collaboration avec un cabinet d'assistance à la maîtrise d'ouvrage, un studio spécialisé et un photographe expert. 
 
 
-Apparaît dans [[Note question]]
+
+
+Apparaît dans [[Exemples de projets de numérisation des collections et leurs applications]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
