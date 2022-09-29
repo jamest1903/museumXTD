@@ -7,7 +7,7 @@
     <title>{{title}}</title>
     <link rel="stylesheet" href="{{ '/css/main.css' | url }}" />
     <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="/assets/tableSearch.js" defer></script>
+    <script src="/assets/buildCSVContent.js"></script>
   </head>
   <body>
     <div class="containerTop">
@@ -31,9 +31,4 @@
       </div>
     </footer>
   </body>
-  <script defer>
-    document.getElementById('searchString').addEventListener('input', (event) => {
-      search();
-    });
-  </script>
 </html>

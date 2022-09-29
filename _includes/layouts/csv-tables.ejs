@@ -26,51 +26,33 @@ layout: layouts/tablesBase.njk
                             <button id="sector">Secteur</button>
                             <button id="local">Lieu</button>
                         </div>
-                    </div>
-                    <% csvReader.acteursData.forEach((row)=>{%>
-                    <article class="acteurs--article">
-                        <h3 class="acteurs--article--title"><%=row['Nom'] %></h3>
-                        <div class="acteurs--article--info">
-                            <span><%=row.Nature%></span>
-                            <span><%=row.Localisation%></span>
-                            <span><a href="<%=row.URL%>">Site web</a></span>
-                        </div>
-                        <ul class="acteurs--article--services">
-                            <li><%=row["Expertise numérique 1"]%></li>
-                            <% if(row["Expertise numérique 2"]) { %>
-                            <li><%=row["Expertise numérique 2"]%></li>
-                            <%} %> <% if(row["Expertise numérique 3"]) { %>
-                            <li><%=row["Expertise numérique 3"]%></li>
-                            <%} %> <% if(row["Expertise numérique 4"]) { %>
-                            <li><%=row["Expertise numérique 4"]%></li>
-                            <%} %>
+                        <div id="resultsActeurs" class="hidden">
+                            <h3>Résultats</h3>
+                            <ul id="resultList">
                             </ul>
-                        </article>
-                    <%});%>
+                        </div>
+                        <p id="noResults" class="hidden"> Désolé, aucun résultat n'a été trouvé. </p>
+                    </div>
                 </div>
                 <div id="projects" class="tabcontent">
                     <br>
                     <p><%=projectsTitle?projectsTitle:"La liste de ces projects"%></p>
-                    <% csvReader.projectsData.forEach((row)=>{%>
-                        <article class="projects--article">
-                            <h3 class="projects--article--title">
-                              <%=row['Nom'] %> --- <%=row.URL%>
-                            </h3>
-                            <span><%=row["Début du projet"]%> -- <%=row.Localisation%></span>
-                            <span><%=row.Descriptif%></span>
-                            <p><%=row["Porteur de projet 1"]%></p>
-                            <% if(row["Porteur de projet 2"]) { %>
-                            <p><%=row["Porteur de projet 2"]%></p>
-                            <%} %> <% if(row["Porteur de projet 3"]) { %>
-                            <p><%=row["Porteur de projet 3"]%></p>
-                            <%} %> <% if(row["Porteur de projet 4"]) { %>
-                            <p><%=row["Porteur de projet 4"]%></p>
-                            <%} %>
-                          </article>
-                    <%});%>
+                    <div id="tools">
+                        <input type="search" id="searchProjects" placeholder="Recherche">
+                        <div id="sort">
+                            <button id="az">A -> Z</button>
+                            <button id="sector">Secteur</button>
+                            <button id="local">Lieu</button>
+                        </div>
+                        <div id="resultsProjects" class="hidden">
+                            <h3>Résultats</h3>
+                            <ul id="resultList">
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <script>
+            <script>    
                 function openTab(evt, tabName) {
                     var i, tabcontents, tablinks;
                     tabcontents = document.getElementsByClassName("tabcontent");
@@ -87,8 +69,12 @@ layout: layouts/tablesBase.njk
             </script>
             <script defer>
                 document.getElementById('searchActeurs').addEventListener('input', (event) => {
-                    search();
+                    searchActeurs(event);
                 });
+                document.getElementById('searchProjects').addEventListener('input', (event) => {
+                    searchProjects(event);
+                });
+                
             </script>
 		</div>
 	</div>
