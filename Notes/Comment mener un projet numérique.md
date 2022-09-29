@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 ---
-# Comment mener un projet numérique ?
+# **Comment mener un projet numérique?**
 L'utilisation du numérique au musée amène à repenser non seulement la méthodologie de gestion de projet mais également la façon de collaborer avec les différentes parties prenantes. 
 
 1. [[MuseumXTD - Studios et agences, partenaires de la transition numérique des musées]]

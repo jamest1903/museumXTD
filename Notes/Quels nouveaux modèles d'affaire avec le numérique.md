@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 ---
-# Quels nouveaux modèles d'affaire avec le numérique?
+# **Quels nouveaux modèles d'affaire avec le numérique?**
 Dans un contexte de baisse générale des subventions publiques, les outils numériques permettent la monétisation des activités des musées et offrent de nouvelles possibilités de financement des institutions culturelles. Voici quelques pistes de réflexions. 
 
 1. [[Musées, quels modèles économiques à l'ère numérique]]

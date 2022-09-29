@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 ---
-# Numérique et musée, quelques définitions
+# **Numérique et musée, quelques définitions**
 Numérique, digital, virtuel ou encore *culture numérique*, ... De quoi parle-t-on? Comment se repérer et se positionner vis-à-vis de ces notions? 
 
 1. [[Musées et numérique]]

@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 ---
-# Quel cadre légal pour la transformation numérique?
+# **Quel cadre légal pour la transformation numérique?**
 Qu’il s’agisse de la gestion des collections ou d’innovation relative à l’expérience visiteur, la transition numérique des musées soulève de multiples questions juridiques. 
   
 1. [[MuseumXTD - Tatiana Jullier]]
