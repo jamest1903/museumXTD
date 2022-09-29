@@ -22,9 +22,9 @@ layout: layouts/tablesBase.njk
                     <div id='tools'>
                         <input type='search' id='searchActeurs' class='search-bar' placeholder='Recherche'>
                         <div id='sort'>
-                            <button id='az' onclick='sortCSVData("acteurs","az")' class='sort--segment sort--segment__selected'>A>Z</button>
-                            <button id='sector' onclick='sortCSVData("acteurs","sector")' class='sort--segment'>Secteur</button>
-                            <button id='local' onclick='sortCSVData("acteurs","local")' class='sort--segment'>Lieu</button>
+                            <button id='az' onclick='sortCSVData(event, "acteurs","az")' class='sort--segment'>A>Z</button>
+                            <button id='sector' onclick='sortCSVData(event, "acteurs","sector")' class='sort--segment'>Secteur</button>
+                            <button id='local' onclick='sortCSVData(event,"acteurs","local")' class='sort--segment'>Lieu</button>
                         </div>
                         <div id='resultsActeurs' class='hidden'>
                             <h3>Résultats</h3>
@@ -42,9 +42,9 @@ layout: layouts/tablesBase.njk
                     <div id='tools'>
                         <input type='search' id='searchProjects' class='search-bar' placeholder='Recherche'>
                         <div id='sort'>
-                            <button id='az' onclick='sortCSVData("projects","az")' class='sort--segment sort--segment__selected'>A -> Z</button>
-                            <button id='sector' onclick='sortCSVData("projects","sector")' class='sort--segment'>Début du projet</button>
-                            <button id='local' onclick='sortCSVData("projects","local")' class='sort--segment'>Lieu</button>
+                            <button id='az' onclick='sortCSVData(event,"projects","az")' class='sort--segment'>A -> Z</button>
+                            <button id='sector' onclick='sortCSVData(event,"projects","sector")' class='sort--segment'>Début du projet</button>
+                            <button id='local' onclick='sortCSVData(event,"projects","local")' class='sort--segment'>Lieu</button>
                         </div>
                         <div id='resultsProjects' class='hidden'>
                             <h3>Résultats</h3>

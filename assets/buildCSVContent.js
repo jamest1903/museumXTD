@@ -128,8 +128,19 @@ function setupCSVHTML() {
     })
 }
 
-function sortCSVData(csvData, sort) {
+function sortCSVData(event, csvData, sort) {
     let data = csvData === 'acteurs' ? ActeursData : ProjectsData;
+    // from its parents get all siblings to reset selected button in group
+    const parentNode = event.target.parentNode; 
+    let sibling  = parentNode.firstChild;
+    // loop the three sort buttons
+    while (sibling) {
+        if (sibling.nodeType === 1 && sibling !== event.target) {
+            sibling.classList.remove('sort--segment__selected');
+        }
+        sibling = sibling.nextSibling;
+    }
+    event.target.classList.add('sort--segment__selected');
     switch(sort) {
         case 'az':
             data.sort((a, b) => {
