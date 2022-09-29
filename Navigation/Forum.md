@@ -232,22 +232,30 @@ Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd
 
 
 
-- #### Projet Ramuz: présentation de projet de l'agence Computed.By
+- #### [[Projet Ramuz. Présentation de projet de l'agence Computed·By–Coding creative projects]]
 - *9h40-09h55*
 
-[Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)  
-[Gordan Savicic](https://www.linkedin.com/in/gordan-savi%C4%8Di%C4%87-aa15233?originalSubdomain=ch)    
-[Agence Computed.By](https://www.computedby.com/fr) (CH)
+[Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)
+Responsable de la relation client, [Computed·By–Coding creative projects](https://www.computedby.com/fr) (CH)     
+
+[Gordan Savicic](https://www.linkedin.com/in/gordan-savi%C4%8Di%C4%87-aa15233?originalSubdomain=ch)
+Designer d'interaction, [Computed·By–Coding creative projects](https://www.computedby.com/fr) (CH)
 
 
 
-- #### Projet Ramuz: présentation du projet de l'agence Transverse 
+
+- #### [[Projet Ramuz. Présentation du projet de l'agence Transverse]] 
 - *9h55-10h10*
 
 [Ingrid Sorg](https://www.linkedin.com/in/ingridsorg/?originalSubdomain=ch)   
+Experte UX/UI & Co-fondatrice, [Transverse](https://transverse.ch/) (CH)
+
 [Julie Greset](https://www.linkedin.com/in/juliegreset/?originalSubdomain=ch)  
+Experte UX/UI & Co-fondatrice, [Transverse](https://transverse.ch/) (CH)
+
 [Laurie Pouly](https://www.linkedin.com/in/lauriepouly/?originalSubdomain=ch)   
-[Agence Transverse](https://transverse.ch/) (CH)
+Directrice artistique & Co-fondatrice, [Transverse](https://transverse.ch/) (CH)
+
 
 
 #### Pause
