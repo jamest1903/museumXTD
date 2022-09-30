@@ -7,7 +7,7 @@ tags: question
 L'utilisation du numérique au musée amène à repenser non seulement la méthodologie de gestion de projet mais également la façon de collaborer avec les différentes parties prenantes. 
 
 1. [[MuseumXTD - Studios et agences, partenaires de la transition numérique des musées]]
-2. [[Le projet Ramuz]]
+2. [[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz]]
    L'objectif est de démontrer, par un exemple concret, la pertinence et les conditions de réussite de dispositifs numériques au sein du musée. Ce cas d'étude cherche à exploiter le potentiel de collaboration et de co-construction du numérique avec les publics, et à développer un discours co-construit avec eux.
 3. [Conception de projet numérique : le canevas à avoir sous la main](https://quebecnumerique.com/conception-de-projet-numerique-le-canevas-a-avoir-sous-la-main/)
    Québec numérique propose un modèle pour structurer ses idées et développer des projets. 

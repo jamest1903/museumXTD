@@ -8,15 +8,15 @@ Les nouvelles technologies sont au service des activités de médiation, tout en
 
 1. [La médiation numérique au musée en procès](https://doi.org/10.4000/rfsic.5592)
    Cet article démontre la difficulté de définir le terme de *médiation numérique*, qui se réfère à un ensemble de concepts variés.
-2. [[Numérique et culture, la quête de l’indispensable complémentarité]]
-   La conférence rassemble trois professionnel·le·s d'institutions culturelles autour de l'intérêt et des tendances de l'utilisation du numérique. Magalie Vernet, du Louvre-Lens, aborde la définition de la médiation et sa complémentarité avec le numérique.
-3. [[Le numérique a-t-il tué la médiation physique des musées]]
+2. [[Le numérique a-t-il tué la médiation physique des musées]]
    Antoine Roland questionne l'apport du numérique aux médiations sensorielles, humaines ou matérielles mises en place dans les musées.
-4. [[Vision des professionnel.les de musées]]  
-6. [[Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine]]
-   Ce dossier présente 6 usages et pratiques du numérique, dont la participation des publics dans le secteur culturel de la région Nouvelle-Aquitaine en France.   
-7. [[Le projet Ramuz]]
-8. [[Forum#13 octobre 2022 9h-12h|Forum MuseumXTD: journée du 13 octobre 2022]]
+3. [[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz]]
+   A l’occasion du projet MuseumXTD, les Musées de Pully ont mené un cas d’étude dans le cadre de la conception de l’espace muséal consacré à C. F. Ramuz et à la littérature, dénommé « La Muette ». L’objectif est de démontrer, par un exemple concret, la pertinence et les conditions de réussite de dispositifs numériques au sein de l’institution. 
+4. [[Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine]]
+   Ce dossier présente 6 usages et pratiques du numérique à travers différents projets menés dans le secteur culturel de la région Nouvelle-Aquitaine en France. 
+5. [[Vision et retours d'expériences sur des projets de médiation]] 
+   Voici des entretiens avec des professionnel.es de musées, qui partagent leur visions et retours d'expériences sur des projets de médiation entrepris au sein de leur institutions.  
+6. [[Forum#13 octobre 2022 9h-12h|Forum MuseumXTD: journée du 13 octobre 2022]]
    La deuxième journée du forum est l'occasion de présenter des projets de professionnel·le·s de musées qui ont utilisé le numérique pour réinventer le lien avec leurs publics.  
    
  

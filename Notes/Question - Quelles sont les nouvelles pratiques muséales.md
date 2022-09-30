@@ -5,7 +5,7 @@ tags: question
 ---
 # Quelles sont les nouvelles pratiques muséales
 
-1. [[Le projet Ramuz]]
+1. [[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz]]
 	- Une des questions de recherche du projet Ramuz mené dans le cadre de MuseumXTD concerne l'utilisation du numérique pour repenser les collections en incluant les publics 
 2. [[MuseumXTD - Seemuseum Kreuzlingen]]
 	- Le Seemuseum interroge les publics et collecte directement leur retours sur leur relation au lac de Constance. 
