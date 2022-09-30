@@ -14,6 +14,6 @@ Les auteurs proposent une sélection commentée en anglais de 5 articles représ
 Cet article est issu du bloc [EconomistsTalkArt.org](https://economiststalkart.org/about/), dont les articles sont écrits par des économistes de la culture. 
 
 
-Apparaît dans [[Quels nouveaux modèles d'affaire avec le numérique]]
+Apparaît dans [[Quels nouveaux modèles d'affaire grâce au numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
