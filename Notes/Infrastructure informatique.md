@@ -8,9 +8,9 @@ Réponse en quelques phrases
   
 1. [[Gestion des collections]]
    Résumé de la ressource en une phrase ou deux.   
-2. [[0 1 Hub numérique - Drive et archivage]]  
+2. [[Drive et archivage]]  
    Résumé de la ressource en une phrase ou deux.  
-[[0 1 Hub numérique - Les outils numériques à utiliser pour travailler]]
+[[Les outils numériques à utiliser pour travailler]]
 
 Voir également: [[Note question|Note question associée]]
  
