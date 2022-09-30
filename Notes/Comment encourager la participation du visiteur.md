@@ -12,10 +12,7 @@ Les nouvelles technologies sont au service des activités de médiation, tout en
    La conférence rassemble trois professionnel·le·s d'institutions culturelles autour de l'intérêt et des tendances de l'utilisation du numérique. Magalie Vernet, du Louvre-Lens, aborde la définition de la médiation et sa complémentarité avec le numérique.
 3. [[Le numérique a-t-il tué la médiation physique des musées]]
    Antoine Roland questionne l'apport du numérique aux médiations sensorielles, humaines ou matérielles mises en place dans les musées.
-4. [[Quel avenir pour l'expérience muséale]]
-   La directrice de la Médiation et de la programmation culturelle au musée du Louvre aborde sa vision du numérique et son rapport à la fiction dans le musée. Selon elle, l'utilisation du numérique n'est pas toujours bien compris.
-5. [[La médiation numérique, entre innovation, surproduction et sobriété…]]
-   Maïté Labat, a été chargée de développer les projets numériques du Louvre comme le [Louvre+](https://www.louvre.fr/louvreplus) ou l'[exposition immersive de la Joconde](https://www.grandpalais.fr/fr/evenement/la-joconde-exposition-immersive). Interrogée par *Com’en Histoire*, elle raconte son expérience et partage sa vision sur ces nouveaux formats de contenus.  
+4. [[Vision des professionnel.les de musées]]  
 6. [[Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine]]
    Ce dossier présente 6 usages et pratiques du numérique, dont la participation des publics dans le secteur culturel de la région Nouvelle-Aquitaine en France.   
 7. [[Le projet Ramuz]]

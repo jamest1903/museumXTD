@@ -13,7 +13,7 @@ Qu’il s’agisse de la gestion des collections ou d’innovation relative à l
 3. [[Digitization of Museum Collections]]
    Cette publication vise à clarifier les principes généraux en matière de droit d'auteur et formuler des politiques pour faciliter les activités des musées dans l'environnement numérique.
 4. [NEMO report on digitization and copyright](https://www.ne-mo.org/news/article/nemo/nemo-report-on-digitisation-and-copyright-challenges-of-making-museum-collections-accessible-online.html)
-   Basé sur un sondage ainsi qu'un groupe de travail, ce rapport de 2020 fournit des recommandations légales à destination non seulement des politiciens mais également des organisations nationales de musées et musées individuels. 
+   Basé sur un sondage ainsi qu'un groupe de travail, ce rapport de 2020 fournit des recommandations légales à destination non seulement des politiciens mais également des organisations nationales de musées et musées. 
 
 
 Voir également: [[Comment créer et valoriser une collection numérique]]

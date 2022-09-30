@@ -11,7 +11,7 @@ Cette plateforme propose des conseils, des ressources, des normes et des sémina
 	- Le droit d'auteur dans le cadre du partage de données avec Europeana. 
 	- Une communauté autour du cadre légal des cultures numériques, à travers le Europeana Network Association. 
 	- Des outils et ressources. 
-	- Un guide sur le management des droit d'auteur. 
+	- Un guide sur le management des droits d'auteur. 
 
 Retrouvez plus de ressources d'[Europeana](https://pro.europeana.eu/about-us/mission) sur [cette page](https://pro.europeana.eu/about-us/services-and-tools). 
 
