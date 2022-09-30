@@ -14,11 +14,11 @@ L'utilisation du numérique au musée amène à repenser non seulement la métho
    Québec numérique propose un modèle pour structurer ses idées et développer des projets. 
 4. [[Le numérique, une formidable occasion pour la culture]]
    L'auteure aborde les concepts clés du numérique et propose au secteur culturel de s'inspirer des méthodes de gestion organisationnelle du numérique.  
-5. [Cinq applications de gestion de projet](https://www.cqam.org/activites/applications-de-gestion-de-projet/)
-  Le Conseil québécois des arts médiatiques conseille cinq applications de gestion projet gratuites ou en gestion libre. Ce guide fait partie des [ressources du réseau québécois des ADN](http://www.pearltrees.com/cpourca/chroniques-des-adn/id29695737). 
-6. [[The Agile Museum]]
+6. [[Mettre à profit les liens naturels entre culture et pensée numérique]]
+   Ce document propose une explication et des conseils d'application des méthodes *Lean* et *Agile* au sein d'une organisation culturelle. 
+7. [[The Agile Museum]]
    Cet article traite de la possibilité d'adopter les méthodes de management, comme Lean ou Agile, dans les musées et d'implémenter progressivement leurs pratiques.
-7. [[Agile Development in Non-Agile Museum]]
+8. [[Agile Development in Non-Agile Museum]]
    Taika Dahlbom, Web Producer à la Finnish National Gallery, évoque les enjeux de la collaboration du musée avec l'équipe de développement du site internet. 
 
  
