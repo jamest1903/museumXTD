@@ -19,6 +19,6 @@ Responsable des contenus & conservateur des sciences de la nature, [Alimentariu
 
 Modération par [Selim Krichane](https://www.linkedin.com/in/selim-krichane-44313082/), Collaborateur scientifique à l’EPFL & membre fondateur du [GameLab](https://wp.unil.ch/gamelab/), UNIL-EPFL (CH)  
 
- A travers deux cas de collaboration concrète entre studios et musées, nous explorerons les défis et les opportunités qui accompagnent les mandats confiés par des musées à des prestataires externes dans le domaine du numérique. A quelles conditions peut-on établir une relation de confiance, dimensionner un projet, aligner les attentes?
+A travers deux cas de collaboration concrète entre studios et musées, nous explorerons les défis et les opportunités qui accompagnent les mandats confiés par des musées à des prestataires externes dans le domaine du numérique. A quelles conditions peut-on établir une relation de confiance, dimensionner un projet, aligner les attentes?
    
 Retrouver le live du 12 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

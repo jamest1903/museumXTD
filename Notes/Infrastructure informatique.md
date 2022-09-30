@@ -10,7 +10,7 @@ Réponse en quelques phrases
    Résumé de la ressource en une phrase ou deux.   
 2. [[Drive et archivage]]  
    Résumé de la ressource en une phrase ou deux.  
-[[Les outils numériques à utiliser pour travailler]]
+[[Numérique de gestion]]
 
 Voir également: [[Note question|Note question associée]]
  
