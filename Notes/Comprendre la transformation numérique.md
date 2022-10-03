@@ -11,7 +11,9 @@ date: 2022-08-31
 
 [[Technologies, quelles tendances]]
 
-[[Quels nouveaux modèles d'affaire avec le numérique]]
+[[Quels nouveaux modèles d'affaire grâce au numérique]]
+
+[[Quel cadre légal pour la transformation numérique]]
 
 [[Quels sont les opportunités et les freins]]
 

@@ -179,7 +179,6 @@ input#searchString:focus-within {
 }
 
 
-
 /* logo header */
 #mastfeet,
 #masthead {
@@ -207,16 +206,12 @@ footer {
     padding-bottom: var(--space-l);
 }
 
-
-
 /* layout for Acteurs & Projets */
 /*
 * CSS styles for the CSV tables
 */
 .csvHeaderWrapper {
-
     position: relative;
-
 }
 
 #tools {
@@ -240,7 +235,6 @@ footer {
     padding-right: var(--space-l);
     padding-bottom: var(--space-m);
     padding-left: var(--space-l);
-
     border: 1px solid var(--black);
     border-radius: 0;
 
@@ -287,6 +281,10 @@ footer {
      
 .sort--segment__selected {
     color: var(--greyText);
+}
+button.sort--segment:hover {
+    cursor: pointer;
+    background-color: var(--greyXTD);
 }
 
 /* Style the tab */

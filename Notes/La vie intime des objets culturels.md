@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Schnapp, J. (2018). La vie intime des objets culturels.](https://journals.openedition.org/culturemusees/4871)
-
+### [Schnapp, J. (2018). La vie intime des objets culturels.](https://journals.openedition.org/culturemusees/4871)
 Dans ce texte traduit en français, Jeffrey Schnapp aborde les problématiques relatives à la numérisation des archives et des objets culturels. Il distingue trois enjeux: la numérisation réduit la complexité d'un objet, elle permet au public de se les approprier et elle produit des objets culturels en tant que tels. 
 
 ## A retenir

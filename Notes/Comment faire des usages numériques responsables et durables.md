@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Rioux, M. (2022). Comment faire des usages numériques responsables et durables](https://ecolebranchee.com/comment-faire-des-usages-numeriques-responsables-et-durables/)
-
+### [Rioux, M. (2022). Comment faire des usages numériques responsables et durables](https://ecolebranchee.com/comment-faire-des-usages-numeriques-responsables-et-durables/)
 L'auteure explique la différence entre *sobriété numérique*, *numérique durable* et *numérique responsable*. 
 
 ## À retenir

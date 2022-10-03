@@ -6,7 +6,7 @@ tags: question
 # Musées et numérique
   
 1. [Musées et numérique : un entretien avec Trilce Navarrete](https://metis-lab.com/2022/05/02/musees-et-numerique-un-entretien-avec-trilce-navarrete/)     
-   La chercheuse définit assez précisément le périmètre de ce qui est sous-entendu dans la réunion des deux concepts. 
+   La chercheuse définit le périmètre de l'usage du numérique dans les musées. 
 
 Apparaît dans [[Numérique et musée, quelques définitions]]. 
  

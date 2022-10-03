@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Sermondadaz, S. (2021). La vérité sur l’empreinte carbone du numérique.](https://www.heidi.news/explorations/green-it-ou-les-paris-suisses-de-l-informatique-durable/la-verite-sur-l-empreinte-carbone-du-numerique)    
+### [Sermondadaz, S. (2021). La vérité sur l’empreinte carbone du numérique.](https://www.heidi.news/explorations/green-it-ou-les-paris-suisses-de-l-informatique-durable/la-verite-sur-l-empreinte-carbone-du-numerique)    
 L'auteure explique et illustre, par des constats étonnants, ce qui se cache derrière l'évaluation de l'empreinte carbone en kilogrammes équivalent CO2.   
 
 ## À retenir

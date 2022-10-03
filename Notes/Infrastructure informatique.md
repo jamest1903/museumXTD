@@ -8,9 +8,9 @@ Réponse en quelques phrases
   
 1. [[Gestion des collections]]
    Résumé de la ressource en une phrase ou deux.   
-2. [[Note ressource|Note ressource 2]]   
+2. [[Drive et archivage]]  
    Résumé de la ressource en une phrase ou deux.  
-etc. 
+[[Numérique de gestion]]
 
 Voir également: [[Note question|Note question associée]]
  

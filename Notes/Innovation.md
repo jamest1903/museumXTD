@@ -3,13 +3,8 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 ---
-# Quelles sont les méthodologies liées au numérique à connaître ? 
+# Innovation? 
 Blandine Chavanne (ancienne cheffe du Service des musées de France) affirmait lors de [[La stratégie numérique dans les musées. Pour une approche globale du numérique]]) : "Profondément participatif, le numérique nous amène à repenser la méthodologie de l’élaboration de nos projets, en favorisant, ou plutôt, en nous obligeant à co-construire, mais également à développer une approche à la fois incrémentale et itérative dans la conduite de nos projets, permettant in fine une plus grande agilité."
-
-
-## LA METHODE AGILE
-La méthode Agile est une des principales méthodes de gestion organisationnelles du numérique. Bien que celle-ci (et d'autres) s'est développée dans le secteur des technologies de l'information, certains principes fondamentaux peuvent être compris et adaptés au secteur muséal. 
-
 
 
 ## L'INNOVATION
@@ -30,6 +25,6 @@ Innover réfère à la faculté de renouveler les propositions de solutions face
 9. Le [[Staatlabor]], une plateforme sur le sujet de l'innovation pour les administrations
 
 
-De plus en plus avec le numérique, les projets sont gérer en collaboration avec des acteurs multiples - voir [[Comment mener mon projet numérique]]. 
+De plus en plus avec le numérique, les projets sont gérer en collaboration avec des acteurs multiples - voir [[Comment mener un projet numérique]]. 
 
 

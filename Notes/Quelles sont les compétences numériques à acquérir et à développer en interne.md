@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: question 
 
 ---
-# Quelles sont les compétences numériques à acquérir et à développer en interne?
+# **Quelles sont les compétences numériques à acquérir et à développer en interne?**
 Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire différents de ceux des équipes des musées. Néanmoins:
 - Certaines méthodologies de travail peuvent être repensées en interne
 - Des compétences numériques peuvent être développées de manière autodidacte ou en formation continue.
@@ -21,7 +21,7 @@ Cette section vous présente quelques références pertinentes en la matière:
 5. [Rester en contact, la transformation numérique des musées en temps de COVID-19](https://icom.museum/fr/news/webinaire-transformation-numerique-musees/)     
    Un autre webinaire pertinent de l'ICOM, toujours dans la même série. 
 
-Voir également [[Comment mener mon projet numérique]]
+Voir également [[Comment mener un projet numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 

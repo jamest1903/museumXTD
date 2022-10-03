@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Roussilhe, G. (2021). Éco-conception, le brouillard à venir.](https://gauthierroussilhe.com/articles/eco-conception-le-brouillard-a-venir)
-
+### [Roussilhe, G. (2021). Éco-conception, le brouillard à venir.](https://gauthierroussilhe.com/articles/eco-conception-le-brouillard-a-venir)
 L'auteur démêle les enjeux de l'éco-conception et présente une méthodologie pour concevoir des services numériques pertinents tout en réduisant leur empreinte environnementale. 
 
 ## À retenir

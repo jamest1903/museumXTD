@@ -10,5 +10,5 @@ Si la Suisse termine première du Global Innovation Index 2017, elle est 28e dan
 Vous pouvez trouver un document explicatif en français [ici]([Explication](https://www.staatslabor.ch/sites/default/files/2018-06/staatsleporello_francais_1.pdf). 
 Le service propose une newsletter. 
 
-Apparaît dans [[Quelles sont les méthodologies liées au numérique à connaître]]. 
+Apparaît dans [[Innovation]]. 
 

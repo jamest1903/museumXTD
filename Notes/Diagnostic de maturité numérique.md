@@ -3,9 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens outils management
 ---
-
-[Virage NumeriCQ. Diagnostic de maturité numérique](https://docs.google.com/spreadsheets/d/1d77BekbvXFDBTZjhSDKhZvQjIY2dtMNPZPDiyw-Nq2Y/edit#gid=963154001)
-
+### [Virage NumeriCQ. Diagnostic de maturité numérique](https://docs.google.com/spreadsheets/d/1d77BekbvXFDBTZjhSDKhZvQjIY2dtMNPZPDiyw-Nq2Y/edit#gid=963154001)
 Cet outil permet d'évaluer la maturité numérique d'une petite organisation.
 
 ## À retenir

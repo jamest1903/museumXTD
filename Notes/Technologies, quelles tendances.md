@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 ---
-# Technologies, quelles tendances?
+# **Technologies, quelles tendances?**
 Les dispositifs numériques mis en place dans les musées utilisent plusieurs technologies selon l'objectif souhaité. Certaines sont plus populaires que d'autres.     
 
 1. [[Museum Innovation Barometer 2021]]

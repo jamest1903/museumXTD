@@ -16,7 +16,8 @@ Il est à noter également que l'utilisation du terme *numérique* suit un effet
    Le Blog du Modérateur s'entretient avec deux spécialistes du langage sur l'utilisation des termes *numérique* et *digital*.  
 3. ["Nouvelles technologies de l'information" : une expression mal formée](https://books.openedition.org/septentrion/13904)
    Yves Jeanneret démontre la contradiction du terme *nouvelles technologies de l'information* et propose l'utilisation du terme *médias informatisés*. L'auteur fait partie d'un collectif de chercheurs ayant développé la théorie des écrits d'écrans. 
-
+4. [Qu'est-ce que le numérique ?](https://figoblog.org/2019/08/02/quest-ce-que-le-numerique/)
+   L'auteure propose des définitions des différentes composantes du *numérique*: l'informatique, internet et le web, le *digital*, *le numérique* et le *virtuel.* 
 
 
 Apparaît dans [[Numérique et musée, quelques définitions]]

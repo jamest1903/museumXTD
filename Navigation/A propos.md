@@ -37,6 +37,9 @@ Marion Lehembre, cheffe de projet adjointe
 **Communication digitale**  
 Julie Ansermet , consultante
 
+**Relecture des textes**
+Benjamin Décosterd, consultant
+
 ### [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/)
 
 ![](/images/Logo-Musees_de_Pully.png)

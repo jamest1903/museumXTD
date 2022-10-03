@@ -3,18 +3,17 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[INR (Institut du Numérique Responsable). Académie Numérique Responsable](https://www.academie-nr.org/)
-
+### [INR (Institut du Numérique Responsable). Académie Numérique Responsable](https://www.academie-nr.org/)
 L'Institut du Numérique Responsable propose un MOOC sur le sujet. 
 
 ## À retenir
-- Deux MOOC:
+- Deux MOOCs:
 	- L'un d'une durée de 30 minutes
 	- L'autre de 4h30 pour mieux approfondir le sujet. 
 - Le double visage du numérique:
-	- Il représente 3,8% des émissions de gaz à effet de serre
+	- Il représente 3,8% des émissions de gaz à effet de serre. 
 	- Mais permet de développer des outils et services indispensables à la transition énergétique.
-- L'outil d'[évaluation de l'empreinte environnementale professionnelle individuelle du numérique, en kg eq. CO2](https://myimpact.isit-europe.org/fr/).
+- L'[outil d'évaluation](https://myimpact.isit-europe.org/fr/) de l'empreinte environnementale professionnelle individuelle du numérique, en kg eq. CO2.
 - Des recommandations: 
 	- Éviter d’acheter ou de renouveler systématiquement du matériel, si cela n'est pas nécessaire
 	- S’assurer de l’écoconception des services numériques, c'est-à-dire un service *utile*, *utilisable* et *utilisé*.  
