@@ -10,7 +10,6 @@ async function setup() {
     setupCSVHTML();
 }
 
-
 function setupCSVHTML() {
     const ActeursContainer = document.getElementById('acteursData');
     const ProjectsContainer = document.getElementById('projectsData');
