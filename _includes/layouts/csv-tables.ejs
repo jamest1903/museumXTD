@@ -20,37 +20,37 @@ layout: layouts/tablesBase.njk
                     <br>
                     <p><%=acteursTitle?acteursTitle:"La liste de ces actrices et acteurs du changement n'est pas exhaustive. Vous pouvez nous contacter pour ajouter vos projets et références."%></p>
                     <div id='tools'>
-                        <input type='search' id='searchActeurs' class='search-bar' placeholder='Recherche'>
+                        <input type='search' id='searchActeurs' class='search-bar' placeholder='Recherche avec plus de trois lettres'>
                         <div id='sort'>
                             <button id='az' onclick='sortCSVData(event, "acteurs","az")' class='sort--segment'>A>Z</button>
                             <button id='sector' onclick='sortCSVData(event, "acteurs","sector")' class='sort--segment'>Secteur</button>
                             <button id='local' onclick='sortCSVData(event,"acteurs","local")' class='sort--segment'>Lieu</button>
                         </div>
-                        <div id='resultsActeurs' class='hidden'>
-                            <h3>Résultats</h3>
-                            <ul>
-                            </ul>
-                        </div>
+                    </div>
+                    <div id='results' class='hidden'>
+                        <h3>Résultats</h3>
+                        <ul id='resultsList'>
+                        </ul>
                         <p id='noResults' class='hidden'> Désolé, aucun résultat n'a été trouvé. </p>
                     </div>
                     <div id='acteursData'></div>
-                </div>
                 </div>
                 <div id='projects' class='tabcontent'>
                     <br>
                     <p><%=projectsTitle?projectsTitle:'La liste de ces projects'%></p>
                     <div id='tools'>
-                        <input type='search' id='searchProjects' class='search-bar' placeholder='Recherche'>
+                        <input type='search' id='searchProjects' class='search-bar' placeholder='Recherche avec plus de trois lettres'>
                         <div id='sort'>
                             <button id='az' onclick='sortCSVData(event,"projects","az")' class='sort--segment'>A -> Z</button>
                             <button id='sector' onclick='sortCSVData(event,"projects","sector")' class='sort--segment'>Début du projet</button>
                             <button id='local' onclick='sortCSVData(event,"projects","local")' class='sort--segment'>Lieu</button>
                         </div>
-                        <div id='resultsProjects' class='hidden'>
-                            <h3>Résultats</h3>
-                            <ul>
-                            </ul>
-                        </div>
+                    </div>
+                    <div id='results' class='hidden'>
+                        <h3>Résultats</h3>
+                        <ul id='resultsList'>
+                        </ul>
+                        <p id='noResults' class='hidden'> Désolé, aucun résultat n'a été trouvé. </p>
                     </div>
                     <div id='projectsData'></div>
                 </div>
@@ -72,10 +72,10 @@ layout: layouts/tablesBase.njk
             </script>
             <script defer>
                 document.getElementById('searchActeurs').addEventListener('input', (event) => {
-                    searchActeurs(event);
+                    searchCSV('acteurs', event);
                 });
                 document.getElementById('searchProjects').addEventListener('input', (event) => {
-                    searchProjects(event);
+                    searchCSV('projects', event);
                 });
                 
             </script>
