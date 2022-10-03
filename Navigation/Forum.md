@@ -133,7 +133,7 @@ Artiste & co-fondatrice, [INT Studio](https://www.int.studio/) (CH)
 Responsable numérique & innovation, [Photo Elysée](https://elysee.ch/) (CH)
 
 [Olivier Reutenauer](https://www.linkedin.com/in/olivier-reutenauer-234574a/)  
-Cofondateur & associé-gérant, [Digital Kingdom Sàrl](http://www.digitalkingdom.ch/) (CH)
+Co-fondateur & associé-gérant, [Digital Kingdom Sàrl](http://www.digitalkingdom.ch/) (CH)
 
 [Nicolas Godinot](https://www.linkedin.com/in/godinot/)   
 Responsable des contenus & conservateur des sciences de la nature, [Alimentarium](https://www.alimentarium.org/fr) (CH)
@@ -158,7 +158,7 @@ Responsable de la production des expositions & programmes, [EPFL Pavilions](http
 [Stéphane Kläfiger](https://museographie.ch/)  
 Muséographe indépendant (CH)
 
-Modération par [Isaac Pante](https://www.linkedin.com/in/isaacpante/?originalSubdomain=ch), Président, [Dpt. Sciences du Langage et de l'Information Faculté des lettres](https://www.unil.ch/sli/fr/home.html), UNIL (CH)
+Modération par [Isaac Pante](https://www.linkedin.com/in/isaacpante/?originalSubdomain=ch), Président, [Dpt. Sciences du Langage et de l'Information (Faculté des lettres)](https://www.unil.ch/sli/fr/home.html), UNIL (CH)
 
 
 
