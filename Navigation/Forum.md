@@ -200,7 +200,7 @@ Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda
 
 
 
-- #### Introduction du projet Ramuz
+- #### [[Projet Ramuz. Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz]]
 - *9h05-09h20*
 
 [[Delphine Rivier]]  
@@ -211,7 +211,7 @@ Conservatrice du projet muséal La Muette, [Musées de Pully](http://www.museeda
 
 
 
-- #### [[MuseumXTD - Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz|Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz]]
+- #### [[Projet Ramuz - Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz|Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz]]
 - *9h20-09h35*
 
 [Mathieu Menghini](https://www.linkedin.com/in/mathieu-menghini-741803155/)  
@@ -219,7 +219,7 @@ Historien & praticien de l'action et de l'agir culturels & concepteur de la [L
 
 
 
-- #### [[MuseumXTD - Proposer la création d'un dispositif numérique à des agences créatives|Proposer la création d'un dispositif numérique à des agences créatives]]
+- #### [[Projet Ramuz - Proposer la création d'un dispositif numérique à des agences créatives|Proposer la création d'un dispositif numérique à des agences créatives]]
 - *9h35-09h45*
 
 [Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/)  
@@ -287,7 +287,7 @@ Historien & directeur, [Musée d'Yverdon et région](https://musee-yverdon-regio
 Directeur, [Musée Alexis Forel](https://museeforel.ch/) (CH)
 
 
-- #### [[MuseumXTD - Présentation du projet Temps de Jeu VR de l'Archeolab|Temps de jeu: La réalité virtuelle au service de l’histoire vivante]]
+- #### [[MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante|Temps de jeu: La réalité virtuelle au service de l’histoire vivante]]
 - *11h40-11h50*
 
 [Aurèle Cellérier](https://www.linkedin.com/in/aur%C3%A8le-cell%C3%A9rier-1996a9b1/?originalSubdomain=ch)  
