@@ -24,6 +24,7 @@ Les résultats visent à proposer un canevas de gestion de projet numérique et 
 	1. [[Projet Ramuz - Proposer la création d'un dispositif numérique à des agences créatives|Proposer la création d'un dispositif numérique à des agences créatives]]
 	2. [[Projet Ramuz - Présentation de projet de l'agence Computed·By – Coding creative projects|Présentation de projet de l'agence Computed·By – Coding creative projects]]
 	3. [[Projet Ramuz - Présentation du projet de l'agence Transverse|Présentation du projet de l'agence Transverse]]
-            
 
+
+            
 Voir également [[Retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation]]
