@@ -220,7 +220,7 @@ Historien & praticien de l'action et de l'agir culturels & concepteur de la [L
 
 
 - #### [[MuseumXTD - Proposer la création d'un dispositif numérique à des agences créatives|Proposer la création d'un dispositif numérique à des agences créatives]]
-- *9h35-09h40*
+- *9h35-09h45*
 
 [Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/)  
 Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd.ch/rad/instituts/mei/) (CH)
@@ -228,7 +228,7 @@ Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd
 
 
 - #### [[Projet Ramuz. Présentation de projet de l'agence Computed·By – Coding creative projects]]
-- *9h40-09h55*
+- *9h45-10h00*
 
 [Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)
 Responsable de la relation client, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)     
@@ -240,7 +240,7 @@ Designer d'interaction, [Computed·By – Coding creative projects](https://www.
 
 
 - #### [[Projet Ramuz. Présentation du projet de l'agence Transverse]] 
-- *9h55-10h10*
+- *10h00-10h15*
 
 [Ingrid Sorg](https://www.linkedin.com/in/ingridsorg/?originalSubdomain=ch)   
 Experte UX/UI & Co-fondatrice, [Transverse](https://transverse.ch/) (CH)
@@ -257,7 +257,7 @@ Directrice artistique & Co-fondatrice, [Transverse](https://transverse.ch/) (CH)
  
 
 - #### [[MuseumXTD - Outils numériques, l’éloge de la parcimonie|Outils numériques, l’éloge de la parcimonie]]
-- *10h40-10h50*
+- *10h50-11h00*
 
 [Emmanuelle Giacometti](https://www.linkedin.com/in/emmanuelle-giacometti-874681a/)  
 Directrice, [Espace des Inventions](https://www.espace-des-inventions.ch/) (CH)
@@ -265,7 +265,7 @@ Directrice, [Espace des Inventions](https://www.espace-des-inventions.ch/) (CH)
 
 
 - #### [[MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité|Villa « Le Lac » 2.0: quand le voyage dans le temps devient une réalité]]
-- *10h50-11h00*
+- *11h00-11h10*
 
 [Patrick Moser](https://www.linkedin.com/in/patrickmosertraductions/)  
 Conservateur, [Villa « Le Lac » Le Corbusier](https://villalelac.ch/fr/expositions) (CH)
@@ -273,7 +273,7 @@ Conservateur, [Villa « Le Lac » Le Corbusier](https://villalelac.ch/fr/exposit
 
 
 - #### [[MuseumXTD - Déploiement numérique de l’offre au public, enjeux d’un projet global|Déploiement numérique de l’offre au public: enjeux d’un projet global]]
-- *11h00-11h15*
+- *11h10-11h20*
 
 [Vincent Fontana](https://www.linkedin.com/in/vincent-fontana/)  
 Historien & directeur, [Musée d'Yverdon et région](https://musee-yverdon-region.ch) (CH)
@@ -281,19 +281,10 @@ Historien & directeur, [Musée d'Yverdon et région](https://musee-yverdon-regio
 
 
 - #### [[MuseumXTD - Un temps pour la rematérialisation|Un temps pour la rematérialisation]]
-- *11h15-11h30*
+- *11h30-11h40*
 
 [Yvan Schwab](https://www.linkedin.com/in/yvan-schwab-30453b67/)  
 Directeur, [Musée Alexis Forel](https://museeforel.ch/) (CH)
-
-
-
-- #### [[MuseumXTD - Quel numérique face à la pluralité de cultures numériques|Quel numérique face à la pluralité de cultures numériques?]]
-- *11h30-11h40*
-
-[Olivier Glassey](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=881059&LanCode=37)  
-Professeur UNIL & directeur, [Musée de la main UNIL-CHUV](https://www.museedelamain.ch/) (CH)
-
 
 
 - #### [[MuseumXTD - Présentation du projet Temps de Jeu VR de l'Archeolab|Temps de jeu: La réalité virtuelle au service de l’histoire vivante]]
@@ -303,13 +294,22 @@ Professeur UNIL & directeur, [Musée de la main UNIL-CHUV](https://www.museedela
 Conservateur, ArchéoLab-Villa Romaine ([Musées de Pully](https://www.museedartdepully.ch/fr/accueil/)) (CH)
 
 
+- #### [[MuseumXTD - Quel numérique face à la pluralité de cultures numériques|Quel numérique face à la pluralité de cultures numériques?]]
+- *11h50-12h00*
+
+[Olivier Glassey](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=881059&LanCode=37)  
+Professeur UNIL & directeur, [Musée de la main UNIL-CHUV](https://www.museedelamain.ch/) (CH)
+
+
 
 - #### [[MuseumXTD - Conclusion et perspectives|Conclusion & perspectives]]
-- *11h50-12h00*
+- *12h00-12h15*
 
 [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/)  
 Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
 
+[Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/)  
+Directrice, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 
 
 ---
