@@ -99,7 +99,7 @@ function setupCSVHTML() {
             desc.setAttribute('class', 'projects--article--description');
             desc.textContent = row.Descriptif;
             
-            let projectsList = document.createElement('ul');
+            /* let projectsList = document.createElement('ul');
             let liOne = document.createElement('li');
             liOne.textContent = row['Porteur de projet 1'];
             projectsList.appendChild(liOne);
@@ -118,7 +118,7 @@ function setupCSVHTML() {
                 liFour.textContent = row['Porteur de projet 4'];
                 projectsList.appendChild(liFour);
             }
-            desc.appendChild(projectsList);
+            desc.appendChild(projectsList); */
             articleServices.appendChild(desc);
             articleLink.appendChild(articleServices);
 
