@@ -291,7 +291,7 @@ Directeur, [Musée Alexis Forel](https://museeforel.ch/) (CH)
 - *11h40-11h50*
 
 [Aurèle Cellérier](https://www.linkedin.com/in/aur%C3%A8le-cell%C3%A9rier-1996a9b1/?originalSubdomain=ch)  
-Conservateur, ArchéoLab-Villa Romaine ([Musées de Pully](https://www.museedartdepully.ch/fr/accueil/)) (CH)
+Conservateur à l'ArchéoLab-Villa Romaine, [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/) (CH)
 
 
 - #### [[MuseumXTD - Quel numérique face à la pluralité de cultures numériques|Quel numérique face à la pluralité de cultures numériques?]]
