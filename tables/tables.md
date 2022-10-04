@@ -1,7 +1,7 @@
 ---
 title: Acteurs & Projects
 layout: layouts/csv-tables.ejs
-acteursTitle: La liste de ces actrices et acteurs du changement n'est pas exhaustive. Vous pouvez nous contacter pour ajouter vos projets et références.
+acteursTitle: La liste de ces actrices et acteurs
 projectsTitle: La liste de ces projects
 ---
 
