@@ -227,7 +227,7 @@ Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd
 
 
 
-- #### [[Projet Ramuz. Présentation de projet de l'agence Computed·By – Coding creative projects]]
+- #### [[Projet Ramuz - Présentation de projet de l'agence Computed·By – Coding creative projects]]
 - *9h45-10h00*
 
 [Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)
@@ -239,7 +239,7 @@ Designer d'interaction, [Computed·By – Coding creative projects](https://www.
 
 
 
-- #### [[Projet Ramuz. Présentation du projet de l'agence Transverse]] 
+- #### [[Projet Ramuz - Présentation du projet de l'agence Transverse]] 
 - *10h00-10h15*
 
 [Ingrid Sorg](https://www.linkedin.com/in/ingridsorg/?originalSubdomain=ch)   
