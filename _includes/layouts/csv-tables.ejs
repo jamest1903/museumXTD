@@ -14,11 +14,11 @@ layout: layouts/tablesBase.njk
             <div class='csvHeaderWrapper'>
                 <div class='tab'>
                     <button class='tablinks active' onclick='openTab(event, "acteurs")'>acteurs</button>
-                    <button class='tablinks' onclick='openTab(event, "projects")'>projects</button>
+                    <button class='tablinks' onclick='openTab(event, "projects")'>projets</button>
                 </div>
                 <div id='acteurs' class='tabcontent' style='display: block'>
                     <br>
-                    <p><%=acteursTitle?acteursTitle:"La liste de ces actrices et acteurs du changement n'est pas exhaustive. Vous pouvez nous contacter pour ajouter vos projets et références."%></p>
+                    <p><%=acteursTitle?acteursTitle:"La liste de ces actrices et acteurs"%></p>
                     <div id='tools'>
                         <input type='search' id='searchActeurs' class='search-bar' placeholder='Recherche avec plus de trois lettres'>
                         <div id='sort'>
