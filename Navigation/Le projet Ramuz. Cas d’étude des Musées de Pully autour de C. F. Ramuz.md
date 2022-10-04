@@ -13,7 +13,7 @@ Les résultats visent à proposer un canevas de gestion de projet numérique et 
 
 [[Projet Ramuz. Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz|Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz]]
 
-## Les étapes du projet: 
+## Les étapes 
 *Graphique*
 
 
