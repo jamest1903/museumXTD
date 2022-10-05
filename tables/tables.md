@@ -10,5 +10,3 @@ projectsTitle: La liste de ces projets
 
 Vous pouvez nous contacter pour ajouter vos projets et références? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 
-Voir également [[Initiatives internationales pour la transition numérique des petits et moyens musées]]. 
-
