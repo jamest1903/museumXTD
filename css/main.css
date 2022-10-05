@@ -232,9 +232,9 @@ footer {
     font-size: var(--font-size-s) ;
     
     padding-top: var(--space-m);
-    padding-right: var(--space-l);
+    padding-right: var(--space-m);
     padding-bottom: var(--space-m);
-    padding-left: var(--space-l);
+    padding-left: var(--space-m );
     border: 1px solid var(--black);
     border-radius: 0;
 
