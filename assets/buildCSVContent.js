@@ -158,8 +158,8 @@ function sortCSVData(event, csvData, sort) {
         case 'Type':
             data.sort((a, b) => {
                 if(csvData === 'acteurs') {
-                    const sectorA = a["Expertise numérique 1"].toUpperCase(); // ignore upper and lowercase
-                    const sectorB = b["Expertise numérique 1"].toUpperCase(); // ignore upper and lowercase
+                    const sectorA = a.Nature.toUpperCase(); // ignore upper and lowercase
+                    const sectorB = b.Nature.toUpperCase(); // ignore upper and lowercase
                     if (sectorA < sectorB) {
                     return -1;
                     }
