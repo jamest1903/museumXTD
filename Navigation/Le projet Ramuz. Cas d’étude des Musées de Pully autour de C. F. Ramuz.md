@@ -11,7 +11,7 @@ L’objectif est de démontrer, par un exemple concret, la pertinence et les con
 
 Les résultats visent à proposer un canevas de gestion de projet numérique et à partager les enseignements tirés de cette expérience.
 
-[[Projet Ramuz. Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz|Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz]]
+[[Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz|Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz]]
 
 ## Les étapes 
 *Graphique*

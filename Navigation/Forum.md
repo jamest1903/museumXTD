@@ -200,7 +200,7 @@ Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda
 
 
 
-- #### [[Projet Ramuz. Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz]]
+- #### [[Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz]]
 - *9h05-09h20*
 
 [[Delphine Rivier]]  
@@ -219,7 +219,7 @@ Historien & praticien de l'action et de l'agir culturels & concepteur de la [L
 
 
 
-- #### [[Projet Ramuz - Proposer la création d'un dispositif numérique à des agences créatives|Proposer la création d'un dispositif numérique à des agences créatives]]
+- #### [[Projet Ramuz - Proposer la création d'un dispositif numérique à des agences créatives]]
 - *9h35-09h45*
 
 [Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/)  
