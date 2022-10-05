@@ -12,9 +12,11 @@ Dans un contexte de baisse générale des subventions publiques, les outils num�
    L'auteur présente plusieurs exemples d'activités numériques monétisées, développées par des musées lors du COVID-19.    
 3. [[Museum Innovation Barometer 2021]]
    Il s'agit d'un sondage effectué entre décembre 2020 et mai 2021 auprès de professionnel·le·s de musées du monde entier. Il référence des idées de financement d'activités numériques ainsi que des rapports sur la monétisation du numérique (à partir des p. 59 et 77). 
-4. [[Crowdsourcing the digital transformation of heritage]]
+4. [[Le projet DOORS]]
+   Il s'agit d'un programme de soutien favorisant la transformation numérique de musées européens. Un rapport propose des exemples de nouveaux modèles de distribution et de monétisation (à partir de la p. 42).     
+5. [[Crowdsourcing the digital transformation of heritage]]
    L'auteure aborde la question du financement communautaire, grâce aux nouvelles technologies, et les facteurs de réussite des projets de crowdfunding pour les *GLAMs* (Galleries, Libraries, Archives and Museums).    
-5. [[A paradigmatic change in finance and funding in the cultural and creative industries]]
+6. [[A paradigmatic change in finance and funding in the cultural and creative industries]]
    Les auteurs proposent une sélection commentée en anglais de 5 articles représentant, selon eux, un changement paradigmatique dans la façon de financer le secteur culturel. 
 
 
