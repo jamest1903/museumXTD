@@ -27,9 +27,9 @@ Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2
 Cette section offre un catalogue de réflexions, d'exemples et d'outils suisses et internationaux en accès libre. Toutes ces ressources permettent de **comprendre ce qu'est la transition numérique** pour les petits et moyens musées.
 Elle met en lumière ses réalités et enjeux, permettant de se positionner face aux discours, mythes et injonctions extérieurs à l'institution muséale.
 
-**Mise en ligne octobre 2022**
+[[Numérique et Musée|En savoir plus]]
 
 ## Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz
 A l’occasion du projet-pilote de recherche appliquée MuseumXTD, les Musées de Pully ont mené un cas d’étude dans le cadre de la conception de l’espace muséal consacré à C. F. Ramuz et à la littérature, dénommé « La Muette », dont l’ouverture est prévue en 2023.
 
-**Mise en ligne octobre 2022**
+[[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz|En savoir plus]]

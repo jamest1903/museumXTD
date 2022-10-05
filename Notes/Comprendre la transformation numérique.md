@@ -19,4 +19,6 @@ date: 2022-08-31
 
 [[Quel est l'impact du COVID-19 sur la numérisation des musées]]
 
+[[Initiatives internationales pour la transition numérique des petits et moyens musées]]
+
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
