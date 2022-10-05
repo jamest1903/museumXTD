@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="{{ '/css/main.css' | url }}" />
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="/assets/search.js" defer></script>
+
   </head>
   <body>
     <div class="containerTop">
@@ -16,28 +17,41 @@
       </div>
       <!-- topbar Menu -->
       <nav id="site-nav" role="navigation">
+        <div id="menuToggle"> 
+          <!--
+          hidden checkbox is used as click reciever,
+          so you can use the :checked selector on it.
+          -->
+          <input id="toggle" name="toggle" type="checkbox" />
+          <label id="toggle-label" for="toggle">
+            <span>menu</span>
+          </label>
 
-        <div class="navMenu">
-          <a class="menuitem" href='/'>Accueil</a>
-          <!-- <a class="menuitem" href='/Navigation/Guide/'>Numérique & Musée</a> -->
-          <!-- <a class="menuitem" href="/Navigation/Musées de Pully - cas d'étude/">Cas Ramuz</a> -->
-          <a class="menuitem" href='/Navigation/Forum/'>Forum</a>
-          <!-- <a class="menuitem" href='/tables/projects/'>Projects</a> -->
-          <!-- <a class="menuitem" href='/tables/acteurs/'>Acteurs & Projets</a> -->
-          <a class="menuitem" href='/Navigation/A propos/'>À propos</a>
+          <div id="menu-mobile" >
+            <div class="navMenu" >
+
+              <a class="menuitem" href='/'>Accueil</a>
+              <a class="menuitem" href='/Navigation/Guide/'>Numérique & Musée</a>
+              {# <a class="menuitem" href="/Navigation/Musées de Pully - cas d'étude/">Cas Ramuz</a> #}
+              <a class="menuitem" href='/tables/'>Acteurs & Projets</a>
+              <a class="menuitem" href='/Navigation/Forum/'>Forum</a>
+              <a class="menuitem" href='/Navigation/A propos/'>À propos</a>
+              <a class="menuitem" href='/Navigation/Search/'>Rechercher</a>
+            </div>
+          </div>
         </div>
       </nav>
-{#   **** to be added at a later date
+{# 
       <div id="search">
-        <input type="search" id="searchString" placeholder="Veuillez entrer plus de trois lettres">
+        <input type="search" id="searchString" placeholder="Veuillez entrer plus de trois lettres"> <button onclick="search()">Chercher</button>
         <div id="results" class="hidden">
           <h3>Résultats</h3>
           <ul id="resultList">
           </ul>
         </div>
         <p id="noResults" class="hidden"> Désolé, aucun résultat n'a été trouvé. </p>
-      </div>
-#}
+      </div> #}
+
     </div>
     {{ content | safe }}
     <footer>

@@ -1,6 +1,6 @@
 ---
 title: MuseumXTD  
-layout: layouts/post-mobile.njk  
+layout: layouts/post.njk  
 ---
 # Numérique & Musée
 
