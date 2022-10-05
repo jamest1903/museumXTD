@@ -11,7 +11,7 @@ Périmètre -> initiatives dont l'objectif est d'accompagner les **petits et moy
 
 ## Liste des initiatives pour les petits et moyens musées
 1. [[Le projet DOORS]]
-   il s'agit d'un programme de soutien favorisant la transformation numérique de musées européens.
+   Il s'agit d'un programme de soutien favorisant la transformation numérique des petits et moyens musées européens. 
 
 ## Liste des initiatives menées par le gouvernement national
 - [[Virage NumériCQ]] (Québec)

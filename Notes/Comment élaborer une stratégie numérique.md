@@ -8,7 +8,7 @@ Différents outils et méthodes permettent d'élaborer une stratégie numérique
 En voici quelques uns: 
 
 1. [[Le projet DOORS|DOORS: Digital Incubator for Museums]]   
-   Le projet DOORS est un programme de soutien favorisant la transformation numérique de musées européens. Il met à disposition de la documentation sur les méthodes et outils utilisés. 
+   Le projet DOORS est un programme de soutien favorisant la transformation numérique des petits et moyens musées européens. Il met à disposition de la documentation sur les méthodes et outils utilisés. 
 2. [[Diagnostic de maturité numérique]]   
    Cet outil développé par Virage NumériCQ permet d'évaluer la *maturité numérique* d'une petite organisation. 
 3. [[Cartographie de ma transformation numérique]]
