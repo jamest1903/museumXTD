@@ -1,14 +1,14 @@
 ---
-title: Acteurs & Projects
+title: Acteurs & Projets
 layout: layouts/csv-tables.ejs
-acteursTitle: La liste de ces actrices et acteurs du changement n'est pas exhaustive. Vous pouvez nous contacter pour ajouter vos projets et références.
-projectsTitle: La liste de ces projects
+acteursTitle: La liste de ces actrices et acteurs
+projectsTitle: La liste de ces projets
 ---
 
 ## Acteurs & Projets
-Le projet MuseumXTD a notamment pour objectif de mieux comprendre quels sont les projets - dans les musées, dans les institutions académiques et au sein des agences - qui soutiennent les réflexions et mènent des projets de transformation digitale dans les musées du Canton de Vaud et plus largement, en Suisse.
+**MuseumXTD** dresse une liste de ces actrices et acteurs du changement et des projets - dans les musées, dans les institutions académiques et au sein des agences - qui soutiennent les réflexions et mènent des projets de transformation numérique. Cette liste concerne prioritairement le Canton de Vaud et n'est pas exhaustive.
 
-### Documentation
-[[Enquête sur la digitalisation des musées de Suisse romande, vers une virtualisation de la culture]]  
-Video - Forum J1:Alexandre Camus: Stratégie numérique des musées cantonaux vaudois
+Vous pouvez nous contacter pour ajouter vos projets et références? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+
+Voir également [[Initiatives internationales pour la transition numérique des petits et moyens musées]]. 
 

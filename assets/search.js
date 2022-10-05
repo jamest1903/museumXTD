@@ -24,6 +24,8 @@ async function setup() {
 const search = function() {
   let searchString = document.getElementById('searchString').value;
   if (searchString.length < 3) {
+    document.getElementById('results').classList.add("hidden");
+    document.getElementById('noResults').classList.remove("hidden");
     return;
   }
   // # char used in tags is not been matched in lunrjs so removing
@@ -44,7 +46,6 @@ const search = function() {
     document.getElementById('results').classList.add("hidden");
     document.getElementById('noResults').classList.remove("hidden");
   }
-  console.log(searchResults);
 }
 
 const buildResultsList = function(results) {

@@ -11,7 +11,7 @@ layout: layouts/info.njk
 
 - **Jeudi 13 octobre (9h-12h)**: présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
 
-###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAEYJgeXLLfXwkZSw8_GgKt0WtPF7tkDuXbQC-I6VpXf9M37Um2mOFLesH4b_51ohnWkHkOKuSpLrk1qALGkfc0gYvvFoayAcCXoNzniVbnU6Tvq1Zch_Laj2LPmyVSzU8RQVi1QSi6eyvXNxgNT129acM05YVXB2Liai9ihK5HlwnSv18aVh82rbuZo23E9W0velqwDjvioB)** <br> [Programme 2022](#Programme) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
+###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAL7WIqi0wyrRlslySnC_2I3LMX7t4xeWf_-hw2urydjKTUklScu7dD6zP9PzARXMkVGC-wEil_uh5-ajRQqG2DvgmZ9YpXWI-PucLHo_TS2XhABKAqcxA_FfmdYeTFMD2mwtQmPoYmE-w8-PmrApukIiJosKw2brg2NMSC_Gll-2eKZho97_l0cIYsnQ-O1TQIamDbcXikR1)** <br> [Programme 2022](#Programme) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
 
 ![Anneau fin recouvert d'un damier gris et blanc](/images/MXTD_visuel2022_c.png)
 
@@ -24,7 +24,7 @@ layout: layouts/info.njk
 ### 12 octobre 2022 (9h-17h)
 Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/), Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
 
-
+- #### Accueil à partir de 8h30
 
 - #### [[MuseumXTD - Introduction|Introduction]]
 - *9h00-9h20*  
@@ -133,7 +133,7 @@ Artiste & co-fondatrice, [INT Studio](https://www.int.studio/) (CH)
 Responsable numérique & innovation, [Photo Elysée](https://elysee.ch/) (CH)
 
 [Olivier Reutenauer](https://www.linkedin.com/in/olivier-reutenauer-234574a/)  
-Cofondateur & associé-gérant, [Digital Kingdom Sàrl](http://www.digitalkingdom.ch/) (CH)
+Co-fondateur & associé-gérant, [Digital Kingdom Sàrl](http://www.digitalkingdom.ch/) (CH)
 
 [Nicolas Godinot](https://www.linkedin.com/in/godinot/)   
 Responsable des contenus & conservateur des sciences de la nature, [Alimentarium](https://www.alimentarium.org/fr) (CH)
@@ -158,7 +158,7 @@ Responsable de la production des expositions & programmes, [EPFL Pavilions](http
 [Stéphane Kläfiger](https://museographie.ch/)  
 Muséographe indépendant (CH)
 
-Modération par [Isaac Pante](https://www.linkedin.com/in/isaacpante/?originalSubdomain=ch), Président, [Dpt. Sciences du Langage et de l'Information Faculté des lettres](https://www.unil.ch/sli/fr/home.html), UNIL (CH)
+Modération par [Isaac Pante](https://www.linkedin.com/in/isaacpante/?originalSubdomain=ch), Président, [Dpt. Sciences du Langage et de l'Information (Faculté des lettres)](https://www.unil.ch/sli/fr/home.html), UNIL (CH)
 
 
 
@@ -200,7 +200,7 @@ Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda
 
 
 
-- #### Introduction du projet Ramuz
+- #### [[Projet Ramuz. Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz]]
 - *9h05-09h20*
 
 [[Delphine Rivier]]  
@@ -211,7 +211,7 @@ Conservatrice du projet muséal La Muette, [Musées de Pully](http://www.museeda
 
 
 
-- #### [[MuseumXTD - Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz|Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz]]
+- #### [[Projet Ramuz - Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz|Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz]]
 - *9h20-09h35*
 
 [Mathieu Menghini](https://www.linkedin.com/in/mathieu-menghini-741803155/)  
@@ -219,16 +219,16 @@ Historien & praticien de l'action et de l'agir culturels & concepteur de la [L
 
 
 
-- #### [[MuseumXTD - Proposer la création d'un dispositif numérique à des agences créatives|Proposer la création d'un dispositif numérique à des agences créatives]]
-- *9h35-09h40*
+- #### [[Projet Ramuz - Proposer la création d'un dispositif numérique à des agences créatives|Proposer la création d'un dispositif numérique à des agences créatives]]
+- *9h35-09h45*
 
 [Prof. Laurent Bolli](https://www.linkedin.com/in/laurentbolli/)  
 Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd.ch/rad/instituts/mei/) (CH)
 
 
 
-- #### [[Projet Ramuz. Présentation de projet de l'agence Computed·By – Coding creative projects]]
-- *9h40-09h55*
+- #### [[Projet Ramuz - Présentation de projet de l'agence Computed·By – Coding creative projects]]
+- *9h45-10h00*
 
 [Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)
 Responsable de la relation client, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)     
@@ -239,8 +239,8 @@ Designer d'interaction, [Computed·By – Coding creative projects](https://www.
 
 
 
-- #### [[Projet Ramuz. Présentation du projet de l'agence Transverse]] 
-- *9h55-10h10*
+- #### [[Projet Ramuz - Présentation du projet de l'agence Transverse]] 
+- *10h00-10h15*
 
 [Ingrid Sorg](https://www.linkedin.com/in/ingridsorg/?originalSubdomain=ch)   
 Experte UX/UI & Co-fondatrice, [Transverse](https://transverse.ch/) (CH)
@@ -257,7 +257,7 @@ Directrice artistique & Co-fondatrice, [Transverse](https://transverse.ch/) (CH)
  
 
 - #### [[MuseumXTD - Outils numériques, l’éloge de la parcimonie|Outils numériques, l’éloge de la parcimonie]]
-- *10h40-10h50*
+- *10h50-11h00*
 
 [Emmanuelle Giacometti](https://www.linkedin.com/in/emmanuelle-giacometti-874681a/)  
 Directrice, [Espace des Inventions](https://www.espace-des-inventions.ch/) (CH)
@@ -265,7 +265,7 @@ Directrice, [Espace des Inventions](https://www.espace-des-inventions.ch/) (CH)
 
 
 - #### [[MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité|Villa « Le Lac » 2.0: quand le voyage dans le temps devient une réalité]]
-- *10h50-11h00*
+- *11h00-11h10*
 
 [Patrick Moser](https://www.linkedin.com/in/patrickmosertraductions/)  
 Conservateur, [Villa « Le Lac » Le Corbusier](https://villalelac.ch/fr/expositions) (CH)
@@ -273,7 +273,7 @@ Conservateur, [Villa « Le Lac » Le Corbusier](https://villalelac.ch/fr/exposit
 
 
 - #### [[MuseumXTD - Déploiement numérique de l’offre au public, enjeux d’un projet global|Déploiement numérique de l’offre au public: enjeux d’un projet global]]
-- *11h00-11h15*
+- *11h10-11h20*
 
 [Vincent Fontana](https://www.linkedin.com/in/vincent-fontana/)  
 Historien & directeur, [Musée d'Yverdon et région](https://musee-yverdon-region.ch) (CH)
@@ -281,35 +281,35 @@ Historien & directeur, [Musée d'Yverdon et région](https://musee-yverdon-regio
 
 
 - #### [[MuseumXTD - Un temps pour la rematérialisation|Un temps pour la rematérialisation]]
-- *11h15-11h30*
+- *11h30-11h40*
 
 [Yvan Schwab](https://www.linkedin.com/in/yvan-schwab-30453b67/)  
 Directeur, [Musée Alexis Forel](https://museeforel.ch/) (CH)
 
 
+- #### [[MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante|Temps de jeu: La réalité virtuelle au service de l’histoire vivante]]
+- *11h40-11h50*
+
+[Aurèle Cellérier](https://www.linkedin.com/in/aur%C3%A8le-cell%C3%A9rier-1996a9b1/?originalSubdomain=ch)  
+Conservateur à l'ArchéoLab-Villa Romaine, [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/) (CH)
+
 
 - #### [[MuseumXTD - Quel numérique face à la pluralité de cultures numériques|Quel numérique face à la pluralité de cultures numériques?]]
-- *11h30-11h40*
+- *11h50-12h00*
 
 [Olivier Glassey](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=881059&LanCode=37)  
 Professeur UNIL & directeur, [Musée de la main UNIL-CHUV](https://www.museedelamain.ch/) (CH)
 
 
 
-- #### [[MuseumXTD - Présentation du projet Temps de Jeu VR de l'Archeolab|Temps de jeu: La réalité virtuelle au service de l’histoire vivante]]
-- *11h40-11h50*
-
-[Aurèle Cellérier](https://www.linkedin.com/in/aur%C3%A8le-cell%C3%A9rier-1996a9b1/?originalSubdomain=ch)  
-Conservateur, ArchéoLab-Villa Romaine ([Musées de Pully](https://www.museedartdepully.ch/fr/accueil/)) (CH)
-
-
-
 - #### [[MuseumXTD - Conclusion et perspectives|Conclusion & perspectives]]
-- *11h50-12h00*
+- *12h00-12h15*
 
 [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/)  
 Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
 
+[Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/)  
+Directrice, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 
 
 ---

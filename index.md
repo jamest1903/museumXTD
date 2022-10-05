@@ -21,7 +21,7 @@ Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2
 
 [Voir le programme complet](Navigation/Forum/index.html#Programme)
 
-###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAEYJgeXLLfXwkZSw8_GgKt0WtPF7tkDuXbQC-I6VpXf9M37Um2mOFLesH4b_51ohnWkHkOKuSpLrk1qALGkfc0gYvvFoayAcCXoNzniVbnU6Tvq1Zch_Laj2LPmyVSzU8RQVi1QSi6eyvXNxgNT129acM05YVXB2Liai9ihK5HlwnSv18aVh82rbuZo23E9W0velqwDjvioB)**
+###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAL7WIqi0wyrRlslySnC_2I3LMX7t4xeWf_-hw2urydjKTUklScu7dD6zP9PzARXMkVGC-wEil_uh5-ajRQqG2DvgmZ9YpXWI-PucLHo_TS2XhABKAqcxA_FfmdYeTFMD2mwtQmPoYmE-w8-PmrApukIiJosKw2brg2NMSC_Gll-2eKZho97_l0cIYsnQ-O1TQIamDbcXikR1)**
 
 ## Numérique et musée
 Cette section offre un catalogue de réflexions, d'exemples et d'outils suisses et internationaux en accès libre. Toutes ces ressources permettent de **comprendre ce qu'est la transition numérique** pour les petits et moyens musées.

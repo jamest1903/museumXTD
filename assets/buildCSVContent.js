@@ -10,7 +10,6 @@ async function setup() {
     setupCSVHTML();
 }
 
-
 function setupCSVHTML() {
     const ActeursContainer = document.getElementById('acteursData');
     const ProjectsContainer = document.getElementById('projectsData');
@@ -100,7 +99,7 @@ function setupCSVHTML() {
             desc.setAttribute('class', 'projects--article--description');
             desc.textContent = row.Descriptif;
             
-            let projectsList = document.createElement('ul');
+            /* let projectsList = document.createElement('ul');
             let liOne = document.createElement('li');
             liOne.textContent = row['Porteur de projet 1'];
             projectsList.appendChild(liOne);
@@ -119,7 +118,7 @@ function setupCSVHTML() {
                 liFour.textContent = row['Porteur de projet 4'];
                 projectsList.appendChild(liFour);
             }
-            desc.appendChild(projectsList);
+            desc.appendChild(projectsList); */
             articleServices.appendChild(desc);
             articleLink.appendChild(articleServices);
 
@@ -156,11 +155,11 @@ function sortCSVData(event, csvData, sort) {
                 return 0;
             });
             break;
-        case 'sector':
+        case 'Type':
             data.sort((a, b) => {
                 if(csvData === 'acteurs') {
-                    const sectorA = a.Nature.toUpperCase(); // ignore upper and lowercase
-                    const sectorB = b.Nature.toUpperCase(); // ignore upper and lowercase
+                    const sectorA = a["Expertise numérique 1"].toUpperCase(); // ignore upper and lowercase
+                    const sectorB = b["Expertise numérique 1"].toUpperCase(); // ignore upper and lowercase
                     if (sectorA < sectorB) {
                     return -1;
                     }

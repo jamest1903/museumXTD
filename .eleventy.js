@@ -45,7 +45,7 @@ function extractExcerpt(article) {
     }
   }
   return excerpt;
-  }
+}
 
 // Building TableCSV data
 let projectsData;
@@ -61,7 +61,6 @@ function readCSV(name) {
   });
   return records;
 }
-
 
 module.exports = config => {
   // Set directories to pass through to the dist folder
