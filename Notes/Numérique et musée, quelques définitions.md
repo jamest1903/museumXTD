@@ -13,7 +13,6 @@ Numérique, digital, virtuel ou encore *culture numérique*, ... De quoi parle-t
 5. [[Virtuel et virtualisation]]
 6. [[Les technologies immersives (XR)]]
 7. [[Les autres technologies émergeantes]]
-8. Expériences utilisateur·rice/visiteur·euse
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 
