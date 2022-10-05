@@ -1,8 +1,8 @@
 ---
-title: Acteurs & Projects
+title: Acteurs & Projets
 layout: layouts/csv-tables.ejs
 acteursTitle: La liste de ces actrices et acteurs
-projectsTitle: La liste de ces projects
+projectsTitle: La liste de ces projets
 ---
 
 ## Acteurs & Projets
