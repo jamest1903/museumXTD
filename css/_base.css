@@ -143,46 +143,48 @@ a:hover::before {
 
 
 a {
-  /* color: rgb(0, 0, 121);   */
-  /* color: rgb(0, 0, 121);    */
-    /* box and scale */
+
     border-radius: 6px;
     padding: 5px;
     margin: -5px;
     text-decoration: none;
-    /* border: 6px solid white; */
-    
-    
-    transition-duration: 4s;
-    transition-timing-function: cubic-bezier(0,0.84,0.13,1); ;
-  }
-  
-  a:hover {
-  background-color: #f2f2f2;
+    background-color: transparent;
 
-  text-decoration: none;
-  transition-property: all;
+    /* transition-property: filter, background-color;
+    transition-duration: 4s;
+    transition-timing-function: cubic-bezier(0,0.84,0.13,1); ; */
+    /* filter: drop-shadow(0 0 10em hsla(240, 100%, 50%, 1)); */
+
+  }
+  /* a::content {
+    white-space: normal;
+  } */
+  a:hover {
+  /* background-color: #f2f2f2; */
+
+  /* text-decoration: none; */
+  /* transition-property: filter, background-color;
   transition-duration: 100ms;
   transition-timing-function: ease-out;
-  transform: scale(1.04) translateY(-3px);
-  box-shadow: 0 0 600px 100px;
+  transform: scale(1.04) translateY(-3px); */
+
+  /* filter: drop-shadow(0 0 10em hsla(240, 100%, 50%, 1)); */
+  /* filter: url(filters.svg#waves) ; */
   
 }
 
+/* 
 a:active {
-  box-shadow: 0 0 100px 500px;
-  /* animation: scaleRotate 300ms ; */
   transition-duration: 300ms;
   transition-timing-function: ease;
 }
 a:visited {
-  /* color:purple;s */
   background-color: rgb(194, 194, 194) ;
 }
 
 a:visited:hover {
   background-color: white;
-}
+} */
 
 
 
