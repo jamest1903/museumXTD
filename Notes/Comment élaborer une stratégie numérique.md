@@ -7,7 +7,9 @@ tags: question
 Différents outils et méthodes permettent d'élaborer une stratégie numérique, dont le contenu reste propre à chaque institution (voir [[Exemples de stratégies numériques de musées]]).
 En voici quelques uns: 
 
-1. [[Le projet DOORS|DOORS: Digital Incubator for Museums]]   
+1. [MOOC on digital strategy](https://pro.europeana.eu/post/sign-up-for-a-new-mooc-on-digital-transition-strategies-for-cultural-heritage-institutions)
+   Ce cours en ligne gratuit propose six modules afin de développer une stratégie numérique pour les institutions culturelles. Il est disponible à partir du 26 septembre jusqu'au 20 novembre 2022. 
+2. [[Le projet DOORS|DOORS: Digital Incubator for Museums]]   
    Le projet DOORS est un programme de soutien favorisant la transformation numérique des petits et moyens musées européens. Il met à disposition de la documentation sur les méthodes et outils utilisés. 
 2. [[Diagnostic de maturité numérique]]   
    Cet outil développé par Virage NumériCQ permet d'évaluer la *maturité numérique* d'une petite organisation. 
