@@ -10,3 +10,4 @@ projectsTitle: La liste de ces projets
 
 Cette liste concerne prioritairement le Canton de Vaud et n'est pas exhaustive. Vous pouvez nous contacter pour ajouter vos projets et références à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 
+Voir également [[Initiatives internationales pour la transition numérique des petits et moyens musées]]
