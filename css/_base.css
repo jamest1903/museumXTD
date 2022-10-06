@@ -170,7 +170,9 @@ a {
 
   /* filter: drop-shadow(0 0 10em hsla(240, 100%, 50%, 1)); */
   /* filter: url(filters.svg#waves) ; */
-  
+  text-shadow:0 0 2em #0000ff, 0 0 2em #0000ff, 0 0 2em #0000ff, 0 0 2em #0000ff;
+  background-color: white;
+
 }
 
 /* 
