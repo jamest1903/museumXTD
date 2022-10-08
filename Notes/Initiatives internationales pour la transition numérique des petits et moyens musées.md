@@ -34,7 +34,7 @@ De nombreuses initiatives pour accompagner les musées dans leur transition num�
   Cette série de rapports retranscrit les résultats des workshops menés par Europeana lors de la période de COVID-19. Ils visent à développer une compréhension commune de ce que sous-entend l'*habileté numérique*.  
 - [Culture numérique, du département Cultuur, Jeugd & media](https://www.vlaanderen.be/cjm/nl/cultuur/digitale-cultuur/visie-en-beleid) (Belgique - Flandres, 2017)
   Le programme a développé plusieurs outils: un outil d'auto-évaluation de maturité numérique, une formation pour développer son leadership numérique (en flamand) et des résidences Culture Numérique. 
-- [inDICEs](https://indices-culture.eu/) (Italie)
+- [inDICEs](https://indices-culture.eu/) (transeuropéen)
   Ce projet est destiné aux responsables politiques et aux décideurs des industries culturelles et créatives. Il fournit des ressources concernant différents aspects de la numérisation des organismes.  
 - [Musées virtuels du Canada](https://www.museesnumeriques.ca/mvc-fermeture/?_ga=2.190536427.1355051153.1664970959-1641379607.1664970959&_gl=1*1jwffm8*_ga*MTY0MTM3OTYwNy4xNjY0OTcwOTU5*_ga_77S97Z78MG*MTY2NDk3MDk1OS4xLjEuMTY2NDk3MTIyOS4wLjAuMA..) (Canada, fermé depuis 2020)
   Ce portail (hébergement d'expositions virtuelles) est un exemple de projet arrêté après quelques mois et illustre les risques et problématiques des projets autour de la transformation numérique des institutions culturelles.  
