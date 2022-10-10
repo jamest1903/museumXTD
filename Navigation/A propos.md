@@ -78,7 +78,8 @@ James Taylor
 Laurent Bolli, d'après le projet développé pendant la semaine Crunch à la HEIG-VD par les étudiant·e·s Merima Kahvedzic, Massimo Malla, Matthieu Godi, Laura To et Alison Walpen
 
 **Développement technique**   
-Jonathan Favre Lamarine
+Jonathan Favre-Lamarine
+Stéphane Lecorney
 
 ##### Coordination de l'événement
 **Communication**  

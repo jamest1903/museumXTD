@@ -19,7 +19,7 @@ layout: layouts/info.njk
 ## Programme
 
 ###### [12 octobre 2022](#12-octobre-2022-(9h-17h))  [13 octobre 2022](#13-octobre-2022-(9h-12h))
-[Télécharger le programme en version pdf](https://drive.infomaniak.com/app/share/131928/edea98e3-fa04-4467-a4ff-7fc44a6928be/preview/pdf/79356)  
+[Télécharger le programme en version pdf](https://kdrive.infomaniak.com/app/share/131928/dad60d9f-5c29-438a-bc36-5ecb6bdc5f47/preview/pdf/80710)  
 
 ### 12 octobre 2022 (9h-17h)
 Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/), Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)

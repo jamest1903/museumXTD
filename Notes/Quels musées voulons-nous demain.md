@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: liens strategie
 ---
 
-[AMS (2016). Quels musées voulons-nous demain? Le choix nous appartient](https://www.museums.ch/fr/assets/files/dossiers_f/Publikationen/VMS_Zukunft_F_web.pdf)
+### [AMS (2016). Quels musées voulons-nous demain? Le choix nous appartient](https://www.museums.ch/fr/assets/files/dossiers_f/Publikationen/VMS_Zukunft_F_web.pdf)
 
 Ce rapport liste des questions à se poser en tant que musée afin de mieux cerner l'impact de grandes tendances sociétales (mondialisation, numérisation, individualisation etc.) sur le futur de l'institution. 
 Pour cela, il liste ces problématiques et questions à travers trois grands axes: 
