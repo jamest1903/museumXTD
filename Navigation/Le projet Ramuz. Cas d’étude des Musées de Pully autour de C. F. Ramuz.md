@@ -18,7 +18,7 @@ Les résultats visent à proposer un canevas de gestion de projet numérique et 
 <picture>
   <source media="(max-width: 599px)" srcset="/images/museumXTD_diagramme_mobile.svg" />
   <source media="(min-width: 600px)" srcset="/images/museumXTD_diagramme.svg" />
-  <img src="museumXTD_diagramme.svg" alt="Shéma résumé des étapes" />
+  <img src="/images/museumXTD_diagramme.svg" alt="Shéma résumé des étapes" />
 </picture>
 
 
