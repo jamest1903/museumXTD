@@ -49,6 +49,11 @@ body {
     white-space: nowrap;
     min-width: 15em;
 }
+@media screen and (Min-width:770px) {
+    .navMenu .menuitem {
+        min-width: initial;
+    }
+}
 
 .menuitem {
     text-decoration: none;
