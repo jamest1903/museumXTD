@@ -7,9 +7,16 @@ Bolli, L. (2022). Les étapes de numérisation des objets.
 
 Ci-dessous un schéma simplifié du processus de numérisation des objets de patrimoine.  
 
-![[schema_numerisation-09-22 (1)_page-0001.jpg]]
+![Shéma](/images/schema_numerisation-09-22 (1)_page-0001.jpg) 
 
-  
+
+<picture>
+  <source media="(max-width: 599px)" srcset="/images/museumXTD_diagramme_mobile.svg" />
+  <source media="(min-width: 600px)" srcset="/images/museumXTD_diagramme.svg" />
+  <img src="museumXTD_diagramme.svg" alt="Shéma résumé des étapes" />
+</picture>
+
+
 [Laurent Bolli](https://www.linkedin.com/in/laurentbolli/) est professeur à la HEIG-VD d'Yverdon-les-Bains et dirige le Media Engineering Institute. Il est partenaire du [[A propos|projet MuseumXTD]].  
 
 
