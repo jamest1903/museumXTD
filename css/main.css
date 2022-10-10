@@ -26,16 +26,18 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: var(--space-m) var(--space-s);
+    gap: var(--space-l) var(--space-s);
     margin-right: var(--space-l);
     margin-left: var(--space-l);
 
 }
-@media screen and (Min-width:750px) {
+@media screen and (Min-width:770px) {
  .navMenu {
     flex-direction: row;
     margin-right: 0;
     margin-left: 0;
+    gap: var(--space-m) var(--space-s);
+
  }
 }
 
@@ -45,6 +47,7 @@ body {
     /* padding: 10px 10px; */
 
     white-space: nowrap;
+    min-width: 15em;
 }
 
 .menuitem {
@@ -153,6 +156,7 @@ input#searchString:focus-within {
 }
 #resultList li {
     list-style: none;
+    margin-bottom: var(--space-l);
 }
 #resultList a {
     display: inline-block;
