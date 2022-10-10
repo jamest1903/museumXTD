@@ -14,7 +14,12 @@ Les résultats visent à proposer un canevas de gestion de projet numérique et 
 [[Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz|Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz]] le 13 octobre 2022 lors du forum MuseumXTD. 
 
 ## Les étapes 
-*Graphique*
+
+<picture>
+  <source media="(max-width: 599px)" srcset="/images/museumXTD_diagramme_mobile.svg" />
+  <source media="(min-width: 600px)" srcset="/images/museumXTD_diagramme.svg" />
+  <img src="museumXTD_diagramme.svg" alt="Shéma résumé des étapes" />
+</picture>
 
 
 ## La documentation
