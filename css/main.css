@@ -237,8 +237,9 @@ footer {
     justify-content: space-between;
     gap: var(--space-m);
     
-    margin-bottom: var(--space-xl);
+    margin-bottom: var(--space-m);
 }
+
 @media screen and (min-width: 600px) {
     #tools {
         flex-direction: row;
@@ -342,7 +343,9 @@ button.sort--segment:hover {
 
   
 
-
+#acteursData {
+    margin-top: var(--space-xl);
+}
 .acteurs--article,
 .projects--article {
     margin-bottom: var(--space-xl);
