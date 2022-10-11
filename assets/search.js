@@ -25,7 +25,7 @@ const search = function() {
   let searchString = document.getElementById('searchString').value;
   if (searchString.length < 3) {
     document.getElementById('results').classList.add("hidden");
-    document.getElementById('noResults').classList.remove("hidden");
+    document.getElementById('noResults').classList.add("hidden");
     return;
   }
   // # char used in tags is not been matched in lunrjs so removing
