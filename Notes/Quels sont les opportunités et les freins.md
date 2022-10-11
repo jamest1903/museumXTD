@@ -21,9 +21,9 @@ Cette page vous présente donc quelques réflexions critiques sur la transformat
 3. [[2022, l'année de raison pour le numérique]]
    Louis Derrac recontextualise l'utilisation actuelle du numérique dans nos sociétés et pousse à un usage plus modéré et pertinent. 
 4. [[Enquête sur la digitalisation des musées de Suisse romande, vers une virtualisation de la culture]]
-   Les auteures de l'enquête y synthétisent notamment les réticences des musées à l'utilisation du numérique. 
+   Les auteures de l'enquête synthétisent les réticences des musées à l'utilisation du numérique. 
 5. [[Comment rester productif avec le tout numérique]]
-   Dans cet article, le caractère hypersollicitateur du *tout numérique* est abordé, ainsi que plusieurs solutions pour rester productif dans ces circonstances.  
+   Le numérique facilite le partage d’informations et le travail collaboratif. Pourtant, il engendre aussi une hypersollicitation. Cet article aborde quelques éléments pour rester productif dans ces circonstances.  
 
 
  
