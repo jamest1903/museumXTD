@@ -7,7 +7,6 @@ Bolli, L. (2022). Les étapes de numérisation des objets.
 
 Ci-dessous un schéma simplifié du processus de numérisation des objets de patrimoine.  
 
-![Shéma](/images/Bolli-L_Les-étapes-de-numérisation-des-objets.svg) 
 <picture>
   <source media="(max-width: 599px)" srcset="/images/Bolli-L_Les-étapes-de-numérisation-des-objets_mobile.svg" />
   <source media="(min-width: 600px)" srcset="/images/Bolli-L_Les-étapes-de-numérisation-des-objets.svg" />
