@@ -84,16 +84,11 @@ const getSearchResults = function (searchString, CSVData) {
   }
 
   let searchResults = data.idx.search(searchString ? searchString : '');
-  if (CSVData === 'acteurs') {
-    searchResults.forEach(r => {
-      r.Nom = data.jsonFile[r.ref].Nom;
-    });
-  } else {
-    searchResults.forEach(r => {
-      r.Nom = data.jsonFile[r.ref].Nom;
-    });
-  }
 
+  searchResults.forEach(r => {
+    r.Nom = data.jsonFile[r.ref].Nom;
+  });
+  
   return searchResults;
 }
 
