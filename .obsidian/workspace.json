@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "5f99dbe2e78a14cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b94084895fb39165",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "292277ba7307ea66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Numérique de gestion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c88287532f23541",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6940f6925cacbf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6018e68871184d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98c52a9ba4e12add",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "4ca5229f9aac4e6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rele",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "738cc0dc1e1cd40f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49d4620568451896",
+    "type": "split",
+    "children": [
+      {
+        "id": "9234fb191d909ae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca6f0cbb62cadc62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92a254d07225bcb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2f3d802afd61c7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c18fbf4f70e98364",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb04006f15d2b307",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6c88287532f23541",
+  "lastOpenFiles": [
+    "Notes/Numérique de gestion.md",
+    "Notes/Le numérique, une formidable occasion pour la culture.md",
+    "Notes/Drive et archivage.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Navigation/Forum.md",
+    "Navigation/Numérique et Musée.md",
+    "Notes/Comment élaborer une stratégie numérique.md",
+    "Notes/Initiatives internationales pour la transition numérique des petits et moyens musées.md",
+    "Notes/Diagnostic de maturité numérique.md",
+    "Notes/MuseumXTD - Déploiement numérique de l’offre au public, enjeux d’un projet global.md"
+  ]
+}
