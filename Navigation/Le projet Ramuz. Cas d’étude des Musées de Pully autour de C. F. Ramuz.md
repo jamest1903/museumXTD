@@ -23,7 +23,7 @@ Les résultats visent à proposer un canevas de gestion de projet numérique et 
 
 
 ## La documentation
-1. Processus de développement des modules numériques par les musées de Pully (document à venir)
+1. [[Processus de développement des modules numériques par les musées de Pully]]
 2. Module 1: [[Projet Ramuz - Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz|Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz]]
 3. Module 2: 
 	- [[Projet Ramuz - Proposer la création d'un dispositif numérique à des agences créatives|Proposer la création d'un dispositif numérique à des agences créatives]]

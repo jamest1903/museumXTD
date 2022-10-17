@@ -8,31 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "292277ba7307ea66",
+            "id": "ea2d03af931ef1dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Numérique de gestion.md",
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6c88287532f23541",
+            "id": "c3ad4b5f1dcfa30a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md",
+                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4813544855a20c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md",
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md",
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md"
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md"
               }
             }
           },
@@ -162,17 +172,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6c88287532f23541",
+  "active": "ea2d03af931ef1dd",
   "lastOpenFiles": [
-    "Navigation/Forum.md",
-    "Notes/Numérique de gestion.md",
-    "Notes/Le numérique, une formidable occasion pour la culture.md",
-    "Notes/Drive et archivage.md",
+    "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Navigation/Numérique et Musée.md",
-    "Notes/Comment élaborer une stratégie numérique.md",
-    "Notes/Initiatives internationales pour la transition numérique des petits et moyens musées.md",
-    "Notes/Diagnostic de maturité numérique.md",
-    "Notes/MuseumXTD - Déploiement numérique de l’offre au public, enjeux d’un projet global.md"
+    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+    "Notes/Numérique de gestion.md",
+    "Notes/Retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation.md",
+    "Notes/Les étapes de numérisation des objets.md",
+    "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md",
+    "Navigation/Forum.md",
+    "Notes/Le numérique, une formidable occasion pour la culture.md",
+    "Notes/Drive et archivage.md"
   ]
 }
