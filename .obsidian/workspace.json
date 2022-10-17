@@ -23,9 +23,11 @@
             "id": "6c88287532f23541",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -59,10 +61,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rele",
+                "query": "INT stu",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -76,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md"
+              }
             }
           },
           {
@@ -157,11 +164,11 @@
   },
   "active": "6c88287532f23541",
   "lastOpenFiles": [
+    "Navigation/Forum.md",
     "Notes/Numérique de gestion.md",
     "Notes/Le numérique, une formidable occasion pour la culture.md",
     "Notes/Drive et archivage.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Navigation/Forum.md",
     "Navigation/Numérique et Musée.md",
     "Notes/Comment élaborer une stratégie numérique.md",
     "Notes/Initiatives internationales pour la transition numérique des petits et moyens musées.md",

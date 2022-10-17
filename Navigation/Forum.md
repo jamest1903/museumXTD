@@ -127,7 +127,7 @@ Responsable Education et médiation, [Seemuseum Kreuzlingen](https://seemuseum.c
 - *14h20-14h50*
 
 [Laura Nieder](https://www.linkedin.com/in/lauraperrenoud/?originalSubdomain=ch)  
-Artiste & co-fondatrice, [INT Studio](https://www.int.studio/) (CH)
+Artiste & co-fondatrice, [INT studio](https://www.int.studio/) (CH)
 
 [Manuel Sigrist](https://www.linkedin.com/in/manuel-sigrist-23750528/)   
 Responsable numérique & innovation, [Photo Elysée](https://elysee.ch/) (CH)

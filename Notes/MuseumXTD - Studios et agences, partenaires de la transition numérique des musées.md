@@ -6,7 +6,7 @@ tags: liens forum francais
 #### Studios et agences, partenaires de la transition numérique des musées
 
 [Laura Nieder](https://www.linkedin.com/in/lauraperrenoud/?originalSubdomain=ch)  
-Artiste & co-fondatrice, [INT Studio](https://www.int.studio/) (CH)
+Artiste & co-fondatrice, [INT studio](https://www.int.studio/) (CH)
 
 [Manuel Sigrist](https://www.linkedin.com/in/manuel-sigrist-23750528/)  
 Responsable numérique & innovation, [Photo Elysée](https://elysee.ch/) (CH)
