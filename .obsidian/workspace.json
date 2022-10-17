@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b94084895fb39165",
+        "id": "e338cb457af99387",
         "type": "tabs",
         "children": [
           {
-            "id": "ea2d03af931ef1dd",
+            "id": "3a5a3fd3d6aca498",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3ad4b5f1dcfa30a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4813544855a20c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,11 +140,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ea2d03af931ef1dd",
+  "active": "3a5a3fd3d6aca498",
   "lastOpenFiles": [
-    "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Numérique de gestion.md",
     "Notes/Retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation.md",
     "Notes/Les étapes de numérisation des objets.md",
