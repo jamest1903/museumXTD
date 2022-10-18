@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Transformer son musée.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Transformer son musée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Transformer son musée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Notes/Transformer son musée.md"
               }
             }
           },
@@ -150,15 +150,15 @@
   },
   "active": "3a5a3fd3d6aca498",
   "lastOpenFiles": [
+    "Navigation/Numérique et Musée.md",
+    "Notes/Comprendre la transformation numérique.md",
+    "index.md",
     "Notes/Comment encourager la participation du visiteur.md",
     "Notes/MuseumXTD - Le projet DOORS.md",
     "Notes/Le projet DOORS.md",
     "Notes/Comment élaborer une stratégie numérique.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-    "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/Numérique de gestion.md",
-    "Notes/Retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation.md",
-    "Notes/Les étapes de numérisation des objets.md"
+    "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
   ]
 }
