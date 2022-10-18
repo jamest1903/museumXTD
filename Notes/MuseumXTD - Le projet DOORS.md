@@ -14,6 +14,7 @@ DOORS' approach is not focused on the technology itself, but on the underlying s
 - unleashing innovation – creating new connections and paradigms
 - investing in partnerships
 - continually improving and evolving how museums do every day stuff         
+
 DOORS team has developed a framework and methodology to help museums advance their digital confidence. Designing the Incubation Programme as a process driven by shared learnings, allowed us to pursue innovation that would not occur under individualistic/hermetic experimentation or business-as-usual circumstances. We prioritise collaboration over competition and encourage museum professionals to seek out their peers for camaraderie, advice and collaboration so that they can move forward as effective collaborators.  
 
 

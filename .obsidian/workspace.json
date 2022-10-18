@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-                "mode": "preview",
+                "file": "Notes/MuseumXTD - Le projet DOORS.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "INT stu",
+                "query": "doors",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+                "file": "Notes/MuseumXTD - Le projet DOORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+                "file": "Notes/MuseumXTD - Le projet DOORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
+                "file": "Notes/MuseumXTD - Le projet DOORS.md"
               }
             }
           },
@@ -150,15 +151,15 @@
   },
   "active": "3a5a3fd3d6aca498",
   "lastOpenFiles": [
-    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+    "Notes/Le projet DOORS.md",
+    "Notes/MuseumXTD - Le projet DOORS.md",
+    "Notes/Comment élaborer une stratégie numérique.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
     "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Numérique de gestion.md",
     "Notes/Retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation.md",
     "Notes/Les étapes de numérisation des objets.md",
-    "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md",
-    "Navigation/Forum.md",
-    "Notes/Le numérique, une formidable occasion pour la culture.md",
-    "Notes/Drive et archivage.md"
+    "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md"
   ]
 }
