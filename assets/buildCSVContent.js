@@ -83,8 +83,8 @@ export function sortCSVData(event, csvData, sort) {
                     }
                     return 0;
                 } else {
-                    const sectorA = a['Début du projet'].toUpperCase(); // ignore upper and lowercase
-                    const sectorB = b['Début du projet'].toUpperCase(); // ignore upper and lowercase
+                    const sectorA = a['Date'].toUpperCase(); // ignore upper and lowercase
+                    const sectorB = b['Date'].toUpperCase(); // ignore upper and lowercase
                     if (sectorA < sectorB) {
                         return -1;
                     }
@@ -191,7 +191,7 @@ export function BuildProjectsHTML(projectsData, projectsContainer) {
             articleLink.appendChild(articleHeader);
 
             let headerYear = document.createElement('span');
-            headerYear.textContent = row['Début du projet'];
+            headerYear.textContent = row['Date'];
             articleLink.appendChild(headerYear);
 
             let articleServices = document.createElement('div');
