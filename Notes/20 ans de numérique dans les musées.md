@@ -14,7 +14,7 @@ Extrait: À partir d’un rappel historique de l’usage du numérique dans les 
 Les auteur·e·s: 
 - [Daniel Schmitt](https://hal.archives-ouvertes.fr/DANIEL_SCHMITT) est Professeur des Universités en sciences de l'information et de la communication à l'Université polytechnique Hauts-de-France.
 
-- [Muriel Meyer-Chemenska](https://metis-lab.com/meyer-chemenska-muriel/) est experte muséographe et directrice de l’agence Métapraxis (agence de muséographie et de médiation muséographique). Elle est membre de [[Mêtis]].
+- [Muriel Meyer-Chemenska](https://metis-lab.com/meyer-chemenska-muriel/) est experte muséographe et directrice de l’agence Métapraxis (agence de muséographie et de médiation muséographique). Elle est membre de [Mêtis](https://metis-lab.com/).
 
 Apparaît dans [[Quels sont les opportunités et les freins]]
 

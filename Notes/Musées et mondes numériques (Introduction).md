@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: liens strategie
 ---
 
-[Andreacola, F. (2020). Introduction. Culture et musées.](https://journals.openedition.org/culturemusees/4381)
+### [Andreacola, F. (2020). Introduction. Culture et musées.](https://journals.openedition.org/culturemusees/4381)
 
 L'auteur affirme que l'utilisation du numérique change la donne de l'accessibilité des contenus culturels, qui ne sont plus tellement dépendants du contact direct avec les collections physiques. "Dans ce contexte, la médiation et ses formes institutionnalisées se voient confrontées à des expressions individuelles et singulières disséminées dans l’espace public du web. "
 

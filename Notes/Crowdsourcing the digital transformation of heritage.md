@@ -8,12 +8,12 @@ L'auteure aborde la question du financement communautaire, grâce aux nouvelles 
 
 ## A retenir
 - Une synthèse des enjeux du crowfunding pour les institutions patrimoniales (à partir de la p. 11). 
-- Des exemples de projets de crowdfunding à partir de la p. 16. 
+- Des exemples de projets de crowdfunding (à partir de la p. 16). 
 
   
 [Trilce Navarrete](https://trilcenavarrete.com/) est une chercheuse en humanités digitales. Voir également son entretien dans [[Musées et numérique]] et son article sur les [[Performance Indicators]]. 
 
 
-Apparaît dans [[Note question]]
+Apparaît dans [[Quels nouveaux modèles d'affaire grâce au numérique]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

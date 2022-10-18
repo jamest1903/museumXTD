@@ -4,22 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "e338cb457af99387",
+        "id": "a59df80b815efa6f",
         "type": "tabs",
         "children": [
           {
-            "id": "3a5a3fd3d6aca498",
+            "id": "981699f637aa4bf0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/One-by-One.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": false,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8335257995352553,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "42510b45168127fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Notes/One-by-One.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03cf68d929d5e87a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Innovation dans le secteur culturel canadien - bilan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0779a20137f58fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Tate - Archives and access toolkit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "profe",
+                "query": "tag:#liens",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Notes/One-by-One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Notes/One-by-One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Transformer son musée.md"
+                "file": "Notes/One-by-One.md"
               }
             }
           },
@@ -148,17 +209,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3a5a3fd3d6aca498",
+  "active": "42510b45168127fe",
   "lastOpenFiles": [
-    "Navigation/Numérique et Musée.md",
-    "Notes/Comprendre la transformation numérique.md",
-    "index.md",
-    "Notes/Comment encourager la participation du visiteur.md",
-    "Notes/MuseumXTD - Le projet DOORS.md",
-    "Notes/Le projet DOORS.md",
-    "Notes/Comment élaborer une stratégie numérique.md",
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-    "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
+    "Notes/Tate - Archives and access toolkit.md",
+    "Notes/Staatlabor.md",
+    "Notes/Retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation.md",
+    "Notes/Réseaux sociaux et musées. Aide à la décision.md",
+    "Notes/Rapports NEMO.md",
+    "Notes/Rapports COVID-19 de l'Unesco.md",
+    "Notes/Rapport COVID-19 de l'ICOM.md",
+    "Notes/Quels musées voulons-nous demain.md",
+    "Notes/Quel avenir pour l'expérience muséale.md",
+    "Notes/Quand la technologie s'invite au musée.md"
   ]
 }
