@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/MuseumXTD - Le projet DOORS.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doors",
+                "query": "profe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/MuseumXTD - Le projet DOORS.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/MuseumXTD - Le projet DOORS.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MuseumXTD - Le projet DOORS.md"
+                "file": "index.md"
               }
             }
           },
@@ -151,15 +150,15 @@
   },
   "active": "3a5a3fd3d6aca498",
   "lastOpenFiles": [
-    "Notes/Le projet DOORS.md",
+    "Notes/Comment encourager la participation du visiteur.md",
     "Notes/MuseumXTD - Le projet DOORS.md",
+    "Notes/Le projet DOORS.md",
     "Notes/Comment élaborer une stratégie numérique.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Processus de développement des modules numériques par les musées de Pully.md",
     "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Numérique de gestion.md",
     "Notes/Retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation.md",
-    "Notes/Les étapes de numérisation des objets.md",
-    "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md"
+    "Notes/Les étapes de numérisation des objets.md"
   ]
 }
