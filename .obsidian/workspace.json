@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Virage NumériCQ.md",
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Virage NumériCQ.md",
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Virage NumériCQ.md",
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Virage NumériCQ.md",
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Virage NumériCQ.md"
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md"
               }
             }
           },
@@ -223,15 +222,15 @@
   },
   "active": "c63fd160a09de2be",
   "lastOpenFiles": [
+    "Navigation/Forum.md",
+    "Navigation/MuseumXTD.md",
+    "Navigation/Forum en direct.md",
+    "Notes/Virage NumériCQ.md",
     "Notes/Cartographie de ma transformation numérique.md",
     "Notes/Wikimedia CH.md",
     "Notes/Virtuel et virtualisation.md",
-    "Notes/Virage NumériCQ.md",
     "Notes/Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine.md",
     "Notes/Une stratégie numérique n'est pas une stratégie marketing.md",
-    "Notes/Un nouveau musée numérique pour une ère nouvelle.md",
-    "Notes/Transition numérique et protection de l’environnement.md",
-    "Notes/Transition écologique et musées.md",
-    "Notes/Tips for Digitizing Your Art Collection Easily & Cost Effectively.md"
+    "Notes/Un nouveau musée numérique pour une ère nouvelle.md"
   ]
 }
