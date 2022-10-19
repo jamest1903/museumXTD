@@ -6,11 +6,13 @@ tags: liens forum
 ## Projet Ramuz. Présentation de projet de l'agence Computed·By – Coding creative projects
 
 [Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)
-Responsable de la relation client, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)     
+Chef de projet, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)     
 
 [Gordan Savicic](https://www.linkedin.com/in/gordan-savi%C4%8Di%C4%87-aa15233?originalSubdomain=ch)
 Designer d'interaction, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6vPV_zXdlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-Retrouver le live du 13 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
+[Téléchargez la présentation avec les animations en pdf ici](https://kdrive.infomaniak.com/app/share/131928/720d00b3-a13e-4a01-8fa3-e06f84760833)
+[Téléchargez la présentation sans les animations en pdf ici](https://kdrive.infomaniak.com/app/share/131928/723b9f17-46ca-4093-9205-93c49fd8a81b)    
+Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

@@ -12,5 +12,6 @@ Sous le nom de La Maison des artistes, le Musée Alexis Forel a proposé du 13 a
 Outre le lien humain, ce projet a pour ambition de reprendre contact avec les matières du travail d’art et ses techniques: terre, encre, plaque de cuivre, fusain, papier, eau-forte, pierre, bois, linogravure, émail… 
 Les ateliers ont été proposés dans les espaces du musée, là où les fondateurs de l’institution y ont eux-mêmes réalisé leurs œuvres depuis 1918 en créant une maison des artistes.   
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2AmtZAdIoog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-Retrouver le live du 13 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).    
+Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

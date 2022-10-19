@@ -234,7 +234,7 @@ Directeur de projet, [Media Engineering Institute de la HEIG-VD](https://heig-vd
 - *9h45-10h00*
 
 [Christophe Guignard](https://www.linkedin.com/in/christopheguignard/?originalSubdomain=ch)
-Responsable de la relation client, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)     
+Chef de projet, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)     
 
 [Gordan Savicic](https://www.linkedin.com/in/gordan-savi%C4%8Di%C4%87-aa15233?originalSubdomain=ch)
 Designer d'interaction, [Computed·By – Coding creative projects](https://www.computedby.com/fr) (CH)

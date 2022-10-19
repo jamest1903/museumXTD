@@ -8,8 +8,8 @@ tags: liens forum francais
 [Patrick Moser](https://www.linkedin.com/in/patrickmosertraductions/)  
 Conservateur, [Villa « Le Lac » Le Corbusier](https://villalelac.ch/fr/expositions) (CH)
 
-
 Grâce à la technologie de réalité augmentée et aux nombreuses photos des années 1920 à nos jours rassemblées depuis près d’un quart de siècle, nous pouvons ouvrir une fenêtre sur le passé qui permet au voyageur temporel de se promener dans la Villa « Le Lac » Le Corbusier et le jardin tels qu’ils se présentaient dans les années 1920, 1930, 1940, 1950, 1960… Une immersion 3D dans l’histoire d’un chef-d’œuvre d’architecture moderne construit il y a 100 ans !  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k2aWvefrdYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-Retrouver le live du 13 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).   
+Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

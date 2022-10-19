@@ -9,5 +9,7 @@ tags: liens forum francais
 Conservateur à l'ArchéoLab-Villa Romaine, [Musées de Pully](https://www.museedartdepully.ch/fr/accueil/) (CH)
 
 Le projet *Temps de jeu*, soutenu par le fonds FNS Agora pour la communication scientifique, propose aux publics de tous âges un voyage dans les périodes clés du passé régional, du Néolithique jusqu’au Moyen Âge. L’outil numérique du jeu vidéo en réalité virtuelle engage les sens, les émotions et l’intellect pour convier de nouveaux visiteurs à une rencontre intime avec les acteurs et actrices de notre passé, leurs environnements et leurs modes de vie.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LydkgpFAvYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-Retrouver le live du 13 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
+Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
