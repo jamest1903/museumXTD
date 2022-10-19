@@ -55,18 +55,6 @@
             }
           },
           {
-            "id": "262bfd1453f936d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/MuseumXTD - Introduction.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c7618ab2b857bed",
             "type": "leaf",
             "state": {
@@ -223,14 +211,14 @@
   "active": "52e96c4a477f5578",
   "lastOpenFiles": [
     "Notes/MuseumXTD - Conclusion de la première journée.md",
-    "Notes/MuseumXTD - Introduction.md",
-    "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Navigation/Forum.md",
+    "Notes/MuseumXTD - La face cachée du numérique.md",
+    "Notes/MuseumXTD - Introduction.md",
+    "Notes/MuseumXTD - Le projet DOORS.md",
+    "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Notes/MuseumXTD - Présentation de la plateforme MuseumXTD.ch.md",
     "index.md",
     "Notes/MuseumXTD - Catherine Pugin.md",
-    "Notes/MuseumXTD - Giovanni Collavizza.md",
-    "Notes/MuseumXTD - Redéfinir les limites du musée à l'ère numérique.md",
-    "Notes/MuseumXTD - Studios et agences, partenaires de la transition numérique des musées.md"
+    "Notes/MuseumXTD - Giovanni Collavizza.md"
   ]
 }

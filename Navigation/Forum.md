@@ -104,7 +104,7 @@ pour [Ars Electronica](https://ars.electronica.art/news/en/) (AT), [MUSEUM BOOST
 
 
 
-- #### [[MuseumXTD - La face cachée du numérique|La face cachée du numérique]] 
+- #### [[MuseumXTD - La face cachée du numérique|La face cachée du numérique]] (online)
 - *13h40-14h00*
 
 [Olivier Ross](https://ca.linkedin.com/in/olivier-ross-b6009854)  
@@ -191,6 +191,9 @@ Cheffe de projet adjointe, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 
 [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/)  
 Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
+
+[Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/)  
+Directrice, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 
 
 ---
