@@ -17,5 +17,8 @@ DOORS' approach is not focused on the technology itself, but on the underlying s
 
 DOORS team has developed a framework and methodology to help museums advance their digital confidence. Designing the Incubation Programme as a process driven by shared learnings, allowed us to pursue innovation that would not occur under individualistic/hermetic experimentation or business-as-usual circumstances. They prioritise collaboration over competition and encourage museum professionals to seek out their peers for camaraderie, advice and collaboration so that they can move forward as effective collaborators.  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ravJ530f0s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Retrouver le live du 12 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
+[Téléchargez la présentation en pdf ici](https://kdrive.infomaniak.com/app/share/131928/29b92416-f183-4e5b-9761-329bde13250f)
+    
+Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

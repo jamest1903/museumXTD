@@ -21,4 +21,6 @@ Modération par [Alexandre Camus](https://www.unil.ch/collaboratoire/home/menui
 
 La transition numérique dans l’univers muséal peut se présenter comme une injonction qui recouvre le renouvellement des pratiques documentaires, la médiation ou encore la communication. Intensifiés par le COVID-19, les enjeux pratiques de la transition numérique dans le domaine de la médiation et de la participation dessinent plusieurs scénarii. L’appropriation des potentiels numériques par la médiation muséale soulèvent autant d’interrogations qu’elle ne dessine des nouveaux potentiels à explorer. La discussion s’appuiera sur les enseignements tirés d’expériences d’innovation numérique menées par les intervenant·es.
 
-Retrouver le live du 12 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SIOcSH-BTyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
+                "file": "Notes/MuseumXTD - Le projet DOORS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -43,36 +43,12 @@
             }
           },
           {
-            "id": "03cf68d929d5e87a",
+            "id": "52e96c4a477f5578",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Innovation dans le secteur culturel canadien - bilan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0779a20137f58fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Wikimedia CH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7424842c36e8acd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Cartographie de ma transformation numérique.md",
+                "file": "Notes/MuseumXTD - Le projet DOORS.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
+                "file": "Notes/MuseumXTD - Le projet DOORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
+                "file": "Notes/MuseumXTD - Le projet DOORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md"
+                "file": "Notes/MuseumXTD - Le projet DOORS.md"
               }
             }
           },
@@ -220,17 +196,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c63fd160a09de2be",
+  "active": "52e96c4a477f5578",
   "lastOpenFiles": [
+    "Notes/MuseumXTD - Elisabeth Gravil.md",
+    "Notes/MuseumXTD - Le projet DOORS.md",
     "Navigation/Forum.md",
+    "Notes/MuseumXTD - Tatiana Jullier.md",
+    "Notes/MuseumXTD - Les données visiteurs, un outil au service d'une meilleure connaissance de vos publics.md",
+    "Notes/MuseumXTD - Antoine Roland.md",
+    "Notes/MuseumXTD - Enjeux pratiques de la transition numérique au service de la médiation muséale.md",
+    "Notes/MuseumXTD - Introduction.md",
     "Navigation/MuseumXTD.md",
-    "Navigation/Forum en direct.md",
-    "Notes/Virage NumériCQ.md",
-    "Notes/Cartographie de ma transformation numérique.md",
-    "Notes/Wikimedia CH.md",
-    "Notes/Virtuel et virtualisation.md",
-    "Notes/Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine.md",
-    "Notes/Une stratégie numérique n'est pas une stratégie marketing.md",
-    "Notes/Un nouveau musée numérique pour une ère nouvelle.md"
+    "Navigation/Forum en direct.md"
   ]
 }
