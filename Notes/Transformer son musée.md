@@ -4,7 +4,7 @@ layout: layouts/post.njk
 date: 2022-08-31
 ---
 # Transformer son musée
-## Gérer mon environnement numérique
+## Gérer son environnement numérique
 [[Comment élaborer une stratégie numérique]]
 
 [[Comment mener un projet numérique]]
