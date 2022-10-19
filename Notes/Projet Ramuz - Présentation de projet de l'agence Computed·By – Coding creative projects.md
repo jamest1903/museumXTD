@@ -13,6 +13,7 @@ Designer d'interaction, [Computed·By – Coding creative projects](https://www.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6vPV_zXdlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-[Téléchargez la présentation avec les animations en pdf ici](https://kdrive.infomaniak.com/app/share/131928/720d00b3-a13e-4a01-8fa3-e06f84760833)
-[Téléchargez la présentation sans les animations en pdf ici](https://kdrive.infomaniak.com/app/share/131928/723b9f17-46ca-4093-9205-93c49fd8a81b)    
+[Téléchargez la présentation en .ppsx (avec les animations) ici](https://kdrive.infomaniak.com/app/share/131928/723b9f17-46ca-4093-9205-93c49fd8a81b)    
+[Téléchargez la présentation en pdf ici](https://kdrive.infomaniak.com/app/share/131928/720d00b3-a13e-4a01-8fa3-e06f84760833)
+    
 Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
