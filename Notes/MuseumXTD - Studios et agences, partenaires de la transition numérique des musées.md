@@ -24,5 +24,8 @@ A travers deux cas de collaboration concrète entre studios et musées, nous exp
 Les projets de collaboration: 
 - Le [potionarium](https://digitalkingdom.ch/2021/08/31/le-potionarium/), développé par Digital Kingdom pour l'Alimentarium
 - [LCD](https://www.int.studio/works/lcd-lumina-chroma-data/) et [Narrative focus](https://www.int.studio/works/narrative-focus/), développés par INT Studio pour Photo Elysée
-   
-Retrouver le live du 12 octobre 2022 [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rqzNYREVAe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    
+Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
