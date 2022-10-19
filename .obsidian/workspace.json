@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Notes/MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Notes/MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Notes/MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Notes/MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Transformer son musée.md"
+                "file": "Notes/MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité.md"
               }
             }
           },
@@ -210,15 +210,15 @@
   },
   "active": "b72b82ba482dd81a",
   "lastOpenFiles": [
+    "Navigation/Forum.md",
     "Notes/Projet Ramuz - Présentation de projet de l'agence Computed·By – Coding creative projects.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Notes/Projet Ramuz - Proposer la création d'un dispositif numérique à des agences créatives.md",
+    "Notes/Projet Ramuz - Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz.md",
+    "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Notes/Projet Ramuz - Présentation du projet de l'agence Transverse.md",
     "Notes/Transformer son musée.md",
     "Navigation/Numérique et Musée.md",
-    "Navigation/Forum.md",
-    "Notes/MuseumXTD - Un temps pour la rematérialisation.md",
-    "Notes/MuseumXTD - Elisabeth Gravil.md",
-    "Notes/MuseumXTD - Déploiement numérique de l’offre au public, enjeux d’un projet global.md",
-    "Notes/Projet Ramuz - Présentation du projet de l'agence Transverse.md",
-    "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité.md"
+    "Notes/MuseumXTD - Un temps pour la rematérialisation.md"
   ]
 }
