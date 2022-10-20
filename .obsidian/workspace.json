@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md"
+                "file": "index.md"
               }
             }
           },
@@ -210,15 +210,15 @@
   },
   "active": "c402c8d7489a8f23",
   "lastOpenFiles": [
-    "Notes/MuseumXTD - Elisabeth Gravil.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
+    "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Navigation/Forum.md",
     "Navigation/A propos.md",
     "Navigation/Forum/index.html.md",
     "index.md",
     "Notes/MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité.md",
     "Notes/Projet Ramuz - Présentation de projet de l'agence Computed·By – Coding creative projects.md",
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Projet Ramuz - Proposer la création d'un dispositif numérique à des agences créatives.md"
   ]
 }

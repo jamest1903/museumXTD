@@ -7,7 +7,7 @@ A l’occasion du projet-pilote de recherche appliquée MuseumXTD, les Musées d
 
 L’objectif est de démontrer, par un exemple concret, la pertinence et les conditions de réussite de dispositifs numériques au sein de l’institution. Le cas d’étude traite du développement de deux modules : 
 - le premier à destination des classes du secondaire
-- le second comprenant une dimension de participation et de co-construction avec les publics. 
+- le second comprenant une dimension de participation et de co-construction avec les publics 
 
 Les résultats visent à proposer un canevas de gestion de projet numérique et à partager les enseignements tirés de cette expérience.
 
