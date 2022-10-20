@@ -5,13 +5,13 @@ layout: layouts/info.njk
 
 # Forum
 
-#### Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à l'aula de la HEIG-VD, Yverdon-les-Bains. Ce symposium réunira musées et expert.e.s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
+#### Les résultats du projet **MuseumXTD** ont été présentés les 12 et 13 octobre 2022 à l'aula de la HEIG-VD, Yverdon-les-Bains. Ce symposium a réuni musées et expert.e.s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
 
 - **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel·le·s des musées, de chercheurs et chercheuses et de spécialistes du numérique
 
 - **Jeudi 13 octobre (9h-12h)**: présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
 
-###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAL7WIqi0wyrRlslySnC_2I3LMX7t4xeWf_-hw2urydjKTUklScu7dD6zP9PzARXMkVGC-wEil_uh5-ajRQqG2DvgmZ9YpXWI-PucLHo_TS2XhABKAqcxA_FfmdYeTFMD2mwtQmPoYmE-w8-PmrApukIiJosKw2brg2NMSC_Gll-2eKZho97_l0cIYsnQ-O1TQIamDbcXikR1)** <br> [Programme 2022](#Programme) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
+[Programme 2022](#Programme) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
 
 ![Anneau fin recouvert d'un damier gris et blanc](/images/MXTD_visuel2022_c.png)
 
@@ -331,4 +331,4 @@ Yverdon-les-Bains
 ---
 
 ## Live / A revoir
-Les sessions seront diffusées en direct [sur notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw). Après le forum, les enregistrements seront en plus à disposition depuis notre site. 
+Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

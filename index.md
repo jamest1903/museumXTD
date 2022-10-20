@@ -12,7 +12,7 @@ Le projet est géré par la société Concilio, les Musées de Pully et la HEIG-
 [[A propos|En savoir plus]]
 
 ## Forum
-Les résultats du projet **MuseumXTD** seront présentés les 12 et 13 octobre 2022 à l'Aula de la HEIG-VD d'Yverdon-les-Bains. Cet événement réunira des musées, ainsi que des expertes et experts suisses et étrangers de la transition numérique dans les institutions culturelles.
+Les résultats du projet **MuseumXTD** ont été présentés les 12 et 13 octobre 2022 à l'Aula de la HEIG-VD d'Yverdon-les-Bains. Cet événement réunira des musées, ainsi que des expertes et experts suisses et étrangers de la transition numérique dans les institutions culturelles.
 
 - **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes
 	- Avec la présence de professionnel·le·s des musées, de chercheur·euse·s et de spécialistes du numérique.

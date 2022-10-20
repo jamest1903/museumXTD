@@ -12,7 +12,7 @@ MuseumXTD s'appuie notamment sur un cas d'étude: la conception d’un dispositi
 Les résultats du projet sont disponibles sur [museumxtd.ch](https://www.museumxtd.ch/). Ils sont mis à disposition des institutions muséales pour leur propres recherches et développement. Le site est conçu comme une plateforme d’informations: il permet de diffuser les recherches et réflexions menées durant l’année qu'a duré le projet.
 C'est une sorte de boîte à outils évolutive. Elle tente de répondre aux nombreuses questions liées à l’implémentation et à l’usage du numérique dans les musées de notre région. 
 
-Les résultats du projet seront présentés lors d'un forum qui réunira des musées, ainsi que des expertes et experts suisses et étrangers de la transition numérique dans les institutions culturelles.
+Les résultats du projet ont été présentés lors d'un forum qui a réuni professionnel des musées, ainsi que des expertes et experts suisses et étrangers de la transition numérique dans les institutions culturelles.
 Ce forum aura lieu les 12 et 13 octobre 2022 à l'Aula de la HEIG-VD d'Yverdon-les-Bains.
 
 Contact  
