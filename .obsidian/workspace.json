@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "Navigation/A propos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Navigation/A propos.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sera",
+                "query": "aura",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Navigation/A propos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Navigation/A propos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Navigation/A propos.md"
               }
             }
           },
@@ -208,17 +209,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c402c8d7489a8f23",
+  "active": "4ca5229f9aac4e6e",
   "lastOpenFiles": [
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Navigation/Numérique et Musée.md",
+    "Navigation/A propos.md",
+    "index.md",
     "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Navigation/Forum.md",
-    "Navigation/A propos.md",
     "Navigation/Forum/index.html.md",
-    "index.md",
     "Notes/MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité.md",
-    "Notes/Projet Ramuz - Présentation de projet de l'agence Computed·By – Coding creative projects.md",
-    "Notes/Projet Ramuz - Proposer la création d'un dispositif numérique à des agences créatives.md"
+    "Notes/Projet Ramuz - Présentation de projet de l'agence Computed·By – Coding creative projects.md"
   ]
 }
