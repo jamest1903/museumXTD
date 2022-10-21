@@ -57,7 +57,7 @@ function readCSV(name) {
     columns: true,
     trim: true,
     bom: true,
-    skip_empty_lines: true,
+    skip_empty_lines: true
   });
   return records;
 }
