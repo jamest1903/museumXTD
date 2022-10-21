@@ -106,17 +106,16 @@ Cécile Demaurex
 
 
 ## Intervenant·e·s au forum des 12 et 13 octobre 2022
-- Léonie Alain
 - Nadir Alvarez
 - Jordan Anastassov
 - Heidi Amrein
 - Alexandre Camus
+- Ana-Maria Carabelea
 - Marie Carrard
 - Marianne Chevassus
 - Giovanni Colavizza
 - Jeanne Corthay
-- Luc Debraine
-- L'équipe du projet DOORS
+- Luc Debraine 
 - Julian Fitze
 - Vincent Fontana
 - Emmanuelle Giacometti
