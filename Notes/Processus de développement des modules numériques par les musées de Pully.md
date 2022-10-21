@@ -15,7 +15,9 @@ tags: liens
 | **Phase 7.** <br>Contenu | Chercheuse externe ou équipe musées | Sélection du contenu pour remplir le module numérique
 | **Phase 8.** <br>Faire vivre le projet |Cheffe de projet à l’équipe du musée | Passage du projet à la mise en œuvre dans le quotidien du musée
 
-De la phase 2 à la phase 7, organiser des sessions de feedback participatifs de potentiels utilisateurs pour challenger le projet.
+De la phase 2 à la phase 7, organiser des sessions de feedback participatifs de potentiels utilisateurs pour challenger le projet.     
 
+---- 
+Voir sa présentation par Stéphanie Lugon [[Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz|lors de son intervention]] au forum MuseumXTD. 
 
 Apparaît dans [[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz]]

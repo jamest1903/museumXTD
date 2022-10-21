@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -48,7 +48,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86dde6746e7bf59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comment participer sur la plateforme/Aide-site-web.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md"
               }
             }
           },
@@ -210,15 +222,15 @@
   },
   "active": "b72b82ba482dd81a",
   "lastOpenFiles": [
+    "Comment participer sur la plateforme/Editorialisation de nos contenus.md",
+    "Comment participer sur la plateforme/Aide-site-web.md",
+    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Navigation/A propos.md",
     "Navigation/Numérique et Musée.md",
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "index.md",
     "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md",
-    "Navigation/Forum.md",
-    "Navigation/Forum/index.html.md",
-    "Notes/MuseumXTD - Villa « Le Lac » 2.0, quand le voyage dans le temps devient une réalité.md",
-    "Notes/Projet Ramuz - Présentation de projet de l'agence Computed·By – Coding creative projects.md"
+    "Navigation/Forum.md"
   ]
 }
