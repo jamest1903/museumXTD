@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Numérique et Musée.md"
+                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
               }
             }
           },
@@ -211,8 +211,8 @@
   "active": "b72b82ba482dd81a",
   "lastOpenFiles": [
     "Navigation/A propos.md",
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Navigation/Numérique et Musée.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "index.md",
     "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md",
