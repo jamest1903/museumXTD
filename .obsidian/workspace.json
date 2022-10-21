@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Navigation/Numérique et Musée.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Navigation/Numérique et Musée.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Navigation/Numérique et Musée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Navigation/Numérique et Musée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "Navigation/Numérique et Musée.md"
               }
             }
           },
@@ -211,9 +210,9 @@
   },
   "active": "b72b82ba482dd81a",
   "lastOpenFiles": [
+    "Navigation/A propos.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Navigation/Numérique et Musée.md",
-    "Navigation/A propos.md",
     "index.md",
     "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md",

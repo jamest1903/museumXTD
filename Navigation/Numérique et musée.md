@@ -6,7 +6,6 @@ layout: layouts/post.njk
 
 Cette section permet de comprendre ce qu'est la transition numérique pour les petits et moyens musées, au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre.
 Mettant en lumière les réalités et enjeux de la transition numérique, les pages ci-dessous permettent de se positionner face aux discours, mythes et injonctions extérieures à l'institution muséale.
-C'est dans le cadre de ce périmètre que s'est développé le projet. 
 
 Les ressources ont été choisies par nos soins et certaines sections sont encore à compléter: vous n'êtes pas d'accord avec nous? Vous voulez partager vos expériences et références? Envoyez un message à cette adresse mail [info@museumxtd.ch](mailto:info@museumxtd.ch).  
 
