@@ -8,8 +8,8 @@ A l’occasion du projet-pilote de recherche appliquée MuseumXTD, les Musées d
 L’objectif est de démontrer, par un exemple concret, la pertinence et les conditions de réussite de dispositifs numériques au sein de l’institution. 
 
 L’idée de développer le "smartphone de Ramuz" a été donnée par des étudiants de la HEIG-VD lors de la semaine *Crunch*, qui s’est tenue du 14 au 18 mars 2022. A parti de celle-ci, deux modules ont été développés : 
-- le premier à destination des classes du secondaire
-- le second comprenant une dimension de participation et de co-construction avec les publics 
+- le premier à destination des classes du secondaire (module 1)
+- le second comprenant une dimension de participation et de co-construction avec les publics (module 2)
 
 Les résultats visent à proposer un canevas de gestion de projet numérique et à partager les enseignements tirés de cette expérience.
 
