@@ -19,6 +19,7 @@ async function setup() {
   acteursIdx = lunr(function () {
     this.ref('id');
     this.field('Expertise numérique 1');
+    this.field('Nom');
     ActeursCSVData.forEach(function (Data, acteursIdx) {
       Data.id = acteursIdx;
       this.add(Data);
