@@ -60,11 +60,11 @@ Prof. Laurent Bolli
 
 **Visuels de l'événement**   
 Gaël Paccard
+Céline Simonetto
 
 **Audiovisuel et streaming**   
 Alexandre Pinault, chef de projet   
-Céline Simonetto, assistante technique
-
+Romain Sandoz, assistante technique
 
 ##### Plateforme numérique MuseumXTD
 **Conception**  
