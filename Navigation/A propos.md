@@ -64,7 +64,7 @@ Céline Simonetto
 
 **Audiovisuel et streaming**   
 Alexandre Pinault, chef de projet   
-Romain Sandoz, assistante technique
+Romain Sandoz, assistant technique
 
 ##### Plateforme numérique MuseumXTD
 **Conception**  
