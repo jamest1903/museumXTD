@@ -25,8 +25,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
+                "file": "Comment participer sur la plateforme/Editorialisation de nos contenus.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53e6552f048612f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/La pratique muséale numérique. Une approche globale.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
+                "file": "Comment participer sur la plateforme/Editorialisation de nos contenus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
+                "file": "Comment participer sur la plateforme/Editorialisation de nos contenus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md"
+                "file": "Comment participer sur la plateforme/Editorialisation de nos contenus.md"
               }
             }
           },
@@ -163,15 +175,15 @@
   },
   "active": "455f2f5c8d3e0fed",
   "lastOpenFiles": [
+    "Notes/La pratique muséale numérique. Une approche globale.md",
+    "Comment participer sur la plateforme/Editorialisation de nos contenus.md",
+    "Comment participer sur la plateforme/Aide-site-web.md",
+    "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
     "Navigation/Forum.md",
     "Navigation/A propos.md",
-    "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
     "Notes/MuseumXTD - Antoine Roland.md",
     "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Projet Ramuz - Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz.md",
-    "Notes/Comment encourager la participation du visiteur.md",
-    "Notes/Transformer son musée.md",
-    "Navigation/Numérique et Musée.md",
-    "Notes/Comprendre la transformation numérique.md"
+    "Notes/Comment encourager la participation du visiteur.md"
   ]
 }

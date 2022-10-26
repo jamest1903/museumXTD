@@ -12,8 +12,11 @@ Du markd... quoi? Jetez un coup d'œil à [ce guide Obsidian](https://johackim.c
 Voir le modèle [[Note question]].   
 ### Formatage  
 - On ne peut pas inclure de *?* dans les titres des notes car Obsidian n'y permet pas les caractères spéciaux ( * / \ < > : ? | ).  
-- On peut néanmoins personnaliser le lien vers la note (les double crochets) grâce à l'ajout d'une barre verticale à l'intérieur des crochets. Exemple:  
-	- "[ [ La pratique muséale numérique. Une approche globale|La pratique muséale, une approche globale? ] ]" (cf le guide Obsidian)
+- On peut néanmoins personnaliser le lien vers la note (les double crochets) grâce à l'ajout d'une barre verticale à l'intérieur des crochets. 
+Exemple:  
+- Le nom de la note [[La pratique muséale numérique. Une approche globale]] ne peut être *La pratique muséale numérique. Une approche globale?* -> essayer de modifier le titre **directement** dans la note et un message d'erreur apparaitra. 
+- On peut néanmoins personnaliser sa mention, grâce à l'ajout d'une barre verticale comme suit : 
+	- "[ [ La pratique muséale numérique. Une approche globale|La pratique muséale, une approche globale? ] ]" donnera [[La pratique muséale numérique. Une approche globale|La pratique muséale numérique. Une approche globale?]] (cf le guide Obsidian)
 ### Contenu
 - Le titre de la question doit apparaître en haut de la note (*Intitulé de la question*) et intégrer un *?* à la fin. 
 - La réponse doit être claire et précise. 
@@ -25,7 +28,7 @@ Voir le modèle [[Note question]].
 
 ## 2. Les notes *ressources*  
 ### Structure de la note  
-Voir le modèle [[Note ressource]]. 
+Voir le modèle [[Note ressource]].
 ### Formatage
 - Le titre de la note doit être simple et correspondre au titre de la ressource (pas de mention de l'auteur ou de la date). 
 - Obsidian ne permet pas les caractères spéciaux ( * / \ < > : ? | ) dans les titres des notes.   
