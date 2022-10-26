@@ -21,4 +21,4 @@ Cette note fournit un mode d'emploi pour ajouter/enlever/modifier des valeurs da
 
 ## Après avoir modifié
 1.  COMMIT&PUSH: après ses modifications, il faut pouvoir les rendre accessible aux autres utilisateurs. Voir [[README#Publishing to the website]]
-
+2. Les modifications se vérifient depuis l'interface GitHub Desktop, dans *History*. 
