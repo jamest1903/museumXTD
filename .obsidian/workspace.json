@@ -25,7 +25,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comment participer sur la plateforme/Editorialisation de nos contenus.md",
+                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "164219d8167b0d6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Tableau Acteurs et Projets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "944c9876c17dbb98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef5e71ca2b5d0c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/To-do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b6e340d51852093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation/Numérique et Musée.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,13 +86,13 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/La pratique muséale numérique. Une approche globale.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comment participer sur la plateforme/Editorialisation de nos contenus.md",
+                "file": "Notes/Tableau Acteurs et Projets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comment participer sur la plateforme/Editorialisation de nos contenus.md",
+                "file": "Notes/Tableau Acteurs et Projets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comment participer sur la plateforme/Editorialisation de nos contenus.md"
+                "file": "Notes/Tableau Acteurs et Projets.md"
               }
             }
           },
@@ -173,17 +221,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "455f2f5c8d3e0fed",
+  "active": "164219d8167b0d6a",
   "lastOpenFiles": [
+    "README.md",
+    "Notes/Tableau Acteurs et Projets.md",
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+    "Template/Note question.md",
+    "Navigation/Numérique et Musée.md",
+    "Comment éditer les contenus de la plateforme/Formulation pour parler....md",
+    "Comment éditer les contenus de la plateforme/Syntaxe & typologie.md",
     "Notes/La pratique muséale numérique. Une approche globale.md",
-    "Comment participer sur la plateforme/Editorialisation de nos contenus.md",
-    "Comment participer sur la plateforme/Aide-site-web.md",
-    "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
-    "Navigation/Forum.md",
-    "Navigation/A propos.md",
-    "Notes/MuseumXTD - Antoine Roland.md",
-    "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/Projet Ramuz - Médiation culturelle et déterminisme technologique. Le smartphone de Ramuz.md",
-    "Notes/Comment encourager la participation du visiteur.md"
+    "Notes/To-do.md",
+    "tables/tables.md"
   ]
 }

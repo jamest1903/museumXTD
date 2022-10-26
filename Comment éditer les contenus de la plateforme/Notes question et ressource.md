@@ -1,15 +1,17 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-date: 2022-06-09
 ---
 # Comment éditer des notes *question* et *ressource* dans [[Numérique et Musée]]
+
+Cette note permet de comprendre comment modifier les pages *question* et *ressources*, qui apparaissent sur la plateforme museumxtd.ch dans [Numérique et musée](https://www.museumxtd.ch/Navigation/Num%C3%A9rique%20et%20mus%C3%A9e/). 
 
 Du markd... quoi? Jetez un coup d'œil à [ce guide Obsidian](https://johackim.com/obsidian) pour mieux vous familiariser au logiciel et à la syntaxe markdown. 
 
 ## 1. Les notes *question*  
 ### Structure de la note   
-Voir le modèle [[Note question]].   
+Voir le modèle ci-dessous
+![[Note question]]
 ### Formatage  
 - On ne peut pas inclure de *?* dans les titres des notes car Obsidian n'y permet pas les caractères spéciaux ( * / \ < > : ? | ).  
 - On peut néanmoins personnaliser le lien vers la note (les double crochets) grâce à l'ajout d'une barre verticale à l'intérieur des crochets. 
@@ -28,7 +30,8 @@ Exemple:
 
 ## 2. Les notes *ressources*  
 ### Structure de la note  
-Voir le modèle [[Note ressource]].
+Voir le modèle ci-dessous
+![[Note ressource]]
 ### Formatage
 - Le titre de la note doit être simple et correspondre au titre de la ressource (pas de mention de l'auteur ou de la date). 
 - Obsidian ne permet pas les caractères spéciaux ( * / \ < > : ? | ) dans les titres des notes.   
