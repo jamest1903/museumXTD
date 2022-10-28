@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "86224e4445d39fab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/To-do.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "944c9876c17dbb98",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interven",
+                "query": "to do",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Tableau Acteurs et Projets.md",
+                "file": "Notes/To-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Tableau Acteurs et Projets.md",
+                "file": "Notes/To-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Tableau Acteurs et Projets.md"
+                "file": "Notes/To-do.md"
               }
             }
           },
@@ -218,11 +231,9 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "164219d8167b0d6a",
+  "active": "86224e4445d39fab",
   "lastOpenFiles": [
+    "images/Pasted image 20221026120839.png",
     "README.md",
     "Notes/Tableau Acteurs et Projets.md",
     "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
@@ -231,7 +242,6 @@
     "Comment éditer les contenus de la plateforme/Formulation pour parler....md",
     "Comment éditer les contenus de la plateforme/Syntaxe & typologie.md",
     "Notes/La pratique muséale numérique. Une approche globale.md",
-    "Notes/To-do.md",
-    "tables/tables.md"
+    "Notes/To-do.md"
   ]
 }
