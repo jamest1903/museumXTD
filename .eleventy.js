@@ -38,6 +38,8 @@ function extractExcerpt(article) {
   excerpt = excerptHTML.replace(/<\/?[^>]+(>|$)/g, "").trim();
   // remove line breaks
   excerpt = excerpt.replace(/(\r\n|\n|\r)/gm, " ");
+  // remove any escape chars in the content
+  excerpt = excerpt.replace(/\\/g, "");
   // adding tags from MD files meta data to search content
   if(article.data.tags) {
     for( let tag of article.data.tags) {

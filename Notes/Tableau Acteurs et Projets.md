@@ -1,3 +1,9 @@
+---
+title: MuseumXTD
+layout: layouts/post.njk
+tags:
+---
+
 Cette note fournit un mode d'emploi pour ajouter/enlever/modifier des valeurs dans les tableaux *Acteurs* et *Projets*, qui apparaît sur la plateforme museumxtd dans [Acteurs&Projets](https://www.museumxtd.ch/tables/). 
 
 ## Avant de modifier
