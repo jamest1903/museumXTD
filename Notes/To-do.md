@@ -13,5 +13,6 @@ tags:
 	- [ ] Simplification de l'entrée (utilisation d'un seul logiciel idéalement, et ce pendant tout le process)
 	- [ ] Simplification de l'emplacement de la documentation : aujourd'hui, deux folders sont utilisés (Comment participer sur la plateforme et le README)
 	- [ ] Prévoir des modèles de note
+	- [ ] Faire une vidéo tuto ?
 - [ ] Organisation de l'information
 	- [ ] Formaliser un schéma de la gestion de l'information (internet/externe) sur Miro

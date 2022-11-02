@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b72b82ba482dd81a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/MuseumXTD - Antoine Roland.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "455f2f5c8d3e0fed",
+            "id": "bc3af104f5648a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,37 +20,13 @@
             }
           },
           {
-            "id": "164219d8167b0d6a",
+            "id": "bf07b3f793502a88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Tableau Acteurs et Projets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86224e4445d39fab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc3af104f5648a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/To-do.md",
-                "mode": "source",
+                "file": "Template/Note question.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -90,33 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1b6e340d51852093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Navigation/Numérique et Musée.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53e6552f048612f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/La pratique muséale numérique. Une approche globale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc3af104f5648a17",
+  "active": "ef5e71ca2b5d0c21",
   "lastOpenFiles": [
+    "Template/Note question.md",
+    "Template/Note ressource.md",
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+    "Comment éditer les contenus de la plateforme/Syntaxe & typologie.md",
+    "Comment éditer les contenus de la plateforme/Formulation pour parler....md",
+    "Comment éditer les contenus de la plateforme/Aide-site-web.md",
+    "Notes/To-do.md",
     "Notes/Ressources à creuser.md",
     "Notes/2022-11-02.md",
-    "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
-    "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
-    "Notes/To-do.md",
-    "images/Pasted image 20221026120839.png",
-    "README.md",
-    "Notes/Tableau Acteurs et Projets.md",
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Template/Note question.md"
+    "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md"
   ]
 }
