@@ -1,0 +1,6 @@
+- [communicant.info](https://communicant.info/) - des idées nouvelles pour votre communication culturelle
+	- [Museum Connections – Développement durable et musées : sensibiliser, mesurer et agir (ensemble)](https://communicant.info/museum-connections-developpement-durable-et-musees-sensibiliser-mesurer-et-agir-ensemble)
+- [Programmes de sciences participatives du Museum de Paris](https://www.mnhn.fr/fr/participer-a-la-science)
+- [Science ensemble - Annuaire des projet](https://www.science-ensemble.org/projets)
+- [Découvrir le patrimoine](https://rundgaenge.heimatschutz.ch/fr)
+	- carte interactive des sites patrimoniaux en Suisse

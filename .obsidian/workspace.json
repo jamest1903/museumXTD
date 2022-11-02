@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "bc3af104f5648a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Ressources à creuser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "944c9876c17dbb98",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
+                "file": "Notes/Ressources à creuser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
+                "file": "Notes/Ressources à creuser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md"
+                "file": "Notes/Ressources à creuser.md"
               }
             }
           },
@@ -231,17 +242,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86224e4445d39fab",
+  "active": "bc3af104f5648a17",
   "lastOpenFiles": [
+    "Notes/2022-11-02.md",
+    "Notes/Ressources à creuser.md",
+    "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
     "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
     "Notes/To-do.md",
     "images/Pasted image 20221026120839.png",
     "README.md",
     "Notes/Tableau Acteurs et Projets.md",
     "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Template/Note question.md",
-    "Navigation/Numérique et Musée.md",
-    "Comment éditer les contenus de la plateforme/Formulation pour parler....md",
-    "Comment éditer les contenus de la plateforme/Syntaxe & typologie.md"
+    "Template/Note question.md"
   ]
 }
