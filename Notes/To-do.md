@@ -6,6 +6,7 @@ tags:
 
 - [ ] Écrire les fiches synthèses manquantes
 - [ ] Uniformiser la documentation pour un utilisateur *externe* (persona = Nathalie)
+	- [ ] Utilisation de l'adresse mail webmaster
 	- [ ] Uniformisation de la langue utilisée 
 		- [ ] Traduire le ReadME en français
 		- [ ] Garder/prévoir une documentation en anglais ?

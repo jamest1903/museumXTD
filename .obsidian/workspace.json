@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Ressources à creuser.md",
+                "file": "Notes/To-do.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Ressources à creuser.md",
+                "file": "Notes/To-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Ressources à creuser.md",
+                "file": "Notes/To-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Ressources à creuser.md"
+                "file": "Notes/To-do.md"
               }
             }
           },
@@ -244,8 +244,8 @@
   },
   "active": "bc3af104f5648a17",
   "lastOpenFiles": [
-    "Notes/2022-11-02.md",
     "Notes/Ressources à creuser.md",
+    "Notes/2022-11-02.md",
     "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
     "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
     "Notes/To-do.md",
