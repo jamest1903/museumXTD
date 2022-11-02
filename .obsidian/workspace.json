@@ -37,26 +37,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Notes/Culture numérique.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef5e71ca2b5d0c21",
+            "id": "55073c2f13d2ddea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/To-do.md",
+                "file": "Notes/Musées et numérique.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "e31e460df33823c1"
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "df2e3f2a2e459f7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63d745663bc58b8e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Musées et numérique.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "e31e460df33823c1"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parcimonie",
+                "query": "tag:#question",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/To-do.md",
+                "file": "Notes/Musées et numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/To-do.md",
+                "file": "Notes/Musées et numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/To-do.md"
+                "file": "Notes/Musées et numérique.md"
               }
             }
           },
@@ -182,17 +226,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ef5e71ca2b5d0c21",
+  "active": "55073c2f13d2ddea",
   "lastOpenFiles": [
-    "Template/Note question.md",
-    "Template/Note ressource.md",
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Comment éditer les contenus de la plateforme/Syntaxe & typologie.md",
-    "Comment éditer les contenus de la plateforme/Formulation pour parler....md",
-    "Comment éditer les contenus de la plateforme/Aide-site-web.md",
-    "Notes/To-do.md",
-    "Notes/Ressources à creuser.md",
-    "Notes/2022-11-02.md",
-    "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md"
+    "Notes/Numérique et musée, quelques définitions.md",
+    "Navigation/Numérique et Musée.md",
+    "Notes/Comprendre la transformation numérique.md",
+    "Notes/Culture numérique.md",
+    "Notes/Musées et numérique.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Navigation/A propos.md",
+    "README.md",
+    "Navigation/MuseumXTD.md",
+    "Navigation/Accueil.md"
   ]
 }

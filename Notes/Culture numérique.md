@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: question
 ---
 # Culture numérique
 Plus qu'un outil, le *numérique* est généralement associé à une manière de penser différente, un nouveau *paradigme*.   

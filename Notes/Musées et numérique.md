@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: question
+tags: question 
 ---
 # Musées et numérique
   
