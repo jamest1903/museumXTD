@@ -12,6 +12,6 @@ L’Espace des inventions a pour vocation d’éveiller l’intérêt des enfant
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rn5qm0gNQe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Téléchargez la présentation .pptx ici](https://kdrive.infomaniak.com/app/share/131928/d3550e06-704a-4dea-8036-2f70b76a0dbb/preview/presentation/82424)  
+[Téléchargez la présentation pdf ici](https://kdrive.infomaniak.com/app/share/131928/7b135ae4-424f-4660-b757-8543371cf8d0/preview/pdf/82974)  
     
 Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

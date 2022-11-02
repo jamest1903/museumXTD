@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/To-do.md",
+                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "to do",
+                "query": "parcimonie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/To-do.md",
+                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/To-do.md",
+                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/To-do.md"
+                "file": "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md"
               }
             }
           },
@@ -233,6 +233,8 @@
   },
   "active": "86224e4445d39fab",
   "lastOpenFiles": [
+    "Notes/MuseumXTD - Temps de jeu, la réalité virtuelle au service de l’histoire vivante.md",
+    "Notes/To-do.md",
     "images/Pasted image 20221026120839.png",
     "README.md",
     "Notes/Tableau Acteurs et Projets.md",
@@ -240,8 +242,6 @@
     "Template/Note question.md",
     "Navigation/Numérique et Musée.md",
     "Comment éditer les contenus de la plateforme/Formulation pour parler....md",
-    "Comment éditer les contenus de la plateforme/Syntaxe & typologie.md",
-    "Notes/La pratique muséale numérique. Une approche globale.md",
-    "Notes/To-do.md"
+    "Comment éditer les contenus de la plateforme/Syntaxe & typologie.md"
   ]
 }
