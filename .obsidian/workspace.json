@@ -37,8 +37,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Numérique et culture, la quête de l’indispensable complémentarité.md",
+                "file": "Notes/Exemples de projets de médiation.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c493bcaed3dab762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/La médiatrice et le numérique.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,7 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Numérique et culture, la quête de l’indispensable complémentarité.md",
+                "file": "Notes/Exemples de projets de médiation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Numérique et culture, la quête de l’indispensable complémentarité.md",
+                "file": "Notes/Exemples de projets de médiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Numérique et culture, la quête de l’indispensable complémentarité.md",
+                "file": "Notes/Exemples de projets de médiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Numérique et culture, la quête de l’indispensable complémentarité.md"
+                "file": "Notes/Exemples de projets de médiation.md"
               }
             }
           },
@@ -214,15 +226,15 @@
   },
   "active": "944c9876c17dbb98",
   "lastOpenFiles": [
+    "Notes/Quel avenir pour l'expérience muséale.md",
+    "Notes/La médiatrice et le numérique.md",
+    "Notes/Exemples de projets de médiation.md",
+    "Notes/La médiation numérique, entre innovation, surproduction et sobriété….md",
+    "Notes/Numérique et culture, la quête de l’indispensable complémentarité.md",
     "Notes/To-do.md",
     "Notes/Culture numérique.md",
     "Notes/Musées et numérique.md",
     "Notes/Comment élaborer une stratégie numérique.md",
-    "Notes/Musées et mondes numériques (Introduction).md",
-    "Notes/Numérique et musée, quelques définitions.md",
-    "Navigation/Numérique et Musée.md",
-    "Notes/Comprendre la transformation numérique.md",
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Navigation/A propos.md"
+    "Notes/Musées et mondes numériques (Introduction).md"
   ]
 }
