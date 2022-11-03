@@ -14,7 +14,7 @@ tags:
 	- [ ] Simplification de l'emplacement de la documentation : aujourd'hui, deux folders sont utilisés (Comment participer sur la plateforme et le README)
 	- [ ] Prévoir des modèles de note
 	- [ ] Faire une vidéo tuto ?
-- [ ] Cleaner l'Obsdiain
+- [ ] Cleaner l'Obsidian
 	- [ ] retirer les fichiers qui ne servent plus
 - [ ] Organisation de l'information
 	- [ ] Formaliser un schéma de la gestion de l'information (internet/externe) sur Miro

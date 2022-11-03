@@ -37,27 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Culture numérique.md",
+                "file": "Notes/Numérique et culture, la quête de l’indispensable complémentarité.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "55073c2f13d2ddea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Musées et mondes numériques (Introduction).md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "e31e460df33823c1"
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "df2e3f2a2e459f7a",
@@ -69,13 +56,13 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Musées et mondes numériques (Introduction).md",
+                "file": "Notes/Numérique et culture, la quête de l’indispensable complémentarité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
-                  "localForelinks": true,
+                  "localForelinks": false,
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
@@ -96,8 +83,7 @@
                   "close": true
                 }
               }
-            },
-            "group": "e31e460df33823c1"
+            }
           }
         ]
       }
@@ -128,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "introductio",
+                "query": "complémentarité",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -166,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Musées et mondes numériques (Introduction).md",
+                "file": "Notes/Numérique et culture, la quête de l’indispensable complémentarité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Musées et mondes numériques (Introduction).md",
+                "file": "Notes/Numérique et culture, la quête de l’indispensable complémentarité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Musées et mondes numériques (Introduction).md"
+                "file": "Notes/Numérique et culture, la quête de l’indispensable complémentarité.md"
               }
             }
           },
@@ -226,17 +212,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55073c2f13d2ddea",
+  "active": "944c9876c17dbb98",
   "lastOpenFiles": [
-    "Notes/Comment élaborer une stratégie numérique.md",
+    "Notes/To-do.md",
+    "Notes/Culture numérique.md",
     "Notes/Musées et numérique.md",
+    "Notes/Comment élaborer une stratégie numérique.md",
+    "Notes/Musées et mondes numériques (Introduction).md",
     "Notes/Numérique et musée, quelques définitions.md",
     "Navigation/Numérique et Musée.md",
     "Notes/Comprendre la transformation numérique.md",
-    "Notes/Culture numérique.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Navigation/A propos.md",
-    "README.md",
-    "Navigation/MuseumXTD.md"
+    "Navigation/A propos.md"
   ]
 }
