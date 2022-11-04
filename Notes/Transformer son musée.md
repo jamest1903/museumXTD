@@ -9,6 +9,8 @@ date: 2022-08-31
 
 [[Comment mener un projet numérique]]
 
+[[Comment évaluer un projet numérique]]
+
 [[Quelles sont les compétences numériques à acquérir et à développer en interne]]
 
 [[Comment utiliser le numérique de façon durable]]
