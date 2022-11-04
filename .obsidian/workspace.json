@@ -72,8 +72,8 @@
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": false,
+                  "localBacklinks": false,
+                  "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "question ",
+                "query": "boite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,7 +223,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8538ed445a0c9837",
+  "active": "4ca5229f9aac4e6e",
   "lastOpenFiles": [
     "Notes/Boîte à outils.md",
     "Notes/Transformer son musée.md",
