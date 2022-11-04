@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "df2e3f2a2e459f7a",
@@ -68,7 +67,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Comment mener un projet numérique.md",
+                "file": "Notes/Transformer son musée.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -143,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Comment mener un projet numérique.md",
+                "file": "Notes/Transformer son musée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Comment mener un projet numérique.md",
+                "file": "Notes/Transformer son musée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Comment mener un projet numérique.md"
+                "file": "Notes/Transformer son musée.md"
               }
             }
           },
@@ -224,17 +222,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f83ada119e4a8c0",
+  "active": "8538ed445a0c9837",
   "lastOpenFiles": [
+    "Notes/Boîte à outils.md",
+    "Notes/Transformer son musée.md",
+    "Notes/Comment mener un projet numérique.md",
     "Notes/Comment évaluer un projet numérique.md",
     "Notes/Comment élaborer une stratégie numérique.md",
     "Notes/Question - Quels sont les nouveaux formats de contenus.md",
     "Notes/Question - Comment évaluer un projet numérique.md",
-    "Notes/Comment mener un projet numérique.md",
-    "Notes/Transformer son musée.md",
     "Navigation/Numérique et Musée.md",
     "Notes/MuseumXTD - La face cachée du numérique.md",
-    "Notes/One-by-One.md",
-    "Notes/20 ans de numérique dans les musées.md"
+    "Notes/One-by-One.md"
   ]
 }

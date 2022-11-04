@@ -15,6 +15,8 @@ date: 2022-08-31
 
 [[Comment utiliser le numérique de façon durable]]
 
+[[Boîte à outils]]
+
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
 
 ## Gérer les collections
