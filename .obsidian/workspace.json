@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Comment évaluer un projet numérique.md",
+                "file": "Notes/Comment mener un projet numérique.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,12 +47,16 @@
             "id": "b91d7a68dc33a324",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Question - Quels sont les nouveaux formats de contenus.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "df2e3f2a2e459f7a",
@@ -64,6 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/Comment mener un projet numérique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Comment mener un projet numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Comment mener un projet numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Comment mener un projet numérique.md"
+              }
             }
           },
           {
@@ -215,17 +224,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b91d7a68dc33a324",
+  "active": "4f83ada119e4a8c0",
   "lastOpenFiles": [
-    "Notes/Question - Comment évaluer un projet numérique.md",
-    "Notes/Comment mener un projet numérique.md",
     "Notes/Comment évaluer un projet numérique.md",
     "Notes/Comment élaborer une stratégie numérique.md",
+    "Notes/Question - Quels sont les nouveaux formats de contenus.md",
+    "Notes/Question - Comment évaluer un projet numérique.md",
+    "Notes/Comment mener un projet numérique.md",
     "Notes/Transformer son musée.md",
     "Navigation/Numérique et Musée.md",
     "Notes/MuseumXTD - La face cachée du numérique.md",
     "Notes/One-by-One.md",
-    "Notes/20 ans de numérique dans les musées.md",
-    "Notes/Diagnostic de maturité numérique.md"
+    "Notes/20 ans de numérique dans les musées.md"
   ]
 }
