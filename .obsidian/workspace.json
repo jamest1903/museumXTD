@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Comment élaborer une stratégie numérique.md",
-                "mode": "preview",
+                "file": "Navigation/Numérique et Musée.md",
+                "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "f68e2fa9071c8cef"
           },
           {
             "id": "4f83ada119e4a8c0",
@@ -55,19 +56,20 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "df2e3f2a2e459f7a",
+        "id": "92bebed3b309821e",
         "type": "tabs",
         "children": [
           {
-            "id": "63d745663bc58b8e",
+            "id": "05d7e6c3f884c181",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Navigation/Numérique et Musée.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -94,7 +96,8 @@
                   "close": true
                 }
               }
-            }
+            },
+            "group": "f68e2fa9071c8cef"
           }
         ]
       }
@@ -125,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boite",
+                "query": "tag:#anglais",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Navigation/Numérique et Musée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Navigation/Numérique et Musée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Transformer son musée.md"
+                "file": "Navigation/Numérique et Musée.md"
               }
             }
           },
@@ -223,17 +225,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ca5229f9aac4e6e",
+  "active": "2349d05eed56ddcf",
   "lastOpenFiles": [
-    "Notes/Boîte à outils.md",
     "Notes/Transformer son musée.md",
-    "Notes/Comment mener un projet numérique.md",
-    "Notes/Comment évaluer un projet numérique.md",
-    "Notes/Comment élaborer une stratégie numérique.md",
-    "Notes/Question - Quels sont les nouveaux formats de contenus.md",
-    "Notes/Question - Comment évaluer un projet numérique.md",
     "Navigation/Numérique et Musée.md",
-    "Notes/MuseumXTD - La face cachée du numérique.md",
-    "Notes/One-by-One.md"
+    "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
+    "Notes/Europeana Impact Playbook.md",
+    "Notes/Initiatives internationales pour la transition numérique des petits et moyens musées.md",
+    "Notes/Comprendre la transformation numérique.md",
+    "Notes/One-by-One.md",
+    "Notes/The adoption of digital technology in the arts.md",
+    "Notes/MuseumXTD - Quel numérique face à la pluralité de cultures numériques.md",
+    "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
   ]
 }
