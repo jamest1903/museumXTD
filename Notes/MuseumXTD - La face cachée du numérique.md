@@ -1,9 +1,7 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
-date: 2022-08-04
-tags: #liens #forum #francais 
-
+tags: liens forum francais 
 ---
 ## La face cachée du numérique  
 [Olivier Ross](https://ca.linkedin.com/in/olivier-ross-b6009854)  

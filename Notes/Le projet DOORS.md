@@ -2,7 +2,7 @@
 title: MuseumXTD  
 layout: layouts/post.njk  
 date: 2022-08-31
-tags: #liens
+tags: liens
 
 ---
 [DOORS: Digital Incubator for Museums](https://ars.electronica.art/doors/en/)
