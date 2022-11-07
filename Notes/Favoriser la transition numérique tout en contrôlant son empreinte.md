@@ -3,8 +3,8 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-### [Favoriser la transition numérique tout en contrôlant son empreinte (intervention)](https://www.museumconnections.com/archives-2022__trashed/retour-sur-museum-connections-2022/transition-numerique/)
-Marguerite Courtel synthétise les enjeux du développement durable, appliqués au secteur des industries culturelles et créatives.  
+### [Favoriser la transition numérique tout en contrôlant son empreinte](https://communicant.info/museum-connections-favoriser-la-transition-numerique-tout-en-controlant-son-empreinte)
+Lors du salon Museum Connection, Marguerite Courtel synthétise les enjeux du développement durable, appliqués au secteur des industries culturelles et créatives.  
 
 ## À retenir
 - Le numérique est responsable de 4% des émissions de gaz à effet de serre (GES) mondiales.

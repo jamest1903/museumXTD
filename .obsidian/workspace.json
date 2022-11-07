@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Virage NumériCQ.md",
+                "file": "Notes/Comment utiliser le numérique de façon durable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "349822bc8c3f8980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2fa82c672f240c0b",
@@ -55,7 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Virage NumériCQ.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Virage NumériCQ.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Virage NumériCQ.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Virage NumériCQ.md"
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
               }
             }
           },
@@ -210,17 +223,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2349d05eed56ddcf",
+  "active": "349822bc8c3f8980",
   "lastOpenFiles": [
-    "Notes/Initiatives internationales pour la transition numérique des petits et moyens musées.md",
-    "Notes/Virage NumériCQ.md",
-    "Notes/Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine.md",
-    "Notes/Une stratégie numérique n'est pas une stratégie marketing.md",
-    "Notes/Un nouveau musée numérique pour une ère nouvelle.md",
-    "Notes/Transition numérique et protection de l’environnement.md",
-    "Notes/Transition écologique et musées.md",
+    "Notes/Comment utiliser le numérique de façon durable.md",
     "Notes/Transformer son musée.md",
-    "Notes/Tips for Digitizing Your Art Collection Easily & Cost Effectively.md",
-    "Notes/The impact of digital technology on arts culture in the UK.md"
+    "Navigation/Numérique et Musée.md",
+    "Notes/Comprendre la transformation numérique.md",
+    "Notes/Quels nouveaux modèles d'affaire grâce au numérique.md",
+    "Notes/Innovating with digital to find new revenue stream for Museums.md",
+    "Notes/Musées, quels modèles économiques à l'ère numérique.md",
+    "Notes/Virage NumériCQ.md",
+    "Notes/Initiatives internationales pour la transition numérique des petits et moyens musées.md",
+    "Notes/Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine.md"
   ]
 }
