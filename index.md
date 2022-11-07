@@ -1,6 +1,8 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
+eleventyNavigation:
+  key: home
 ---
 
 #### **MuseumXTD** est une plateforme de ressources qui s'adresse aux acteurs et actrices de la transition numérique des musées, établi·e·s dans la région lémanique et au-delà. Il peut donc s'agir d'institutions culturelles, de Hautes écoles ou d'entreprises actives dans les domaines de la culture et du numérique.

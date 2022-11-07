@@ -2,6 +2,9 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
+eleventyNavigation:
+  key: process
+  parent: Ramuz
 ---
 ## Processus de développement des modules numériques par les musées de Pully
 | | Intervenants | Objectifs |
