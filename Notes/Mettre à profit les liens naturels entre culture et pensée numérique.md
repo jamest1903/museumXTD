@@ -3,9 +3,9 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-### [Conseil québécois des arts médiatiques. (2018). Mettre à profit les liens naturels entre culture et pensée numérique.](https://www.cqam.org/wp-content/uploads/2019/02/2-formation-gestion.pdf)
+### Mettre à profit les liens naturels entre culture et pensée numérique.](https://www.cqam.org/wp-content/uploads/2019/02/2-formation-gestion.pdf)
 
-Ce document propose une explication et des conseils d'application des méthodes *Lean* et *Agile* au sein d'une organisation culturelle. 
+Le Conseil québécois des arts médiatiques propose une explication et des conseils d'application des méthodes *Lean* et *Agile* au sein d'une organisation culturelle. 
 
 ## A retenir
 - La nécessité de revoir la culture de son organisation dans un contexte dans lequel le numérique est de plus en plus présent.  

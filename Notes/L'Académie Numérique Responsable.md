@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-### [INR (Institut du Numérique Responsable). Académie Numérique Responsable](https://www.academie-nr.org/)
+### [Académie Numérique Responsable](https://www.academie-nr.org/)
 L'Institut du Numérique Responsable propose un MOOC sur le sujet. 
 
 ## À retenir

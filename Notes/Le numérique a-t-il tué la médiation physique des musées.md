@@ -3,8 +3,8 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-### [Roland, A. (2020). Le numérique a-t-il tué la médiation physique des musées ?](https://correspondances.co/le-numerique-a-t-il-tue-la-mediation-physique-des-musees/)
-L'auteur questionne la plus-value du numérique vis-à-vis des médiations sensorielles, humaines ou matérielles mises en place dans les musées. 
+### [Le numérique a-t-il tué la médiation physique des musées ?](https://correspondances.co/le-numerique-a-t-il-tue-la-mediation-physique-des-musees/)
+Antoine Roland questionne la plus-value du numérique vis-à-vis des médiations sensorielles, humaines ou matérielles mises en place dans les musées. 
 
 ## A retenir
 - Le lien entre les publics in situ et les publics en ligne. 

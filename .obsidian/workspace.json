@@ -8,55 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05f3b22cf5b35352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brouillon/Culturecheznous.gouv.fr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6de91390516bc700",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20eedb2d031412ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Les outils numériques liés au marketing et à la communication.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2349d05eed56ddcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brouillon/To-do.md",
+                "file": "Notes/Virage NumériCQ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3830835417cb9ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Initiatives internationales pour la transition numérique des petits et moyens musées.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae668a692c227e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation/Forum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2fa82c672f240c0b",
@@ -68,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Virage NumériCQ.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +103,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -126,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pompidou",
+                "query": "laurent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -163,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Virage NumériCQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Virage NumériCQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes/Virage NumériCQ.md"
               }
             }
           },
@@ -223,17 +210,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92d77023836ba1bc",
+  "active": "2349d05eed56ddcf",
   "lastOpenFiles": [
-    "Brouillon/Coding Da Vinci.md",
-    "Brouillon/Conception participative.md",
-    "Brouillon/Culturecheznous.gouv.fr.md",
-    "Brouillon/Cyber Sain et Sauf - Imaa.md",
-    "Notes/Stéphanie Lugon.md",
-    "Brouillon/How Do Museum Professionals Harness Social Media for Marketing.md",
-    "Notes/MuseumXTD - Plateforme & Case study - Frame 7.jpg",
-    "Notes/Pasted image 20220726124009.png",
-    "Notes/Pasted image 20220620115232.png",
-    "Brouillon/The adoption of digital technology in the arts.png"
+    "Notes/Initiatives internationales pour la transition numérique des petits et moyens musées.md",
+    "Notes/Virage NumériCQ.md",
+    "Notes/Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine.md",
+    "Notes/Une stratégie numérique n'est pas une stratégie marketing.md",
+    "Notes/Un nouveau musée numérique pour une ère nouvelle.md",
+    "Notes/Transition numérique et protection de l’environnement.md",
+    "Notes/Transition écologique et musées.md",
+    "Notes/Transformer son musée.md",
+    "Notes/Tips for Digitizing Your Art Collection Easily & Cost Effectively.md",
+    "Notes/The impact of digital technology on arts culture in the UK.md"
   ]
 }

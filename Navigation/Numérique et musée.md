@@ -22,7 +22,7 @@ Les ressources ont été choisies par nos soins et certaines sections sont encor
 
 [[Comment élaborer une stratégie numérique]]
 
-[[Quelles sont les compétences numériques à acquérir et à développer en interne]]
+[[Quelles sont les compétences numériques à acquérir et à développer en interne|Quelles sont les compétences numériques à acquérir et à développer en interne?]]
 
 [[Boîte à outils]]
 

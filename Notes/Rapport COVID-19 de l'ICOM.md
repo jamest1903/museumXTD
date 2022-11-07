@@ -3,9 +3,9 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[ICOM (2020). Musées, professionnels des musées et COVID-19.](https://icom.museum/wp-content/uploads/2020/05/Rapport-musées-et-COVID-19-1.pdf)
+### [Musées, professionnels des musées et COVID-19.](https://icom.museum/wp-content/uploads/2020/05/Rapport-musées-et-COVID-19-1.pdf)
 
-Le rapport a permis l’analyse de près de 1 600 réponses à l'enquête, recueillies entre le 7 avril 2020 et le 7 mai 2020 auprès des professionnels de musées, représentant 107 pays et 5 continents. 
+Le rapport de l'ICOM a permis l’analyse de près de 1 600 réponses à l'enquête, recueillies entre le 7 avril 2020 et le 7 mai 2020 auprès des professionnels de musées, représentant 107 pays et 5 continents. 
 
 ## A retenir
 - Un [résumé](https://icom.museum/fr/covid-19/enquetes-et-donnees/survey-museums-and-museum-professionals/) des conclusions du rapport de l'ICOM. 

@@ -4,7 +4,6 @@ layout: layouts/post.njk
 tags: liens
 ---
 ### [Virage NumériCQ](https://viragenumeriqc.com/)
-
 Virage NumériCQ est un "service-conseil", porté par l'association Québec numérique, qui a pour but d'accompagner des entreprises et des organismes québécoises dans le développement de leurs compétences numériques et dans la réalisation de leurs projets innovants. Il propose des ressources destinées aux professionnels québécois mais également accessibles à tou.te.s, conçus de manière collaborative par les entités impliquées dans le réseau. 
 
 Il est le résultat de cinq années de travail de Québec numérique dans le cadre d'un appel à projet pour le PCNQ ([Plan Culturel Numérique du Québec](https://culturenumerique.mcc.gouv.qc.ca/ "https://culturenumerique.mcc.gouv.qc.ca/")) lancé par le Ministère de la Culture et des Communications du Québec. 

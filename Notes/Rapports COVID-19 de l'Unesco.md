@@ -3,11 +3,8 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens rapport
 ---
-- [Unesco. (2021). Les musées dans le monde face à la pandémie de covid-19.](https://unesdoc.unesco.org/ark:/48223/pf0000376729)
-- [Unesco. (2020). Les musées dans le monde face à la pandémie de covid-19.](https://unesdoc.unesco.org/ark:/48223/pf0000373530_fre)
-
-
-En 2020 et 2021, l'Unesco a publié des rapports sur l'impact du COVID-19 sur les musées dans le monde. 
+### [Les musées dans le monde face à la pandémie de covid-19.](https://unesdoc.unesco.org/ark:/48223/pf0000376729)
+En 2021, l'Unesco a publié un nouveau rapport sur l'impact du COVID-19 sur les musées dans le monde, à la suite d'un premier en 2020 ([lien ici](https://unesdoc.unesco.org/ark:/48223/pf0000373530_fre)). 
 
 ## A retenir
 - Les tendances clés et synthèses en début des rapports de l'Unesco. 

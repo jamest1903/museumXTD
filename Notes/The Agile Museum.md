@@ -3,10 +3,8 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-### [Feldman, K. et Hegley, D. (2015). The Agile Museum - présentation](https://www.slideshare.net/dhegley/the-agile-museum-21st-century-leadership)
-[Hegley, D., Tongen, M. et David, A. (2016). The Agile Museum - article](https://mw2016.museumsandtheweb.com/paper/the-agile-museum/)
-
-Cet article traite de la possibilité d'adopter les méthodes de management, comme Lean ou Agile, dans les musées et d'implémenter progressivement leurs pratiques. 
+### [The Agile Museum](https://mw2016.museumsandtheweb.com/paper/the-agile-museum/)
+Cet article traite de la possibilité d'adopter les méthodes de management, comme Lean ou Agile, dans les musées et d'implémenter progressivement leurs pratiques. Il a fait l'objet d'une présentation (document accessible [ici](https://www.slideshare.net/dhegley/the-agile-museum-21st-century-leadership))  
 
 ## A retenir
 - Une synthèse de différentes méthodes de leadership (*Lean*, *Agile*, *Radical* et *Open*).

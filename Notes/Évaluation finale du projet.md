@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-### [Confédération suisse. Hermes online: évaluation finale de projet.](https://www.hermes.admin.ch/fr/gestion-du-projet/comprendre/resultats/evaluation-finale-du-projet.html)
+### [Hermes online: évaluation finale de projet.](https://www.hermes.admin.ch/fr/gestion-du-projet/comprendre/resultats/evaluation-finale-du-projet.html)
 La méthodologie de projet HERMES intègre un module d'évaluation finale, quel que soit l'objet du projet. 
 
 ## A retenir

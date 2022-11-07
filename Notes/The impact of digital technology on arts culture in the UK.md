@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: liens
 ---
 
-### [Cîrstea, A-M., Mutebi, N. (2022). The impact of digital technologies on arts and culture in the UK.](https://researchbriefings.files.parliament.uk/documents/POST-PN-0669/POST-PN-0669.pdf)    
+### [The impact of digital technologies on arts and culture in the UK.](https://researchbriefings.files.parliament.uk/documents/POST-PN-0669/POST-PN-0669.pdf)    
 Ce rapport synthétise les dynamiques des nouvelles technologies dans le secteur des arts et de la culture au Royaume-Uni.
 
 ## A retenir
@@ -14,8 +14,7 @@ Ce rapport synthétise les dynamiques des nouvelles technologies dans le secteur
 - La **taille des institutions** jouent sur leur capacité à utiliser le numérique. Alors que les institutions plus importantes ont bénéficié de la période de COVID-19, les plus petites entités ont du changer leur modèle d'affaire et développer des compétences en interne pour utiliser le numérique. Ainsi, nombreuses sont celles pour qui l'utilisation du numérique n'est pas rentable.
 - L'importante bibliographie renvoie vers une littérature variée et intéressante. 
 
-Les [*POSTNotes*](https://post.parliament.uk/research/) sont des synthèses destinées aux membres du parlement du Royaume-Uni
-concernant des questions politiques ayant un fondement scientifique et technologique.
+Les [*POSTNotes*](https://post.parliament.uk/research/) sont des synthèses destinées aux membres du parlement du Royaume-Uni concernant des questions politiques ayant un fondement scientifique et technologique.
 
 
 Apparaît dans [[Les technologies immersives (XR)]], [[Les autres technologies émergeantes]], [[Technologies, quelles tendances]]

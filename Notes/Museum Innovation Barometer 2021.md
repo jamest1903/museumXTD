@@ -3,9 +3,9 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens rapport communication financement projet
 ---
-### [MUSEUM BOOSTER (2021). Museum innovation Barometer](https://museumbooster.com/wp-content/uploads/2021/08/Museum-Innovation-Barometer-2021.pdf)
+### [Museum innovation Barometer](https://museumbooster.com/wp-content/uploads/2021/08/Museum-Innovation-Barometer-2021.pdf)
 
-Il s'agit d'un sondage effectué entre décembre 2020 et mai 2021 auprès de professionnel.les de musées du monde entier. Il analyse l'impact du COVID-19 sur les activités d'environ 200 musées ainsi que le recours au numérique. 
+Il s'agit d'un sondage effectué par l'agence [MUSEUM BOOSTER](https://museumbooster.com/) entre décembre 2020 et mai 2021 auprès de professionnel.les de musées du monde entier. Il analyse l'impact du COVID-19 sur les activités d'environ 200 musées ainsi que le recours au numérique. 
 
 ## A retenir
 - Pourquoi utiliser le numérique en 2020 dans les musées (p. 14). 

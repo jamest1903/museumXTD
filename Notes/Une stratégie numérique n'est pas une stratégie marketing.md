@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-### [Chénier, A. et Vincent, F. (2017). Une stratégie numérique n'est pas une stratégie marketing](https://cpour.ca/2017/02/14/une-strategie-numerique-nest-pas-une-strategie-marketing/).
-
+### [Une stratégie numérique n'est pas une stratégie marketing](https://cpour.ca/2017/02/14/une-strategie-numerique-nest-pas-une-strategie-marketing/)
 Les auteurs de cet article définissent la stratégie numérique en partant de ce qu'elle n'est pas.  
 
 ## À retenir

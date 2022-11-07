@@ -3,8 +3,8 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-### [Sermondadaz, S. (2021). La vérité sur l’empreinte carbone du numérique.](https://www.heidi.news/explorations/green-it-ou-les-paris-suisses-de-l-informatique-durable/la-verite-sur-l-empreinte-carbone-du-numerique)    
-L'auteure explique et illustre, par des constats étonnants, ce qui se cache derrière l'évaluation de l'empreinte carbone en kilogrammes équivalent CO2.   
+### [La vérité sur l’empreinte carbone du numérique.](https://www.heidi.news/explorations/green-it-ou-les-paris-suisses-de-l-informatique-durable/la-verite-sur-l-empreinte-carbone-du-numerique)    
+[Sarah Sermondadaz](https://www.heidi.news/profil/sarah-sermondadaz) explique et illustre, par des constats étonnants, ce qui se cache derrière l'évaluation de l'empreinte carbone en kilogrammes équivalent CO2.   
 
 ## À retenir
 - Le calcul de l’empreinte carbone de nos activités numériques, en kilogrammes équivalent CO2. 
@@ -17,7 +17,6 @@ L'auteure explique et illustre, par des constats étonnants, ce qui se cache der
 	- La consommation électrique d'une borne WiFi n’est pas proportionnelle à la quantité de données transmises, puisqu'elle est souvent allumée en permanence.  
 -   La découverte du site internet [Low Tech Magazine](https://solar.lowtechmagazine.com/fr/), qui fonctionne grâce à de l’électricité solaire produite à Barcelone.
   
-[Sarah Sermondadaz](https://www.heidi.news/profil/sarah-sermondadaz) est une ingénieur de formation et journaliste scientifique qui travaille pour [Heidi News](https://www.heidi.news/). 
 
 
 Apparaît dans [[Comment utiliser le numérique de façon durable]]

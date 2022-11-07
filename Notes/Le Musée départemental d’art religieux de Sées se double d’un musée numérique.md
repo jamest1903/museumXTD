@@ -1,9 +1,9 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens mediation
+tags: liens
 ---
-### [Culture Matin (2022). Patrimoine : le Musée départemental d’art religieux de Sées (Orne) se double d’un musée numérique.](https://www.culturematin.com/publics/mediation/pratiques/patrimoine-le-musee-departemental-d-art-religieux-de-sees-orne-se-double-d-un-musee-numerique.html?nl=102360&utm_source=email&utm_id=262150&utm_campaign=newsletter-culturematin-2022-08-31)
+### [Patrimoine : le Musée départemental d’art religieux de Sées (Orne) se double d’un musée numérique.](https://www.culturematin.com/publics/mediation/pratiques/patrimoine-le-musee-departemental-d-art-religieux-de-sees-orne-se-double-d-un-musee-numerique.html?nl=102360&utm_source=email&utm_id=262150&utm_campaign=newsletter-culturematin-2022-08-31)
 Florence Caillet-Baraniak raconte le développement du projet Hors les murs du musée départemental d'art religieux de Sées en France. Celui-ci vise à numériser une grande partie des collections du musée, qui ne peut être exposée.
 
 ## A retenir  

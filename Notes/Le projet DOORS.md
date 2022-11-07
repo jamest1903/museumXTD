@@ -5,7 +5,6 @@ tags: liens
 
 ---
 ### [DOORS: Digital Incubator for Museums](https://ars.electronica.art/doors/en/)
-
 Le projet DOORS est un programme de soutien favorisant la transformation numérique des petits et moyens musées européens. 
 
 ## À retenir

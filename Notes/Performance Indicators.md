@@ -5,7 +5,7 @@ tags: liens
 ---
 [Navarrete, T. (2020). Performance Indicators.](https://repub.eur.nl/pub/127010)
 
-L'auteure aborde la question des indicateurs particuliers au secteur patrimonial et les classe en trois types. 
+[Trilce Navarrete](https://trilcenavarrete.com/) aborde la question des indicateurs particuliers au secteur patrimonial et les classe en trois types. 
 
 ## A retenir
 - Une typologie des indicateurs (p.2).
@@ -13,7 +13,7 @@ L'auteure aborde la question des indicateurs particuliers au secteur patrimonial
 - Le manuel de l'Unesco [Culture for development indicators: methodology manual](https://unesdoc.unesco.org/ark:/48223/pf0000229608). 
 - Une bibliographie sur l'évaluation et les indicateurs dans le secteur culturel. 
   
-[Trilce Navarrete](https://trilcenavarrete.com/) est une chercheuse en humanités digitales. Voir également son entretien dans [[Musées et numérique]] et son article sur le [[Crowdsourcing the digital transformation of heritage|crowdsourcing]]. 
+Ressources similaires: son entretien dans [[Musées et numérique]] et son article sur le [[Crowdsourcing the digital transformation of heritage|crowdsourcing]]. 
 
 
 Apparaît dans [[Comment évaluer un projet numérique]]

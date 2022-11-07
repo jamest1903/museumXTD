@@ -3,8 +3,8 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens anglais
 ---
-### [ICOM et l'Université de  Genève (2020). Digitization of Museum Collections.](https://www.digitizationpolicies.com)
-Cette publication vise à clarifier les principes généraux en matière de droit d'auteur et formuler des politiques pour faciliter les activités des musées dans l'environnement numérique.
+### [Digitization of Museum Collections.](https://www.digitizationpolicies.com)
+Cette publication de l'ICOM et de l'Université de Genève vise à clarifier les principes généraux en matière de droit d'auteur et formuler des politiques pour faciliter les activités des musées dans l'environnement numérique.
 
 ## A retenir
 - Trois axes: 

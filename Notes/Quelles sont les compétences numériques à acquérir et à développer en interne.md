@@ -1,6 +1,7 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
+alias: [Quelles sont les compétences numériques à acquérir et à développer en interne?]
 tags: question 
 ---
 # **Quelles sont les compétences numériques à acquérir et à développer en interne?**

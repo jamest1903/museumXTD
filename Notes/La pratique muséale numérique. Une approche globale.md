@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens strategie
 ---
-### [AMS (2020). La pratique muséale numérique. Une approche globale.](http://msw.be/wp-content/uploads/2020/01/VMS_Digitalisierung_F_Web.pdf) 
+### [La pratique muséale numérique. Une approche globale.](http://msw.be/wp-content/uploads/2020/01/VMS_Digitalisierung_F_Web.pdf) 
 Ce document de l'AMS donne une définition de la stratégie numérique ainsi que les grandes étapes de son élaboration. Il présente des idées de mise en pratique (projets numériques, application web, *gamification*, etc.) et des projets de musées suisses. 
 
 

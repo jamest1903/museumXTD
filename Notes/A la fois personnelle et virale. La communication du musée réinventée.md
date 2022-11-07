@@ -3,8 +3,8 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-### [Simòn Diez, A. (2020). A la fois personnelle et virale : la communication du musée réinventée.](https://icom.museum/fr/news/communication-musee-reinventee/)
-L'auteure évoque les grandes tendances des réseaux sociaux et la manière dont les musées peuvent s'adapter. 
+### [A la fois personnelle et virale : la communication du musée réinventée.](https://icom.museum/fr/news/communication-musee-reinventee/)
+Ainhoa Simón Diez évoque les grandes tendances des réseaux sociaux et la manière dont les musées peuvent s'adapter. 
 
 ## A retenir
 - Comment les grandes tendances de réseaux sociaux influencent la communication des musées.   

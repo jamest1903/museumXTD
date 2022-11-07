@@ -2,10 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-06-14
-tags: #liens #outils #infrastructure
+tags: liens 
 ---
 ### [LEHMANN, M. Le numérique, une formidable occasion pour la culture.](https://www.hub01.org/le-numerique-une-formidable-occasion-pour-la-culture/)   
-L'auteure aborde les concepts clés du numérique et propose au secteur culturel de s'inspirer des méthodes de gestion organisationnelle du numérique.  
+[Mériol Lehmann](https://mlehmann.ca/about) aborde les concepts clés du numérique et propose au secteur culturel de s'inspirer des méthodes de gestion organisationnelle du numérique.  
 
 ## A retenir
 - Les **concepts clés du numérique** sont
@@ -22,8 +22,7 @@ L'auteure aborde les concepts clés du numérique et propose au secteur culturel
 	- "Pourquoi **réaliser un plan** si nous ne sommes pas pour le suivre ? [...] Il est essentiel de réaliser des plans stratégiques pour avoir une idée claire où nous devons mener notre organisation. Ce qui est important par contre, c’est de continuellement évaluer notre plan stratégique, afin de s’assurer que nous sommes toujours dans la bonne direction, avec le meilleur chemin possible pour y arriver."
 
 
-[Mériol Lehmann](https://mlehmann.ca/about) est un artiste et consultant en culture numérique, vivant au Québec.    
-Il publie cet article pour [0/1 - Hub numérique](https://www.hub01.org/a-propos/), un organisme québécois fondé par Sporobole, qui vise à rendre accessibles les ressources et expertises nécessaires à la transformation numérique du milieu culturel et sans but lucratif. 0/1 - Hub numérique fait partie du [Réseau ADN](https://wiki.reseauadn.ca/wiki/%C3%80_propos_du_R%C3%A9seau_ADN) (Agent Du Numérique). Retrouvez [[MuseumXTD - La face cachée du numérique|l'intervention]] du directeur opérationnel au forum MuseumXTD le 12 octobre 2022. 
+L'article est publié pour [0/1 - Hub numérique](https://www.hub01.org/a-propos/), un organisme québécois fondé par Sporobole, qui vise à rendre accessibles les ressources et expertises nécessaires à la transformation numérique du milieu culturel et sans but lucratif. 0/1 - Hub numérique fait partie du [Réseau ADN](https://wiki.reseauadn.ca/wiki/%C3%80_propos_du_R%C3%A9seau_ADN) (Agent Du Numérique). Retrouvez [[MuseumXTD - La face cachée du numérique|l'intervention]] du directeur opérationnel au forum MuseumXTD le 12 octobre 2022. 
 
    
 Apparaît dans [[Culture numérique]]
