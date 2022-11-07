@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-Bolli, L. (2022). Les étapes de numérisation des objets.
+### Bolli, L. (2022). Les étapes de numérisation des objets.
 
 Ci-dessous un schéma simplifié du processus de numérisation des objets de patrimoine.  
 

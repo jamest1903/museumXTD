@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8538ed445a0c9837",
+            "id": "05f3b22cf5b35352",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
+                "file": "Brouillon/Culturecheznous.gouv.fr.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "34a3b1275080fb06",
+            "id": "6de91390516bc700",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Musées et mondes numériques (Introduction).md",
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20eedb2d031412ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Les outils numériques liés au marketing et à la communication.md",
                 "mode": "preview",
                 "source": false
               }
@@ -37,9 +49,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/To-do.md",
+                "file": "Brouillon/To-do.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2fa82c672f240c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d77023836ba1bc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "README.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": false,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               }
             }
           }
@@ -72,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "to-do",
+                "query": "pompidou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,17 +223,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8538ed445a0c9837",
+  "active": "92d77023836ba1bc",
   "lastOpenFiles": [
-    "Notes/To-do.md",
-    "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
-    "Notes/Quels sont les opportunités et les freins.md",
-    "Notes/Musées et mondes numériques (Introduction).md",
-    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
-    "Notes/Etudes Culture & Covid19.md",
-    "Notes/Numérique et musée, quelques définitions.md",
-    "Notes/Quels nouveaux modèles d'affaire grâce au numérique.md",
-    "Notes/Exemples de projets de médiation.md",
-    "Notes/Le numérique a-t-il tué la médiation physique des musées.md"
+    "Brouillon/Coding Da Vinci.md",
+    "Brouillon/Conception participative.md",
+    "Brouillon/Culturecheznous.gouv.fr.md",
+    "Brouillon/Cyber Sain et Sauf - Imaa.md",
+    "Notes/Stéphanie Lugon.md",
+    "Brouillon/How Do Museum Professionals Harness Social Media for Marketing.md",
+    "Notes/MuseumXTD - Plateforme & Case study - Frame 7.jpg",
+    "Notes/Pasted image 20220726124009.png",
+    "Notes/Pasted image 20220620115232.png",
+    "Brouillon/The adoption of digital technology in the arts.png"
   ]
 }

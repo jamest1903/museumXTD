@@ -1,11 +1,10 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
-date: 2022-08-31
 tags: liens
 
 ---
-[DOORS: Digital Incubator for Museums](https://ars.electronica.art/doors/en/)
+### [DOORS: Digital Incubator for Museums](https://ars.electronica.art/doors/en/)
 
 Le projet DOORS est un programme de soutien favorisant la transformation numérique des petits et moyens musées européens. 
 

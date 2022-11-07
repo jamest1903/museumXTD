@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Culture Laval. (2018). Marketing numérique]()
-
+### [Culture Laval. (2018). Marketing numérique]()
 Culture Laval définit entre autre ce qu'est le marketing numérique. 
 
 ## A retenir

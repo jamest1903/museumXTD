@@ -1,10 +1,10 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens technologies rapport competence
+tags: liens
 ---
 
-[Cîrstea, A-M., Mutebi, N. (2022). The impact of digital technologies on arts and culture in the UK.](https://researchbriefings.files.parliament.uk/documents/POST-PN-0669/POST-PN-0669.pdf)    
+### [Cîrstea, A-M., Mutebi, N. (2022). The impact of digital technologies on arts and culture in the UK.](https://researchbriefings.files.parliament.uk/documents/POST-PN-0669/POST-PN-0669.pdf)    
 Ce rapport synthétise les dynamiques des nouvelles technologies dans le secteur des arts et de la culture au Royaume-Uni.
 
 ## A retenir

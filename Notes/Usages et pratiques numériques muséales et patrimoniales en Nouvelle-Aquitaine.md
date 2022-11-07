@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens projet strategie
 ---
-
-[Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine](https://www.culture-nouvelle-aquitaine.fr/wp-content/uploads/2022/03/EBook_NouvelleAquitaine_Vfinale_allegee.pdf)
+### [Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine](https://www.culture-nouvelle-aquitaine.fr/wp-content/uploads/2022/03/EBook_NouvelleAquitaine_Vfinale_allegee.pdf)
 
 Ce dossier présente 6 usages et pratiques du numérique, sous forme de *chroniques*, à travers différents projets menés dans le secteur culturel de la région Nouvelle-Aquitaine en France. 
 

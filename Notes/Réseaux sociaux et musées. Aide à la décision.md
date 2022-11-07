@@ -3,9 +3,8 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[AMS. (2014). Réseaux sociaux et musées. Aide à la décision](https://www.museums.ch/fr/publications/standards/r%C3%A9seaux-sociaux.html)
-
- Cette brochure développe quelques points important à connaître pour commencer à utiliser les médias sociaux dans l’environnement des musées.
+### [AMS. (2014). Réseaux sociaux et musées. Aide à la décision](https://www.museums.ch/fr/publications/standards/r%C3%A9seaux-sociaux.html)
+Cette brochure développe quelques points important à connaître pour commencer à utiliser les médias sociaux dans l’environnement des musées.
 
 ## A retenir
 - La définition des *réseaux sociaux* et l'intérêt de leur utilisation dans un cadre muséal (p. 2)

@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[Roland, A. (2018). Numérique : quelles compétences nécessaires pour les professionnels des musées ?](https://medium.com/correspondances-digitales/num%C3%A9rique-quelles-comp%C3%A9tences-n%C3%A9cessaires-pour-les-professionnels-des-mus%C3%A9es-7aebc15d330f)
-
+### [Roland, A. (2018). Numérique : quelles compétences nécessaires pour les professionnels des musées ?](https://medium.com/correspondances-digitales/num%C3%A9rique-quelles-comp%C3%A9tences-n%C3%A9cessaires-pour-les-professionnels-des-mus%C3%A9es-7aebc15d330f)
 L'auteur énumère les compétences développées par les professionnel·le·s des musées depuis ces dernières années pour travailler avec le numérique. 
 
 ## À retenir

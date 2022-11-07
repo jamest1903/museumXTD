@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens outils strategie management
+tags: liens
 ---
 ### [Virage NumériCQ](https://viragenumeriqc.com/)
 

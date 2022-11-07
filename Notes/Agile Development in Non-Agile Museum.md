@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens management competence
+tags: liens 
 ---
 ### [Dahlbom, T. (2020). Agile Development in Non-Agile Museum](https://www.museumnext.com/article/agile-development-in-non-agile-museum/)
 Taika Dahlbom, Web Producer à la Finnish National Gallery, évoque les enjeux de la collaboration du musée avec l'équipe de développement du site internet. 

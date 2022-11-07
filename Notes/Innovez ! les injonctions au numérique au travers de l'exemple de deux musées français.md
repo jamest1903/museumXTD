@@ -8,9 +8,7 @@ Les auteurs de cet article analysent les injonctions dans le discours véhiculé
 - Celui de l'équipement numérique
 - Celui de la participation
 
-Ces impératifs sont illustrés à travers la stratégie numérique de deux musées français:
-- Le musée Arleaton d'Arles
-- La Réunion des musées nationaux (RMN-Grand Palais) à Paris.
+Ces impératifs sont illustrés à travers la stratégie numérique de deux musées français (le musée Arleaton d'Arles et la Réunion des musées nationaux (RMN-Grand Palais) à Paris).
 
 
 ## À retenir

@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[González Jamett, C. (2021). Transition numérique et protection de l’environnement : deux démarches vraiment conciliables ?](https://topolitique.ch/2021/05/31/transition-numerique-et-protection-de-lenvironnement-deux-demarches-vraiment-conciliables/)
+### [González Jamett, C. (2021). Transition numérique et protection de l’environnement : deux démarches vraiment conciliables ?](https://topolitique.ch/2021/05/31/transition-numerique-et-protection-de-lenvironnement-deux-demarches-vraiment-conciliables/)
 
 L'auteure questionne la compatibilité entre la transition numérique et la transition écologique. 
 

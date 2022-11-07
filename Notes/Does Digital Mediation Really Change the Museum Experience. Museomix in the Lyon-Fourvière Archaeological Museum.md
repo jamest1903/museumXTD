@@ -1,10 +1,10 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens mediation contenunumerique rapport
+tags: liens
 ---
 
-[Roederer C., Revat R., Pallud J. (2020), Does Digital Mediation Really Change the Museum Experience? Museomix in the Lyon-Fourvière Archaeological Museum, _International Journal of Arts Management,_ 22(3), 108-123.]()
+### [Roederer C., Revat R., Pallud J. (2020), Does Digital Mediation Really Change the Museum Experience? Museomix in the Lyon-Fourvière Archaeological Museum](https://www.researchgate.net/publication/343365884_Does_Digital_Mediation_Really_Change_the_Museum_Experience_Museomix_in_the_Lyon-Fourviere_Archaeological_Museum)
 
 Cet article de 2020 étudie l'impact des dispositifs de médiation numérique sur l'expérience muséale des visiteurs lors d'une exposition au musée archéologique de Lyon-Fourvière en 2012. 
 
@@ -22,7 +22,7 @@ Cette recherche a pour objectif d'aboutir à de meilleurs choix stratégiques po
 
 - **L'authenticité d'un artefact**: l'authenticité est un concept complexe qui ne résulte pas d'une qualité interne de l'objet mais décrit le processus avec le visiteur. 
 	- Grayson et Martinec (2004) distinguent l'authenticité indexicale, qui provient d'une connexion spatio-temporelle (le visiteur peut enraciner l'objet dans la réalité), et l'authenticité iconique, qui se réfère à des reproductions fidèles aux originaux. 
-	- Benjamin (1935/1969) a théorisé l'"aura" d'une œuvre d'art dans un contexte de reproduction industrielle: plus elle est rare, moins son aura est endommagée. 
+	- Benjamin (1935/1969) a théorisé l'*aura* d'une œuvre d'art dans un contexte de reproduction industrielle: plus elle est rare, moins son aura est endommagée. 
 		- Cela implique que les technologies numériques peuvent respecter l'authenticité des contenus anciens et originaux si leur rareté est prise en compte. 
 	- [[Authenticité et numérique (Evards et Krebs, 2017)|Evrard et Krebs (2017)]] ont conçu une échelle tridimensionnelle pour qualifier l'impact des technologies numériques sur l'aura d'un objet: complémentarité, substituabilité et authenticité. 
 
@@ -33,6 +33,7 @@ La typologie dressée par les auteurs se fonde sur la mesure développée par [[
 |Evard et Krebs (2017)|"nothing can replace the direct contact with artworks" | "the digital reproduction of an artwork can replace the direct contact with the genuine artwork" | "both of them are interdependent, since their respective benefits are different"|
 | Roederer, Revat et Pallud (2020) |"Applications not related to a specific object"|"Applications linking one object to another”|"Applications located on the object itself”|
 
+### Conclusion
 Les résultats de l'étude montrent que: 
 - La valeur n'est créée que si les applications de médiation apportent du sens au visiteur. Les applications les moins appréciées des visiteurs sont celles dont l'objectif n'étaient pas clairs.  
 - Certains dispositifs parviennent à réduire la distance psychologique et à créer des familiarités avec l'objet exposé, en jouant sur la narration et en intégrant les connaissances du public dans le dispositif: "Si les technologies améliorent l'expérience, leurs avantages peuvent être limités si le niveau de connaissance du visiteur n'est pas intégré au processus de médiation".

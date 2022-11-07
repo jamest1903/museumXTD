@@ -2,7 +2,6 @@
 title: MuseumXTD  
 layout: layouts/post.njk  
 tags: question 
-
 ---
 # **Quelles sont les compétences numériques à acquérir et à développer en interne?**
 Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire différents de ceux des équipes des musées. Néanmoins:

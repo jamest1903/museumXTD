@@ -1,10 +1,10 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens mediation
+tags: liens 
 ---
 
-[Lebrun, L. (24.01.2022) Numérique et culture : la quête de l’indispensable complémentarité.](https://www.lejournaldesarts.fr/numerique-et-culture-la-quete-de-lindispensable-complementarite-158691)
+### [Lebrun, L. (24.01.2022) Numérique et culture : la quête de l’indispensable complémentarité.](https://www.lejournaldesarts.fr/numerique-et-culture-la-quete-de-lindispensable-complementarite-158691)
 
 La conférence rassemble trois professionnel·le·s d'institutions culturelles autour de l'intérêt et des tendances de l'utilisation du numérique pour les publics de la culture. 
 

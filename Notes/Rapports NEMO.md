@@ -3,8 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-[NEMO reports on COVID-19 and museums (2020 & 2021).](https://www.ne-mo.org/advocacy/our-advocacy-work/museums-during-covid-19.html)
-
+### [NEMO reports on COVID-19 and museums (2020 & 2021).](https://www.ne-mo.org/advocacy/our-advocacy-work/museums-during-covid-19.html)
 Le Network of European Museum Organisations (NEMO) a publié 3 rapports à partir de 2 enquêtes sur les conséquences de la période de COVID-19 sur les musées, en mettant en évidence le développement de services numériques. 
 
 ## A retenir (du rapport 2021)

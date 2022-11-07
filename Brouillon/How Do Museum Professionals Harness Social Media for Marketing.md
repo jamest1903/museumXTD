@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens communication
+tags: liens
 ---
 
 [Manuel Charr (2019). How Do Museum Professionals Harness Social Media for Marketing. MuseumNext]([How Do Museum Professionals Harness Social Media for Marketing? - MuseumNext](https://www.museumnext.com/article/how-do-museum-professionals-harness-social-media-for-marketing/))
