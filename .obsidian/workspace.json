@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Numérique et Musée.md"
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md"
               }
             }
           },
@@ -227,15 +227,15 @@
   },
   "active": "2349d05eed56ddcf",
   "lastOpenFiles": [
-    "Notes/Transformer son musée.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Navigation/Numérique et Musée.md",
+    "Notes/Transformer son musée.md",
     "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
     "Notes/Europeana Impact Playbook.md",
     "Notes/Initiatives internationales pour la transition numérique des petits et moyens musées.md",
     "Notes/Comprendre la transformation numérique.md",
     "Notes/One-by-One.md",
     "Notes/The adoption of digital technology in the arts.md",
-    "Notes/MuseumXTD - Quel numérique face à la pluralité de cultures numériques.md",
-    "Notes/Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
+    "Notes/MuseumXTD - Quel numérique face à la pluralité de cultures numériques.md"
   ]
 }
