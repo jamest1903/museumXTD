@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
+                "file": "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34a3b1275080fb06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Musées et mondes numériques (Introduction).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,79 +37,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "f68e2fa9071c8cef"
-          },
-          {
-            "id": "4f83ada119e4a8c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Comment mener un projet numérique.md",
+                "file": "Notes/To-do.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b91d7a68dc33a324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Question - Quels sont les nouveaux formats de contenus.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "92bebed3b309821e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "05d7e6c3f884c181",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": false,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "f68e2fa9071c8cef"
           }
         ]
       }
@@ -128,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#anglais",
+                "query": "to-do",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -165,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+                "file": "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+                "file": "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md"
+                "file": "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md"
               }
             }
           },
@@ -225,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2349d05eed56ddcf",
+  "active": "8538ed445a0c9837",
   "lastOpenFiles": [
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Navigation/Numérique et Musée.md",
-    "Notes/Transformer son musée.md",
-    "Notes/MuseumXTD - Outils numériques, l’éloge de la parcimonie.md",
-    "Notes/Europeana Impact Playbook.md",
-    "Notes/Initiatives internationales pour la transition numérique des petits et moyens musées.md",
-    "Notes/Comprendre la transformation numérique.md",
-    "Notes/One-by-One.md",
-    "Notes/The adoption of digital technology in the arts.md",
-    "Notes/MuseumXTD - Quel numérique face à la pluralité de cultures numériques.md"
+    "Notes/To-do.md",
+    "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
+    "Notes/Quels sont les opportunités et les freins.md",
+    "Notes/Musées et mondes numériques (Introduction).md",
+    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+    "Notes/Etudes Culture & Covid19.md",
+    "Notes/Numérique et musée, quelques définitions.md",
+    "Notes/Quels nouveaux modèles d'affaire grâce au numérique.md",
+    "Notes/Exemples de projets de médiation.md",
+    "Notes/Le numérique a-t-il tué la médiation physique des musées.md"
   ]
 }

@@ -4,7 +4,6 @@ layout: layouts/post.njk
 tags: 
 ---
 
-- [ ] Écrire les fiches synthèses manquantes
 - [ ] Uniformiser la documentation pour un utilisateur *externe* (persona = Nathalie)
 	- [ ] Utilisation de l'adresse mail webmaster
 	- [ ] Uniformisation de la langue utilisée 
@@ -17,4 +16,4 @@ tags:
 - [ ] Cleaner l'Obsidian
 	- [ ] retirer les fichiers qui ne servent plus
 - [ ] Organisation de l'information
-	- [ ] Formaliser un schéma de la gestion de l'information (internet/externe) sur Miro
+	- [ ] Formaliser un schéma de la gestion de l'information (internet/externe)
