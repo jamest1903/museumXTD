@@ -51,6 +51,16 @@
         </div>
       </nav>
     </div>
+    <div id="breadCrumbs">
+      {% if(eleventyNavigation.key) %}
+        {% set crumbs = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key, {handleMissing: true}) %}
+        {% for crumb in crumbs %}
+          <a class="crumb" href="{{ crumb.url | url }}">{{ crumb.title }}</a>
+          ...
+        {% endfor %}
+      {%endif%}
+    </div>
+
     {{ content | safe }}
     <footer>
       <div id="mastfoot">
@@ -60,8 +70,11 @@
     <div id="footer-padding"></div>
   </body>
   <script defer>
-    document.getElementById('searchString').addEventListener('input', (event) => {
-      search();
-    });
+    const searchElement = document.getElementById('searchString')
+    if (searchElement) {
+      searchElement.addEventListener('input', (event) => {
+        search();
+      });
+    }
   </script>
 </html>

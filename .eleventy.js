@@ -1,6 +1,7 @@
 const fs = require("fs")
 const path = require("path")
 const {parse} = require('csv-parse/sync');
+const NavigationPlugin = require('@11ty/eleventy-navigation');
 let avoid=['.eleventy.js','.git','.gitignore','.obsidian','assets','css','docs','node_modules','tables','_data','_includes','package.json','package-lock.json'];
 
 const getAllFiles = function(dirPath, arrayOfFiles) {
@@ -65,6 +66,8 @@ function readCSV(name) {
 }
 
 module.exports = config => {
+  // add NavigationPlugin for breadcrumbs links
+  config.addPlugin(NavigationPlugin);
   // Set directories to pass through to the dist folder
   config.addPassthroughCopy('./images/');
   config.addPassthroughCopy("./css");
