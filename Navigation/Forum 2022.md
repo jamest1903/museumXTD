@@ -15,7 +15,7 @@ Le forum **MuseumXTD** s'est déroulé les 12 et 13 octobre 2022. Ce symposium a
 
 <picture>
   <source media="(min-width: 600px)" srcset="/images/MXTD_visuel2022_c.png" />
-  <img alt="Anneau fin recouvert d'un damier gris et blanc" src="/images/Logo-Concilio.svg" width="200" height="200">>
+  <img alt="Anneau fin recouvert d'un damier gris et blanc" src="/images/Logo-Concilio.svg" aligne="center" width="200" height="200">
 </picture>
 
 Retrouver l'ensemble des conférences sur notre [chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
