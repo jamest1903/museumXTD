@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b8b9da9beb44ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Programme et intervenants J1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "89f0f611acdf58ed",
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Forum 2022.md",
+                "file": "Notes/Programme et intervenants J1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Forum 2022.md",
+                "file": "Notes/Programme et intervenants J1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Forum 2022.md"
+                "file": "Notes/Programme et intervenants J1.md"
               }
             }
           },
@@ -200,12 +213,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1b86328062a64d16",
+  "active": "5b8b9da9beb44ce3",
   "lastOpenFiles": [
+    "Navigation/Forum 2022.md",
     "Notes/Programme et intervenants J1.md",
     "Notes/Programme et intervenants J2.md",
     "index.md",
-    "Navigation/Forum 2022.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/MuseumXTD - Programme Forum 2022 (maj 06.10.2022).pdf",

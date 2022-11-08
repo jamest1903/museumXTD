@@ -78,5 +78,3 @@ Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda
 - [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/), Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
 - [Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/), Directrice, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
 
-
----
