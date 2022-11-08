@@ -11,29 +11,11 @@ Le forum **MuseumXTD** s'est déroulé les 12 et 13 octobre 2022. Ce symposium a
 
 - **Jeudi 13 octobre (9h-12h)**: présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
 
-[Programme 2022](#Programme) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
-
 ![Anneau fin recouvert d'un damier gris et blanc|200](/images/MXTD_visuel2022_c.png)
+######**Retrouver l'ensemble des conférences sur notre [chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)**
+######**[Programme PDF](obsidian://open?vault=museumXTD&file=Notes%2FMuseumXTD%20-%20Programme%20Forum%202022%20(maj%2006.10.2022).pdf)**
+[[Programme et intervenants|En savoir plus]]
 
+[[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz|Le projet Ramuz]]
 
-## [[Programme et intervenants]]
-
-
-
----
-
----
-
-
-## Lieu et accès
-
-**HEIG-VD** (site Cheseaux)  
-Yverdon-les-Bains 
-[Carte](https://goo.gl/maps/k6dTMcB7x87BePqw6)
-
----
-
----
-
-## Live / A revoir
-Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  
+[[A propos]]

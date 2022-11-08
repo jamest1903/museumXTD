@@ -1,6 +1,7 @@
 ---
 title: MuseumXTD - Forum
 layout: layouts/post.njk
+alias: [Le projet Ramuz]
 eleventyNavigation:
   key: Ramuz
   parent: home
