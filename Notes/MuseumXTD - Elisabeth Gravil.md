@@ -15,5 +15,5 @@ Le COVID et les différentes crises sociales qui ont suivi n’ont fait qu’en 
 
 [Téléchargez la présentation en pdf ici](https://kdrive.infomaniak.com/app/drive/131928/files/82510/preview/pdf/82511)
 
-[Téléchargez la présentation en pdf ici](/Notes/PDF/MuseumXTD_Transformation%20num%C3%A9rique%20des%20mus%C3%A9es.pdf)    
+[Téléchargez la présentation en pdf ici](MuseumXTD_Transformation%20numérique%20des%20musées.pdf)    
 Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

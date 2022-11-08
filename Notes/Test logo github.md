@@ -1,22 +1,16 @@
 
 
-
-
-
-<picture>
-  <source srcset="/images/Logo_Github.png" />
-  <img src="/images/museumXTD_diagramme.svg" alt="Logo github" width="45" height="45"/>
-  <a href="https://github.com/MediaComem/museumXTD" title="lien vers le repo github"></a>
-</picture>
-
-
-
-
-
 <picture>
   <source media="(min-width: 600px)" srcset="/images/Logo_Github.png" />
-  <a href="https://github.com/MediaComem/museumXTD" title="Lien vers le repo github"><img alt="Logo github" src="/images/Logo_Github.png" width="200" height="300"></a>
+  <a href="https://github.com/MediaComem/museumXTD" title="Lien vers le repo github"><img alt="Logo github" src="/images/Logo_Github.png" width="45" height="45"></a>
 </picture>
 
+<picture>
+  <source media="(min-width: 600px)" srcset="/images/Logo-Concilio.svg" />
+  <a href="https://www.concilioltd.com/" title="concilioltd.com"><img alt="Logo Concilio" src="/images/Logo-Concilio.svg" width="45" height="45"></a>
+</picture>
 
-
+<picture>
+  <source media="(min-width: 600px)" srcset="/images/Logo_HEIG-VD_MEI.svg" />
+  <a href="https://heig-vd.ch/rad/instituts/mei/" title="MEI HEIG-VD"><img alt="Logo MEI" src="https://heig-vd.ch/rad/instituts/mei/" width="45" height="45"></a>
+</picture>

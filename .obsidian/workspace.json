@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "577ae3ba92f92b11",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notes/PDF/MuseumXTD_Transformation numérique des musées.pdf"
-              }
-            }
-          },
-          {
             "id": "832704ad3721a5b7",
             "type": "leaf",
             "state": {
@@ -121,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,16 +237,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3465671fe1a5ea3",
+  "active": "98c52a9ba4e12add",
   "lastOpenFiles": [
-    "Notes/PDF/MuseumXTD_Transformation.md",
+    "Notes/Test logo github.md",
+    "Notes/Organisation.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md",
-    "Notes/PDF/MuseumXTD_Transformation numérique des musées.pdf",
+    "Notes/PDF/MuseumXTD_Transformation.md",
+    "PDF/MuseumXTD_Transformation numérique des musées.pdf",
     "Notes/Programme et intervenants J1.md",
     "Navigation/Forum 2022.md",
-    "Notes/Test logo github.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/Organisation.md",
     "Navigation/A propos.md",
     "Brouillon/Ressources à creuser.md"
   ]
