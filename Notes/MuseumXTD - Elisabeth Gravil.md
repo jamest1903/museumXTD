@@ -13,6 +13,5 @@ Le COVID et les différentes crises sociales qui ont suivi n’ont fait qu’en 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EEt21Zoq31Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Téléchargez la présentation en pdf ici](https://kdrive.infomaniak.com/app/drive/131928/files/82510/preview/pdf/82511)
-
+[Téléchargez la présentation en pdf ici](https://kdrive.infomaniak.com/app/share/131928/3bc14cb3-dd1b-40bd-8d55-4ef010eaf3c0)
 Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

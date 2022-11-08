@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "11401df5ca24fd3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "832704ad3721a5b7",
             "type": "leaf",
             "state": {
@@ -226,15 +238,15 @@
   },
   "active": "1b86328062a64d16",
   "lastOpenFiles": [
+    "Notes/MuseumXTD - Elisabeth Gravil.md",
+    "Notes/Programme et intervenants J1.md",
+    "Notes/MuseumXTD - Enjeux pratiques de la transition numérique au service de la médiation muséale.md",
+    "Navigation/Forum 2022.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Test logo github.md",
     "Navigation/A propos.md",
-    "Navigation/Forum 2022.md",
-    "Notes/MuseumXTD - Elisabeth Gravil.md",
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/MuseumXTD - Programme Forum 2022 (maj 06.10.2022).pdf",
     "Notes/Organisation.md",
-    "Notes/PDF/MuseumXTD_Transformation.md",
-    "Notes/MuseumXTD_Transformation numérique des musées.pdf",
-    "Notes/Programme et intervenants J1.md"
+    "Notes/PDF/MuseumXTD_Transformation.md"
   ]
 }
