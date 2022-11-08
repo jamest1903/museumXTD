@@ -17,3 +17,6 @@ Elle est hébergée au MEI.
 </picture>
 
 [[Organisation|Pour en savoir plus]]
+
+Vous souhaitez rester au courant de la suite du projet ? Ou souhaitez donner votre avis ? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAM8HkpKeGtbSC_ctY9TgptG1pyQONBgdiPo21D7TzsBjv9V28uLHfcmCC1WXWxWdBDnpLcZZ5RLbmDxs-1EY9-lIlsR_42yPzUSU65UgN1nUaoN1J_zRd_YL0-6zlHi4BFiN5ggPwvvuBW8ZbUGvgbZPPwL2CfMRO2dyiVG7UH89Sghts0BKggzfhVOycYh58-YLImLPYk8b). 
+
