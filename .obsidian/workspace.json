@@ -20,6 +20,28 @@
             }
           },
           {
+            "id": "a3465671fe1a5ea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "577ae3ba92f92b11",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notes/PDF/MuseumXTD_Transformation numérique des musées.pdf"
+              }
+            }
+          },
+          {
             "id": "832704ad3721a5b7",
             "type": "leaf",
             "state": {
@@ -44,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "89f0f611acdf58ed",
@@ -165,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Test logo github.md",
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Test logo github.md",
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Test logo github.md"
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md"
               }
             }
           },
@@ -225,17 +247,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed0c387ab5568061",
+  "active": "a3465671fe1a5ea3",
   "lastOpenFiles": [
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Notes/PDF/MuseumXTD_Transformation.md",
+    "Notes/MuseumXTD - Elisabeth Gravil.md",
+    "Notes/PDF/MuseumXTD_Transformation numérique des musées.pdf",
+    "Notes/Programme et intervenants J1.md",
+    "Navigation/Forum 2022.md",
     "Notes/Test logo github.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Organisation.md",
     "Navigation/A propos.md",
-    "Navigation/Forum 2022.md",
-    "Brouillon/Ressources à creuser.md",
-    "Notes/Sans titre 1.md",
-    "Notes/Programme et intervenants J2.md",
-    "Notes/Programme et intervenants J1.md",
-    "index.md"
+    "Brouillon/Ressources à creuser.md"
   ]
 }
