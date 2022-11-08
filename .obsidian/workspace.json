@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Navigation/Forum 2022.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,18 +25,6 @@
         "id": "89f0f611acdf58ed",
         "type": "tabs",
         "children": [
-          {
-            "id": "5e3bebc3912548ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "70832b457970d916",
             "type": "leaf",
@@ -67,13 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programme et intervenants.md",
-                "mode": "preview",
+                "file": "Notes/Programme et intervenants J1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "121314a8817a3fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Programme et intervenants J2.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,15 +202,15 @@
   },
   "active": "1b86328062a64d16",
   "lastOpenFiles": [
-    "Notes/MuseumXTD - Elisabeth Gravil.md",
+    "Notes/Programme et intervenants J1.md",
+    "Notes/Programme et intervenants J2.md",
+    "index.md",
     "Navigation/Forum 2022.md",
+    "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/MuseumXTD - Programme Forum 2022 (maj 06.10.2022).pdf",
-    "index.md",
     "Navigation/Accueil.md",
     "Comment éditer les contenus de la plateforme/Aide-site-web.md",
-    "Notes/Programme et intervenants.md",
-    "Notes/Etudes Culture & Covid19.md",
-    "Notes/20 ans de numérique dans les musées.md"
+    "Notes/Etudes Culture & Covid19.md"
   ]
 }
