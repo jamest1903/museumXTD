@@ -1,23 +1,7 @@
 ---
 title: MuseumXTD
-layout: layouts/info.njk
+layout: layouts/post.njk
 ---
-
-# Forum
-
-#### Les résultats du projet **MuseumXTD** ont été présentés les 12 et 13 octobre 2022 à l'aula de la HEIG-VD, Yverdon-les-Bains. Ce symposium a réuni musées et expert.e.s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.
-
-- **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel·le·s des musées, de chercheurs et chercheuses et de spécialistes du numérique
-
-- **Jeudi 13 octobre (9h-12h)**: présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
-
-[Programme 2022](#Programme) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
-
-![Anneau fin recouvert d'un damier gris et blanc|200](/images/MXTD_visuel2022_c.png)
-
-
-## Programme
-
 ###### [12 octobre 2022](#12-octobre-2022-(9h-17h))  [13 octobre 2022](#13-octobre-2022-(9h-12h))
 [Télécharger le programme en version pdf](https://kdrive.infomaniak.com/app/share/131928/dad60d9f-5c29-438a-bc36-5ecb6bdc5f47/preview/pdf/80710)  
 
@@ -154,22 +138,3 @@ Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda
 - #### [[MuseumXTD - Conclusion et perspectives|Conclusion & perspectives]]
 - [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/), Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
 - [Nathalie Pichard](https://www.linkedin.com/in/nathalie-pichard/), Directrice, [Concilio Sàrl](https://www.concilioltd.com/) (CH)
-
-
----
-
----
-
-
-## Lieu et accès
-
-**HEIG-VD** (site Cheseaux)  
-Yverdon-les-Bains 
-[Carte](https://goo.gl/maps/k6dTMcB7x87BePqw6)
-
----
-
----
-
-## Live / A revoir
-Retrouver l'ensemble des conférences sur [notre chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).  

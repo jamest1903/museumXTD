@@ -17,7 +17,7 @@ Les nouvelles technologies, au service des activités de médiation, offrent au 
    Ce dossier présente 6 usages et pratiques du numérique à travers différents projets menés dans le secteur culturel de la région Nouvelle-Aquitaine en France. 
 5. [[Exemples de projets de médiation]] 
    Retrouvez ici des entretiens avec des professionnel·le·s de musées, qui partagent leur visions et retours d'expériences sur des projets de médiation entrepris au sein de leur institutions.  
-6. [[Forum#13 octobre 2022 9h-12h|Forum MuseumXTD: journée du 13 octobre 2022]]
+6. [[Forum 2022#13 octobre 2022 9h-12h|Forum MuseumXTD: journée du 13 octobre 2022]]
    La deuxième journée du forum est l'occasion de présenter des projets de professionnel·le·s de musées qui ont utilisé le numérique pour réinventer le lien avec leurs publics.  
 
  
