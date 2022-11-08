@@ -1,6 +1,6 @@
 ---
 title: MuseumXTD
-layout: layouts/post.njk
+layout: layouts/info.njk
 ---
 ### 13 octobre 2022 (9h-12h)
 Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda-chauvet-6b392723/), Journaliste & Productrice, [La Souris Verte](https://lasourisverte.ch/) (CH)
