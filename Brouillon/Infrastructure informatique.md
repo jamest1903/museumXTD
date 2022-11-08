@@ -12,6 +12,6 @@ Réponse en quelques phrases
    Résumé de la ressource en une phrase ou deux.  
 [[Numérique de gestion]]
 
-Voir également: [[Note question|Note question associée]]
+Ressource similaire: [[Note question|Note question associée]]
  
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

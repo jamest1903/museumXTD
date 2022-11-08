@@ -28,6 +28,6 @@ La communication est un des leviers d'action du marketing. Elle permet de rendre
 8. [[Les outils numériques liés au marketing et à la communication]]
    Dans le champ du marketing et de la communication, le numérique implique le développement de certains outils qui lui sont propres. 
 
-Voir également: [[Les outils numériques liés au marketing et à la communication]]
+Ressources similaire: [[Les outils numériques liés au marketing et à la communication]]
  
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

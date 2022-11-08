@@ -37,4 +37,4 @@ Les résultats visent à proposer un canevas de gestion de projet numérique et 
 
 
             
-Voir également les [[Retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation|retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation]]
+Ressource similaire: [[Retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation]]

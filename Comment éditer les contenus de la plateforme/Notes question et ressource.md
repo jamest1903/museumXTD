@@ -26,7 +26,7 @@ Exemple:
 - Le résumé de la ressource doit reprendre une ou deux phrases du résumé présent dans la note *ressource*. Exemple (*cliquer sur la note pour l'ouvrir*): 
 	  1. [[La pratique muséale numérique. Une approche globale]]
 	     Ce document donne une définition de la stratégie numérique et les raisons de l'implémenter dans les musées. 
-- Une ou plusieurs notes *question* peuvent y être associées à la fin après *Voir également*.    
+- Une ou plusieurs notes *question* peuvent y être associées à la fin après *Ressource similaire*.    
 
 ## 2. Les notes *ressources*  
 ### Structure de la note  

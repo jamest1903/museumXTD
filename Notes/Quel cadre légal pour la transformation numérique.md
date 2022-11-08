@@ -17,6 +17,6 @@ Qu’il s’agisse de la gestion des collections ou d’innovation relative à l
    Basé sur un sondage ainsi qu'un groupe de travail, ce rapport de 2020 fournit des recommandations légales à destination non seulement des politiciens mais également des organisations nationales de musées et musées. 
 
 
-Voir également: [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
+Ressource similaire: [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
  
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

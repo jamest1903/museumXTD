@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Notes/Quel cadre légal pour la transformation numérique.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#question",
+                "query": "voir également",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Notes/Quel cadre légal pour la transformation numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Transformer son musée.md",
+                "file": "Notes/Quel cadre légal pour la transformation numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Transformer son musée.md"
+                "file": "Notes/Quel cadre légal pour la transformation numérique.md"
               }
             }
           },
@@ -159,15 +160,15 @@
   },
   "active": "f63ae48af8a99ff6",
   "lastOpenFiles": [
-    "Notes/Comment encourager la participation du visiteur.md",
-    "Notes/Transformer son musée.md",
-    "Navigation/Numérique et Musée.md",
-    "Notes/Comprendre la transformation numérique.md",
-    "Notes/Quel est l'impact du COVID-19 sur la numérisation des musées.md",
-    "Notes/Technologies, quelles tendances.md",
-    "Navigation/Forum.md",
-    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-    "Brouillon/Quels sont les nouveaux formats de contenus.md",
-    "Notes/Quels sont les opportunités et les freins.md"
+    "tables/tables.md",
+    "Notes/Quelles sont les compétences numériques à acquérir et à développer en interne.md",
+    "Notes/Quel cadre légal pour la transformation numérique.md",
+    "Notes/Qu'est-ce qu'une stratégie numérique.md",
+    "Notes/One-by-One.md",
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+    "Template/Note question.md",
+    "Notes/Les outils numériques liés au marketing et à la communication.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Brouillon/Infrastructure informatique.md"
   ]
 }

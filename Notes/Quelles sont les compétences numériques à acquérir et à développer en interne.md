@@ -21,7 +21,7 @@ Cette section vous présente quelques références pertinentes en la matière:
 5. [Rester en contact, la transformation numérique des musées en temps de COVID-19](https://icom.museum/fr/news/webinaire-transformation-numerique-musees/)     
    Un autre webinaire pertinent de l'ICOM, toujours dans la même série. 
 
-Voir également [[Comment mener un projet numérique]]
+Ressource similaire: [[Comment mener un projet numérique|Comment mener un projet numérique?]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 

@@ -16,6 +16,6 @@ Le numérique facilite le partage d’informations et le travail collaboratif. P
 
 Cet article de [Maddyness](https://www.maddyness.com/) évoque [CogX](https://cogx.fr/), une agence de conseil en sciences cognitives. 
 
-Voir également [[MuseumXTD - La face cachée du numérique|l'intervention de 0/1 - Hub numérique]]  sur l'utilisation professionnelle des outils numériques lors de notre forum MuseumXTD.  
+Ressource similaire: [[MuseumXTD - La face cachée du numérique|l'intervention de 0/1 - Hub numérique]]  sur l'utilisation professionnelle des outils numériques lors de notre forum MuseumXTD.  
 
 Apparaît dans [[Quels sont les opportunités et les freins]], [[Boîte à outils]]

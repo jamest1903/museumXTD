@@ -26,6 +26,6 @@ De leur constitution à leur exploitation, les collections des musées sont repe
 
 
 
-Voir également: [[Quel cadre légal pour la transformation numérique]], [[Patrimoine numérique]]
+Ressources similaires: [[Quel cadre légal pour la transformation numérique|Quel cadre légal pour la transformation numérique?]], [[Patrimoine numérique]]
  
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

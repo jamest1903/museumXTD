@@ -22,7 +22,7 @@ Elle prend généralement la forme d'un document qui formalise les objectifs et 
    Quelques exemples concrets de stratégies mises en place par des grands musées à travers le monde. 
 
 
-Voir également: [[Comment élaborer une stratégie numérique]]  
+Ressource similaire: [[Comment élaborer une stratégie numérique|Comment élaborer une stratégie numérique?]]  
 
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
