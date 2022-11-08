@@ -5,7 +5,7 @@
 
 <picture>
   <source srcset="/images/Logo_Github.png" />
-  <img src="/images/museumXTD_diagramme.svg" alt="Logo github" width="200" height="300"/>
+  <img src="/images/museumXTD_diagramme.svg" alt="Logo github" width="45" height="45"/>
   <a href="https://github.com/MediaComem/museumXTD" title="lien vers le repo github"></a>
 </picture>
 
