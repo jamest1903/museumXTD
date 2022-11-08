@@ -19,11 +19,11 @@ Le forum **MuseumXTD** s'est déroulé les 12 et 13 octobre 2022. Ce symposium a
 </picture>
 
 Retrouver les vidéos des conférences.
-<picture>
+- <picture>
   <source media="(min-width: 600px)" srcset="/images/Logo_YT.png" />
   <a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw" title="Lien vers la chaîne YouTube"><img alt="Logo YouTube" src="/images/Logo_YT.png" width="134" height="30"></a>
 </picture>
-   
+<br>
 ###### **[Programme PDF](https://kdrive.infomaniak.com/app/share/131928/8f8c02ba-4179-48de-86dd-9c13c2589316)**    
 
 ## [[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz|Le projet Ramuz]]

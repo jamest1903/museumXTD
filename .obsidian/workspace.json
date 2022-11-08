@@ -42,76 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ed0c387ab5568061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Test logo github.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "89f0f611acdf58ed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "70832b457970d916",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comment éditer les contenus de la plateforme/Aide-site-web.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adbaad73e2a303e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ac4b01872f06c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Organisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44dd3f855e3befea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Navigation/Forum 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Navigation/Forum 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "Navigation/Forum 2022.md"
               }
             }
           },
@@ -237,12 +169,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "832704ad3721a5b7",
+  "active": "1b86328062a64d16",
   "lastOpenFiles": [
-    "Navigation/Forum 2022.md",
-    "Notes/Test logo github.md",
-    "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Navigation/A propos.md",
+    "Notes/Test logo github.md",
+    "Navigation/Forum 2022.md",
+    "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Notes/Programme et intervenants J1.md",
     "Notes/MuseumXTD - Enjeux pratiques de la transition numérique au service de la médiation muséale.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
