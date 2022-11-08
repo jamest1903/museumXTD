@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "89f0f611acdf58ed",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/Test logo github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/Test logo github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "Notes/Test logo github.md"
               }
             }
           },
@@ -237,15 +237,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "832704ad3721a5b7",
+  "active": "ed0c387ab5568061",
   "lastOpenFiles": [
+    "Navigation/A propos.md",
     "Navigation/Forum 2022.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Notes/Programme et intervenants J1.md",
     "Notes/MuseumXTD - Enjeux pratiques de la transition numérique au service de la médiation muséale.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Test logo github.md",
-    "Navigation/A propos.md",
     "Notes/MuseumXTD - Programme Forum 2022 (maj 06.10.2022).pdf",
     "Notes/Organisation.md",
     "Notes/PDF/MuseumXTD_Transformation.md"
