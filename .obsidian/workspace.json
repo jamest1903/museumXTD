@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "89f0f611acdf58ed",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/Test logo github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/Test logo github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "Notes/Test logo github.md"
               }
             }
           },
@@ -225,13 +225,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "832704ad3721a5b7",
+  "active": "ed0c387ab5568061",
   "lastOpenFiles": [
+    "Notes/Organisation.md",
     "Notes/Test logo github.md",
     "Navigation/A propos.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Navigation/Forum 2022.md",
-    "Notes/Organisation.md",
     "Brouillon/Ressources à creuser.md",
     "Notes/Sans titre 1.md",
     "Notes/Programme et intervenants J2.md",
