@@ -2,8 +2,8 @@
 <a href="https://github.com/MediaComem/museumXTD" title="lien vers le repo github"><img alt="logo github" src="Logo_Github.png" width="200" height="300"></a>
 
 <picture>
-  <source media="(min-width: 600px)" srcset="/images/Logo_Github.png" />
-  <img src="/images/museumXTD_diagramme.svg" alt="Logo github" />
+  <source srcset="/images/Logo_Github.png" />
+  <img src="/images/museumXTD_diagramme.svg" alt="Logo github" width="200" height="300"/>
   <a href="https://github.com/MediaComem/museumXTD" title="lien vers le repo github"></a>
 </picture>
 
