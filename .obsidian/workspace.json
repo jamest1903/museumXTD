@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "dbf19b64225301cb",
+        "id": "beafb387a6948ae6",
         "type": "tabs",
         "children": [
           {
-            "id": "f63ae48af8a99ff6",
+            "id": "1b86328062a64d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Quel cadre légal pour la transformation numérique.md",
+                "file": "Navigation/Forum.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b15f300477924ae3",
+            "id": "c9817fc2d9fb90af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Technologies, quelles tendances.md",
-                "mode": "source",
+                "file": "Notes/MuseumXTD - Conclusion de la première journée.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quel cadre légal pour la transformation numérique.md",
+                "file": "Navigation/Forum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Quel cadre légal pour la transformation numérique.md",
+                "file": "Navigation/Forum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quel cadre légal pour la transformation numérique.md"
+                "file": "Navigation/Forum.md"
               }
             }
           },
@@ -158,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f63ae48af8a99ff6",
+  "active": "1b86328062a64d16",
   "lastOpenFiles": [
+    "Notes/MuseumXTD - Conclusion de la première journée.md",
+    "Navigation/Forum.md",
+    "Notes/Technologies, quelles tendances.md",
+    "Notes/Quel cadre légal pour la transformation numérique.md",
     "tables/tables.md",
     "Notes/Quelles sont les compétences numériques à acquérir et à développer en interne.md",
-    "Notes/Quel cadre légal pour la transformation numérique.md",
     "Notes/Qu'est-ce qu'une stratégie numérique.md",
     "Notes/One-by-One.md",
     "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Template/Note question.md",
-    "Notes/Les outils numériques liés au marketing et à la communication.md",
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Brouillon/Infrastructure informatique.md"
+    "Template/Note question.md"
   ]
 }
