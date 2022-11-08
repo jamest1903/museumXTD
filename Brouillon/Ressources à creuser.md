@@ -4,3 +4,5 @@
 - [Science ensemble - Annuaire des projet](https://www.science-ensemble.org/projets)
 - [Découvrir le patrimoine](https://rundgaenge.heimatschutz.ch/fr)
 	- carte interactive des sites patrimoniaux en Suisse
+- [Projet DEXCUPAT (Bretagne)](https://www.mshb.fr/projets_mshb/dexcupat/7782/)
+	- [outils humanités numériques](https://www.mshb.fr/les-plateformes-outils-services)

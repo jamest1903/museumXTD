@@ -20,55 +20,43 @@
             }
           },
           {
-            "id": "b751523ff8d8e030",
+            "id": "adbaad73e2a303e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programme et intervenants J2.md",
+                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d4263a526bd196c",
+            "id": "832704ad3721a5b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programme et intervenants J1.md",
+                "file": "Navigation/A propos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10d9e1afc5e92157",
+            "id": "ed0c387ab5568061",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programme et intervenants J2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b8b9da9beb44ce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Programme et intervenants J1.md",
+                "file": "Notes/Test logo github.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "89f0f611acdf58ed",
@@ -82,6 +70,18 @@
               "state": {
                 "file": "Comment éditer les contenus de la plateforme/Aide-site-web.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ac4b01872f06c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Organisation.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "programme",
+                "query": "ressources",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programme et intervenants J2.md",
+                "file": "Navigation/A propos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programme et intervenants J2.md",
+                "file": "Navigation/A propos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programme et intervenants J2.md"
+                "file": "Navigation/A propos.md"
               }
             }
           },
@@ -225,17 +225,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b751523ff8d8e030",
+  "active": "832704ad3721a5b7",
   "lastOpenFiles": [
-    "Navigation/Forum 2022.md",
-    "Notes/Programme et intervenants J1.md",
-    "Notes/Programme et intervenants J2.md",
-    "index.md",
-    "Notes/MuseumXTD - Elisabeth Gravil.md",
+    "Notes/Test logo github.md",
+    "Navigation/A propos.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/MuseumXTD - Programme Forum 2022 (maj 06.10.2022).pdf",
-    "Navigation/Accueil.md",
-    "Comment éditer les contenus de la plateforme/Aide-site-web.md",
-    "Notes/Etudes Culture & Covid19.md"
+    "Navigation/Forum 2022.md",
+    "Notes/Organisation.md",
+    "Brouillon/Ressources à creuser.md",
+    "Notes/Sans titre 1.md",
+    "Notes/Programme et intervenants J2.md",
+    "Notes/Programme et intervenants J1.md",
+    "index.md"
   ]
 }
