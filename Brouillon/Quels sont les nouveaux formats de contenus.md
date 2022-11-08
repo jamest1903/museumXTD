@@ -2,6 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
+alias: [Quels sont les nouveaux formats de contenus?]
 ---
 # Quels sont les nouveaux formats de contenus ?
 

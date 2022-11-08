@@ -2,6 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
+alias: [Comment penser le marketing et la communication avec le numérique?]
 ---
 # **Comment penser le marketing et la communication avec le numérique**
 Le marketing ou la communication peuvent utiliser des outils numériques pour atteindre leurs objectifs. On parle alors de *marketing numérique* ou de *communication numérique*, sans qu'il s'agisse de disciplines en elles-mêmes. 

@@ -25,14 +25,57 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+                "file": "Notes/Technologies, quelles tendances.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "db676b0e19f7cb3a"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "2374bd27dd55ac31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e18b2e8d2cfb1775",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Technologies, quelles tendances.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": false,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "db676b0e19f7cb3a"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,11 +104,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "domin",
+                "query": "tag:#question",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -78,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+                "file": "Notes/Technologies, quelles tendances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+                "file": "Notes/Technologies, quelles tendances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
+                "file": "Notes/Technologies, quelles tendances.md"
               }
             }
           },
@@ -160,15 +204,15 @@
   },
   "active": "a238776c7db8ac9b",
   "lastOpenFiles": [
-    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
-    "Notes/Comment utiliser le numérique de façon durable.md",
-    "Notes/Transformer son musée.md",
-    "Navigation/Numérique et Musée.md",
-    "Notes/Comprendre la transformation numérique.md",
+    "Brouillon/Quels sont les nouveaux formats de contenus.md",
+    "Notes/Quels sont les opportunités et les freins.md",
     "Notes/Quels nouveaux modèles d'affaire grâce au numérique.md",
-    "Notes/Innovating with digital to find new revenue stream for Museums.md",
-    "Notes/Musées, quels modèles économiques à l'ère numérique.md"
+    "Brouillon/Quelles sont les nouvelles pratiques muséales.md",
+    "Notes/Quelles sont les compétences numériques à acquérir et à développer en interne.md",
+    "Notes/Quel est l'impact du COVID-19 sur la numérisation des musées.md",
+    "Notes/Quel cadre légal pour la transformation numérique.md",
+    "Notes/Qu'est-ce qu'une stratégie numérique.md",
+    "Notes/Culture numérique.md",
+    "Notes/Comment utiliser le numérique de façon durable.md"
   ]
 }

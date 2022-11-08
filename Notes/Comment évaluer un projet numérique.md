@@ -2,6 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
+alias: [Comment évaluer un projet numérique?]
 ---
 # Comment évaluer un projet numérique?  
 Le processus itératif inhérent aux nouvelles méthodologies de projet renforce la nécessité de mettre en place un suivi et des indicateurs pour évaluer les projets.  

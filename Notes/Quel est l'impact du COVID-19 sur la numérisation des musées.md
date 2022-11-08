@@ -2,6 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
+alias: [Quel est l'impact du COVID-19 sur la numérisation des musées?]
 ---
 # **Quel est l'impact du COVID-19 sur la numérisation des musées?**
 La crise sanitaire a été une période d'expansion des activités et de catalyseur de stratégie numérique (et non d'initiateur). En effet, les musées ont été forcés d'investir dans des formats en ligne, afin de rester visibles alors qu'ils étaient fermés. 

@@ -22,6 +22,6 @@ Le projet Virage NumeriCQ propose une définition de la stratégie numérique ai
 
 Cette ressource fait partie du projet québécois [[Virage NumériCQ]], lancé par le Ministère de la Culture et des Communications du Québec.
 
-Apparaît dans [[Qu'est-ce qu'une stratégie numérique]], [[Comment élaborer une stratégie numérique]].   
+Apparaît dans [[Qu'est-ce qu'une stratégie numérique|Qu'est-ce qu'une stratégie numérique?]], [[Comment élaborer une stratégie numérique]].   
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

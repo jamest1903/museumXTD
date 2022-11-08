@@ -2,6 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
+alias: [Quelles sont les nouvelles pratiques muséales?]
 ---
 # Quelles sont les nouvelles pratiques muséales
 

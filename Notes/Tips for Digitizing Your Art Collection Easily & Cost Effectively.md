@@ -13,6 +13,6 @@ L'entreprise Artwork Archive fournit une liste de conseils pour numériser ses c
 
 Artwork Archive fournit plusieurs outils pour gérer, préserver et présenter ses collections d'art. 
 
-Apparaît dans [[Comment créer et valoriser une collection numérique]]
+Apparaît dans [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

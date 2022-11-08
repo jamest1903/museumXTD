@@ -2,6 +2,7 @@
 title: MuseumXTD  
 layout: layouts/post.njk
 tags: question
+alias: [Comment utiliser le numérique de façon durable?]
 ---
 # **Comment utiliser le numérique de façon durable?**
 La nature immatérielle du numérique ne doit pas faire oublier l'impact de son utilisation sur l'environnement. Transformer numériquement son musée inclut de prendre en considération les enjeux de la transition écologique.  
