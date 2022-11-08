@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "a3465671fe1a5ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "832704ad3721a5b7",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "89f0f611acdf58ed",
@@ -239,10 +227,10 @@
   },
   "active": "ed0c387ab5568061",
   "lastOpenFiles": [
+    "Navigation/A propos.md",
     "Navigation/Forum 2022.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Notes/Test logo github.md",
-    "Navigation/A propos.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/MuseumXTD - Programme Forum 2022 (maj 06.10.2022).pdf",
     "Notes/Organisation.md",
