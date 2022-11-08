@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
+                "file": "Navigation/Forum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
+                "file": "Navigation/Forum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md"
+                "file": "Navigation/Forum.md"
               }
             }
           },
@@ -175,10 +175,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e3bebc3912548ec",
+  "active": "1b86328062a64d16",
   "lastOpenFiles": [
-    "Navigation/Forum.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md",
+    "Navigation/Forum.md",
     "Notes/MuseumXTD - Conclusion de la première journée.md",
     "Notes/Technologies, quelles tendances.md",
     "Notes/Quel cadre légal pour la transformation numérique.md",
