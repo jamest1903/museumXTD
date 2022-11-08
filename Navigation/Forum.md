@@ -13,7 +13,7 @@ layout: layouts/info.njk
 
 [Programme 2022](#Programme) [Lieu et accès](#Lieu-et-acces) [Live / A revoir](#Live-A-revoir)
 
-![Anneau fin recouvert d'un damier gris et blanc](/images/MXTD_visuel2022_c.png)
+![Anneau fin recouvert d'un damier gris et blanc|200](/images/MXTD_visuel2022_c.png)
 
 
 ## Programme
@@ -33,8 +33,8 @@ Modération de la journée par [Zelda Chauvet](https://www.linkedin.com/in/zelda
 
 
 - #### [[MuseumXTD - Enjeux pratiques de la transition numérique au service de la médiation muséale|Enjeux pratiques de la transition numérique au service de la médiation muséale?]]
-- [Marianne Chevassus](https://museeduleman.ch/le-musee/lequipe/), Conservatrice adjointe, [Musée du Léman Nyon](https://museeduleman.ch/) (CH)
-- [Luc Debraine](https://twitter.com/lucdebraine), Directeur, [Musée suisse de l'appareil photographique](https://www.cameramuseum.ch/) (CH)
+- [Marianne Chevassus](https://museeduleman.ch/le-musee/lequipe/), Conservatrice adjointe, [Musée du Léman Nyon](https://museeduleman.ch/) (CH)   
+- [Luc Debraine](https://twitter.com/lucdebraine), Directeur, [Musée suisse de l'appareil photographique](https://www.cameramuseum.ch/) (CH)   
 - [Diletta Guidi](https://www.dilettaguidi.com/), Maître-Assistante en sciences sociales, [Université de Fribourg](https://www.unifr.ch/home/fr/) (CH)
 - [Heidi Amrein](https://www.landesmuseum.ch/fr/a-propos-de-nous/organisation), Conservatrice en chef & membre de la direction, [Musée national suisse](https://www.nationalmuseum.ch/fr) (CH)
 - Modération par [Alexandre Camus](https://www.unil.ch/collaboratoire/home/menuinst/qui-sommes-nous/notre-equipe/camus-alexandre.html), Responsable de recherche, [ColLaboratoire](https://www.unil.ch/collaboratoire/fr/home.html), Unité de recherche-action, collaborative et participative de l’Université de Lausanne (CH)

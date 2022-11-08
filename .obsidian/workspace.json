@@ -32,6 +32,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "89f0f611acdf58ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e3bebc3912548ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Forum.md",
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Forum.md",
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Forum.md"
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md"
               }
             }
           },
@@ -157,17 +175,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1b86328062a64d16",
+  "active": "5e3bebc3912548ec",
   "lastOpenFiles": [
-    "Notes/MuseumXTD - Conclusion de la première journée.md",
     "Navigation/Forum.md",
+    "Notes/MuseumXTD - Elisabeth Gravil.md",
+    "Notes/MuseumXTD - Conclusion de la première journée.md",
     "Notes/Technologies, quelles tendances.md",
     "Notes/Quel cadre légal pour la transformation numérique.md",
     "tables/tables.md",
     "Notes/Quelles sont les compétences numériques à acquérir et à développer en interne.md",
     "Notes/Qu'est-ce qu'une stratégie numérique.md",
     "Notes/One-by-One.md",
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Template/Note question.md"
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md"
   ]
 }
