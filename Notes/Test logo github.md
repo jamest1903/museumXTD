@@ -12,7 +12,7 @@
 
 <picture>
   <source media="(min-width: 600px)" srcset="/images/Logo_YT.png" />
-  <a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw" title="Lien vers la chaîne YouTube"><img alt="Logo YouTube" src="/images/Logo_YT.png">width="96" height="45"></a>
+  <a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw" title="Lien vers la chaîne YouTube"><img alt="Logo YouTube" src="/images/Logo_YT.png" width="96" height="45"></a>
 </picture>
 
 <picture>
