@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
+                "file": "Navigation/Forum 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
+                "file": "Navigation/Forum 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md"
+                "file": "Navigation/Forum 2022.md"
               }
             }
           },
@@ -199,8 +199,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e3bebc3912548ec",
+  "active": "1b86328062a64d16",
   "lastOpenFiles": [
+    "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Navigation/Forum 2022.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/MuseumXTD - Programme Forum 2022 (maj 06.10.2022).pdf",
@@ -208,7 +209,6 @@
     "Navigation/Accueil.md",
     "Comment éditer les contenus de la plateforme/Aide-site-web.md",
     "Notes/Programme et intervenants.md",
-    "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Notes/Etudes Culture & Covid19.md",
     "Notes/20 ans de numérique dans les musées.md"
   ]
