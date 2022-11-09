@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "tables/tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "tables/tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "tables/tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "tables/tables.md"
               }
             }
           },
@@ -189,12 +189,12 @@
   },
   "active": "832704ad3721a5b7",
   "lastOpenFiles": [
+    "index.md",
     "Navigation/Accueil.md",
     "Notes/Numérique et Musée.md",
     "Notes/Pour démarrer.md",
     "Notes/La pratique muséale numérique. Une approche globale.md",
     "Navigation/A propos.md",
-    "index.md",
     "Notes/Technologies, quelles tendances.md",
     "Notes/Processus de développement des modules numériques par les musées de Pully.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
