@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Navigation/Forum 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Navigation/Forum 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "Navigation/Forum 2022.md"
               }
             }
           },
@@ -170,10 +169,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4651ef2437aa05f6",
+  "active": "832704ad3721a5b7",
   "lastOpenFiles": [
-    "Navigation/Forum 2022.md",
     "Navigation/A propos.md",
+    "Navigation/Forum 2022.md",
     "Notes/Processus de développement des modules numériques par les musées de Pully.md",
     "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Brouillon/Ressources à creuser.md",
