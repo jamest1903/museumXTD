@@ -5,33 +5,39 @@ eleventyNavigation:
   key: home
 ---
 
-#### **MuseumXTD** est une plateforme de ressources qui s'adresse aux acteurs et actrices de la transition numérique des musées, établi·e·s dans la région lémanique et au-delà. Il peut donc s'agir d'institutions culturelles, de Hautes écoles ou d'entreprises actives dans les domaines de la culture et du numérique.
+# Numérique & Musée
 
-Ces pages présentent les résultats de l'exploration menée entre décembre 2021 et octobre 2022 sur les enjeux de la transition numérique au sein des petits et moyens musées.
+**MuseumXTD** est une boîte à outils pour comprendre ce qu'est la transition numérique pour les petits et moyens musées au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre.
+Mettant en lumière les réalités et enjeux de la transition numérique, ces ressources permettent de se positionner face aux discours, mythes et injonctions extérieures à l'institution muséale.
 
-Le projet est géré par la société Concilio, les Musées de Pully et la HEIG-VD. En tant que projet de transformation, il bénéficie du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.
+Rester au courant du projet ? Donner votre avis ? [Cliquer ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) 
+ ou envoyer-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch).  
 
-[[A propos|En savoir plus]]
+[[MuseumXTD - Présentation de la plateforme MuseumXTD.ch|En savoir plus]]
 
-## Forum
-Les résultats du projet **MuseumXTD** ont été présentés les 12 et 13 octobre 2022 à l'Aula de la HEIG-VD d'Yverdon-les-Bains. Cet événement réunira des musées, ainsi que des expertes et experts suisses et étrangers de la transition numérique dans les institutions culturelles.
 
-- **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes
-	- Avec la présence de professionnel·le·s des musées, de chercheur·euse·s et de spécialistes du numérique.
 
-- **Jeudi 13 octobre (9h-12h)**: présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience.
+## [[Pour démarrer]]
 
-[Voir le programme complet](Navigation/Forum/index.html#Programme)
 
-###### **[S'inscrire](https://6e13e580.sibforms.com/serve/MUIEAL7WIqi0wyrRlslySnC_2I3LMX7t4xeWf_-hw2urydjKTUklScu7dD6zP9PzARXMkVGC-wEil_uh5-ajRQqG2DvgmZ9YpXWI-PucLHo_TS2XhABKAqcxA_FfmdYeTFMD2mwtQmPoYmE-w8-PmrApukIiJosKw2brg2NMSC_Gll-2eKZho97_l0cIYsnQ-O1TQIamDbcXikR1)**
+## Comprendre la transformation numérique
+- [[Numérique et musée, quelques définitions]]
+- [[Qu'est-ce qu'une stratégie numérique|Qu'est-ce qu'une stratégie numérique?]]
+- [[Technologies, quelles tendances|Technologies, quelles tendances?]]
+- [[Comprendre la transformation numérique|Plus de questions]]
 
-## Numérique et musée
-Cette section offre un catalogue de réflexions, d'exemples et d'outils suisses et internationaux en accès libre. Toutes ces ressources permettent de **comprendre ce qu'est la transition numérique** pour les petits et moyens musées.
-Elle met en lumière ses réalités et enjeux, permettant de se positionner face aux discours, mythes et injonctions extérieurs à l'institution muséale.
+## Gérer son environnement numérique
+- [[Comment élaborer une stratégie numérique]]
+- [[Comment mener un projet numérique]]
+- [[Comment évaluer un projet numérique]]
+- [[Gérer son environnement numérique|Plus de questions]]
 
-[[Numérique et musée|En savoir plus]]
+## Gérer ses collections
+- [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
+- [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
 
-## Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz
-A l’occasion du projet-pilote de recherche appliquée MuseumXTD, les Musées de Pully ont mené un cas d’étude dans le cadre de la conception de l’espace muséal consacré à C. F. Ramuz et à la littérature, dénommé « La Muette », dont l’ouverture est prévue en 2023.
-
-[[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz|En savoir plus]]
+## Concevoir l'expérience visiteur
+- [[Comment encourager la participation du visiteur|Comment encourager la participation du visiteur?]]
+- [[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]]
+- [[Les outils numériques liés au marketing et à la communication]]
+- [[Concevoir l'expérience visiteur|Plus de questions]]
