@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
-                "mode": "preview",
+                "file": "Notes/Numérique et Musée.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Notes/Numérique et Musée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Notes/Numérique et Musée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Numérique et Musée.md"
+                "file": "Notes/Numérique et Musée.md"
               }
             }
           },
@@ -165,9 +165,9 @@
   },
   "active": "832704ad3721a5b7",
   "lastOpenFiles": [
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Navigation/Numérique et Musée.md",
     "index.md",
+    "Notes/Numérique et Musée.md",
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
     "Notes/Gérer ses collections.md",
     "Notes/Gérer son environnement numérique.md",
     "Notes/Technologies, quelles tendances.md",
