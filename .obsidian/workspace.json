@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Numérique et Musée.md",
+                "file": "Notes/Technologies, quelles tendances.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,6 +178,7 @@
   },
   "active": "b87547ba1d44a8a8",
   "lastOpenFiles": [
+    "Notes/Technologies, quelles tendances.md",
     "Notes/Numérique et Musée.md",
     "index.md",
     "Notes/Pour démarrer.md",
@@ -186,7 +187,6 @@
     "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
     "Notes/La pratique muséale numérique. Une approche globale.md",
     "Notes/Numérique et musée, quelques définitions.md",
-    "Notes/Culture numérique.md",
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md"
+    "Notes/Culture numérique.md"
   ]
 }
