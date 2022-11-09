@@ -17,9 +17,65 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "3eb5ad396175d6c4"
           }
         ]
+      },
+      {
+        "id": "35fb7a1fa8ca7702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da00200addfd7319",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Navigation/Numérique et Musée.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": false,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "3eb5ad396175d6c4"
+          },
+          {
+            "id": "a627eefef0df34c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       },
       {
         "id": "3956399878a05af7",
@@ -103,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Numérique et Musée.md",
+                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Numérique et Musée.md"
+                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md"
               }
             }
           },
@@ -163,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "832704ad3721a5b7",
+  "active": "a627eefef0df34c5",
   "lastOpenFiles": [
-    "index.md",
     "Navigation/Numérique et Musée.md",
+    "index.md",
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
     "Notes/Gérer ses collections.md",
     "Notes/Gérer son environnement numérique.md",
     "Notes/Technologies, quelles tendances.md",
     "Notes/Concevoir l'expérience visiteur.md",
     "Notes/Pour démarrer.md",
     "Notes/Les outils numériques liés au marketing et à la communication.md",
-    "Notes/Notre liste de newsletters à suivre.md",
-    "Notes/Comment rester productif avec le tout numérique.md"
+    "Notes/Notre liste de newsletters à suivre.md"
   ]
 }
