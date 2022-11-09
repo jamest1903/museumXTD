@@ -25,7 +25,7 @@ Dans le champ du marketing et de la communication, le numérique implique le dé
 9. [[Museum Innovation Barometer 2021]]   
    Ce rapport rapporte 3 initiatives de communication digitale (p.54). 
 
-Ressource similaire: [[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]], [[Boîte à outils]]
+Ressource similaire: [[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]], [[Quels sont les outils à utiliser|Quels sont les outils à utiliser?]]
  
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 

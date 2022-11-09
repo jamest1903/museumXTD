@@ -2,9 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
+alias: [Quels sont les outils à utiliser?]
 ---
-# Boîte à outils
-Les outils numériques peuvent être difficiles à adopter, entre l'offre abondante et le temps nécessaire à leur prise en main. Cette section redirige vers quelques plateformes utiles: 
+# Quels sont les outils à utiliser?
+Les outils numériques peuvent être difficiles à adopter, entre l'offre abondante et le temps nécessaire à leur prise en main. Cette section redirige vers quelques plateformes utiles. 
 
 1. [Outils numériques du *manager*](https://outilsnum.us16.list-manage.com/track/click?u=a58e88a35e86b513128facc00&id=9e7f3e507c&e=264b52892a)
   Eric Bouchet propose plus de 20 outils pour communiquer, partager l'information, et organiser le travail de l'équipe. Il est l'auteur de l'infolettre [outilsnum](https://outilsnum.fr/), qui recense les dernières actualités à propos des outils numériques liés à la productivité. 

@@ -18,4 +18,4 @@ Cet article de [Maddyness](https://www.maddyness.com/) évoque [CogX](https://co
 
 Ressource similaire: [[MuseumXTD - La face cachée du numérique|l'intervention de 0/1 - Hub numérique]]  sur l'utilisation professionnelle des outils numériques lors de notre forum MuseumXTD.  
 
-Apparaît dans [[Quels sont les opportunités et les freins]], [[Boîte à outils]]
+Apparaît dans [[Quels sont les opportunités et les freins]], [[Quels sont les outils à utiliser|Quels sont les outils à utiliser?]]

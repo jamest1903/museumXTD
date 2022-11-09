@@ -17,6 +17,6 @@ tags: liens
 
   
 
-Apparaît dans [[Boîte à outils]]
+Apparaît dans [[Quels sont les outils à utiliser|Quels sont les outils à utiliser?]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
