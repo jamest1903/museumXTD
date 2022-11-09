@@ -12,7 +12,8 @@ Retrouver directement les vidéos des conférences.
   <source media="(min-width: 600px)" srcset="/images/Logo_YT.png" />
   <a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw" title="Lien vers la chaîne YouTube"><img alt="Logo YouTube" src="/images/Logo_YT.png" width="134" height="30"></a>
 </picture>
-<br>
+<br>   
+     
 - **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel·le·s des musées, de chercheurs et chercheuses et de spécialistes du numérique
   [[Programme et intervenants J1|Accéder aux interventions]]
 
