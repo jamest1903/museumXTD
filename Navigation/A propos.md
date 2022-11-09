@@ -16,7 +16,7 @@ Elle est hébergée au MEI.
   <a href="https://github.com/MediaComem/museumXTD" title="Lien vers le repo github"><img alt="Logo github" src="/images/Logo_Github.png" width="45" height="51"></a>
 </picture> 
 
+## Contact
+Vous souhaitez rester au courant de la suite du projet ? Ou souhaitez donner votre avis ? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) ou envoyer-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch).  
+
 [[Organisation|En savoir plus]]
-
-Vous souhaitez rester au courant de la suite du projet ? Ou souhaitez donner votre avis ? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr). 
-

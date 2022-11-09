@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Technologies, quelles tendances.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+                "file": "Navigation/A propos.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+                "file": "Navigation/A propos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+                "file": "Navigation/A propos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md"
+                "file": "Navigation/A propos.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "b87547ba1d44a8a8",
   "lastOpenFiles": [
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Navigation/Forum 2022.md",
-    "Navigation/A propos.md",
     "index.md",
+    "Navigation/A propos.md",
     "Navigation/Accueil.md",
     "Notes/Technologies, quelles tendances.md",
+    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Navigation/Forum 2022.md",
     "Notes/Numérique et Musée.md",
     "Notes/Pour démarrer.md",
-    "Notes/Qu'est-ce qu'une stratégie numérique.md",
-    "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md"
+    "Notes/Qu'est-ce qu'une stratégie numérique.md"
   ]
 }
