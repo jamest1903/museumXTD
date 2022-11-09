@@ -32,19 +32,67 @@
             }
           },
           {
+            "id": "40e10ea2e5d84251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation/Forum 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a15770c4778254c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Organisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbed9f779d645dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0b948589965af57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "406ebe6e9df2127c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+                "file": "Notes/Programme et intervenants J2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "index.md"
               }
             }
           },
@@ -170,17 +218,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4651ef2437aa05f6",
+  "active": "b0b948589965af57",
   "lastOpenFiles": [
-    "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Comment éditer les contenus de la plateforme/Aide-site-web.md",
-    "Navigation/A propos.md",
+    "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
+    "Notes/Organisation.md",
+    "Notes/Programme et intervenants J2.md",
     "Navigation/Forum 2022.md",
-    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Brouillon/Ressources à creuser.md",
-    "Notes/Test logo github.md",
-    "Notes/MuseumXTD - Elisabeth Gravil.md"
+    "Notes/MuseumXTD - Elisabeth Gravil.md",
+    "Notes/Programme et intervenants J1.md",
+    "Notes/Comment rester productif avec le tout numérique.md",
+    "Notes/Comment mener un projet numérique.md",
+    "Notes/Comment évaluer un projet numérique.md",
+    "Notes/Comment créer et valoriser une collection numérique.md"
   ]
 }
