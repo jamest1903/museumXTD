@@ -18,23 +18,23 @@ Rester au courant du projet ? Donner votre avis ? [Cliquer ici](https://6e13e580
 
 
 ## Comprendre la transformation numérique
-- [[Numérique et musée, quelques définitions]]
-- [[Qu'est-ce qu'une stratégie numérique|Qu'est-ce qu'une stratégie numérique?]]
-- [[Technologies, quelles tendances|Technologies, quelles tendances?]]
-- [[Comprendre la transformation numérique|Plus de questions]]
+[[Numérique et musée, quelques définitions]]
+[[Qu'est-ce qu'une stratégie numérique|Qu'est-ce qu'une stratégie numérique?]]
+[[Technologies, quelles tendances|Technologies, quelles tendances?]]
+###### **[[Comprendre la transformation numérique|Plus de questions]]**
 
 ## Gérer son environnement numérique
-- [[Comment élaborer une stratégie numérique]]
-- [[Comment mener un projet numérique]]
-- [[Comment évaluer un projet numérique]]
-- [[Gérer son environnement numérique|Plus de questions]]
+[[Comment élaborer une stratégie numérique]]
+[[Comment mener un projet numérique]]
+[[Comment évaluer un projet numérique]]
+###### **[[Gérer son environnement numérique|Plus de questions]]**
 
 ## Gérer ses collections
-- [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
-- [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
+[[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
+[Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
 
 ## Concevoir l'expérience visiteur
-- [[Comment encourager la participation du visiteur|Comment encourager la participation du visiteur?]]
-- [[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]]
-- [[Les outils numériques liés au marketing et à la communication]]
-- [[Concevoir l'expérience visiteur|Plus de questions]]
+[[Comment encourager la participation du visiteur|Comment encourager la participation du visiteur?]]
+[[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]]
+[[Les outils numériques liés au marketing et à la communication]]
+###### **[[Concevoir l'expérience visiteur|Plus de questions]]**
