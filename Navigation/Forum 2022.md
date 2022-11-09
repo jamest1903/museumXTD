@@ -28,4 +28,4 @@ Retrouver les vidéos des conférences.
 
 ## [[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz|Le projet Ramuz]]
 
-## [[A propos]]
+## [[Organisation]]
