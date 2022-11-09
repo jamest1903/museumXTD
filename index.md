@@ -10,10 +10,8 @@ eleventyNavigation:
 **MuseumXTD** est une boîte à outils pour comprendre ce qu'est la transition numérique pour les petits et moyens musées au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre.
 Mettant en lumière les réalités et enjeux de la transition numérique, ces ressources permettent de se positionner face aux discours, mythes et injonctions extérieures à l'institution muséale.
 
-Vous souhaitez rester au courant de la suite du projet ? Ou souhaitez donner votre avis ? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch).  
 
-
-Bienvenue. Voici une page [[Pour démarrer|pour démarrer]]. 
+Vous ne savez pas par où démarrer? [[Pour démarrer|Rendez-vous ici]]. 
 
 ## Comprendre la transformation numérique
 [[Numérique et musée, quelques définitions]]
