@@ -7,7 +7,7 @@ eleventyNavigation:
   parent: home
 ---
 # **Le Projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz**
-A l’occasion du projet-pilote de recherche appliquée MuseumXTD, les Musées de Pully ont mené un cas d’étude dans le cadre de la conception de l’espace muséal consacré à C. F. Ramuz et à la littérature, dénommé « La Muette », dont l’ouverture est prévue en 2023.
+A l’occasion du projet-pilote de recherche appliquée **MuseumXTD**, les Musées de Pully ont mené un cas d’étude dans le cadre de la conception de l’espace muséal consacré à C. F. Ramuz et à la littérature, dénommé « La Muette », dont l’ouverture est prévue en 2023.
 
 L’objectif est de démontrer, par un exemple concret, la pertinence et les conditions de réussite de dispositifs numériques au sein de l’institution. 
 
