@@ -15,6 +15,7 @@ Rester au courant du projet ? Donner votre avis ? [Cliquer ici](https://6e13e580
 
 
 ## [[Pour démarrer]]
+Bienvenue. Voici une page pour commencer. 
 
 
 ## Comprendre la transformation numérique

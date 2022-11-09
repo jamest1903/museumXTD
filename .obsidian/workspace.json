@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Qu'est-ce qu'une stratégie numérique.md",
+                "file": "Notes/Numérique et Musée.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,8 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b87547ba1d44a8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Pour démarrer.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Pour démarrer.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Pour démarrer.md"
+                "file": "index.md"
               }
             }
           },
@@ -163,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0b948589965af57",
+  "active": "b87547ba1d44a8a8",
   "lastOpenFiles": [
+    "Notes/Numérique et Musée.md",
+    "index.md",
+    "Notes/Pour démarrer.md",
+    "Navigation/A propos.md",
     "Notes/Qu'est-ce qu'une stratégie numérique.md",
     "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
     "Notes/La pratique muséale numérique. Une approche globale.md",
-    "Notes/Numérique et Musée.md",
     "Notes/Numérique et musée, quelques définitions.md",
     "Notes/Culture numérique.md",
-    "Notes/Pour démarrer.md",
-    "index.md",
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Notes/Gérer ses collections.md"
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md"
   ]
 }
