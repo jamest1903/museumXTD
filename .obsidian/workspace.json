@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Forum 2022.md",
+                "file": "Brouillon/Ressources à creuser.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Forum 2022.md",
+                "file": "Brouillon/Ressources à creuser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Forum 2022.md",
+                "file": "Brouillon/Ressources à creuser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Forum 2022.md"
+                "file": "Brouillon/Ressources à creuser.md"
               }
             }
           },
@@ -171,9 +172,9 @@
   },
   "active": "1b86328062a64d16",
   "lastOpenFiles": [
+    "Navigation/Forum 2022.md",
     "Navigation/A propos.md",
     "Notes/Test logo github.md",
-    "Navigation/Forum 2022.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md",
     "Notes/Programme et intervenants J1.md",
     "Notes/MuseumXTD - Enjeux pratiques de la transition numérique au service de la médiation muséale.md",
