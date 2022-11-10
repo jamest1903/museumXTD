@@ -8,10 +8,9 @@ eleventyNavigation:
 # Ressources
 
 **MuseumXTD** est une boîte à outils pour comprendre ce qu'est la transition numérique pour les petits et moyens musées au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre.
-Mettant en lumière les réalités et enjeux de la transition numérique, ces ressources permettent de se positionner face aux discours, mythes et injonctions extérieures à l'institution muséale.
 
 
-Vous ne savez pas par où démarrer? [[Pour démarrer|Rendez-vous ici]]. 
+[[Pour démarrer]]. 
 
 ## Comprendre la transformation numérique
 [[Numérique et musée, quelques définitions]]
@@ -20,9 +19,9 @@ Vous ne savez pas par où démarrer? [[Pour démarrer|Rendez-vous ici]].
 ###### **[[Comprendre la transformation numérique|Plus de questions]]**
 
 ## Gérer son environnement numérique
-[[Comment élaborer une stratégie numérique]]
-[[Comment mener un projet numérique]]
-[[Comment évaluer un projet numérique]]
+[[Comment élaborer une stratégie numérique|Comment élaborer une stratégie numérique?]]
+[[Comment mener un projet numérique|Comment mener un projet numérique?]]
+[[Comment évaluer un projet numérique|Comment évaluer un projet numérique?]]
 ###### **[[Gérer son environnement numérique|Plus de questions]]**
 
 ## Gérer ses collections
