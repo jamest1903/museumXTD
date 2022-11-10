@@ -13,55 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3956399878a05af7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b0b948589965af57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Pour démarrer.md",
+                "file": "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3dd1abfaf79d2121",
+            "id": "c3921e4452610baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/La pratique muséale numérique. Une approche globale.md",
+                "file": "Navigation/Répertoire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81c018f0cb1a76c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f69c455652fd8f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tables/tables.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "b87547ba1d44a8a8",
+            "id": "d0f03cb5cdcc70c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Navigation/Ressources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wiki ",
+                "query": "ressour",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md"
               }
             }
           },
@@ -187,17 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "832704ad3721a5b7",
+  "active": "81c018f0cb1a76c8",
   "lastOpenFiles": [
+    "Navigation/Répertoire.md",
     "tables/tables.md",
-    "index.md",
-    "Navigation/Accueil.md",
-    "Notes/Numérique et Musée.md",
-    "Notes/Pour démarrer.md",
-    "Notes/La pratique muséale numérique. Une approche globale.md",
+    "Navigation/Ressources.md",
+    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Navigation/A propos.md",
-    "Notes/Technologies, quelles tendances.md",
-    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-    "Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
+    "Brouillon/Ressources à creuser.md",
+    "index.md",
+    "Notes/Pour démarrer.md",
+    "Notes/Numérique et Musée.md",
+    "Notes/La pratique muséale numérique. Une approche globale.md"
   ]
 }
