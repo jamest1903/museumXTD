@@ -7,3 +7,4 @@
 	- carte interactive des sites patrimoniaux en Suisse
 - [Projet DEXCUPAT (Bretagne)](https://www.mshb.fr/projets_mshb/dexcupat/7782/)
 	- [outils humanités numériques](https://www.mshb.fr/les-plateformes-outils-services)
+- [Make it Digital](https://digitalnz.org/make-it-digital) de [DigitalNZ](https://digitalnz.org/)
