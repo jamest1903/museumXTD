@@ -459,7 +459,5 @@ button.sort--segment:hover {
 }
 
 #breadCrumbs {
-    list-style-type:none;
-    padding:0;
     margin: 20px;
 }
