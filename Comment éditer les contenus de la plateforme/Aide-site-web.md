@@ -20,14 +20,19 @@ Exemple:
 
 🌈 **[s'inscrire](urlsendinblue)**    [[Programme 2022]]    [[#Lieu et accès]]    [[#Live/A revoir]]
 
-# Espace
-Ajout d'une balise html < br > (*sans espaces*) entre deux éléments pour ajouter un espace. Attention à ajouter un retour à la ligne après la balise. 
-Exemple: 
-élément 1
-<br>
+# Espace entre deux éléments
+- Ajout d'une balise html "< br >" (*sans espaces*) entre les deux éléments. Attention à ajouter un retour à la ligne après la balise. 
+  Exemple: 
+  élément 1
+  <br>
+  
+  élément 2
 
-élément 2
+OU 
+ - Ajout des caractères "& n b s p ;" (*sans espaces*) entre les deux éléments. 
 
+
+&nbsp;
 # Espace de section
 Un simple espace vertical entre les contenus
 4 tirets

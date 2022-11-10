@@ -20,12 +20,36 @@
             }
           },
           {
-            "id": "628b6bddc47ac1f6",
+            "id": "0d7eeae3b8c015c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/A propos test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "628b6bddc47ac1f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comment éditer les contenus de la plateforme/Aide-site-web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f5fde7c740840b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation/Forum 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,10 +108,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "<br>  ",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -122,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/A propos test.md",
+                "file": "Navigation/A propos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/A propos test.md",
+                "file": "Navigation/A propos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/A propos test.md"
+                "file": "Navigation/A propos.md"
               }
             }
           },
@@ -182,17 +205,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "628b6bddc47ac1f6",
+  "active": "c3921e4452610baf",
   "lastOpenFiles": [
-    "Navigation/A propos.md",
     "Notes/A propos test.md",
+    "Navigation/A propos.md",
+    "Comment éditer les contenus de la plateforme/Aide-site-web.md",
+    "Navigation/Forum 2022.md",
     "index.md",
     "Navigation/Ressources.md",
     "Navigation/Répertoire.md",
     "Brouillon/Ressources à creuser.md",
     "Brouillon/Conception participative.md",
-    "tables/tables.md",
-    "Notes/Retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation.md",
-    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
+    "tables/tables.md"
   ]
 }
