@@ -15,6 +15,7 @@ La plateforme a été développée selon des méthodes d’éco-conception qui l
   <source media="(min-width: 600px)" srcset="/images/Logo_Github.png" />
   <a href="https://github.com/MediaComem/museumXTD" title="Lien vers Github"><img alt="Logo github" src="/images/Logo_Github.png" width="45" height="51"></a>
 </picture> 
+<br>
 (lien: https://github.com/MediaComem/museumXTD)
     
 ## Contact
