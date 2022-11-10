@@ -15,7 +15,8 @@ La plateforme a été développée selon des méthodes d’éco-conception qui l
   <source media="(min-width: 600px)" srcset="/images/Logo_Github.png" />
   <a href="https://github.com/MediaComem/museumXTD" title="Lien vers Github"><img alt="Logo github" src="/images/Logo_Github.png" width="45" height="51"></a>
 </picture> 
-
+(lien: https://github.com/MediaComem/museumXTD)
+    
 ## Contact
 Vous souhaitez rester au courant de la suite du projet ? Ou souhaitez donner votre avis ? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch).  
 
