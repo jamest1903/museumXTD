@@ -1,4 +1,5 @@
 - [Livre blanc des visites virtuelles par le CMN](https://www.monuments-nationaux.fr/Mediatheque/Mediatheque-commune/livre-blanc-visites-guidees-a-distance#book/)
+- [Virtual museum mediation](http://msw.be/succes/virtual-museum-mediation-des-outils-de-formation-pour-creer-votre-propre-visite-virtuelle/)
 - [communicant.info](https://communicant.info/) - des idées nouvelles pour votre communication culturelle
 	- [Museum Connections – Développement durable et musées : sensibiliser, mesurer et agir (ensemble)](https://communicant.info/museum-connections-developpement-durable-et-musees-sensibiliser-mesurer-et-agir-ensemble)
 - [Programmes de sciences participatives du Museum de Paris](https://www.mnhn.fr/fr/participer-a-la-science)
