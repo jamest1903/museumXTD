@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/A propos test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/A propos test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "Notes/A propos test.md"
               }
             }
           },
@@ -181,10 +182,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c3921e4452610baf",
+  "active": "628b6bddc47ac1f6",
   "lastOpenFiles": [
-    "Notes/A propos test.md",
     "Navigation/A propos.md",
+    "Notes/A propos test.md",
     "index.md",
     "Navigation/Ressources.md",
     "Navigation/Répertoire.md",
