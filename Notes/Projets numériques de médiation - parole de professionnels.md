@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
 ---
-### Exemples de projets de médiation
+### Projets numériques de médiation - parole de professionnels
 Retrouvez ci-dessous des entretiens avec des professionnel·le·s de musées, qui partagent leur visions et retours d'expériences sur des projets de médiation entrepris au sein de leur institutions.  
 
 1. [[La médiation numérique, entre innovation, surproduction et sobriété…]]

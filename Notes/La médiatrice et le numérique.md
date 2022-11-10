@@ -13,6 +13,6 @@ Chiara Martini-Picot, médiatrice du Patrimoine au château de Sully, partage sa
 
 
 
-Apparaît dans [[Exemples de projets de médiation]]
+Apparaît dans [[Projets numériques de médiation - parole de professionnels]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

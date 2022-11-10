@@ -13,6 +13,6 @@ La directrice de la Médiation et de la programmation culturelle au musée du Lo
 - Que le visiteur accepte le regard subjectif du musée et préfère même se laisser guider par lui. 
 
 
-Apparaît dans [[Exemples de projets de médiation]]
+Apparaît dans [[Projets numériques de médiation - parole de professionnels]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
