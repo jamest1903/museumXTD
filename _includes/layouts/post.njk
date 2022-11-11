@@ -1,10 +1,16 @@
 ---
 layout: layouts/base.njk
 ---
-<br>
-<br>
-<br>
 <div class='layout-post main-container'>
+	<div id="breadCrumbs">
+      {% if(eleventyNavigation.key) %}
+        {% set crumbs = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key, {handleMissing: true}) %}
+        {% for crumb in crumbs %}
+          <a class="crumb" href="{{ crumb.url | url }}">{{ crumb.title }}</a>
+          /
+        {% endfor %}
+      {%endif%}
+    </div>
 	<div class='centered'>
 		<div class='column'>
 			<div class='ui basic segment'>
