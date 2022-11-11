@@ -12,12 +12,10 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-J2QK69ZNT6');
     </script>
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="/assets/search.js" defer></script>
-
   </head>
   <body>
     <div class="containerTop">
@@ -38,13 +36,7 @@
 
           <div id="menu-mobile" >
             <div class="navMenu" >
-
-              <a class="menuitem" href='/Navigation/A propos/'>À propos</a>
-              <a class="menuitem" href='/'>Ressources</a>
-              <a class="menuitem" href='/tables/'>Répertoire</a>
-              <a class="menuitem" href='/Navigation/Search/'>Rechercher</a>
-              <a class="menuitem" href='/Navigation/Forum 2022/'>Forum 2022</a>
-              
+              {% include './nav.njk' %}
             </div>
           </div>
         </div>
@@ -59,7 +51,6 @@
         {% endfor %}
       {%endif%}
     </div>
-
     {{ content | safe }}
     <footer>
       <div id="mastfoot">

@@ -5,7 +5,15 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0' />
     <meta http-equiv='X-UA-Compatible' content='ie=edge' />
     <title>{{title}}</title>
-    <link rel='stylesheet' href='{{ '/css/main.css' | url }}' />
+    <link rel='stylesheet' href="{{ '/css/main.css' | url }}" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J2QK69ZNT6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-J2QK69ZNT6');
+    </script>
     <script src="https://unpkg.com/lunr/lunr.js"></script>
   </head>
   <body>
@@ -27,12 +35,7 @@
 
           <div id="menu-mobile" >
             <div class="navMenu" >
-
-              <a class="menuitem" href='/Navigation/A propos/'>À propos</a>
-              <a class="menuitem" href='/'>Ressources</a>
-              <a class="menuitem" href='/tables/'>Répertoire</a>
-              <a class="menuitem" href='/Navigation/Search/'>Rechercher</a>
-              <a class="menuitem" href='/Navigation/Forum 2022/'>Forum 2022</a>
+              {% include './nav.njk' %}
             </div>
           </div>
         </div>
