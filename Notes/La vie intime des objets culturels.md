@@ -14,6 +14,6 @@ Dans ce texte traduit en français, [Jeffrey Schnapp](https://jeffreyschnapp.com
 	- l'importance des métadonnées dans l'essence de l'objet
 
 
-Apparaît dans [[Comment créer et valoriser une collection numérique]]
+Apparaît dans [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

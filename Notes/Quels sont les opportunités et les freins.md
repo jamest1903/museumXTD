@@ -2,6 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
+alias: [Quels sont les opportunités et les freins?]
 ---
 # **Quels sont les opportunités et les freins?**
 La transformation numérique de son institution ne nécessite pas forcément d'adopter tous les outils *tendance* ou de multiplier des projets supposément novateurs. Il s'agit de:

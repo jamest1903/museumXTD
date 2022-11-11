@@ -2,6 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
+alias: [Comment élaborer une stratégie numérique?]
 ---
 # **Comment élaborer une stratégie numérique?**
 Différents outils et méthodes permettent d'élaborer une stratégie numérique, dont le contenu reste propre à chaque institution (voir [[Exemples de stratégies numériques de musées]]).
@@ -19,6 +20,6 @@ En voici quelques uns:
    Le musée Alfred Danicourt de Péronne a mis en place une méthodologie fondée sur l'utilisation d'une matrice MOFF/SWOT. Son directeur est intervenu lors de la journée: [[Stratégie numérique. De l'intention à l'action]].     
 
 
-Voir également [[Qu'est-ce qu'une stratégie numérique]].   
+Ressource similaire: [[Qu'est-ce qu'une stratégie numérique|Qu'est-ce qu'une stratégie numérique?]].   
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

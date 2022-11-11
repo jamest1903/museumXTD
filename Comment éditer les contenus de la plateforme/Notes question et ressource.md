@@ -2,9 +2,9 @@
 title: MuseumXTD
 layout: layouts/post.njk
 ---
-# Comment éditer des notes *question* et *ressource* dans [[Numérique et Musée]]
+# Comment éditer des notes *question* et *ressource* dans [[index|Numérique et musée]]
 
-Cette note permet de comprendre comment modifier les pages *question* et *ressources*, qui apparaissent sur la plateforme museumxtd.ch dans [Numérique et musée](https://www.museumxtd.ch/Navigation/Num%C3%A9rique%20et%20mus%C3%A9e/). 
+Cette note permet de comprendre comment modifier les pages *question* et *ressources*, qui apparaissent sur la plateforme museumxtd.ch dans [[index|Numérique et musées]]. 
 
 Du markd... quoi? Jetez un coup d'œil à [ce guide Obsidian](https://johackim.com/obsidian) pour mieux vous familiariser au logiciel et à la syntaxe markdown. 
 
@@ -26,7 +26,7 @@ Exemple:
 - Le résumé de la ressource doit reprendre une ou deux phrases du résumé présent dans la note *ressource*. Exemple (*cliquer sur la note pour l'ouvrir*): 
 	  1. [[La pratique muséale numérique. Une approche globale]]
 	     Ce document donne une définition de la stratégie numérique et les raisons de l'implémenter dans les musées. 
-- Une ou plusieurs notes *question* peuvent y être associées à la fin après *Voir également*.    
+- Une ou plusieurs notes *question* peuvent y être associées à la fin après *Ressource similaire*.    
 
 ## 2. Les notes *ressources*  
 ### Structure de la note  

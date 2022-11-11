@@ -2,6 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
+alias: [Comment évaluer un projet numérique?]
 ---
 # Comment évaluer un projet numérique?  
 Le processus itératif inhérent aux nouvelles méthodologies de projet renforce la nécessité de mettre en place un suivi et des indicateurs pour évaluer les projets.  
@@ -19,6 +20,6 @@ Le processus itératif inhérent aux nouvelles méthodologies de projet renforce
 6. [[Évaluation finale du projet]]
    La méthodologie de projet HERMES intègre un module d'évaluation finale, quel que soit l'objet du projet. 
 
-Voir également [[Comment mener un projet numérique]].
+Ressource similaire: [[Comment mener un projet numérique|Comment mener un projet numérique?]].
  
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

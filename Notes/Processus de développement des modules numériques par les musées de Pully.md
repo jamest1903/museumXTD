@@ -20,7 +20,7 @@ eleventyNavigation:
 
 De la phase 2 à la phase 7, organiser des sessions de feedback participatifs de potentiels utilisateurs pour challenger le projet.     
 
-Disponible en pdf [ici]([https://kdrive.infomaniak.com/app/share/131928/98cdf86b-9446-4e29-af38-996572907970](https://kdrive.infomaniak.com/app/share/131928/98cdf86b-9446-4e29-af38-996572907970))
+###### **Disponible en pdf [ici](https://kdrive.infomaniak.com/app/share/131928/98cdf86b-9446-4e29-af38-996572907970)**
 
 ---- 
 Voir sa présentation par Stéphanie Lugon [[Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz|lors de son intervention]] au forum MuseumXTD. 

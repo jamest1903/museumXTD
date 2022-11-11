@@ -22,7 +22,7 @@ Ces impératifs sont illustrés à travers la stratégie numérique de deux mus�
   
 Cet article est issu du dossier [*Musées et monde numériques*](https://journals.openedition.org/culturemusees/4353) sous la direction de [Florence Andreacola](http://andreacola.fr/).   
 
-Voir également [[Musées et mondes numériques (Introduction)]]  
+Ressource similaire: [[Musées et mondes numériques (Introduction)]]  
 
 Apparaît dans [[Quels sont les opportunités et les freins]]
 
