@@ -191,7 +191,7 @@ input#searchString:focus-within {
 
 
 /* logo header */
-#mastfoot,
+#mastfoot p,
 #masthead {
     text-align: justify;
     margin-top: var(--space-l);
@@ -201,14 +201,14 @@ input#searchString:focus-within {
 }
 #masthead > span {
 }
-#mastfoot::after,
+#mastfoot p::after,
 #masthead::after {
     content: " ";
     display: inline-block;
     width: 100%;
 }
 
-#mastfoot {
+#mastfoot p {
     transform: rotateZ(180deg);
 }
 
