@@ -25,17 +25,16 @@ body {
     margin-right: 0;
     width: 100%;
 }
-.navMenu {
+.navMenu p {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     gap: var(--space-l) var(--space-s);
     margin-right: var(--space-l);
     margin-left: var(--space-l);
-
 }
 @media screen and (Min-width:770px) {
- .navMenu {
+ .navMenu p {
     flex-direction: row;
     margin-right: 0;
     margin-left: 0;
@@ -44,7 +43,7 @@ body {
  }
 }
 
-.navMenu .menuitem {
+.navMenu a {
     font-weight: 400;
     color: rgba(0,0,0,.95);
     /* padding: 10px 10px; */
@@ -53,12 +52,12 @@ body {
     min-width: 15em;
 }
 @media screen and (Min-width:770px) {
-    .navMenu .menuitem {
+    .navMenu a {
         min-width: initial;
     }
 }
 
-.menuitem {
+.navMenu a {
     text-decoration: none;
 }
 

@@ -12,12 +12,10 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-J2QK69ZNT6');
     </script>
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="/assets/search.js" defer></script>
-
   </head>
   <body>
     <div class="containerTop">
@@ -38,14 +36,7 @@
 
           <div id="menu-mobile" >
             <div class="navMenu" >
-
-              <a class="menuitem" href='/'>Accueil</a>
-              <a class="menuitem" href='/Navigation/Numérique et musée/'>Numérique & Musée</a>
-              <a class="menuitem" href="/Navigation/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz">Projet Ramuz</a>
-              <a class="menuitem" href='/tables/'>Acteurs & Projets</a>
-              <a class="menuitem" href='/Navigation/Forum/'>Forum</a>
-              <a class="menuitem" href='/Navigation/A propos/'>À propos</a>
-              <a class="menuitem" href='/Navigation/Search/'>Rechercher</a>
+              {% include './nav.njk' %}
             </div>
           </div>
         </div>
@@ -60,7 +51,6 @@
         {% endfor %}
       {%endif%}
     </div>
-
     {{ content | safe }}
     <footer>
       <div id="mastfoot">
