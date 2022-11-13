@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md",
+                "file": "Notes/Numérique et Musée.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md",
+                "file": "Notes/Numérique et Musée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md",
+                "file": "Notes/Numérique et Musée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md"
+                "file": "Notes/Numérique et Musée.md"
               }
             }
           },
@@ -176,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "98c52a9ba4e12add",
+  "active": "a34e32d74e414410",
   "lastOpenFiles": [
+    "Navigation/search.md",
+    "Navigation/navLinks.md",
+    "Navigation/A propos.md",
+    "Brouillon/Ressources à creuser.md",
     "Notes/Projets numériques de médiation - parole de professionnels.md",
     "Notes/Comment encourager la participation du visiteur.md",
     "index.md",
     "Navigation/Ressources.md",
-    "Navigation/A propos.md",
     "Notes/A propos test.md",
-    "Comment éditer les contenus de la plateforme/Aide-site-web.md",
-    "Navigation/Forum 2022.md",
-    "Brouillon/Ressources à creuser.md",
-    "Notes/Processus de développement des modules numériques par les musées de Pully.md"
+    "Comment éditer les contenus de la plateforme/Aide-site-web.md"
   ]
 }
