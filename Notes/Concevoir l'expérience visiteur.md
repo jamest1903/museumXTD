@@ -2,7 +2,8 @@
 title: MuseumXTD  
 layout: layouts/post.njk  
 eleventyNavigation:
-  key: Concevoir l'expérience visiteur
+  key: UX
+  title: Concevoir l'expérience visiteur
   parent: Ressources
 ---
 # Concevoir l'expérience visiteur
