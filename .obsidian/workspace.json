@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "fdc1e5d0a680726f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brouillon/To-do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "30fd89920cf6853c",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,10 +121,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "to do",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -126,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Comment utiliser le numérique de façon durable.md",
+                "file": "Brouillon/To-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Comment utiliser le numérique de façon durable.md",
+                "file": "Brouillon/To-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Comment utiliser le numérique de façon durable.md"
+                "file": "Brouillon/To-do.md"
               }
             }
           },
@@ -206,10 +219,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "152afef189559951",
+  "active": "fdc1e5d0a680726f",
   "lastOpenFiles": [
-    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
     "Notes/Comment utiliser le numérique de façon durable.md",
+    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
     "Notes/Éco-conception, le brouillard à venir.md",
     "Notes/CarbonViz.md",
     "Notes/La vérité sur l’empreinte carbone du numérique.md",
