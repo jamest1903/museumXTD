@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5f82baff21302e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Virtuel et virtualisation.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d7d2fdbbe165682e",
             "type": "leaf",
             "state": {
@@ -54,89 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "233965a48cfdd09c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comment éditer les contenus de la plateforme/Aide-site-web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f17651d9f358089f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Virtual Museum Mediation.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de0c95003abf0ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54a7bd9b67aa42c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fde5f5e4ad11d45",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1d816b490dd7d231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Note question.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e69ccb9080324f17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,12 +172,12 @@
   },
   "active": "dc95c7b957236b70",
   "lastOpenFiles": [
-    "Notes/Virtual Museum Mediation.md",
     "Comment éditer les contenus de la plateforme/Aide-site-web.md",
+    "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
     "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
+    "Notes/Virtual Museum Mediation.md",
     "Notes/Concevoir l'expérience visiteur.md",
     "Notes/Comment encourager la participation du visiteur.md",
-    "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
     "Notes/Livre blanc des visites guidées à distance.md",
     "Notes/Tour de France des initiatives musées & monuments lors du re-confinement.md",
     "Template/Note question.md",
