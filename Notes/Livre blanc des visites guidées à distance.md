@@ -4,8 +4,13 @@ layout: layouts/post.njk
 tags: liens
 alias: 
 eleventyNavigation:
+<<<<<<< HEAD
   key: Livre blanc des visites guidées à distance
   parent: Quels sont les nouveaux formats en ligne de contenus
+=======
+  key: visites
+  parent: formats
+>>>>>>> parent of 9f40996 (MAH metadonnées breadCrumbs)
 ---
 ### [Libre blanc des visites guidées à distance. Retours sur un an d'expérimentation](https://www.monuments-nationaux.fr/Mediatheque/Mediatheque-commune/livre-blanc-visites-guidees-a-distance#book/)
 

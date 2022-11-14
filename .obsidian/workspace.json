@@ -41,10 +41,128 @@
                 "mode": "source",
                 "source": false
               }
+<<<<<<< HEAD
             }
           }
         ],
         "currentTab": 2
+=======
+            },
+            "group": "f15aa13d85966afd"
+          },
+          {
+            "id": "f17651d9f358089f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Virtual Museum Mediation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de0c95003abf0ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54a7bd9b67aa42c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fde5f5e4ad11d45",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d816b490dd7d231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Note question.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e69ccb9080324f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/MuseumXTD - Elisabeth Gravil.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e838507e67a008e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22085218d909f3a1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": false,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "f15aa13d85966afd"
+          }
+        ]
+>>>>>>> parent of 9f40996 (MAH metadonnées breadCrumbs)
       }
     ],
     "direction": "vertical"
@@ -170,17 +288,33 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "dc95c7b957236b70",
   "lastOpenFiles": [
     "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
     "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
+=======
+  "active": "22085218d909f3a1",
+  "lastOpenFiles": [
+>>>>>>> parent of 9f40996 (MAH metadonnées breadCrumbs)
     "Notes/Virtual Museum Mediation.md",
+    "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
     "Notes/Livre blanc des visites guidées à distance.md",
+<<<<<<< HEAD
     "Notes/Concevoir l'expérience visiteur.md",
     "Comment éditer les contenus de la plateforme/Aide-site-web.md",
     "Notes/Comment encourager la participation du visiteur.md",
     "Notes/Tour de France des initiatives musées & monuments lors du re-confinement.md",
     "Template/Note question.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md"
+=======
+    "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
+    "Notes/Tour de France des initiatives musées & monuments lors du re-confinement.md",
+    "Template/Note question.md",
+    "Notes/MuseumXTD - Elisabeth Gravil.md",
+    "Notes/Musées et mondes numériques (Introduction).md",
+    "Notes/Notre liste de newsletters à suivre.md",
+    "Notes/20 ans de numérique dans les musées.md"
+>>>>>>> parent of 9f40996 (MAH metadonnées breadCrumbs)
   ]
 }

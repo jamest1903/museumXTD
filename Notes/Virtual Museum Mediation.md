@@ -4,8 +4,13 @@ layout: layouts/post.njk
 tags: liens
 alias: 
 eleventyNavigation:
+<<<<<<< HEAD
   key: Virtual Museum Mediation
   parent: Quels sont les nouveaux formats en ligne de contenus
+=======
+  key: Virtual
+  parent: formats
+>>>>>>> parent of 9f40996 (MAH metadonnées breadCrumbs)
 ---
 ### [Virtual Museum Mediation: des outils pour créer votre visite virtuelle](https://www.brusselsmuseums.be/fr/professionnels/virtual-museum-mediation-des-outils-pour-creer-votre-visite-virtuelle)
 
