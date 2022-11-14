@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Note question.md",
+                "file": "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Note question.md",
+                "file": "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Note question.md"
+                "file": "Notes/Quels sont les nouveaux formats en ligne de contenus.md"
               }
             }
           },
@@ -242,15 +242,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f237efa9a9b246fe",
+  "active": "dc95c7b957236b70",
   "lastOpenFiles": [
+    "Notes/Concevoir l'expérience visiteur.md",
+    "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
+    "Template/Note question.md",
     "Template/Note ressource.md",
     "Template/Métadonnées Notes.md",
     "Template/Métadonnées Navigation.md",
-    "Template/Note question.md",
-    "Notes/Concevoir l'expérience visiteur.md",
     "conflict-files-obsidian-git.md",
-    "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
     "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
     "Notes/Virtual Museum Mediation.md",
     "Notes/Livre blanc des visites guidées à distance.md"
