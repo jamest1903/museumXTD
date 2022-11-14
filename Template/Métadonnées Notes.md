@@ -5,6 +5,7 @@ tags:
 alias:
 eleventyNavigation:
   key: 
+  title:
   parent: 
 ---
 

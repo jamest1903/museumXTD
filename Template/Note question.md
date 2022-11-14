@@ -5,6 +5,7 @@ tags: question
 alias: 
 eleventyNavigation:
   key: 
+  title:
   parent: 
 ---
 # **Intitulé de la question**  

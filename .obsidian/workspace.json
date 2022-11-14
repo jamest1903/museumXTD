@@ -73,14 +73,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md",
+                "file": "Template/Métadonnées Navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d6d3714da1a43c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Métadonnées Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0316b14fcdc77d6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Note ressource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f237efa9a9b246fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Note question.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md",
+                "file": "Template/Note question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md",
+                "file": "Template/Note question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md"
+                "file": "Template/Note question.md"
               }
             }
           },
@@ -206,17 +242,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a8470ab2839ec950",
+  "active": "f237efa9a9b246fe",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Template/Note ressource.md",
+    "Template/Métadonnées Notes.md",
+    "Template/Métadonnées Navigation.md",
+    "Template/Note question.md",
     "Notes/Concevoir l'expérience visiteur.md",
+    "conflict-files-obsidian-git.md",
     "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
     "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
     "Notes/Virtual Museum Mediation.md",
-    "Notes/Livre blanc des visites guidées à distance.md",
-    "Comment éditer les contenus de la plateforme/Aide-site-web.md",
-    "Notes/Comment encourager la participation du visiteur.md",
-    "Notes/Tour de France des initiatives musées & monuments lors du re-confinement.md",
-    "Template/Note question.md"
+    "Notes/Livre blanc des visites guidées à distance.md"
   ]
 }

@@ -5,6 +5,7 @@ tags: liens
 alias: 
 eleventyNavigation:
   key: 
+  title:
   parent: 
 ---
 ### [Auteur, Initiale., & Auteur, Initiale. (Date). Titre.]()
