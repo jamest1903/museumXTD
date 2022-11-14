@@ -5,7 +5,7 @@ tags: liens
 alias: 
 eleventyNavigation:
   key: Livre blanc des visites guidées à distance
-  parent: Quels sont les nouveaux formats en ligne de contenus?
+  parent: Quels sont les nouveaux formats en ligne de contenus
 ---
 ### [Libre blanc des visites guidées à distance. Retours sur un an d'expérimentation](https://www.monuments-nationaux.fr/Mediatheque/Mediatheque-commune/livre-blanc-visites-guidees-a-distance#book/)
 

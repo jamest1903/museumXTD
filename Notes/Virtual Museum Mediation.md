@@ -5,7 +5,7 @@ tags: liens
 alias: 
 eleventyNavigation:
   key: Virtual Museum Mediation
-  parent: Quels sont les nouveaux formats en ligne de contenus?
+  parent: Quels sont les nouveaux formats en ligne de contenus
 ---
 ### [Virtual Museum Mediation: des outils pour créer votre visite virtuelle](https://www.brusselsmuseums.be/fr/professionnels/virtual-museum-mediation-des-outils-pour-creer-votre-visite-virtuelle)
 

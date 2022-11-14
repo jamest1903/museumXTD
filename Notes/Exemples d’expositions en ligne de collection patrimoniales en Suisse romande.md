@@ -5,7 +5,7 @@ tags: liens
 alias: 
 eleventyNavigation:
   key: Exemples d’expositions en ligne
-  parent: Quels sont les nouveaux formats en ligne de contenus?
+  parent: Quels sont les nouveaux formats en ligne de contenus
 ---
 ### Exemples d’expositions en ligne de collection patrimoniales en Suisse romande 
 Ci-dessous une liste d'exemples d'expositions en ligne, réalisées ou en collaboration avec des institutions culturelles suisses romandes. 

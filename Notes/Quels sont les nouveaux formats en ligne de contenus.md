@@ -4,13 +4,13 @@ layout: layouts/post.njk
 tags: question
 alias: [Quels sont les nouveaux formats en ligne de contenus?]
 eleventyNavigation:
-  key: Quels sont les nouveaux formats en ligne de contenus?
+  key: Quels sont les nouveaux formats en ligne de contenus
   parent: Concevoir l'expérience visiteur
 ---
 # **Quels sont les nouveaux formats en ligne de contenus?**  
 Visite virtuelle? Exposition en ligne? Visites guidées à distance? Quels sont les nouveaux formats de contenus culturels, qui utilisent [[Musées et mondes numériques (Introduction)|l'environnement médiatique du web]] pour s'exposer en dehors du musée?
 
-La [[Virtuel et virtualisation|virtualisation]] et la diffusion en ligne des collections patrimoniales ne sont pas une tendance issue du covid (voir l'[article](https://omer.mobi/notes/france-numerique-pour-les-musees-reperes) d'Omer Pesquer à ce sujet), même si la période a agit comme un accélérateur. Les nombreux exemples actuels d’exposition en ligne restent néanmoins multiples et divers, au point qu'il peut parfois être difficile d'évaluer la pertinence de ces formats pour sa propre institution. 
+Même si la période a agit comme un accélérateur, la [[Virtuel et virtualisation|virtualisation]] et la diffusion en ligne des collections patrimoniales ne sont pas une tendance issue du COVID-19 (voir l'[article](https://omer.mobi/notes/france-numerique-pour-les-musees-reperes) d'Omer Pesquer à ce sujet). Les nombreux exemples actuels d’exposition en ligne restent néanmoins multiples et divers, au point qu'il peut parfois être difficile d'évaluer la pertinence de ces formats pour sa propre institution. 
 De la transposition de la visite physique dans le virtuel à la production de nouveaux formats numériques, rendre les collections du musée accessibles à distance peut servir les missions du musées, à condition de l'avoir intégré dans sa stratégie numérique au préalable.
 
 Voici une sélection de ressources illustrant et recontextualisant les bénéfices des expositions virtuelles, ainsi que des exemples de projet en Suisse romande.
@@ -18,7 +18,7 @@ Voici une sélection de ressources illustrant et recontextualisant les bénéfic
 1. [[Livre blanc des visites guidées à distance]]
    Le [Centre des Monuments Nationaux](https://www.monuments-nationaux.fr) met à disposition ses résultats de recherche sur la mise en place de visites guidées à distance payantes.     
 2. [[Virtual Museum Mediation]]
-   Ce projet met à disposition **une série de tutoriels vidéo et un guide de médiation** pour réaliser des visites virtuelles, gratuitement et à destination des médiateur.rices. 
+   Ce projet met à disposition une série de tutoriels vidéo et un guide de médiation pour réaliser des visites virtuelles, gratuitement et à destination des médiateur.rices. 
 3. [Tour de France des initiatives musées & monuments lors du re-confinement](https://www.club-innovation-culture.fr/tour-de-france-re-confinement/)
    CLIC dresse une liste des différentes initiatives prises par les musées monuments au moment du COVID-19. Nombreuses d'entre elles sont des expériences en ligne.  
 4. [[Exemples d’expositions en ligne de collection patrimoniales en Suisse romande]]
