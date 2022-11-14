@@ -37,8 +37,80 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Quels sont les nouveaux formats de contenus en ligne.md",
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5efa1a0598579b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccf78c85022144de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Comment encourager la participation du visiteur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "737724e0948d2d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Virtual Museum Mediation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4ae3195212dad53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Livre blanc des visites guidées à distance.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8847667a75882453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Virtual Museum Mediation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dd1c01c5ed8996f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Livre blanc des visites guidées à distance.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -73,10 +145,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gravil",
+                "query": "professionnel",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -90,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quels sont les nouveaux formats de contenus en ligne.md",
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Quels sont les nouveaux formats de contenus en ligne.md",
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quels sont les nouveaux formats de contenus en ligne.md"
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md"
               }
             }
           },
@@ -172,15 +245,15 @@
   },
   "active": "dc95c7b957236b70",
   "lastOpenFiles": [
-    "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
-    "Notes/Quels sont les nouveaux formats de contenus en ligne.md",
+    "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
+    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+    "Notes/Comment encourager la participation du visiteur.md",
+    "Notes/Virtuel et virtualisation.md",
     "Notes/Virtual Museum Mediation.md",
     "Notes/Livre blanc des visites guidées à distance.md",
     "Notes/Concevoir l'expérience visiteur.md",
     "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Comment penser le marketing et la communication avec le numérique.md",
-    "Notes/Les outils numériques liés au marketing et à la communication.md",
-    "Notes/Comment encourager la participation du visiteur.md",
-    "Template/Note question.md"
+    "Notes/Les outils numériques liés au marketing et à la communication.md"
   ]
 }

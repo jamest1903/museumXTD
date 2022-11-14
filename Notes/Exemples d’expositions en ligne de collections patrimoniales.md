@@ -8,7 +8,8 @@ eleventyNavigation:
   title: Exemples d’expositions en ligne
   parent: formats
 ---
-### Exemples d’expositions en ligne de collection patrimoniales en Suisse romande 
+### Exemples d’expositions en ligne de collections patrimoniales 
+#### En Suisse romande 
 Ci-dessous une liste d'exemples d'expositions en ligne, réalisées ou en collaboration avec des institutions culturelles suisses romandes. 
 
 - [Jean Starobinski. Relations critiques](https://www.expo-starobinski.ch/)  (Archives littéraires suisses)
@@ -27,6 +28,10 @@ Ci-dessous une liste d'exemples d'expositions en ligne, réalisées ou en collab
 - Les collections en ligne des [Musées de la ville de Nyon](http://collections-musees.nyon.ch/fr/accueil)
 - Les collections des [musées et de la Ville de Lausanne (Museris)](https://www.lausanne.ch/apps/museris/)
 - Les collections en ligne du [musée Ariana](https://www.musee-ariana.ch/collections/)
+
+#### En France
+- [Tour de France des initiatives musées & monuments lors du re-confinement](https://www.club-innovation-culture.fr/tour-de-france-re-confinement/)
+   CLIC dresse une liste des différentes initiatives prises par les musées monuments au moment du COVID-19. Nombreuses d'entre elles sont des expériences en ligne.  
 
 --- 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch).

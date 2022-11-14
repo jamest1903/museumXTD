@@ -15,7 +15,7 @@ Il est issu d'un travail collaboratif entre six musées belges, qui ont particip
 
 
 ## A retenir
-- Le *guide des Bonnes pratiques pour une visite guidée virtuelle* existe en version française, anglaise, néerlandaise. 
+- Le *guide des Bonnes pratiques pour une visite guidée virtuelle* existe en [version française](http://msw.be/wp-content/uploads/2022/10/GUIDE-FR.pdf), anglaise, néerlandaise. 
 - Il propose une définition de *visite virtuelle* selon 4 catégories (les visites de type visio-conférences, les parcours, les visites hybrides, les visites ludo-éducatives)
 etc. 
   
