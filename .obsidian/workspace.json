@@ -53,8 +53,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "f15aa13d85966afd"
+            }
           },
           {
             "id": "f17651d9f358089f",
@@ -125,49 +124,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "e838507e67a008e1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "22085218d909f3a1",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": false,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "f15aa13d85966afd"
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
+                "file": "Notes/Concevoir l'expérience visiteur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
+                "file": "Notes/Concevoir l'expérience visiteur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Quels sont les nouveaux formats en ligne de contenus.md"
+                "file": "Notes/Concevoir l'expérience visiteur.md"
               }
             }
           },
@@ -293,17 +250,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "22085218d909f3a1",
+  "active": "d7d2fdbbe165682e",
   "lastOpenFiles": [
-    "Notes/Virtual Museum Mediation.md",
+    "Notes/Comment encourager la participation du visiteur.md",
+    "Notes/Concevoir l'expérience visiteur.md",
     "Notes/Quels sont les nouveaux formats en ligne de contenus.md",
-    "Notes/Livre blanc des visites guidées à distance.md",
     "Notes/Exemples d’expositions en ligne de collection patrimoniales en Suisse romande.md",
+    "Notes/Virtual Museum Mediation.md",
+    "Notes/Livre blanc des visites guidées à distance.md",
     "Notes/Tour de France des initiatives musées & monuments lors du re-confinement.md",
     "Template/Note question.md",
     "Notes/MuseumXTD - Elisabeth Gravil.md",
-    "Notes/Musées et mondes numériques (Introduction).md",
-    "Notes/Notre liste de newsletters à suivre.md",
-    "Notes/20 ans de numérique dans les musées.md"
+    "Notes/Musées et mondes numériques (Introduction).md"
   ]
 }

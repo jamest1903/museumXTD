@@ -4,8 +4,8 @@ layout: layouts/post.njk
 tags: question
 alias: [Quels sont les nouveaux formats en ligne de contenus?]
 eleventyNavigation:
-  key: formats
-  parent: UX
+  key: Quels sont les nouveaux formats en ligne de contenus?
+  parent: Concevoir l'expérience visiteur
 ---
 # **Quels sont les nouveaux formats en ligne de contenus?**  
 Visite virtuelle? Exposition en ligne? Visites guidées à distance? Quels sont les nouveaux formats de contenus culturels, qui utilisent [[Musées et mondes numériques (Introduction)|l'environnement médiatique du web]] pour s'exposer en dehors du musée?
