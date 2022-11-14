@@ -3,6 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 alias: [Comment encourager la participation du visiteur?]
+eleventyNavigation:
+  key: participation
+  title: Comment encourager la participation du visiteur?
+  parent: UX
 ---
 # **Comment encourager la participation du visiteur**?
 Les nouvelles technologies, au service des activités de médiation, offrent au musée de nouvelles possibilités de narration. Elles encouragent également le comportement actif du visiteur: en tant que *visiteur à l'œuvre*, il participe désormais à la construction des collections et au discours des musées. 
