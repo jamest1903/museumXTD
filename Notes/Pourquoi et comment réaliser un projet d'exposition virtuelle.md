@@ -9,10 +9,12 @@ eleventyNavigation:
   parent: UX
 ---
 # **Pourquoi et comment réaliser un projet d'exposition virtuelle?**  
-Visite virtuelle? Exposition en ligne? Visites guidées à distance? De nombreux formats de contenus qui utilisent [[Musées et mondes numériques (Introduction)|l'environnement médiatique du web]], pour s'exposer en dehors du musée, se développent depuis quelque dizaine d'années (voir l'[article](https://omer.mobi/notes/france-numerique-pour-les-musees-reperes) d'Omer Pesquer à ce sujet). Une tendance accélérée par la période de COVID-19.
+Visite virtuelle, exposition en ligne, visites guidées à distance... 
+De nombreux formats utilisent [[Musées et mondes numériques (Introduction)|l'environnement médiatique du web]] pour s'exposer en dehors du musée. Bien qu'ils existent depuis plusieurs dizaines d'années (voir l'[article](https://omer.mobi/notes/france-numerique-pour-les-musees-reperes) d'Omer Pesquer à ce sujet), ils se sont fortement développés, notamment chez les petits et moyens musées, lors de la période de COVID-19.
 
-Les exemples actuels d’exposition en ligne restent néanmoins multiples et divers, au point qu'il peut parfois être difficile d'évaluer la pertinence de ces formats pour sa propre institution. 
-De la transposition de la visite physique dans le virtuel à la production de nouveaux formats numériques, rendre les collections du musée accessibles à distance peut servir les missions du musées, à condition de l'avoir au préalable intégré dans sa stratégie numérique.
+Les exemples actuels d’exposition en ligne restent multiples et divers, au point qu'il peut parfois être difficile d'en évaluer la pertinence pour sa propre institution. La transposition de la visite physique du musée dans le virtuel est-elle une expérience populaire chez les publics ? Sont-ils prêts à payer pour une visite à distance ? 
+
+Développer des expositions à distance peut servir les missions du musées, notamment en termes d'accessibilité; à condition de l'avoir au préalable intégré dans sa stratégie numérique.
 
 1. [[Livre blanc des visites guidées à distance]]
    Le [Centre des Monuments Nationaux](https://www.monuments-nationaux.fr) met à disposition ses résultats de recherche sur la mise en place de visites guidées à distance payantes. Il fournit une évaluation des critères d'attractivité et de pertinence des formats de visites à distance pour les publics.  
@@ -20,6 +22,8 @@ De la transposition de la visite physique dans le virtuel à la production de no
    Ce projet met à disposition une série de tutoriels vidéo et un guide de médiation pour réaliser des visites virtuelles, gratuitement et à destination des médiateur·rices. 
 3. [[Exemples d’expositions en ligne de collections patrimoniales]]
    Voici une liste d'exemples d'expositions en ligne, réalisées ou en collaboration avec des institutions culturelles suisses romandes.    
+
+Au-delà des expositions virtuelles, les musées peuvent produire et diffuser d'autres formats numériques - comme des contenus audiovisuels sur les réseaux sociaux, les e-learnings etc. Ces formats moins "traditionnels" questionne le périmètre de la médiation muséale.  
 
 Ressource similaire: [[Virtuel et virtualisation]], [[Qu'est-ce qu'une stratégie numérique]]
 
