@@ -4,14 +4,14 @@ layout: layouts/post.njk
 alias: [Le projet Ramuz]
 eleventyNavigation:
   key: Ramuz
-  parent: home
+  parent: Ressources
 ---
 # **Le Projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz**
 A l’occasion du projet-pilote de recherche appliquée **MuseumXTD**, les Musées de Pully ont mené un cas d’étude dans le cadre de la conception de l’espace muséal consacré à C. F. Ramuz et à la littérature, dénommé « La Muette », dont l’ouverture est prévue en 2023.
 
 L’objectif est de démontrer, par un exemple concret, la pertinence et les conditions de réussite de dispositifs numériques au sein de l’institution. 
 
-L’idée de développer le "smartphone de Ramuz" a été donnée par des étudiants de la HEIG-VD lors de la semaine *Crunch*, qui s’est tenue du 14 au 18 mars 2022. A parti de celle-ci, deux modules ont été développés : 
+L’idée de développer le "smartphone de Ramuz" a été donnée par des étudiants de la HEIG-VD lors de la semaine *Crunch*, qui s’est tenue du 14 au 18 mars 2022. A partir de celle-ci, deux modules ont été développés : 
 - le premier à destination des classes du secondaire (module 1)
 - le second comprenant une dimension de participation et de co-construction avec les publics (module 2)
 

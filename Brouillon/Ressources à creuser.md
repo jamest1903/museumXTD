@@ -9,3 +9,4 @@
 - [Projet DEXCUPAT (Bretagne)](https://www.mshb.fr/projets_mshb/dexcupat/7782/)
 	- [outils humanités numériques](https://www.mshb.fr/les-plateformes-outils-services)
 - [Make it Digital](https://digitalnz.org/make-it-digital) de [DigitalNZ](https://digitalnz.org/)
+- [CDC numérisation du patrimoine et de l'architecture](https://www.culture.gouv.fr/Aides-demarches/Appels-a-projets-partenaires/Appel-a-projets-Numerisation-du-patrimoine-et-de-l-architecture) (France)

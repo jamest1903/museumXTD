@@ -24,5 +24,3 @@ De la phase 2 à la phase 7, organiser des sessions de feedback participatifs de
 
 ---- 
 Voir sa présentation par Stéphanie Lugon [[Projet Ramuz - Présentation du cas d’étude des Musées de Pully autour de C. F. Ramuz|lors de son intervention]] au forum MuseumXTD. 
-
-Apparaît dans [[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz]]

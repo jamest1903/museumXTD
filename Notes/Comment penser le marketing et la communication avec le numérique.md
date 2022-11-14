@@ -25,8 +25,6 @@ La communication est un des leviers d'action du marketing. Elle permet de rendre
    Ainhoa Simòn Diez évoque les grandes tendances des réseaux sociaux et la manière dont les musées peuvent s'adapter. 
 7. [[La communication muséale sur Internet et les réseaux sociaux]]  
    Ce travail s'intéresse aux stratégies utilisées par les musées pour attirer les internautes et à ce qui poussent ces derniers à prendre contact avec les musées sur les réseaux sociaux. 
-8. [[Les outils numériques liés au marketing et à la communication]]
-   Dans le champ du marketing et de la communication, le numérique implique le développement de certains outils qui lui sont propres. 
 
 Ressources similaire: [[Les outils numériques liés au marketing et à la communication]]
  

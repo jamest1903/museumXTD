@@ -2,7 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 eleventyNavigation:
-  key: home
+  key: Ressources
 ---
 
 # Ressources

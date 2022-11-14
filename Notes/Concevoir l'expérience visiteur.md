@@ -1,7 +1,9 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
-date: 2022-08-31
+eleventyNavigation:
+  key: UX
+  parent: Ressources
 ---
 # Concevoir l'expérience visiteur
 [[Comment encourager la participation du visiteur|Comment encourager la participation du visiteur?]]

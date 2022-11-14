@@ -2,6 +2,9 @@
 title: MuseumXTD  
 layout: layouts/post.njk  
 tags: 
-alias: 
+alias:
+eleventyNavigation:
+  key: 
+  parent: 
 ---
 

@@ -4,10 +4,10 @@ layout: layouts/post.njk
 tags: liens
 alias: 
 eleventyNavigation:
-  key: 
-  parent: 
+  key: initiatives
+  parent: formats
 ---
-### [Auteur, Initiale., & Auteur, Initiale. (Date). Titre.]()
+### [Tour de France des initiatives musées & monuments lors du re-confinement](https://www.club-innovation-culture.fr/tour-de-france-re-confinement/)
 
 Résumé de la ressource
 
