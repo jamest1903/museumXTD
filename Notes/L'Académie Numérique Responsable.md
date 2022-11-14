@@ -24,6 +24,6 @@ L'Institut du Numérique Responsable propose un MOOC sur le sujet.
 
 L’INR, est un *think and do tank* français, créé en 2018. Organisé en association à but non lucratif, il émane du Club Green IT. L’[Institut du Numérique Responsable suisse](https://institutnr-ch.org/) en est une association partenaire, fondée en 2020.  
 
-
 ---- 
+
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch).

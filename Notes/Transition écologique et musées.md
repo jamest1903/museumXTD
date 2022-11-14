@@ -23,4 +23,5 @@ Cette note rassemble des interventions sur la sensibilisation aux enjeux de la t
    Cette journée d'étude, organisée par la formation [Master Musées et Nouveaux Médias](http://www.univ-paris3.fr/master-musees-et-nouveaux-medias-br-mention-direction-de-projets-ou-d-etablissements-culturels-538471.kjsp) en 2022, vise à réfléchir à un avenir numérique plus écologique dans les musées. Une synthèse est disponible sur ce [lien LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6926147033812619264/). 
 
 ---- 
+
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch).

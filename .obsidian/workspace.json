@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "913ab07010cbd43a",
+            "id": "30fd89920cf6853c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Éco-conception, le brouillard à venir.md",
+                "file": "Comment éditer les contenus de la plateforme/Aide-site-web.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,15 +208,15 @@
   },
   "active": "152afef189559951",
   "lastOpenFiles": [
-    "Notes/Éco-conception, le brouillard à venir.md",
-    "Notes/Comment utiliser le numérique de façon durable.md",
-    "Notes/CarbonViz.md",
     "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+    "Notes/Comment utiliser le numérique de façon durable.md",
+    "Notes/Éco-conception, le brouillard à venir.md",
+    "Notes/CarbonViz.md",
     "Notes/La vérité sur l’empreinte carbone du numérique.md",
     "Notes/Transition numérique et protection de l’environnement.md",
-    "Notes/Comment faire des usages numériques responsables et durables.md",
     "Notes/L'Académie Numérique Responsable.md",
-    "Template/Note ressource.md",
-    "Notes/Gérer son environnement numérique.md"
+    "Notes/Comment faire des usages numériques responsables et durables.md",
+    "Notes/Transition écologique et musées.md",
+    "Comment éditer les contenus de la plateforme/Aide-site-web.md"
   ]
 }

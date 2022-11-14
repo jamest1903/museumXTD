@@ -24,4 +24,5 @@ Lors du salon Museum Connection, Marguerite Courtel synthétise les enjeux du d�
 [Les Augures](https://lesaugures.com/) est une agence française créée en 2020. Elle vise à fédérer les acteurs de la culture autour des enjeux du développement durable. Elle accompagne les structures culturelles dans leur politiques responsables. 
 
 ---- 
+
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch).
