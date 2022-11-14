@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b3ed1fcd67c2759",
+            "id": "152afef189559951",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "152afef189559951",
+            "id": "98f57f236ca7cfca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Comment utiliser le numérique de façon durable.md",
-                "mode": "source",
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "079d7dfad20eed36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Comment faire des usages numériques responsables et durables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5000bd59754bdc73",
             "type": "leaf",
             "state": {
@@ -91,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brouillon/To-do.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brouillon/To-do.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brouillon/To-do.md"
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
               }
             }
           },
@@ -219,17 +205,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdc1e5d0a680726f",
+  "active": "152afef189559951",
   "lastOpenFiles": [
-    "Notes/Comment utiliser le numérique de façon durable.md",
+    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+    "Notes/Comment utiliser le numérique de façon durable.md",
+    "Brouillon/To-do.md",
     "Notes/Éco-conception, le brouillard à venir.md",
     "Notes/CarbonViz.md",
     "Notes/La vérité sur l’empreinte carbone du numérique.md",
     "Notes/Transition numérique et protection de l’environnement.md",
     "Notes/L'Académie Numérique Responsable.md",
-    "Notes/Comment faire des usages numériques responsables et durables.md",
-    "Notes/Transition écologique et musées.md",
-    "Comment éditer les contenus de la plateforme/Aide-site-web.md"
+    "Notes/Comment faire des usages numériques responsables et durables.md"
   ]
 }
