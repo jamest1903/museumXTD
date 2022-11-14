@@ -2,10 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
-alias: [Quels sont les nouveaux formats en ligne de contenus?]
+alias: [Quels sont les nouveaux formats de contenus en ligne?]
 eleventyNavigation:
   key: formats
-  title: Quels sont les nouveaux formats en ligne de contenus?
+  title: Quels sont les nouveaux formats de contenus en ligne?
   parent: UX
 ---
 # **Quels sont les nouveaux formats en ligne de contenus?**  
