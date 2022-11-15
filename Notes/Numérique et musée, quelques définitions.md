@@ -17,6 +17,7 @@ Numérique, digital, virtuel ou encore *culture numérique*, ... De quoi parle-t
 5. [[Virtuel et virtualisation]]
 6. [[Les technologies immersives (XR)]]
 7. [[Les autres technologies émergeantes]]
+8. [[Open...]]
 
 ----
 

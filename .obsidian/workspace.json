@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "fb92a65501c8a777",
+            "id": "adda15f44d7b21da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02f6766654b0b2f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Comment utiliser le numérique de façon durable.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98f57f236ca7cfca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
+                "file": "Navigation/A propos.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Musées et numérique.md",
+                "file": "Notes/Open....md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
+                "file": "Notes/Open....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
+                "file": "Notes/Open....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Exemples d’expositions en ligne de collections patrimoniales.md"
+                "file": "Notes/Open....md"
               }
             }
           },
@@ -267,17 +242,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "98f57f236ca7cfca",
+  "active": "b392d12c21effc84",
   "lastOpenFiles": [
-    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
-    "Notes/Comment utiliser le numérique de façon durable.md",
-    "Notes/Concevoir l'expérience visiteur.md",
+    "Navigation/A propos.md",
+    "Notes/Open....md",
     "index.md",
-    "Navigation/Ressources.md",
-    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
-    "Notes/Introduction. Musées et mondes numériques.md",
-    "Notes/Musées et numérique.md",
     "Notes/Numérique et musée, quelques définitions.md",
-    "Notes/Numérique ou digital.md"
+    "Notes/Introduction. Musées et mondes numériques.md",
+    "Notes/Les autres technologies émergeantes.md",
+    "Notes/Les technologies immersives (XR).md",
+    "Notes/Numérique ou digital.md",
+    "Notes/Musées et numérique.md",
+    "Notes/Exemples d’expositions en ligne de collections patrimoniales.md"
   ]
 }

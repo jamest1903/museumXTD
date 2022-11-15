@@ -4,7 +4,7 @@ layout: layouts/info.njk
 ---
 # À Propos
 La plateforme MuseumXTD est issue de la collaboration entre le [MEI](https://heig-vd.ch/rad/instituts/mei) (Media Engineering Institute) de la HEIG-VD et la société [Concilio](https://www.concilioltd.com/).    <br>   
-La plateforme a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Elle est hébergée sur les serveurs du MEI en Open Source. Le code est disponible sur la plateforme Github.
+La plateforme a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Elle est hébergée sur les serveurs du MEI en open data. Le code est disponible sur la plateforme Github.
 <picture>
 <source media="(min-width: 600px)" srcset="/images/Logo-Concilio.svg" />
 <a href="https://www.concilioltd.com/" title="concilioltd.com">
