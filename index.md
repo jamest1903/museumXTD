@@ -5,7 +5,7 @@ eleventyNavigation:
   key: Ressources
 ---
 
-# Ressources
+# MuseumXTD
 
 **MuseumXTD** est une boîte à outils pour comprendre ce qu'est la transition numérique pour les petits et moyens musées au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre.
 
@@ -31,5 +31,5 @@ eleventyNavigation:
 ## Concevoir l'expérience visiteur
 [[Comment encourager la participation du visiteur|Comment encourager la participation du visiteur?]]
 [[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]]
-[[Les outils numériques liés au marketing et à la communication]]
+[[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz|Un exemple de projet: le projet Ramuz]]
 ###### **[[Concevoir l'expérience visiteur|Plus de questions]]**
