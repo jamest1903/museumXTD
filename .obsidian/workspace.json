@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
+                "file": "Navigation/A propos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80edfa29a158e658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Organisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
+                "file": "Navigation/A propos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
+                "file": "Navigation/A propos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md"
+                "file": "Navigation/A propos.md"
               }
             }
           },
@@ -244,15 +256,15 @@
   },
   "active": "b392d12c21effc84",
   "lastOpenFiles": [
-    "Notes/Open....md",
+    "Notes/Organisation.md",
     "Navigation/A propos.md",
+    "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
+    "Notes/Open....md",
     "index.md",
     "Notes/Numérique et musée, quelques définitions.md",
     "Notes/Introduction. Musées et mondes numériques.md",
     "Notes/Les autres technologies émergeantes.md",
     "Notes/Les technologies immersives (XR).md",
-    "Notes/Numérique ou digital.md",
-    "Notes/Musées et numérique.md",
-    "Notes/Exemples d’expositions en ligne de collections patrimoniales.md"
+    "Notes/Numérique ou digital.md"
   ]
 }
