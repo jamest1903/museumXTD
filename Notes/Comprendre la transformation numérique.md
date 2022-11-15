@@ -1,8 +1,10 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
-date: 2022-08-31
-
+eleventyNavigation:
+  key: comprendre
+  title: Comprendre la transformation numérique
+  parent: Ressources
 ---
 # Comprendre la transformation numérique
 [[Numérique et musée, quelques définitions]]
