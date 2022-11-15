@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Open....md",
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Open....md",
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Open....md",
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Open....md"
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md"
               }
             }
           },
@@ -244,8 +244,8 @@
   },
   "active": "b392d12c21effc84",
   "lastOpenFiles": [
-    "Navigation/A propos.md",
     "Notes/Open....md",
+    "Navigation/A propos.md",
     "index.md",
     "Notes/Numérique et musée, quelques définitions.md",
     "Notes/Introduction. Musées et mondes numériques.md",
