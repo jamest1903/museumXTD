@@ -4,11 +4,11 @@ layout: layouts/post.njk
 tags: liens strategie
 eleventyNavigation:
   key: mondes
-  title: Musées et mondes numériques (Introduction)
+  title: Introduction. Musées et mondes numériques
   parent: museenum
 ---
 
-### [Introduction. Culture et musées.](https://journals.openedition.org/culturemusees/4381)
+### [Introduction. Musées et mondes numériques](https://journals.openedition.org/culturemusees/4381)
 
 [Florence Andreacola](http://andreacola.fr/) affirme que, outre le changement organisationnel, l'utilisation du numérique change la donne de l'accessibilité des contenus culturels, qui ne sont plus tellement dépendants du contact direct avec les collections physiques. "Dans ce contexte, la médiation et ses formes institutionnalisées se voient confrontées à des expressions individuelles et singulières disséminées dans l’espace public du web. "
 

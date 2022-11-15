@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Musées et mondes numériques (Introduction).md",
+                "file": "Notes/Introduction. Musées et mondes numériques.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Numérique et musée, quelques définitions.md",
+                "file": "Notes/Introduction. Musées et mondes numériques.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "file": "Notes/Introduction. Musées et mondes numériques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "file": "Notes/Introduction. Musées et mondes numériques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md"
+                "file": "Notes/Introduction. Musées et mondes numériques.md"
               }
             }
           },
@@ -242,12 +242,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "98f57f236ca7cfca",
+  "active": "db7ae969b19c41af",
   "lastOpenFiles": [
     "Notes/Musées et numérique.md",
-    "Notes/Musées et mondes numériques (Introduction).md",
     "Notes/Numérique et musée, quelques définitions.md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+    "Notes/Introduction. Musées et mondes numériques.md",
     "Notes/Numérique ou digital.md",
     "Notes/Culture numérique.md",
     "Notes/Comprendre la transformation numérique.md",
