@@ -10,9 +10,10 @@ eleventyNavigation:
 ---
 ### Exemples d’expositions en ligne de collections patrimoniales 
 #### En Suisse romande 
-Ci-dessous une liste d'exemples d'expositions en ligne, réalisées ou en collaboration avec des institutions culturelles suisses romandes. 
+Ci-dessous une liste d'exemples d'expositions en ligne, réalisées par ou en collaboration avec des institutions culturelles suisses romandes. 
 
 - [Jean Starobinski. Relations critiques](https://www.expo-starobinski.ch/)  (Archives littéraires suisses)
+- [Les Alpes en 3D. Un voyage virtuel à travers la Suisse et le massif du Mont Blanc...](https://voyagestereoscopique.ch/#0/0/0) (Unil)
 - [Parcours interactif - Histoire vaudoise](http://www.visite.mcah.ch/#/mcah-web-geed)  (Musée cantonal d'archéologie et d'histoire)
 - Le [5e étage](https://5e.centre.ch/en/) (Centre d'Art Contemporain de Genève)    
 - [ptyxel.net](https://ptyxel.net/) (Édition 2021 du printemps de la poésie)  

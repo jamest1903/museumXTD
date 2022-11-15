@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "file": "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,7 +186,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Notes/Exemples d’expositions en ligne de collections patrimoniales.md"
               }
             }
           },
@@ -265,14 +267,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "152afef189559951",
+  "active": "98f57f236ca7cfca",
   "lastOpenFiles": [
+    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+    "Notes/Comment utiliser le numérique de façon durable.md",
     "Notes/Concevoir l'expérience visiteur.md",
     "index.md",
     "Navigation/Ressources.md",
     "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
-    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
-    "Notes/Comment utiliser le numérique de façon durable.md",
     "Notes/Introduction. Musées et mondes numériques.md",
     "Notes/Musées et numérique.md",
     "Notes/Numérique et musée, quelques définitions.md",
