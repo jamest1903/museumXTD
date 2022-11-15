@@ -10,7 +10,7 @@ eleventyNavigation:
 
 ### [Introduction. Musées et mondes numériques](https://journals.openedition.org/culturemusees/4381)
 
-[Florence Andreacola](http://andreacola.fr/) affirme que, outre le changement organisationnel, l'utilisation du numérique change la donne de l'accessibilité des contenus culturels, qui ne sont plus tellement dépendants du contact direct avec les collections physiques. "Dans ce contexte, la médiation et ses formes institutionnalisées se voient confrontées à des expressions individuelles et singulières disséminées dans l’espace public du web. "
+[Florence Andreacola](http://andreacola.fr/) affirme que, outre le changement organisationnel, l'utilisation du numérique change la donne de l'accessibilité des copntenus culturels, qui ne sont plus tellement dépendants du contact direct avec les collections physiques. "Dans ce contexte, la médiation et ses formes institutionnalisées se voient confrontées à des expressions individuelles et singulières disséminées dans l’espace public du web. "
 
 ## A retenir
  - La transformation et fragmentation de l'institution muséale par le numérique peut être observée sous trois angles: 

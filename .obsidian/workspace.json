@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "02f6766654b0b2f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Comment utiliser le numérique de façon durable.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "98f57f236ca7cfca",
             "type": "leaf",
             "state": {
@@ -115,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Introduction. Musées et mondes numériques.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Introduction. Musées et mondes numériques.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Introduction. Musées et mondes numériques.md"
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
               }
             }
           },
@@ -242,17 +253,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "db7ae969b19c41af",
+  "active": "152afef189559951",
   "lastOpenFiles": [
-    "Notes/Musées et numérique.md",
-    "Notes/Numérique et musée, quelques définitions.md",
+    "Notes/Comment utiliser le numérique de façon durable.md",
+    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "Notes/Introduction. Musées et mondes numériques.md",
+    "Notes/Musées et numérique.md",
+    "Notes/Numérique et musée, quelques définitions.md",
     "Notes/Numérique ou digital.md",
     "Notes/Culture numérique.md",
     "Notes/Comprendre la transformation numérique.md",
-    "index.md",
-    "Template/Note ressource.md",
-    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
+    "index.md"
   ]
 }
