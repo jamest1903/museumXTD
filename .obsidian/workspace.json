@@ -26,7 +26,19 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bc25cdc817767c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Musées et mondes numériques (Introduction).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -79,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+                "file": "Notes/Musées et mondes numériques (Introduction).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+                "file": "Notes/Musées et mondes numériques (Introduction).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
+                "file": "Notes/Musées et mondes numériques (Introduction).md"
               }
             }
           },
@@ -205,7 +218,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "152afef189559951",
+  "active": "9bc25cdc817767c1",
   "lastOpenFiles": [
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",

@@ -12,7 +12,7 @@ eleventyNavigation:
 Visite virtuelle, exposition en ligne, visites guidées à distance... 
 De nombreux formats utilisent [[Musées et mondes numériques (Introduction)|l'environnement médiatique du web]] pour s'exposer en dehors du musée. Bien qu'ils existent depuis plusieurs dizaines d'années (voir l'[article](https://omer.mobi/notes/france-numerique-pour-les-musees-reperes) d'Omer Pesquer à ce sujet), ils se sont fortement développés, notamment chez les petits et moyens musées, lors de la période de COVID-19.
 
-Les exemples actuels d’exposition en ligne restent multiples et divers, au point qu'il peut parfois être difficile d'en évaluer la pertinence pour sa propre institution. La transposition de la visite physique du musée dans le virtuel est-elle une expérience populaire chez les publics ? Sont-ils prêts à payer pour une visite à distance ? 
+Les exemples actuels d’exposition en ligne restent multiples et divers, au point qu'il peut parfois être difficile d'en évaluer la pertinence pour sa propre institution. La transposition de la visite physique du musée dans le virtuel est-elle une expérience populaire chez les publics ? Sont-ils prêts à payer pour une visite à distance? 
 
 Développer des expositions à distance peut servir les missions du musées, notamment en termes d'accessibilité; à condition de l'avoir au préalable intégré dans sa stratégie numérique.
 

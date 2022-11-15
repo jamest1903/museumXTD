@@ -10,9 +10,9 @@ tags: liens strategie
 
 ## A retenir
  - La transformation et fragmentation de l'institution muséale par le numérique peut être observée sous trois angles: 
-	 1. Le virage organisationnel (et notamment l'informatisation des collections). 
-	 2. L'évolution numérique du média exposition et la co-construction de l'expérience muséale avec les visiteurs eux-mêmes.
-	 3. L'apport de l'environnement médiatique du web aux contenus muséaux. 
+	 - Le virage organisationnel (et notamment l'informatisation des collections). 
+	 - L'évolution numérique du média exposition et la co-construction de l'expérience muséale avec les visiteurs eux-mêmes.
+	 - L'apport de l'environnement médiatique du web aux contenus muséaux. 
 - La définition de l'open access et de l'open content: 
 	- L'open content "qualifie des travaux qui peuvent être modifiés ou copiés sans faire référence au créateur initial du contenu".
 	- L'open access "se définit par l’accès et l’utilisation libre de ressources numérisées appartenant au domaine public." 
