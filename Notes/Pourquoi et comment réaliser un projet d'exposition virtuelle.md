@@ -9,8 +9,8 @@ eleventyNavigation:
   parent: UX
 ---
 # **Pourquoi et comment réaliser un projet d'exposition virtuelle?**  
-Visite virtuelle, exposition en ligne, visites guidées à distance... 
-De nombreux formats utilisent [[Introduction. Musées et mondes numériques|l'environnement médiatique du web]] pour s'exposer en dehors du musée. Bien qu'ils existent depuis plusieurs dizaines d'années (voir l'[article](https://omer.mobi/notes/france-numerique-pour-les-musees-reperes) d'Omer Pesquer à ce sujet), ils se sont fortement développés, notamment chez les petits et moyens musées, lors de la période de COVID-19.
+Visite virtuelle, exposition en ligne, visite guidée à distance...    
+Les collections du musée s'exportent en dehors des murs de l'institution grâce à l'utilisation du web (voir le [[Introduction. Musées et mondes numériques#A retenir|troisième axe]] défini par Florence Andreacola). Bien que ces nouveaux formats existent depuis plusieurs dizaines d'années (voir l'[article](https://omer.mobi/notes/france-numerique-pour-les-musees-reperes) d'Omer Pesquer à ce sujet), ils se sont fortement développés lors de la période de COVID-19, notamment chez les petits et moyens musées.
 
 Les exemples actuels d’exposition en ligne restent multiples et divers, au point qu'il peut parfois être difficile d'en évaluer la pertinence pour sa propre institution. La transposition de la visite physique du musée dans le virtuel est-elle une expérience populaire chez les publics ? Sont-ils prêts à payer pour une visite à distance? 
 
