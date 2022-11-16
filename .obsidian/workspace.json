@@ -32,13 +32,37 @@
             }
           },
           {
+            "id": "67cabf652b40afc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Les autres technologies émergeantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ab192f543aba2c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Introduction. Musées et mondes numériques.md",
-                "mode": "preview",
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fbe8777e8f44c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Virtuel et virtualisation.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -79,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+                "file": "Notes/Les autres technologies émergeantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+                "file": "Notes/Les autres technologies émergeantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
+                "file": "Notes/Les autres technologies émergeantes.md"
               }
             }
           },
@@ -205,17 +230,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b392d12c21effc84",
+  "active": "67cabf652b40afc8",
   "lastOpenFiles": [
-    "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
     "Notes/Numérique et musée, quelques définitions.md",
-    "Brouillon/Open....md",
-    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
-    "Notes/Introduction. Musées et mondes numériques.md",
-    "Brouillon/Ressources à creuser.md",
-    "Navigation/A propos.md",
-    "Notes/Qu'est-ce qu'une stratégie numérique.md",
     "index.md",
-    "Notes/Comment encourager la participation du visiteur.md"
+    "Navigation/Ressources.md",
+    "Brouillon/Ressources à creuser.md",
+    "Notes/Musées et numérique.md",
+    "Notes/Virtuel et virtualisation.md",
+    "Notes/Enquête sur la digitalisation des musées de Suisse romande, vers une virtualisation de la culture.md",
+    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+    "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
+    "Notes/Introduction. Musées et mondes numériques.md"
   ]
 }

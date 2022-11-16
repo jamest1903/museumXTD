@@ -20,6 +20,8 @@ tags: liens
    Intelligence artificielle
 7. [The museums + AI network](https://themuseumsai.network/toolkit/)     
    Intelligence artificielle
+8. [AI4LAM](https://sites.google.com/view/ai4lam)
+   AI4LAM est une communauté internationale et participative dont l'objectif est de faire progresser l'utilisation de l'intelligence artificielle dans, pour et par les bibliothèques, les archives et les musées. 
 
 
 Apparaît dans [[Numérique et musée, quelques définitions]]
