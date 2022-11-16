@@ -1,3 +1,4 @@
+- [La place des nouvelles technologies dans les institutions muséales](https://www.tourobs.ch/media/5z1jnzuu/cuennet_la-place-des-nouvelles-technologies-dans-les-institutions-mus%C3%A9ales.pdf)
 - [Le rôle de l’institution dans le développement de contenus XR culturels, stratégies de production et de distribution : challenges et solutions. Synthèse de l’atelier participatif n°1 de la Journée de Recherche-Action du 19 mai 2022.](https://metis-lab.com/2022/07/19/le-role-de-linstitution-dans-le-developpement-de-contenus-xr-culturels-strategies-de-production-et-de-distribution-challenges-et-solutions-synthese-de-latelier-participatif/)
 - [communicant.info](https://communicant.info/) - des idées nouvelles pour votre communication culturelle
 	- [Museum Connections – Développement durable et musées : sensibiliser, mesurer et agir (ensemble)](https://communicant.info/museum-connections-developpement-durable-et-musees-sensibiliser-mesurer-et-agir-ensemble)
