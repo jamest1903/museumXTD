@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md"
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
               }
             }
           },
@@ -207,15 +207,15 @@
   },
   "active": "b392d12c21effc84",
   "lastOpenFiles": [
-    "Notes/Introduction. Musées et mondes numériques.md",
+    "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
+    "Notes/Numérique et musée, quelques définitions.md",
+    "Brouillon/Open....md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+    "Notes/Introduction. Musées et mondes numériques.md",
     "Brouillon/Ressources à creuser.md",
     "Navigation/A propos.md",
     "Notes/Qu'est-ce qu'une stratégie numérique.md",
     "index.md",
-    "Notes/Comment encourager la participation du visiteur.md",
-    "Navigation/Ressources.md",
-    "Notes/Organisation.md",
-    "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md"
+    "Notes/Comment encourager la participation du visiteur.md"
   ]
 }
