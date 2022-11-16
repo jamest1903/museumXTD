@@ -16,7 +16,7 @@ Il est issu d'un travail collaboratif entre six musées belges, qui ont particip
 
 ## A retenir
 - Le *guide des Bonnes pratiques pour une visite guidée virtuelle* existe en [version française](http://msw.be/wp-content/uploads/2022/10/GUIDE-FR.pdf), anglaise, néerlandaise. 
-- Il propose une définition de *visite virtuelle* selon 4 catégories (les visites de type visio-conférences, les parcours, les visites hybrides, les visites ludo-éducatives)
+- La définition du concept de *visite virtuelle* selon 4 catégories (les visites de type visio-conférences, les parcours, les visites hybrides, les visites ludo-éducatives)
 etc. 
   
 Ce projet a été réalisé dans le cadre du projet *ICOM Solidarity Projects* afin d'explorer les nouvelles pratiques muséales au lendemain de la crise du COVID-19. Il bénéficie du soutien de l’ICOM international et de la Fédération Wallonie-Bruxelles.
