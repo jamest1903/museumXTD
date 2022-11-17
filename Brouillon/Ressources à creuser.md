@@ -11,6 +11,7 @@
 - [Make it Digital](https://digitalnz.org/make-it-digital) de [DigitalNZ](https://digitalnz.org/)
 - [CDC numérisation du patrimoine et de l'architecture](https://www.culture.gouv.fr/Aides-demarches/Appels-a-projets-partenaires/Appel-a-projets-Numerisation-du-patrimoine-et-de-l-architecture) (France)
 - [Universciences - Guide d'éco-conception des expositions](https://www.universcience.fr/fileadmin/fileadmin_Universcience/fichiers/developpement-durable/_documents/guide_eco_conceptFR.pdf) (pas vraiment sur le numérique)
+- [Musées et développement durable](https://www.vie-publique.fr/sites/default/files/2020-11/9782110083357_MuseesDevelptDurable_Extrait.pdf)
 
 
 Projets numériques relatifs à des collections à forte valeur ajoutée

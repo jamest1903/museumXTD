@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Brouillon/Ressources à creuser.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Brouillon/Ressources à creuser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Brouillon/Ressources à creuser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "Brouillon/Ressources à creuser.md"
               }
             }
           },
@@ -208,6 +208,7 @@
   },
   "active": "9e91657506d04df3",
   "lastOpenFiles": [
+    "Navigation/A propos.md",
     "Brouillon/Ressources à creuser.md",
     "Notes/Comment faire des usages numériques responsables et durables.md",
     "Notes/Comment utiliser le numérique de façon durable.md",
@@ -216,7 +217,6 @@
     "index.md",
     "Navigation/Ressources.md",
     "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
-    "Comment éditer les contenus de la plateforme/Aide-site-web.md",
-    "Template/Note ressource.md"
+    "Comment éditer les contenus de la plateforme/Aide-site-web.md"
   ]
 }
