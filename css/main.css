@@ -222,6 +222,28 @@ footer {
     padding-top: 50vh;
 }
 
+#footer-nav {
+
+    margin-right: var(--space-l);
+    margin-left: var(--space-l);
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr) );
+    grid-gap: clamp(1em,5%,10%) ;
+
+}
+
+#footer-nav > * {
+    /* min-width: 200px; */
+}
+#footer-nav > ul {
+    margin: 0;
+}
+#footer-nav > ul li {
+    list-style: none;
+}
+
+
 /* layout for Acteurs & Projets */
 /*
 * CSS styles for the CSV tables
