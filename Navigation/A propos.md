@@ -27,7 +27,7 @@ En tant que projet de transformation, il a bénéficié du soutien du Service de
 
 &nbsp;
 
-La plateforme a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Elle est hébergée sur les serveurs du MEI en open data. Le code est disponible sur la plateforme Github.p
+La plateforme a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Elle est hébergée sur les serveurs du MEI en open data. Le code est disponible sur la plateforme Github.
 <picture>
   <source media="(min-width: 600px)" srcset="/images/Logo_Github.png" />
   <a href="https://github.com/MediaComem/museumXTD" title="Lien vers Github"><img alt="Logo github" src="/images/Logo_Github.png" width="45" height="51"></a>
