@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md",
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85f5ad8f4b14a621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Introduction. Musées et mondes numériques.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md",
+                "file": "Notes/Introduction. Musées et mondes numériques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md",
+                "file": "Notes/Introduction. Musées et mondes numériques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md"
+                "file": "Notes/Introduction. Musées et mondes numériques.md"
               }
             }
           },
@@ -206,17 +218,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e91657506d04df3",
+  "active": "85f5ad8f4b14a621",
   "lastOpenFiles": [
-    "Navigation/A propos.md",
+    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+    "Notes/Introduction. Musées et mondes numériques.md",
     "Brouillon/Ressources à creuser.md",
+    "Navigation/A propos.md",
     "Notes/Comment faire des usages numériques responsables et durables.md",
     "Notes/Comment utiliser le numérique de façon durable.md",
-    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "Notes/Gérer son environnement numérique.md",
     "index.md",
     "Navigation/Ressources.md",
-    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
-    "Comment éditer les contenus de la plateforme/Aide-site-web.md"
+    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
   ]
 }
