@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/footer.md",
+                "file": "Notes/Introduction. Musées et mondes numériques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/footer.md",
+                "file": "Notes/Introduction. Musées et mondes numériques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/footer.md"
+                "file": "Notes/Introduction. Musées et mondes numériques.md"
               }
             }
           },
@@ -230,10 +230,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05bde7d25a60ec24",
+  "active": "85f5ad8f4b14a621",
   "lastOpenFiles": [
-    "Navigation/A propos.md",
     "Navigation/footer.md",
+    "Navigation/A propos.md",
     "Notes/Numérique et musée, quelques définitions.md",
     "Brouillon/Ressources à creuser.md",
     "Notes/Introduction. Musées et mondes numériques.md",
