@@ -9,6 +9,7 @@
 <a href="https://heig-vd.ch/rad/instituts/mei/" title="MEI HEIG-VD"><img alt="Logo MEI" src="/images/Logo_HEIG-VD_MEI.svg"></a>
 </picture>
 
+<!-- alterner "+" et "-" pour séparer chacune des listes dans sa colonne -->
 
 - [YouTube](link.url)
 - [GitHub](link.url)  
