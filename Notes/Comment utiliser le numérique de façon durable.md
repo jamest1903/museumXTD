@@ -3,6 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 alias: [Comment utiliser le numérique de façon durable?]
+eleventyNavigation:
+  key: numdurable
+  title: Comment utiliser le numérique de façon durable?
+  parent: gérerenv
 ---
 # **Comment utiliser le numérique de façon durable?**
 La nature immatérielle du numérique ne doit pas faire oublier l'impact de son utilisation sur l'environnement. Transformer numériquement son musée inclut de prendre en considération les enjeux de la transition écologique.  
@@ -23,9 +27,9 @@ La nature immatérielle du numérique ne doit pas faire oublier l'impact de son 
    Cet outil – conçu par l'Institut d'Ingénierie des Médias de la HEIG-VD (MEI) – permet de visualiser en direct les données téléchargées et la quantité de CO2 émise correspondante.
 8. [[Éco-conception, le brouillard à venir]]
    Gauthier Roussilhe présente une méthodologie pour concevoir des services numériques pertinents tout en réduisant leur empreinte environnementale.
+   
 
+---- 
 
- 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
-
+Un retour à nous adresser? Contactez-vous via [ce formulaire](https://6e13e580.sibforms.com/serve/MUIEAEIKAbyrbuyyFoX325xECn_-FivBZ_w7x0x0JbYpdhGzsuc2HGj9na99Qi-uw8VP3LlaySseIFMmGn06hw9TT_scBOc_O9XxUG_bng5Kt2mWawqE07YTXo8aAWewF9lTFwpUqYJAFrhW_PCqbP3aOA2pSb81YneZA4uk68Mjq-w3NvJMhpDPu8-qX5rs0llVsZvxVChtyOsg) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch?subject=Contact "Envoyer un mail à info@museumxtd.ch")
 

@@ -3,6 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk  
 tags: 
 alias: 
+eleventyNavigation:
+  key: gérerenv
+  title: Gérer son environnement numérique
+  parent: Ressources
 ---
 # Gérer son environnement numérique
 

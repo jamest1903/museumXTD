@@ -22,7 +22,7 @@ Cette note fournit un mode d'emploi pour ajouter/enlever/modifier des valeurs da
 2. Pour modifier les documents
 	1. Attention: ne pas modifier la première ligne
 	2. Ajouter/enlever/modifier les valeurs en remplissant idéalement toutes les colonnes
-	3. Enregistrer Sous > remplacer le document existant **SOUS FORMAT .ODF** et non format .CSV
+	3. Enregistrer Sous > remplacer le document existant **SOUS FORMAT .CSV** et non format .ODF
 	   ![[Pasted image 20221026120839.png]]
 
 ## Après avoir modifié

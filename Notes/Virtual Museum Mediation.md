@@ -15,11 +15,11 @@ Il est issu d'un travail collaboratif entre six musées belges, qui ont particip
 
 
 ## A retenir
-- Le *guide des Bonnes pratiques pour une visite guidée virtuelle* existe en version française, anglaise, néerlandaise. 
-- Il propose une définition de *visite virtuelle* selon 4 catégories (les visites de type visio-conférences, les parcours, les visites hybrides, les visites ludo-éducatives)
+- Le *guide des Bonnes pratiques pour une visite guidée virtuelle* existe en [version française](http://msw.be/wp-content/uploads/2022/10/GUIDE-FR.pdf), anglaise, néerlandaise. 
+- La définition du concept de *visite virtuelle* selon 4 catégories (les visites de type visio-conférences, les parcours, les visites hybrides, les visites ludo-éducatives)
 etc. 
   
 Ce projet a été réalisé dans le cadre du projet *ICOM Solidarity Projects* afin d'explorer les nouvelles pratiques muséales au lendemain de la crise du COVID-19. Il bénéficie du soutien de l’ICOM international et de la Fédération Wallonie-Bruxelles.
 
 --- 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch).
+Un retour à nous adresser? Contactez-vous via [ce formulaire](https://6e13e580.sibforms.com/serve/MUIEAEIKAbyrbuyyFoX325xECn_-FivBZ_w7x0x0JbYpdhGzsuc2HGj9na99Qi-uw8VP3LlaySseIFMmGn06hw9TT_scBOc_O9XxUG_bng5Kt2mWawqE07YTXo8aAWewF9lTFwpUqYJAFrhW_PCqbP3aOA2pSb81YneZA4uk68Mjq-w3NvJMhpDPu8-qX5rs0llVsZvxVChtyOsg) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch?subject=Contact "Envoyer un mail à info@museumxtd.ch")

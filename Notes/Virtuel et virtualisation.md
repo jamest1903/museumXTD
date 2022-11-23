@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
+eleventyNavigation:
+  key: virtuel
+  title: Virtuel et virtualisation
+  parent: définitions
 ---
 # Virtuel et virtualisation
 Le musée virtuel est un espace nouveau, libéré des contraintes physiques. Il permet d'autres modes d'interaction avec le public. 
@@ -13,6 +17,7 @@ Le musée virtuel est un espace nouveau, libéré des contraintes physiques. Il 
 3. [Qu'est-ce que le numérique ?](https://figoblog.org/2019/08/02/quest-ce-que-le-numerique/)
    L'auteure propose des définitions des différentes composantes du *numérique*: l'informatique, internet et le web, le *digital*, *le numérique* et le *virtuel.* 
 
-Apparaît dans [[Numérique et musée, quelques définitions]]
 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+----
+
+Un retour à nous adresser? Contactez-vous via [ce formulaire](https://6e13e580.sibforms.com/serve/MUIEAEIKAbyrbuyyFoX325xECn_-FivBZ_w7x0x0JbYpdhGzsuc2HGj9na99Qi-uw8VP3LlaySseIFMmGn06hw9TT_scBOc_O9XxUG_bng5Kt2mWawqE07YTXo8aAWewF9lTFwpUqYJAFrhW_PCqbP3aOA2pSb81YneZA4uk68Mjq-w3NvJMhpDPu8-qX5rs0llVsZvxVChtyOsg) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch?subject=Contact "Envoyer un mail à info@museumxtd.ch")

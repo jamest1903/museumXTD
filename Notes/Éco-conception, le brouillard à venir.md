@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
+eleventyNavigation:
+  key: ecoconception
+  title: Éco-conception, le brouillard à venir
+  parent: numdurable
 ---
 ### [Éco-conception, le brouillard à venir.](https://gauthierroussilhe.com/articles/eco-conception-le-brouillard-a-venir)
 [Gauthier Roussilhe](https://gauthierroussilhe.com/) démêle les enjeux de l'éco-conception et présente une méthodologie pour concevoir des services numériques pertinents tout en réduisant leur empreinte environnementale. 
@@ -12,8 +16,8 @@ tags: liens
 - La présentation d'une méthodologie d'éco-conception numérique. 
 - L'éco-conception, c'est l'application du principe de Pareto (utiliser 20% des ressources pour répondre à 80% des besoins). Si la démarche n'est pas complète, elle peut vite être tomber dans les travers du *greenwashing* car l'éco-conception n'engage en rien une entreprise à changer ses activités. 
 
-Plus de ressources sur les enjeux environnementaux de la numérisation sont disponibles sur son site internet.   
+Plus de ressources sur les enjeux environnementaux de la numérisation sont disponibles sur [son site internet](https://gauthierroussilhe.com/).   
 
-Apparaît dans [[Comment utiliser le numérique de façon durable]]
+---- 
 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch).

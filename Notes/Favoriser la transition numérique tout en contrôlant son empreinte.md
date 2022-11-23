@@ -2,9 +2,16 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: liens
+eleventyNavigation:
+  key: transitionnum
+  title: Favoriser la transition numérique tout en contrôlant son empreinte
+  parent: numdurable
 ---
 ### [Favoriser la transition numérique tout en contrôlant son empreinte](https://communicant.info/museum-connections-favoriser-la-transition-numerique-tout-en-controlant-son-empreinte)
-Lors du salon Museum Connection, Marguerite Courtel synthétise les enjeux du développement durable, appliqués au secteur des industries culturelles et créatives.  
+Lors du salon Museum Connections 2022, Marguerite Courtel synthétise les enjeux du développement durable  pour le secteur des industries culturelles et créatives, notamment par rapport à l'utilisation du numérique.    
+
+A la fois producteur et vulgarisateur, le musée a un rôle-modèle à jouer. L'intervenante donne quelques clés pour naviguer entre transition numérique et transition écologique.  
+
 
 ## À retenir
 - Le numérique est responsable de 4% des émissions de gaz à effet de serre (GES) mondiales.
@@ -19,6 +26,6 @@ Lors du salon Museum Connection, Marguerite Courtel synthétise les enjeux du d�
 
 [Les Augures](https://lesaugures.com/) est une agence française créée en 2020. Elle vise à fédérer les acteurs de la culture autour des enjeux du développement durable. Elle accompagne les structures culturelles dans leur politiques responsables. 
 
-Apparaît dans [[Comment utiliser le numérique de façon durable]]
+---- 
 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+Un retour à nous adresser? Contactez-vous via [ce formulaire](https://6e13e580.sibforms.com/serve/MUIEAEIKAbyrbuyyFoX325xECn_-FivBZ_w7x0x0JbYpdhGzsuc2HGj9na99Qi-uw8VP3LlaySseIFMmGn06hw9TT_scBOc_O9XxUG_bng5Kt2mWawqE07YTXo8aAWewF9lTFwpUqYJAFrhW_PCqbP3aOA2pSb81YneZA4uk68Mjq-w3NvJMhpDPu8-qX5rs0llVsZvxVChtyOsg) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch?subject=Contact "Envoyer un mail à info@museumxtd.ch")

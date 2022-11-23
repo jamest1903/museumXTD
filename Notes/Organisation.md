@@ -17,8 +17,8 @@ Ce forum a eu lieu les 12 et 13 octobre 2022 à l'Aula de la HEIG-VD d'Yverdon-l
 Contact  
 [info@museumxtd.ch](mailto:info@museumxtd.ch)
 
-**MuseumXTD** est un projet mené par la société Concilio, les Musées de Pully et la HEIG-VD. Il s'achève le 31 octobre 2022.  
-En tant que projet de transformation, il bénéficie du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.
+**MuseumXTD** est un projet mené par la société Concilio, les Musées de Pully et la HEIG-VD. Il s'est achevé le 31 octobre 2022.  
+En tant que projet de transformation, il a bénéficié du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.
 
 
 ![](/images/Logo-Canton_de_Vaud.svg) ![](/images/EDI_BAK_FR_RGB_POS_HOCH.png)

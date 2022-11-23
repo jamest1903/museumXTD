@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 ### [Libre blanc des visites guidées à distance. Retours sur un an d'expérimentation](https://www.monuments-nationaux.fr/Mediatheque/Mediatheque-commune/livre-blanc-visites-guidees-a-distance#book/)
 
-Le [Centre des Monuments Nationaux](https://www.monuments-nationaux.fr), l'opérateur public qui gèrent les monuments nationaux appartenant à l'État français, met à disposition ses résultats de recherche sur la mise en place de visites guidées à distance payantes. 
+Le [Centre des Monuments Nationaux](https://www.monuments-nationaux.fr), l'opérateur public qui gère les monuments nationaux appartenant à l'État français, met à disposition ses résultats de recherche sur la mise en place de visites guidées à distance payantes. 
 
 ## A retenir
 - Une recherche auprès de 12 monuments qui évalue l'attractivité et la pertinence des formats de visites à distance, dans un contexte de pérennisation de l'offre scolaire payante (critères d'évaluation disponible p. 14).  
