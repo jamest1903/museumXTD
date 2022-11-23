@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Introduction. Musées et mondes numériques.md",
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Introduction. Musées et mondes numériques.md",
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Introduction. Musées et mondes numériques.md"
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md"
               }
             }
           },
@@ -231,12 +231,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85f5ad8f4b14a621",
+  "active": "6ab192f543aba2c5",
   "lastOpenFiles": [
+    "Notes/Introduction. Musées et mondes numériques.md",
     "Notes/Comment encourager la participation du visiteur.md",
     "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
-    "Notes/Introduction. Musées et mondes numériques.md",
     "Notes/Comment utiliser le numérique de façon durable.md",
     "Navigation/A propos.md",
     "Navigation/footer.md",
