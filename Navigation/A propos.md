@@ -25,17 +25,11 @@ En tant que projet de transformation, il a bénéficié du soutien du Service de
 
 ![](/images/Logo-Musee_d-art_de_Pully.svg)![](/images/Logo-Archeolab.png)  ![](/images/Logo-Canton_de_Vaud.svg) ![](/images/EDI_BAK_FR_RGB_POS_HOCH.png)
 
-&nbsp;
 
-La plateforme a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Elle est hébergée sur les serveurs du MEI en open data. Le code est disponible sur la plateforme Github.
-<picture>
-  <source media="(min-width: 600px)" srcset="/images/Logo_Github.png" />
-  <a href="https://github.com/MediaComem/museumXTD" title="Lien vers Github"><img alt="Logo github" src="/images/Logo_Github.png" width="45" height="51"></a>
-</picture> 
-<br>    
+## Powered by
+La plateforme est hébergée sur les serveurs du [MEI](https://heig-vd.ch/rad/instituts/mei). Elle a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Le code est accessible sur cette [page Github](https://github.com/MediaComem/museumXTD).
 
-([lien ici](https://github.com/MediaComem/museumXTD))
     
 ## Contact
-Vous souhaitez rester au courant de la suite du projet ? Ou souhaitez donner votre avis ? [Cliquez ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch).  
+Vous souhaitez rester au courant de la suite du projet ? Nous adresser un retour? Contactez-vous via [ce formulaire](https://6e13e580.sibforms.com/serve/MUIEAEIKAbyrbuyyFoX325xECn_-FivBZ_w7x0x0JbYpdhGzsuc2HGj9na99Qi-uw8VP3LlaySseIFMmGn06hw9TT_scBOc_O9XxUG_bng5Kt2mWawqE07YTXo8aAWewF9lTFwpUqYJAFrhW_PCqbP3aOA2pSb81YneZA4uk68Mjq-w3NvJMhpDPu8-qX5rs0llVsZvxVChtyOsg) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch?subject=Contact "Envoyer un mail à info@museumxtd.ch")
 

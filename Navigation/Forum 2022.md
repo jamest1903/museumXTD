@@ -5,19 +5,15 @@ layout: layouts/info.njk
 
 # Forum 2022
 
-Le forum **MuseumXTD** s'est déroulé les 12 et 13 octobre 2022. Ce symposium a réuni musées et expert.e.s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.     
+Le forum **MuseumXTD** s'est déroulé les 12 et 13 octobre 2022. Ce symposium a réuni musées et expert·e·s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.     
 
-Retrouver directement les vidéos des conférences.
-- <picture>
-  <source media="(min-width: 600px)" srcset="/images/Logo_YT.png" />
-  <a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw" title="Lien vers la chaîne YouTube"><img alt="Logo YouTube" src="/images/Logo_YT.png" width="134" height="30"></a>
-</picture>
+Retrouver directement les vidéos des conférences sur notre [chaîne YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw).
 <br>   
      
-- **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel·le·s des musées, de chercheurs et chercheuses et de spécialistes du numérique
+- **Programme du mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel·le·s des musées, de chercheurs et chercheuses et de spécialistes du numérique
   [[Programme et intervenants J1|Accéder aux interventions]]
 
-- **Jeudi 13 octobre (9h-12h)**: présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
+- **Programme du jeudi 13 octobre (9h-12h)**: présentation du cas d'étude réalisé par les Musées de Pully et retours d’expérience
   [[Programme et intervenants J2|Accéder aux interventions]]
 
 ###### **[Programme PDF](https://kdrive.infomaniak.com/app/share/131928/8f8c02ba-4179-48de-86dd-9c13c2589316)**     

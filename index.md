@@ -7,7 +7,7 @@ eleventyNavigation:
 **MuseumXTD** est une boîte à outils pour comprendre ce qu'est la transition numérique pour les petits et moyens musées au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre.
 
 
-[[Pour démarrer]]. 
+[[Pour démarrer]]
 
 ## Comprendre la transformation numérique
 [[Numérique et musée, quelques définitions]]

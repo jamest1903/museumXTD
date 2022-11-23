@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Virtuel et virtualisation.md",
+                "file": "Navigation/Forum 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7798d44ff62ffa2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation/A propos.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Virtuel et virtualisation.md",
+                "file": "Navigation/A propos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Virtuel et virtualisation.md",
+                "file": "Navigation/A propos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Virtuel et virtualisation.md"
+                "file": "Navigation/A propos.md"
               }
             }
           },
@@ -194,17 +206,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "778397cb05cd66da",
+  "active": "7798d44ff62ffa2d",
   "lastOpenFiles": [
-    "Notes/Numérique et musée, quelques définitions.md",
-    "Notes/Virtuel et virtualisation.md",
+    "Navigation/Forum 2022.md",
+    "Navigation/A propos.md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+    "index.md",
+    "Navigation/Ressources.md",
+    "Notes/Virtuel et virtualisation.md",
+    "Notes/Numérique et musée, quelques définitions.md",
     "Notes/Introduction. Musées et mondes numériques.md",
     "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
-    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
-    "Notes/Quels sont les opportunités et les freins.md",
-    "Notes/Comment encourager la participation du visiteur.md",
-    "Notes/Comprendre la transformation numérique.md",
-    "Notes/Exemples d’expositions en ligne de collections patrimoniales.md"
+    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
   ]
 }
