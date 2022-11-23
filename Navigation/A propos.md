@@ -26,7 +26,7 @@ En tant que projet de transformation, il a bénéficié du soutien du Service de
 ![](/images/Logo-Musee_d-art_de_Pully.svg)![](/images/Logo-Archeolab.png)  ![](/images/Logo-Canton_de_Vaud.svg) ![](/images/EDI_BAK_FR_RGB_POS_HOCH.png)
 
 
-## Powered by
+## Code et designA
 La plateforme est hébergée sur les serveurs du [MEI](https://heig-vd.ch/rad/instituts/mei). Elle a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Le code est accessible sur cette [page Github](https://github.com/MediaComem/museumXTD).
 
     

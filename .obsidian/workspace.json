@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Forum 2022.md",
+                "file": "Navigation/A propos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Forum 2022.md",
+                "file": "Navigation/A propos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Forum 2022.md"
+                "file": "Navigation/A propos.md"
               }
             }
           },
@@ -230,10 +230,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "778397cb05cd66da",
+  "active": "7798d44ff62ffa2d",
   "lastOpenFiles": [
-    "Navigation/A propos.md",
     "Navigation/Forum 2022.md",
+    "Navigation/A propos.md",
     "Notes/Organisation.md",
     "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
