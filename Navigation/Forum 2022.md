@@ -6,9 +6,10 @@ layout: layouts/info.njk
 # Forum 2022
 
 Le forum **MuseumXTD** s'est déroulé les 12 et 13 octobre 2022 à l'Aula de la HEIG-VD d'Yverdon-les-Bains. Ce symposium a réuni musées et expert·e·s du domaine de la numérisation des petits et moyens musées, suisses et étrangers.     
+Il a été l'occasion de présenter les résultats du projet de transformation achevé le 31 octobre 2022. 
+###### **[Programme PDF](https://kdrive.infomaniak.com/app/share/131928/8f8c02ba-4179-48de-86dd-9c13c2589316)**     
 
 ## Les vidéos
-- ###### **[Programme PDF](https://kdrive.infomaniak.com/app/share/131928/8f8c02ba-4179-48de-86dd-9c13c2589316)**     
 - **Mercredi 12 octobre (9h-17h)**: présentations, retours d’expérience et tables rondes avec la présence de professionnel·le·s des musées, de chercheurs et chercheuses et de spécialistes du numérique
   [[Programme et intervenants J1|Accéder aux interventions]]
 
@@ -23,7 +24,7 @@ Les vidéos des conférences sont disponibles directement sur notre [chaîne You
 - [[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz|En savoir plus]]
 
 ## Organisation
-- Le forum a été l'occasion de présenter les résultats du projet de transformation achevé le 31 octobre 2022. 
+- Le projet de recherche appliquée **MuseumXTD**, mené par la société Concilio, les Musées de Pully et la HEIG-VD s'est achevé le 31 octobre 2022.  
 - Il a été soutenu par le Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture. 
 - [[Organisation|En savoir plus]]
 
