@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
               }
             }
           },
@@ -230,16 +230,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8048603722010658",
+  "active": "9e91657506d04df3",
   "lastOpenFiles": [
+    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "Notes/Introduction. Musées et mondes numériques.md",
-    "Navigation/footer.md",
+    "Notes/Comment utiliser le numérique de façon durable.md",
     "Navigation/A propos.md",
+    "Navigation/footer.md",
     "Notes/Numérique et musée, quelques définitions.md",
     "Brouillon/Ressources à creuser.md",
-    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "Notes/Comment faire des usages numériques responsables et durables.md",
-    "Notes/Comment utiliser le numérique de façon durable.md",
     "Notes/Gérer son environnement numérique.md",
     "index.md"
   ]

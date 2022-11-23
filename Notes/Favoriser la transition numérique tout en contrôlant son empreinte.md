@@ -8,7 +8,7 @@ eleventyNavigation:
   parent: numdurable
 ---
 ### [Favoriser la transition numérique tout en contrôlant son empreinte](https://communicant.info/museum-connections-favoriser-la-transition-numerique-tout-en-controlant-son-empreinte)
-Lors du salon Museum Connections, Marguerite Courtel synthétise les enjeux du développement durable  pour le secteur des industries culturelles et créatives, notamment par rapport à l'utilisation du numérique.    
+Lors du salon Museum Connections 2022, Marguerite Courtel synthétise les enjeux du développement durable  pour le secteur des industries culturelles et créatives, notamment par rapport à l'utilisation du numérique.    
 
 A la fois producteur et vulgarisateur, le musée a un rôle-modèle à jouer. L'intervenante donne quelques clés pour naviguer entre transition numérique et transition écologique.  
 
