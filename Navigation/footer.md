@@ -9,6 +9,9 @@
 <a href="https://heig-vd.ch/rad/instituts/mei/" title="MEI HEIG-VD"><img alt="Logo MEI" src="/images/Logo_HEIG-VD_MEI.svg"></a>
 </picture>
 
-- *Ailleurs*
+
 - [YouTube](link.url)
-- [GitHub](link.url)
+- [GitHub](link.url)  
+
++ Code and Design  
++ HEIG-VD | MEI

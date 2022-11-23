@@ -235,12 +235,20 @@ footer {
 
 #footer-nav > * {
     /* min-width: 200px; */
+    font-size: var(--font-size-xs);
 }
 #footer-nav > ul {
     margin: 0;
 }
 #footer-nav > ul li {
     list-style: none;
+}
+#footer-nav > ul li::before {
+    content: "";
+}
+
+#footer-nav p {
+    margin-top: 0;
 }
 
 
