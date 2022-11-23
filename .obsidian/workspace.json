@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "7798d44ff62ffa2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation/A propos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "175aea359d8d15b0",
             "type": "leaf",
             "state": {
@@ -63,18 +75,6 @@
               "state": {
                 "file": "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7798d44ff62ffa2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Navigation/A propos.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -232,10 +232,10 @@
   },
   "active": "778397cb05cd66da",
   "lastOpenFiles": [
-    "Notes/Organisation.md",
-    "Navigation/Forum 2022.md",
-    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Navigation/A propos.md",
+    "Navigation/Forum 2022.md",
+    "Notes/Organisation.md",
+    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "index.md",
     "Navigation/Ressources.md",
