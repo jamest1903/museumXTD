@@ -29,13 +29,21 @@ ul {
 }
 
 
-ul ul li {
-  margin-left: 1.5em;
+ul li {
+  list-style: none;
 }
-ul ul li::before {
+ul li::before {
   content: '●';
   position: absolute;
   margin-left: -1.3em;
+}
+
+ul ul li {
+  margin-left: 1.5em;
+}
+
+ol li::marker { 
+  margin-left: -1em;
 }
 
 li > h1,
@@ -319,3 +327,85 @@ img + img {
 }
 
 
+/* 
+Tables
+*/
+
+table {
+  border: 1px solid var(--black);
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table caption {
+  font-size: var(--font-size-s);
+  margin: .5rem 0 .75rem;
+}
+
+table tr {
+  /* background-color: #f8f8f8; */
+  border: 1px solid var(--black);
+  /* padding: .35rem; */
+  vertical-align: top;
+}
+
+table th,
+table td {
+  padding: 1rem;
+  text-align: center;
+}
+
+table th {
+  font-size: var(--font-size-xs);
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: var(--font-size-xs);
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    display: block;
+    margin-bottom: .625rem;
+  }
+  
+  table td {
+    border-bottom: 1px solid var(--black);
+    display: block;
+    font-size: var(--font-size-s);
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
