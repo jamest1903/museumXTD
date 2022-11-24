@@ -24,9 +24,25 @@ Elle est issue du projet de recherche appliquée **MuseumXTD**, mené par la soc
 En tant que projet de transformation, il a bénéficié du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.   
 [[Organisation|En savoir plus]]
 
+<picture>
+<source media="(min-width: 600px)" srcset="/images/Logo-Musee_d-art_de_Pully.svg" />
+<a href="https://www.museedartdepully.ch/fr/accueil/" title="Musée d'Art de Pully"><img alt="Logo Musée d'Art de Pully" src="/images/Logo-Musee_d-art_de_Pully.svg" width="60" height="40"></a>
+</picture>
 
-![](/images/Logo-Musee_d-art_de_Pully.svg)![](/images/Logo-Archeolab.png)  ![](/images/Logo-Canton_de_Vaud.svg) ![](/images/EDI_BAK_FR_RGB_POS_HOCH.png)
+<picture>
+<source media="(min-width: 600px)" srcset="/images/Logo-Archeolab.png" />
+<a href="https://www.archeolab.ch/fr/accueil/" title="ArcheoLab"><img alt="Logo ArcheoLab" src="/images/Logo-Archeolab.png" width="90" height="30"></a>
+</picture>
 
+<picture>
+<source media="(min-width: 600px)" srcset="/images/Logo-Canton_de_Vaud.svg" />
+<a href="https://www.vd.ch/" title="Canton de Vaud"><img alt="Logo Canton de Vaud" src="/images/Logo-Canton_de_Vaud.svg" width="81" height="27"></a>
+</picture>
+
+<picture>
+<source media="(min-width: 600px)" srcset="/images/EDI_BAK_FR_RGB_POS_HOCH.png" />
+<a href="https://www.bak.admin.ch/bak/fr/home.html" title="Office Fédéral de la Culture"><img alt="Logo Office Fédéral de la Culture" src="/images/EDI_BAK_FR_RGB_POS_HOCH.png" width="147" height="61"></a>
+</picture>
 
 ## Code et design
 La plateforme est hébergée sur les serveurs du [MEI](https://heig-vd.ch/rad/instituts/mei). Elle a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Le code est accessible sur cette [page Github](https://github.com/MediaComem/museumXTD).
