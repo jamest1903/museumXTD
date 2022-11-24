@@ -2,23 +2,16 @@
 title: MuseumXTD
 layout: layouts/info.njk
 ---
-## Le projet **MuseumXTD** 
+## Organisation 
 
-#### Le projet pilote de recherche appliquée **MuseumXTD** (pour "museum extended") explore les enjeux de la transition numérique au sein des petits et moyens musées. Il expérimente également de nouvelles méthodologies de travail, en associant l'environnement entrepreneurial avec celui de l'innovation vaudoise (*start-ups*, entreprises, Hautes écoles).
+#### **MuseumXTD** (pour "museum extended") est issu d'une année de recherche appliquée, ayant pout objectif d'explorer les enjeux de la transition numérique au sein des petits et moyens musées. Il expérimente également de nouvelles méthodologies de travail, en associant l'environnement entrepreneurial avec celui de l'innovation vaudoise (*start-ups*, entreprises, Hautes écoles).
 
-MuseumXTD s'appuie notamment sur un cas d'étude: la conception d’un dispositif numérique au sein des Musées de Pully, dans le cadre d'un espace consacré à C.F. Ramuz et à la littérature. 
-
-Les résultats du projet sont disponibles sur [museumxtd.ch](https://www.museumxtd.ch/). Ils sont mis à disposition des institutions muséales pour leur propres recherches et développement. Le site est conçu comme une plateforme d’informations: il permet de diffuser les recherches et réflexions menées durant l’année qu'a duré le projet.
-C'est une sorte de boîte à outils évolutive. Elle tente de répondre aux nombreuses questions liées à l’implémentation et à l’usage du numérique dans les musées de notre région. 
+Les résultats du projet sont disponibles sur [museumxtd.ch](https://www.museumxtd.ch/). Conçu comme une plateforme d’informations, le site permet de diffuser les recherches et réflexions menées durant l’année qu'a duré le projet. Mise à disposition des institutions muséales pour leur propres recherches et développement, cette boîte à outils évolutive tente de répondre aux nombreuses questions liées à l’implémentation et à l’usage du numérique dans les musées de notre région. 
 
 Les résultats du projet ont été présentés lors d'un forum qui a réuni professionnel des musées, ainsi que des expertes et experts suisses et étrangers de la transition numérique dans les institutions culturelles.
 Ce forum a eu lieu les 12 et 13 octobre 2022 à l'Aula de la HEIG-VD d'Yverdon-les-Bains.
+Le projet a été mené par la société Concilio, les Musées de Pully et la HEIG-VD et qui s'est achevé le 31 octobre 2022. En tant que projet de transformation, il a bénéficié du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.  
 
-Contact  
-[info@museumxtd.ch](mailto:info@museumxtd.ch)
-
-**MuseumXTD** est un projet mené par la société Concilio, les Musées de Pully et la HEIG-VD. Il s'est achevé le 31 octobre 2022.  
-En tant que projet de transformation, il a bénéficié du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.
 
 
 ![](/images/Logo-Canton_de_Vaud.svg) ![](/images/EDI_BAK_FR_RGB_POS_HOCH.png)
