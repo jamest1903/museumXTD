@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/info.njk
 ---
 # À Propos
-La plateforme **MuseumXTD** est issue du projet de recherche appliquée **MuseumXTD**, mené par la société Concilio, les Musées de Pully et la HEIG-VD et qui s'est achevé le 31 octobre 2022. 
+La plateforme **MuseumXTD** est issue du projet de recherche appliquée mené par la société Concilio, les Musées de Pully et le MEI (Media Engineering Institute) de la HEIG-VD et qui s'est achevé le 31 octobre 2022. 
 [[Organisation|En savoir plus]]
 
 <picture>
@@ -21,7 +21,6 @@ La plateforme **MuseumXTD** est issue du projet de recherche appliquée **Museum
 
 
 &nbsp; 
-
 <picture>
 <source media="(min-width: 600px)" srcset="/images/Logo-Musee_d-art_de_Pully.svg" />
 <a href="https://www.museedartdepully.ch/fr/accueil/" title="Musée d'Art de Pully"><img alt="Logo Musée d'Art de Pully" src="/images/Logo-Musee_d-art_de_Pully.svg" width="60" height="40"></a>
@@ -32,6 +31,8 @@ La plateforme **MuseumXTD** est issue du projet de recherche appliquée **Museum
 <a href="https://www.archeolab.ch/fr/accueil/" title="ArcheoLab"><img alt="Logo ArcheoLab" src="/images/Logo-Archeolab.png" width="90" height="30"></a>
 </picture>
 
+
+&nbsp; 
 Conçu comme une plateforme d’informations, le site permet de diffuser les recherches et réflexions menées durant l’année qu'a duré le projet. Mise à disposition des institutions muséales pour leur propres recherches et développement, cette boîte à outils évolutive tente de répondre aux nombreuses questions liées à l’implémentation et à l’usage du numérique dans les musées de notre région. 
 
 
