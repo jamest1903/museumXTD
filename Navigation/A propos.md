@@ -18,15 +18,17 @@ La plateforme **MuseumXTD** est développée en collaboration avec la société 
 <a href="https://heig-vd.ch/rad/instituts/mei/" title="MEI HEIG-VD"><img alt="Logo MEI" src="/images/Logo_HEIG-VD_MEI.svg"></a>
 </picture>
 
+
 &nbsp; 
-Elle est issue du projet de recherche appliquée **MuseumXTD**, mené par la société Concilio, les Musées de Pully et la HEIG-VD et achevé le 31 octobre 2022.  
+Elle est issue du projet de recherche appliquée **MuseumXTD**, mené par la société Concilio, les Musées de Pully et la HEIG-VD et qui s'est achevé le 31 octobre 2022.  
 En tant que projet de transformation, il a bénéficié du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.   
 [[Organisation|En savoir plus]]
+
 
 ![](/images/Logo-Musee_d-art_de_Pully.svg)![](/images/Logo-Archeolab.png)  ![](/images/Logo-Canton_de_Vaud.svg) ![](/images/EDI_BAK_FR_RGB_POS_HOCH.png)
 
 
-## Code et designA
+## Code et design
 La plateforme est hébergée sur les serveurs du [MEI](https://heig-vd.ch/rad/instituts/mei). Elle a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Le code est accessible sur cette [page Github](https://github.com/MediaComem/museumXTD).
 
     
