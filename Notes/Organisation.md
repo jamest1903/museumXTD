@@ -10,6 +10,7 @@ Les résultats du projet sont disponibles sur [museumxtd.ch](https://www.museumx
 
 Les résultats du projet ont été présentés lors d'un forum qui a réuni professionnel des musées, ainsi que des expertes et experts suisses et étrangers de la transition numérique dans les institutions culturelles.
 Ce forum a eu lieu les 12 et 13 octobre 2022 à l'Aula de la HEIG-VD d'Yverdon-les-Bains.
+
 Le projet a été mené par la société Concilio, les Musées de Pully et la HEIG-VD et qui s'est achevé le 31 octobre 2022. En tant que projet de transformation, il a bénéficié du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.  
 
 

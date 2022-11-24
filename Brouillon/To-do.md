@@ -16,6 +16,6 @@ tags:
 - [ ] Cleaner l'Obsidian
 	- [ ] retirer les fichiers qui ne servent plus
 - [ ] Organisation de l'information
-	- [ ] Formaliser un schéma de la gestion de l'information (internet/externe)
+	- [ ] Formaliser un schéma de la gestion de l'information (interne/externe)
 - [ ] Améliorer l'expérience visiteur de la plateforme
 	- [ ] Page ressources - créer des sections en bas de la page
