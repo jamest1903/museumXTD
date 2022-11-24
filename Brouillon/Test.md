@@ -1,6 +1,6 @@
 <picture>
 <source media="(min-width: 600px)" srcset="/images/Logo-Musee_d-art_de_Pully.svg" />
-<a href="https://www.museedartdepully.ch/fr/accueil/" title="Musée d'Art de Pully"><img alt="Logo Musée d'Art de Pully" src="/images/Logo-Musee_d-art_de_Pully.svg"></a>
+<a href="https://www.museedartdepully.ch/fr/accueil/" title="Musée d'Art de Pully"><img alt="Logo Musée d'Art de Pully" src="/images/Logo-Musee_d-art_de_Pully.svg" width="60" height="40"></a>
 </picture>
 
 <picture>
