@@ -37,7 +37,7 @@ Conçu comme une plateforme d’informations, le site permet de diffuser les rec
 
 
 ## Code et design
-La plateforme est développée en collaboration avec la société [Concilio](https://www.concilioltd.com/) et le [MEI](https://heig-vd.ch/rad/instituts/mei) (Media Engineering Institute) de la HEIG-VD. Elle est hébergée sur les serveurs du [MEI](https://heig-vd.ch/rad/instituts/mei) et a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Le code est accessible sur cette [page Github](https://github.com/MediaComem/museumXTD).
+La plateforme est développée en collaboration avec la société [Concilio](https://www.concilioltd.com/) et le [MEI](https://heig-vd.ch/rad/instituts/mei). Elle est hébergée sur les serveurs du [MEI](https://heig-vd.ch/rad/instituts/mei) et a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Le code est accessible sur cette [page Github](https://github.com/MediaComem/museumXTD).
 
     
 ## Contact

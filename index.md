@@ -27,6 +27,6 @@ eleventyNavigation:
 
 ## Concevoir l'expérience visiteur
 [[Comment encourager la participation du visiteur|Comment encourager la participation du visiteur?]]
-[[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]]
 [[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz|Un exemple de projet: le projet Ramuz]]
+[[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]]
 ###### **[[Concevoir l'expérience visiteur|Plus de questions]]**

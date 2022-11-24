@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bb92327716edd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "index.md"
               }
             }
           },
@@ -256,15 +268,15 @@
   },
   "active": "855af32de4d7982e",
   "lastOpenFiles": [
+    "Notes/Concevoir l'expérience visiteur.md",
+    "index.md",
+    "Navigation/Ressources.md",
+    "Navigation/A propos.md",
+    "Navigation/Forum 2022.md",
     "Notes/Organisation.md",
     "Navigation/footer.md",
-    "Navigation/A propos.md",
     "Brouillon/To-do.md",
-    "Navigation/Forum 2022.md",
     "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
-    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
-    "Brouillon/Test.md",
-    "Notes/Comment utiliser le numérique de façon durable.md",
-    "Notes/Exemples d’expositions en ligne de collections patrimoniales.md"
+    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md"
   ]
 }
