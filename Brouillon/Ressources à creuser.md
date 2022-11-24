@@ -16,4 +16,6 @@
 
 Projets numériques relatifs à des collections à forte valeur ajoutée
 - [Digital Bénin](https://digitalbenin.org/) + intervention [ICOM France](https://www.youtube.com/watch?t=7132&utm_source=linkedin&utm_medium=social&utm_campaign=_Metis_&utm_content=veille&v=7WuT-6EUDuE&feature=youtu.be#sq_h7xxfa7px6&ab_channel=ICOMFrancecomit%C3%A9nationalfran%C3%A7aisdel%27ICOM) + [post Mêtis](https://www.linkedin.com/posts/m%C3%AAtis_translocation-musaeze-museum-activity-6996766046233710592-y1U_?utm_source=share&utm_medium=member_desktop) 
-- 
+
+Ressources relatives à l'écoresponsabilité des institutions
+- [Powerful Thinking](https://www.powerful-thinking.org.uk/)
