@@ -20,8 +20,7 @@ La plateforme **MuseumXTD** est développée en collaboration avec la société 
 
 
 &nbsp; 
-Elle est issue du projet de recherche appliquée **MuseumXTD**, mené par la société Concilio, les Musées de Pully et la HEIG-VD et qui s'est achevé le 31 octobre 2022.  
-En tant que projet de transformation, il a bénéficié du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.   
+Elle est issue du projet de recherche appliquée **MuseumXTD**, mené par la société Concilio, les Musées de Pully et la HEIG-VD et qui s'est achevé le 31 octobre 2022. En tant que projet de transformation, il a bénéficié du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.   
 [[Organisation|En savoir plus]]
 
 <picture>

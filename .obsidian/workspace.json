@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/Organisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/Organisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "Notes/Organisation.md"
               }
             }
           },
@@ -230,13 +230,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "855af32de4d7982e",
+  "active": "175aea359d8d15b0",
   "lastOpenFiles": [
     "Navigation/Forum 2022.md",
+    "Navigation/A propos.md",
     "Brouillon/Test.md",
     "Notes/Organisation.md",
     "Brouillon/To-do.md",
-    "Navigation/A propos.md",
     "Notes/Comment utiliser le numérique de façon durable.md",
     "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
