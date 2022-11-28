@@ -18,4 +18,5 @@
 + HEIG-VD | MEI
 
 <!-- - [[A propos#Contact|Contact]] -->
-- [Contact](/Navigation/A propos/index.html#Contact)
+<!-- - [Contact](/Navigation/A propos/index.html#Contact) -->
+- [Contact](/Navigation/A propos/)
