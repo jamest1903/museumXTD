@@ -7,7 +7,7 @@ eleventyNavigation:
 ---
 
 # Documentation
-The English version is on this [[Documentation - English|page]]. 
+Find the English version below. 
 
 **MuseumXTD** est une plateforme de ressources évolutive pour répondre aux nombreuses questions liées à l’implémentation et à l’usage du numérique dans les petits et moyens musées de notre région. 
 - Plus d’information sur https://www.museumxtd.ch/

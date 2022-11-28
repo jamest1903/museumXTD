@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Pour démarrer.md",
+                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Comment éditer les contenus de la plateforme/Documentation.md"
               }
             }
           },
@@ -240,17 +240,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19f0edaeb3c70096",
+  "active": "46af017a3e66687f",
   "lastOpenFiles": [
-    "Navigation/A propos.md",
     "Notes/Pour démarrer.md",
-    "Navigation/footer.md",
-    "index.md",
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Comment éditer les contenus de la plateforme/Documentation.md",
-    "Brouillon/To-do.md",
     "Template/Métadonnées Notes.md",
-    "Template/Note question.md",
-    "images/Logo_Github.png"
+    "README.md",
+    "Comment éditer les contenus de la plateforme/Documentation.md",
+    "index.md",
+    "Navigation/A propos.md",
+    "Navigation/footer.md",
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+    "Brouillon/To-do.md",
+    "Template/Note question.md"
   ]
 }
