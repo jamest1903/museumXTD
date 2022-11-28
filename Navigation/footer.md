@@ -14,5 +14,6 @@
 - [YouTube](link.url)
 - [GitHub](link.url)  
 
-+ Code and Design  
++ Code et Design  
 + HEIG-VD | MEI
++ [[A propos#Contact|Contact]]

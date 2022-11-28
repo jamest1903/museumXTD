@@ -4,119 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6e04f2211501175a",
+        "id": "2df023199dc12ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "778397cb05cd66da",
+            "id": "2c030d8f90775fad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Forum 2022.md",
+                "file": "Notes/Pour démarrer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "855af32de4d7982e",
+            "id": "406afc4d5ec4e5e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md",
+                "file": "Comment éditer les contenus de la plateforme/Formulaire de contact.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3bb92327716edd59",
+            "id": "35333938ddd642a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ccbc0d15e76e039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Navigation/footer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "175aea359d8d15b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Organisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7798d44ff62ffa2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brouillon/To-do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bf6486a6a4d8037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brouillon/Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a8c7d993d6ecc75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "4679117196277a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e7f9a7a03a4b7f2",
+            "id": "164d11e2d18b1128",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,19 +56,31 @@
             }
           },
           {
-            "id": "0ceb60631487078e",
+            "id": "2b2687af29cc8f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Introduction. Musées et mondes numériques.md",
-                "mode": "preview",
+                "file": "Navigation/A propos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba14e1175e54f380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation/footer.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md",
+                "file": "Navigation/footer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md",
+                "file": "Navigation/footer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brouillon/Ressources à creuser.md"
+                "file": "Navigation/footer.md"
               }
             }
           },
@@ -266,17 +206,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "855af32de4d7982e",
+  "active": "ba14e1175e54f380",
   "lastOpenFiles": [
-    "index.md",
-    "Notes/Concevoir l'expérience visiteur.md",
-    "Navigation/Ressources.md",
     "Navigation/A propos.md",
-    "Navigation/Forum 2022.md",
-    "Notes/Organisation.md",
-    "Navigation/footer.md",
-    "Brouillon/To-do.md",
+    "Notes/Numérique et musée, quelques définitions.md",
+    "Notes/Pour démarrer.md",
+    "Comment éditer les contenus de la plateforme/Formulaire de contact.md",
+    "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
+    "index.md",
+    "Navigation/Ressources.md",
+    "Navigation/Répertoire.md",
     "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
-    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md"
+    "Brouillon/Test.md"
   ]
 }

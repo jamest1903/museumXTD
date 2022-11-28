@@ -19,3 +19,4 @@ Projets numériques relatifs à des collections à forte valeur ajoutée
 
 Ressources relatives à l'écoresponsabilité des institutions
 - [Powerful Thinking](https://www.powerful-thinking.org.uk/)
+- [Les musées, acteurs crédibles du développement durable ?](https://www.icom-musees.fr/sites/default/files/2022-06/Les%20musees%2C%20acteurs%20credibles%20du%20developpement%20durable_numerique_0.pdf)
