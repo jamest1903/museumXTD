@@ -11,6 +11,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      SLACK_ALERT_BUILD_FAILED: ${{ secrets.SLACK_ALERT_BUILD_FAILED }}
 
     strategy:
       matrix:
@@ -35,3 +37,11 @@ jobs:
           publish_dir: ./docs
           github_token: ${{ secrets.GITHUB_TOKEN }}
           cname: www.museumxtd.ch
+      
+      - name: Slack Notification failure
+        uses: actions/slack@v1
+        with:
+          status: ${{ job.status }}
+          steps: ${{ toJson(steps) }}
+          channel: '#museumxtd'
+        if: ${{ failure() }}
