@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource english
 ---
 ### [Richardson, J. (2020). Innovating with digital to find new revenue stream for Museums.](https://www.museumnext.com/article/innovating-with-digital-to-find-new-revenue-stream-for-museums/)
 [Jim Richardson](https://www.museumnext.com/speakers/jim_richardson-3/) présente plusieurs exemples d'activités numériques monétisées, développées par des musées lors du COVID-19. 

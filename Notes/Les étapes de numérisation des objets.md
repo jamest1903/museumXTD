@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### Bolli, L. (2022). Les étapes de numérisation des objets.
 

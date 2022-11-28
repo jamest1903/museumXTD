@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [Marketing numérique](https://culturelaval.ca/guide-maketing-numerique/)
 Culture Laval définit entre autre ce qu'est le marketing numérique. 

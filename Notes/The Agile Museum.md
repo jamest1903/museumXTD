@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [The Agile Museum](https://mw2016.museumsandtheweb.com/paper/the-agile-museum/)
 Cet article traite de la possibilité d'adopter les méthodes de management, comme Lean ou Agile, dans les musées et d'implémenter progressivement leurs pratiques. Il a fait l'objet d'une présentation (document accessible [ici](https://www.slideshare.net/dhegley/the-agile-museum-21st-century-leadership))  

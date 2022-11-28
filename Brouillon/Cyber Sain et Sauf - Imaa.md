@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens securite
+tags: ressource securite
 ---
 
 [Cyber Sain et Sauf - Imaa](https://www.imaa.ca/cybersecurite/)

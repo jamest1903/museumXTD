@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [20 ans de numérique dans les musées.](https://journals.openedition.org/ocim/1605)  
 [Daniel Schmitt](https://hal.archives-ouvertes.fr/DANIEL_SCHMITT) et [Muriel Meyer-Chemenska](https://metis-lab.com/meyer-chemenska-muriel/) montrent comment les différents outils développés et leurs évolutions ont influé sur l’expérience de visite et comment une approche critique de la médiation numérique par les institutions muséales permet de penser la médiation globale de l’exposition.

@@ -2,7 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-06-14
-tags: liens 
+tags: ressource 
 ---
 ### [LEHMANN, M. Le numérique, une formidable occasion pour la culture.](https://www.hub01.org/le-numerique-une-formidable-occasion-pour-la-culture/)   
 [Mériol Lehmann](https://mlehmann.ca/about) aborde les concepts clés du numérique et propose au secteur culturel de s'inspirer des méthodes de gestion organisationnelle du numérique.  

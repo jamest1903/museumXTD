@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens strategie
+tags: ressource strategie
 eleventyNavigation:
   key: mondes
   title: Introduction. Musées et mondes numériques

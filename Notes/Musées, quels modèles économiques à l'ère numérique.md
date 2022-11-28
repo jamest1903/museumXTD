@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [Musées : quels modèles économiques à l'ère numérique?](https://www.pourleco.com/consommation/musees-quels-modeles-economiques-lere-numerique) 
 [Marie Frumholtz](https://www.linkedin.com/in/marie-frumholtz-629011130/?originalSubdomain=fr) expose les enjeux de la monétisation des activités qui s'est renforcée dans le contexte post-COVID. 

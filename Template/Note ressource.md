@@ -1,14 +1,14 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 alias: 
 eleventyNavigation:
   key: 
   title:
   parent: 
 ---
-### [Auteur, Initiale., & Auteur, Initiale. (Date). Titre.]()
+### [Titre et lien](url)
 
 Résumé de la ressource
 

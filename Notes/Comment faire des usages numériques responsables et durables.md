@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 eleventyNavigation:
   key: numresponsable
   title: Comment faire des usages numériques responsables et durables

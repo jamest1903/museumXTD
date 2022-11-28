@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk
-tags: liens forum francais
+tags: ressource forum francais
 ---
 
 ## Les données visiteurs, un outil au service d'une meilleure connaissance de vos publics

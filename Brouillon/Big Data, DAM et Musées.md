@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [Gravil, E. (2021). Big Data, DAM et Musées.](https://elisagravil.medium.com/big-data-dam-mus%C3%A9es-ebe1073c6dd9)
 Résumé de la ressource

@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens management
+tags: ressource management
 ---
 
 - [Conception participative d'un projet d'établissement culturel](https://www.artizest.fr/conception-participative-dun-projet-detablissement-culturel/)

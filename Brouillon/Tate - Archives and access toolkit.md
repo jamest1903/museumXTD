@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens numerisationcollection
+tags: ressource numerisationcollection
 ---
 
 [Archives and Access toolkit - Tate](https://www.tate.org.uk/art/archive/archives-access-toolkit)

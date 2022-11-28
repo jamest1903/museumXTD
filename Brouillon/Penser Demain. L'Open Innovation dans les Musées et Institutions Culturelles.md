@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 [ICART (2022). Penser Demain. L'Open Innovation dans les Musées et Institutions Culturelles.](https://docs.google.com/presentation/d/12zWroXpwb8DA7kCH9B99Dm-PIrwehlHto6gaeGzfQfM/edit#slide=id.g51b033ce8c_2_35)
 

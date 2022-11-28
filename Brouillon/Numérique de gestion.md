@@ -2,7 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 date: 2022-09-01
-tags: #liens
+tags: ressource
 ---
 ### [Numérique de gestion](https://docs.google.com/presentation/d/1G5JvUgfwx58aAk1-rOlqsbXeew-EGwFKuw_pJATkRrA/edit#slide=id.g5e484ff567_0_3180)
 0/1 - Hub numérique propose un guide sur les outils numériques à utiliser pour travailler.

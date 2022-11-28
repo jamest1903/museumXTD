@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens 
+tags: ressource
 ---
 
 ### [Numérique et culture : la quête de l’indispensable complémentarité.](https://www.lejournaldesarts.fr/numerique-et-culture-la-quete-de-lindispensable-complementarite-158691)

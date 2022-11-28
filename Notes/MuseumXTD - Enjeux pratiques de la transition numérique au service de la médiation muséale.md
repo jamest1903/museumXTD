@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk
-tags: liens forum francais
+tags: ressource forum francais
 ---
 ## Enjeux pratiques de la transition numérique au service de la médiation muséale
 

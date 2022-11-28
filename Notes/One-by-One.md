@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 
 ### [One-by-One. Building digitally confident museums](https://one-by-one.uk/)

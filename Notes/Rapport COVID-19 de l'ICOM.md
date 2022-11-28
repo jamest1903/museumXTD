@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [Musées, professionnels des musées et COVID-19.](https://icom.museum/wp-content/uploads/2020/05/Rapport-musées-et-COVID-19-1.pdf)
 

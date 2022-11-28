@@ -20,18 +20,91 @@
             }
           },
           {
-            "id": "164d11e2d18b1128",
+            "id": "e1a4d44c42d2b7e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Numérique et musée, quelques définitions.md",
+                "file": "Brouillon/To-do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9d43bcd702a36ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Métadonnées Notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "343fe1726f75bd81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c01dadc06a943a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f72dff16d8c0338a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce721e9b4b5242e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Note ressource.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5adbb56847ce60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -60,10 +133,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prof",
+                "query": "liens",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -97,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/footer.md",
+                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/footer.md",
+                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/footer.md"
+                "file": "Comment éditer les contenus de la plateforme/Documentation.md"
               }
             }
           },
@@ -157,17 +230,54 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c030d8f90775fad",
+  "floating": {
+    "id": "27fc3a949b7f7507",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a72d21d77ec86b8f",
+        "type": "window",
+        "children": [
+          {
+            "id": "f7c97c5a340564b3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f36d3e83fccb04a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Template/Note question.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -69,
+        "y": -657,
+        "width": 1192,
+        "height": 784,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c01dadc06a943a69",
   "lastOpenFiles": [
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+    "Comment éditer les contenus de la plateforme/Documentation.md",
+    "Template/Note ressource.md",
+    "Template/Note question.md",
     "Brouillon/To-do.md",
-    "Notes/Pour démarrer.md",
-    "Notes/Numérique et musée, quelques définitions.md",
-    "Navigation/A propos.md",
-    "Navigation/footer.md",
-    "Comment éditer les contenus de la plateforme/Formulaire de contact.md",
-    "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
+    "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
+    "Template/Métadonnées Notes.md",
     "index.md",
-    "Navigation/Ressources.md",
-    "Navigation/Répertoire.md"
+    "Comment éditer les contenus de la plateforme/Tags.md",
+    "Notes/MuseumXTD - Antoine Roland.md"
   ]
 }

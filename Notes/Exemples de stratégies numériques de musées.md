@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### Exemples de stratégies numériques de musées
 Vous trouverez sur cette page quelques exemples concrets de stratégies numériques de grands musées à travers le monde: 

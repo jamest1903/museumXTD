@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource english
 ---
 ### [Does Digital Mediation Really Change the Museum Experience? Museomix in the Lyon-Fourvière Archaeological Museum](https://www.researchgate.net/publication/343365884_Does_Digital_Mediation_Really_Change_the_Museum_Experience_Museomix_in_the_Lyon-Fourviere_Archaeological_Museum)
 Cet article de 2020 étudie l'impact des dispositifs de médiation numérique sur l'expérience muséale des visiteurs lors d'une exposition au musée archéologique de Lyon-Fourvière en 2012. 

@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [La médiatrice et le numérique.](https://heritech-forum.com/2021/02/04/la-mediatrice-et-le-numerique/)
 Chiara Martini-Picot, médiatrice du Patrimoine au château de Sully, partage sa vision de l'utilisation du numérique en tant que médiatrice. 

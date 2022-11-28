@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
-tags: liens forum 
+tags: ressource forum 
 ---
 ## Projet Ramuz. Présentation du projet de l'agence Transverse
 

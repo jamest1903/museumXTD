@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 
 [Museum at Digital Era. Conference, Belvédère](https://www.belvedere.at/digitalmuseum2022)

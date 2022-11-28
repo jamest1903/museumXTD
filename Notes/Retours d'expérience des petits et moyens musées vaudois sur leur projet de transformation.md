@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
-tags: liens forum 
+tags: ressource forum 
 ---
 ## Retours d'expérience des petits et moyens musées vaudois sur leur projet de transformation
 

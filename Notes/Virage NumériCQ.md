@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [Virage NumériCQ](https://viragenumeriqc.com/)
 Virage NumériCQ est un "service-conseil", porté par l'association Québec numérique, qui a pour but d'accompagner des entreprises et des organismes québécoises dans le développement de leurs compétences numériques et dans la réalisation de leurs projets innovants. Il propose des ressources destinées aux professionnels québécois mais également accessibles à tou.te.s, conçus de manière collaborative par les entités impliquées dans le réseau. 

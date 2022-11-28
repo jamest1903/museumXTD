@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 # Les autres technologies émergeantes
 *NFTs*, *blockchain*, métavers, intelligence artificielle, … De nombreuses technologies émergentes commencent à intégrer le monde de la culture. Voici quelques liens pour y voir plus clair.

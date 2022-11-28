@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 eleventyNavigation:
   key: transitionnum
   title: Favoriser la transition numérique tout en contrôlant son empreinte

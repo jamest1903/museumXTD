@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [Emailing et génération Z : peut-on encore utiliser le canal email pour communiquer avec les jeunes ?](https://arenametrix.com/emailing-generation/?utm_medium=email&_hsmi=226748415&_hsenc=p2ANqtz-9BOF9EVfdQ-6M116wbXC5wNOlxoV1AM58OBUCRLIYJ3zf5kE-iSn9MqVz7HCXSXAObmNzu_95yiwQW6-uWHPzwbIXqtp7JGjEI9NbU4gyDHboCMpU&utm_content=226748415&utm_source=hs_email)
 Arenametrix s'intéresse à l'utilisation de la newsletter par les jeunes de la *génération Z* (moins de 25 ans). 

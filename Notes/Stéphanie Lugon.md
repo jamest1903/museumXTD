@@ -1,7 +1,7 @@
 ---
 title: Stéphanie Lugon  
 layout: layouts/post.njk
-tags: liens forum
+tags: forum
 ---
 ## Stéphanie Lugon
 

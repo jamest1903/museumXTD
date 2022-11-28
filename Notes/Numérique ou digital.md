@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 # Numérique ou digital 
 Les deux termes sont souvent utilisés comme des synonymes, permettant tous les deux une distinction avec l'analogique. Mais pour les puristes, il existe cependant quelques différences. 

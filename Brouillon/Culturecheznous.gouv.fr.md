@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens contenunumerique
+tags: ressource contenunumerique
 ---
 
 [Culturecheznous.gouv.fr](https://lesenjeux.univ-grenoble-alpes.fr/2019/supplement-a/01-les-politiques-culturelles-numeriques-repenser-la-place-des-nouvelles-technologies-dans-le-patrimoine/)

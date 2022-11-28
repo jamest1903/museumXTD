@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk
-tags: liens forum anglais
+tags: ressource forum anglais
 ---
 ## DOORS: Digital Incubator for Museums
 [Ana Maria Carabelea](https://www.linkedin.com/in/ana-carabelea/)

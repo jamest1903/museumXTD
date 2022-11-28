@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens strategie collection narration
+tags: ressource strategie collection narration
 ---
 
 [Lionel Bovier (MAMCO) sur les défis que la numérisation pose aux musées](https://www.youtube.com/watch?v=ikHeZ1256B4&list=PL7Kb_aUJUxuSSLSIz55nWtllKSlu07NsV)

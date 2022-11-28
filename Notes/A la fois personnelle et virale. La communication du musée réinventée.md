@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [A la fois personnelle et virale : la communication du musée réinventée.](https://icom.museum/fr/news/communication-musee-reinventee/)
 Ainhoa Simón Diez évoque les grandes tendances des réseaux sociaux et la manière dont les musées peuvent s'adapter. 

@@ -1,9 +1,9 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
-### Mettre à profit les liens naturels entre culture et pensée numérique.](https://www.cqam.org/wp-content/uploads/2019/02/2-formation-gestion.pdf)
+### [Mettre à profit les liens naturels entre culture et pensée numérique.](https://www.cqam.org/wp-content/uploads/2019/02/2-formation-gestion.pdf)
 
 Le Conseil québécois des arts médiatiques propose une explication et des conseils d'application des méthodes *Lean* et *Agile* au sein d'une organisation culturelle. 
 

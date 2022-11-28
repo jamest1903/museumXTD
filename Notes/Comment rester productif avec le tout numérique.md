@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens outils competence
+tags: ressource
 ---
 ### [Josse, F. (2022). Comment rester productif avec le tout numérique?](https://www.maddyness.com/2022/03/15/comment-rester-productif-avec-le-tout-numerique/)
 Le numérique facilite le partage d’informations et le travail collaboratif. Pourtant, il engendre aussi une hypersollicitation.

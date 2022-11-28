@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 eleventyNavigation:
   key: empreintecarbone
   title: La vérité sur l’empreinte carbone du numérique

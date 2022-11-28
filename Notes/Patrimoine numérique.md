@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 # Patrimoine numérique
 1. [Patrimoine numérique](https://fr.unesco.org/themes/information-preservation/digital-heritage/concept-digital-heritage)

@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens strategie outils
+tags: ressource strategie outils
 ---
 ### [Un nouveau musée numérique pour une ère nouvelle.](https://elisagravil.medium.com/un-nouveau-mus%C3%A9e-num%C3%A9rique-pour-une-%C3%A8re-nouvelle-8fedf8ff7c1a)
 [Elisabeth Gravil](https://www.linkedin.com/in/elisagravil/) présente les enjeux de la transformation numérique d'un musée, désormais indispensable à son développement.

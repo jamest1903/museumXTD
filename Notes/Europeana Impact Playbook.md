@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [Impact Playbook.](https://pro.europeana.eu/page/impact)
 L'impact Playbook d'Europeana a pour objectif d'aider les professionnels à mieux planifier, mesurer et comprendre l'impact du patrimoine culturel numérique.

@@ -1,9 +1,9 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
-### [BLa médiation numérique, entre innovation, surproduction et sobriété….](https://cehistoire.hypotheses.org/4475)
+### [La médiation numérique, entre innovation, surproduction et sobriété….](https://cehistoire.hypotheses.org/4475)
 Maïté Labat, a été chargée de développer les projets numériques du Louvre comme le [Louvre+](https://www.louvre.fr/louvreplus) ou l'[exposition immersive de la Joconde](https://www.grandpalais.fr/fr/evenement/la-joconde-exposition-immersive). Interrogée par *Com’en Histoire*, elle raconte son expérience et partage sa vision sur ces nouveaux formats de contenus.  
 
 ## A retenir

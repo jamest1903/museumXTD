@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens forum anglais
+tags: ressource forum anglais
 ---
 ## Seemuseum: Exploring digital change as a small museum
 

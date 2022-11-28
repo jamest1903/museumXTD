@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens outils
+tags: ressource outils
 ---
 [Staatlabor](https://www.staatslabor.ch/fr)
 

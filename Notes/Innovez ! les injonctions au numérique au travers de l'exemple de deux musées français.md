@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 eleventyNavigation:
   key: Innovez
   title: Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français

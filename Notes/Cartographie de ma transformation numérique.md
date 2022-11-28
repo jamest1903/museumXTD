@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens outils management
+tags: ressource
 ---
 ### [Cartographie de ma transformation numérique](https://viragenumeriqc.com/culture-et-numerique/cartographie-transformation-numerique/)
 Cet outil permet de formuler les besoins et objectifs pour élaborer sa stratégie numérique.

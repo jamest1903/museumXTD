@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens technologies
+tags: ressource technologies
 ---
 ### [Journée de recherche (2022). Journée de recherche-action « institutions patrimoniales et muséales et dispositifs immersifs »](https://metis-lab.com/2021/12/05/journee-de-recherche-action-institutions-patrimoniales-et-museales-et-dispositifs-immersifs/)
 Cette journée de colloque traite des risques et des challenges pour intégrer les dispositifs immersifs dans les parcours de visite de lieux culturels et sur les attentes des publics envers ces nouvelles technologies.

@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [Déployer une newsletter impactante pour votre musée, les étapes clés.](https://welcome.museum/fr/deployer-une-newsletter-impactante-pour-votre-musee-les-etapes-cles/) 
 [Raphaël Roc](https://welcome.museum/fr/author/raphael-rocafnic-fr/ "Articles par Raphaël Roc") fournit quelques conseils et étapes clés afin de concevoir une newsletter de musée.

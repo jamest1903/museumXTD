@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [Bourliataux-Lajoinie, S. (2022). Quand la technologie s’invite au musée.](https://theconversation.com/quand-la-technologie-sinvite-au-musee-178059)
 

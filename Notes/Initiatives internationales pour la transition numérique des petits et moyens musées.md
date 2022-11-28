@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens projet
+tags: ressource projet
 ---
 
 # Initiatives internationales pour la transition des petits et moyens musées

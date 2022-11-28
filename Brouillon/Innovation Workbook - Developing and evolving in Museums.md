@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource english
 ---
 ### [Innovation Workbook - Developing and evolving in Museums (Aboa Vetus & Ars Nova, Museum of Technology, Humak)](https://www.ecsite.eu/sites/default/files/developing_and_evolving_in_museums_workbook.pdf)
 Cet *Innovation Workbook* rapporte la méthodologie utilisée lors de *Museum as innovation platforms*, projet de deux années mené par Aboa Vetus & Ars Nova avec le Musée de la technologie d'Helsinki, l'Université humaniste des sciences appliquées Humak et la Junior Achievement Finland. Il a été publié en 2019. 

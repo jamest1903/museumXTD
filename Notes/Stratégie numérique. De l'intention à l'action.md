@@ -1,9 +1,8 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens management strategie
+tags: ressource management strategie
 ---
-
 ### [Stratégie numérique: de l'intention à l'action](https://viragenumeriqc.com/culture-et-numerique/strategie-numerique-de-lintention-a-laction/)
 Le projet Virage NumeriCQ propose une définition de la stratégie numérique ainsi que divers outils pour sa mise en application. Il s'appuie notamment sur le travail réalisé par les participants du Forum des Innovations Culturelles au Québec, en 2018. 
 

@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [2022 : l’année de raison pour le numérique ?](https://louisderrac.com/2022/01/13/2022-lannee-de-raison-pour-le-numerique/)  
 [Louis Derrac](https://louisderrac.com/a-propos/) recontextualise l'utilisation actuelle du numérique dans nos sociétés et pousse à un usage plus modéré et pertinent. Il propose également des alternatives numériques face aux modèles dominants.  

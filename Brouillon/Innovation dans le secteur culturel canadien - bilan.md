@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens rapport competence
+tags: ressource rapport competence
 ---
 ### [Innovation dans le secteur culturel canadien - bilan](https://www.culturepourtous.ca/wp-content/uploads/2018/07/Bilan_culture_innovation_HR_pagin%C3%A9e.pdf)
 Ce document synthétise la journée *L'Innovation dans le secteur culturel* organisée en 2018 par la Fondation J. Armand Bombardier, le Conseil des Arts de Montréal et Culture pour tous, qui a rassemblé plus de 70 professionnel·le·s de la culture sur les façons de développer une culture d’innovation. 

@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 ### [Enquête sur la digitalisation des musées de Suisse romande: vers une virtualisation de la culture ?](https://unidistance.ch/en/history/research-project/musee-20-enquete-sur-la-digitalisation-des-musees-suisses)  
 L’enquête s'intéresse à la définition du numérique, son utilisation ainsi que son évolution dans les musées. Elle a été réalisée auprès de professionnel·le·s des musées vaudois, interrogés en 2020.

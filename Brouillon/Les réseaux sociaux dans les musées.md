@@ -1,11 +1,11 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
-[Ricard, L. (2019). Les réseaux sociaux dans les musées.](https://www.museums.ch/fr/assets/files/dossiers_f/Bildung/Travaux%20certificat/2019-2020/Ricard.pdf)
+### [Les réseaux sociaux dans les musées.](https://www.museums.ch/fr/assets/files/dossiers_f/Bildung/Travaux%20certificat/2019-2020/Ricard.pdf)
 
-Ce mémoire s'intéresse à la manière dont les musées s'emparent des réseaux sociaux et délivrent quelques éléments de stratégie. 
+Ce mémoire de 2019 s'intéresse à la manière dont les musées s'emparent des réseaux sociaux et délivrent quelques éléments de stratégie. 
 
 ## A retenir
 - L'apport d'information par les réseaux sociaux à trois moments de la visite: avant, pendant, après. 

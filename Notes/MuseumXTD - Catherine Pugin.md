@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens forum francais
+tags: ressource forum francais
 ---
 ## Les défis de la transition numérique à l’aune de la Stratégie numérique vaudoise
 

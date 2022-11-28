@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: liens
+tags: ressource
 ---
 
 ### [The impact of digital technologies on arts and culture in the UK.](https://researchbriefings.files.parliament.uk/documents/POST-PN-0669/POST-PN-0669.pdf)    

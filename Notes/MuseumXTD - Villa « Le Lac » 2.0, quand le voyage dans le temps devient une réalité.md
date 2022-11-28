@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk
-tags: liens forum francais
+tags: ressource forum francais
 ---
 ## Villa « Le Lac » 2.0: quand le voyage dans le temps devient une réalité
 
