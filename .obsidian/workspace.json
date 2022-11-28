@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "406afc4d5ec4e5e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comment éditer les contenus de la plateforme/Formulaire de contact.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35333938ddd642a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "164d11e2d18b1128",
             "type": "leaf",
             "state": {
@@ -80,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,14 +185,14 @@
   "active": "ba14e1175e54f380",
   "lastOpenFiles": [
     "Navigation/A propos.md",
+    "Comment éditer les contenus de la plateforme/Formulaire de contact.md",
+    "Navigation/footer.md",
     "Notes/Numérique et musée, quelques définitions.md",
     "Notes/Pour démarrer.md",
-    "Comment éditer les contenus de la plateforme/Formulaire de contact.md",
     "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
     "index.md",
     "Navigation/Ressources.md",
     "Navigation/Répertoire.md",
-    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
-    "Brouillon/Test.md"
+    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
   ]
 }
