@@ -16,4 +16,5 @@
 
 + Code et Design  
 + HEIG-VD | MEI
-+ [[A propos#Contact|Contact]]
+
+- [[A propos#Contact|Contact]]
