@@ -11,6 +11,7 @@
 
 <!-- alterner "+" et "-" pour séparer chacune des listes dans sa colonne -->
 
+
 - [YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
 - [GitHub](https://github.com/MediaComem/museumXTD/)  
 
@@ -19,4 +20,4 @@
 
 <!-- - [[A propos#Contact|Contact]] -->
 <!-- - [Contact](/Navigation/A propos/index.html#Contact) -->
-- [Contact](/Navigation/A propos/)
+- [Contact](/Navigation/A%20propos/#Contact)
