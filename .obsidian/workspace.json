@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/A propos.md",
-                "mode": "preview",
+                "file": "Notes/Pour démarrer.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "11e7adebcf658b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c01dadc06a943a69",
             "type": "leaf",
             "state": {
@@ -102,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Documentation.md"
+                "file": "index.md"
               }
             }
           },
@@ -228,17 +240,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "343fe1726f75bd81",
+  "active": "19f0edaeb3c70096",
   "lastOpenFiles": [
-    "Brouillon/To-do.md",
-    "Comment éditer les contenus de la plateforme/Documentation.md",
     "Navigation/A propos.md",
+    "Notes/Pour démarrer.md",
+    "Navigation/footer.md",
+    "index.md",
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+    "Comment éditer les contenus de la plateforme/Documentation.md",
+    "Brouillon/To-do.md",
     "Template/Métadonnées Notes.md",
     "Template/Note question.md",
-    "images/Logo_Github.png",
-    "images/Logo_YT.png",
-    "images/read-me-images/screenshot-github_desktop-branch.png",
-    "images/read-me-images/screenshot-obsidian-open_folder_as_vault.png",
-    "images/read-me-images/screenshot-repository-page.png"
+    "images/Logo_Github.png"
   ]
 }

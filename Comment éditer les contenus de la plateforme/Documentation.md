@@ -13,7 +13,7 @@ The English version is on this [[Documentation - English|page]].
 - Plus d’information sur https://www.museumxtd.ch/
 - Le code est accessible sur cette [page Github](https://github.com/MediaComem/museumXTD).
 
-**La procédure que nous recommandons nécessite l'installation de deux logiciels (voir la section *1. Pour commencer*): 
+**La procédure que nous recommandons nécessite l'installation de deux logiciels (voir la section *1. Pour commencer*)**: 
 - Le logiciel de prise de note Obsidian pour éditer le contenu
 - L'application desktop GitHub pour héberger les pages
 
