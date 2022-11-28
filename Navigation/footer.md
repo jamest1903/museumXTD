@@ -11,8 +11,8 @@
 
 <!-- alterner "+" et "-" pour séparer chacune des listes dans sa colonne -->
 
-- [YouTube](link.url)
-- [GitHub](link.url)  
+- [YouTube](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
+- [GitHub](https://github.com/MediaComem/museumXTD/)  
 
 + Code et Design  
 + HEIG-VD | MEI

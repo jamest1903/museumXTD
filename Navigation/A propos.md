@@ -32,10 +32,6 @@ La plateforme **MuseumXTD** est issue du projet de recherche appliquée mené pa
 </picture>
 
 
-&nbsp; 
-Conçu comme une plateforme d’informations, le site permet de diffuser les recherches et réflexions menées durant l’année qu'a duré le projet. Mise à disposition des institutions muséales pour leur propres recherches et développement, cette boîte à outils évolutive tente de répondre aux nombreuses questions liées à l’implémentation et à l’usage du numérique dans les musées de notre région. 
-
-
 ## Code et design
 La plateforme est développée en collaboration avec la société [Concilio](https://www.concilioltd.com/) et le [MEI](https://heig-vd.ch/rad/instituts/mei). Elle est hébergée sur les serveurs du [MEI](https://heig-vd.ch/rad/instituts/mei) et a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Le code est accessible sur cette [page Github](https://github.com/MediaComem/museumXTD).
 
