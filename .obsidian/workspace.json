@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "46af017a3e66687f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation/A propos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19f0edaeb3c70096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation/A propos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b9d43bcd702a36ee",
             "type": "leaf",
             "state": {
@@ -59,52 +83,26 @@
             "id": "c01dadc06a943a69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
-                "mode": "preview",
-                "source": false
+                "file": "images/Logo_Github.png"
               }
             }
           },
           {
-            "id": "f72dff16d8c0338a",
+            "id": "af1412e27331b33c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce721e9b4b5242e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Note ressource.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5adbb56847ce60e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,54 +228,17 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "27fc3a949b7f7507",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a72d21d77ec86b8f",
-        "type": "window",
-        "children": [
-          {
-            "id": "f7c97c5a340564b3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2f36d3e83fccb04a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Template/Note question.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -69,
-        "y": -657,
-        "width": 1192,
-        "height": 784,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c01dadc06a943a69",
+  "active": "343fe1726f75bd81",
   "lastOpenFiles": [
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Comment éditer les contenus de la plateforme/Documentation.md",
-    "Template/Note ressource.md",
-    "Template/Note question.md",
     "Brouillon/To-do.md",
-    "Notes/Innovez ! les injonctions au numérique au travers de l'exemple de deux musées français.md",
+    "Comment éditer les contenus de la plateforme/Documentation.md",
+    "Navigation/A propos.md",
     "Template/Métadonnées Notes.md",
-    "index.md",
-    "Comment éditer les contenus de la plateforme/Tags.md",
-    "Notes/MuseumXTD - Antoine Roland.md"
+    "Template/Note question.md",
+    "images/Logo_Github.png",
+    "images/Logo_YT.png",
+    "images/read-me-images/screenshot-github_desktop-branch.png",
+    "images/read-me-images/screenshot-obsidian-open_folder_as_vault.png",
+    "images/read-me-images/screenshot-repository-page.png"
   ]
 }

@@ -28,3 +28,5 @@ tags:
 	- [ ] Formaliser un schéma de la gestion de l'information (interne/externe)
 - [ ] Améliorer l'expérience visiteur de la plateforme
 	- [ ] Page ressources - créer des sections en bas de la page
+
+[[A propos#Contact|Contact]]
