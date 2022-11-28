@@ -3,7 +3,7 @@ title: MuseumXTD
 layout: layouts/post.njk  
 eleventyNavigation:
   key: documentation
-  title:Documentation
+  title: Documentation
 ---
 
 # Documentation
