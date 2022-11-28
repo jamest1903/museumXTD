@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      SLACK_ALERT_BUILD_FAILED: ${{ secrets.SLACK_ALERT_BUILD_FAILED }}
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
 
     strategy:
       matrix:
