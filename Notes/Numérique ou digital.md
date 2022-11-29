@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+eleventyNavigation:
+  key: numoudigit
+  title: Numérique ou digital
+  parent: définitions
 ---
 # Numérique ou digital 
 Les deux termes sont souvent utilisés comme des synonymes, permettant tous les deux une distinction avec l'analogique. Mais pour les puristes, il existe cependant quelques différences. 
@@ -18,8 +22,3 @@ Il est à noter également que l'utilisation du terme *numérique* suit un effet
    Yves Jeanneret démontre la contradiction du terme *nouvelles technologies de l'information* et propose l'utilisation du terme *médias informatisés*. L'auteur fait partie d'un collectif de chercheurs ayant développé la théorie des écrits d'écrans. 
 4. [Qu'est-ce que le numérique ?](https://figoblog.org/2019/08/02/quest-ce-que-le-numerique/)
    L'auteure propose des définitions des différentes composantes du *numérique*: l'informatique, internet et le web, le *digital*, *le numérique* et le *virtuel.* 
-
-
-Apparaît dans [[Numérique et musée, quelques définitions]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

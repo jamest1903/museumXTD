@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
+eleventyNavigation:
+  key: culturenum
+  title: Culture numérique
+  parent: définitions
 ---
 # Culture numérique
 Plus qu'un outil, le *numérique* est généralement associé à une manière de penser différente, un nouveau *paradigme*.   
@@ -16,8 +20,3 @@ Plus qu'un outil, le *numérique* est généralement associé à une manière de
    Ce rapport de l'Association des musées suisses (AMS) liste des questions à se poser afin de mieux cerner l'impact de grandes tendances sociétales (mondialisation, numérisation, individualisation etc.) sur le futur de son institution. Il propose une définition de la numérisation (p.14).
 4. [Resnumerica](https://resnumerica.org/)
    Le projet Resnumerica.org et sa communauté rassemblent des ressources pour aider à comprendre, réfléchir et critiquer la *chose numérique*. 
-
-
-Apparaît dans [[Numérique et musée, quelques définitions]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

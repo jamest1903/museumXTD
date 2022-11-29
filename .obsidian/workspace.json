@@ -8,60 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c030d8f90775fad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Navigation/footer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1a4d44c42d2b7e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brouillon/To-do.md",
+                "file": "Notes/Numérique et musée, quelques définitions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "46af017a3e66687f",
+            "id": "320e27d9e157360e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
+                "file": "Notes/The impact of digital technology on arts culture in the UK.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8ad66a0cff88ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Pour démarrer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71973b2023f1008e",
+            "id": "4de3f7c81c6c941b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Répertoire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "772f36aebd5876b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": false
               }
@@ -79,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "liens",
+                "query": "formulaire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
+                "file": "Notes/Numérique et musée, quelques définitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Documentation.md",
+                "file": "Notes/Numérique et musée, quelques définitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Documentation.md"
+                "file": "Notes/Numérique et musée, quelques définitions.md"
               }
             }
           },
@@ -206,17 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46af017a3e66687f",
+  "active": "e1a4d44c42d2b7e5",
   "lastOpenFiles": [
-    "Navigation/Répertoire.md",
-    "tables/tables.md",
-    "Comment éditer les contenus de la plateforme/Documentation.md",
-    "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Notes/Pour démarrer.md",
-    "Template/Métadonnées Notes.md",
-    "README.md",
-    "index.md",
-    "Navigation/A propos.md"
+    "Notes/Les autres technologies émergeantes.md",
+    "Notes/Numérique et musée, quelques définitions.md",
+    "Notes/Les technologies immersives (XR).md",
+    "Notes/Virtuel et virtualisation.md",
+    "Notes/Numérique ou digital.md",
+    "Notes/The impact of digital technology on arts culture in the UK.md",
+    "Notes/Patrimoine numérique.md",
+    "Notes/Culture numérique.md",
+    "Notes/Quels musées voulons-nous demain.md",
+    "Notes/Le numérique, une formidable occasion pour la culture.md"
   ]
 }

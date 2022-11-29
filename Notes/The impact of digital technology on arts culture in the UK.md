@@ -19,8 +19,6 @@ Les [*POSTNotes*](https://post.parliament.uk/research/) sont des synthèses dest
 
 Apparaît dans [[Les technologies immersives (XR)]], [[Les autres technologies émergeantes]], [[Technologies, quelles tendances]]
 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
-
 
 
 

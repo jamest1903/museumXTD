@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+eleventyNavigation:
+  key: technoémergeantes
+  title: Les autres technologies émergeantes
+  parent: définitions
 ---
 # Les autres technologies émergeantes
 *NFTs*, *blockchain*, métavers, intelligence artificielle, … De nombreuses technologies émergentes commencent à intégrer le monde de la culture. Voici quelques liens pour y voir plus clair.
@@ -22,8 +26,3 @@ tags: ressource
    Intelligence artificielle
 8. [AI4LAM](https://sites.google.com/view/ai4lam)
    AI4LAM est une communauté internationale et participative dont l'objectif est de faire progresser l'utilisation de l'intelligence artificielle dans, pour et par les bibliothèques, les archives et les musées. 
-
-
-Apparaît dans [[Numérique et musée, quelques définitions]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
