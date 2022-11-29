@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+                "file": "Brouillon/To-do.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+                "file": "Brouillon/To-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+                "file": "Brouillon/To-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md"
+                "file": "Brouillon/To-do.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "8e01bb48e70b2862",
   "lastOpenFiles": [
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
     "Notes/Culture numérique.md",
     "Notes/Numérique et musée, quelques définitions.md",
     "Notes/Musées et numérique.md",
@@ -192,7 +193,6 @@
     "Notes/Virtuel et virtualisation.md",
     "Notes/Numérique ou digital.md",
     "Notes/The impact of digital technology on arts culture in the UK.md",
-    "Notes/Patrimoine numérique.md",
-    "Notes/Quels musées voulons-nous demain.md"
+    "Notes/Patrimoine numérique.md"
   ]
 }
