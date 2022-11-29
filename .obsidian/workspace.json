@@ -44,71 +44,37 @@
             }
           },
           {
-            "id": "19f0edaeb3c70096",
+            "id": "71973b2023f1008e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9d43bcd702a36ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Métadonnées Notes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "343fe1726f75bd81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Navigation/Répertoire.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "11e7adebcf658b4c",
+            "id": "772f36aebd5876b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "c01dadc06a943a69",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Logo_Github.png"
-              }
-            }
-          },
-          {
-            "id": "af1412e27331b33c",
+            "id": "8e01bb48e70b2862",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -242,15 +208,15 @@
   },
   "active": "46af017a3e66687f",
   "lastOpenFiles": [
+    "Navigation/Répertoire.md",
+    "tables/tables.md",
+    "Comment éditer les contenus de la plateforme/Documentation.md",
+    "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
+    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
     "Notes/Pour démarrer.md",
     "Template/Métadonnées Notes.md",
     "README.md",
-    "Comment éditer les contenus de la plateforme/Documentation.md",
     "index.md",
-    "Navigation/A propos.md",
-    "Navigation/footer.md",
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Brouillon/To-do.md",
-    "Template/Note question.md"
+    "Navigation/A propos.md"
   ]
 }

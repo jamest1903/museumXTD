@@ -36,7 +36,7 @@ Vous n'êtes pas familiers avec ces outils? Voir notre page [[Les outils utilis�
 	[[#2.1. Récupérer la dernière version du site web]]
 	[[#2.2. Ajouter et modifier les fichiers]]
 		[[#2.2.1. Ajouter les métadonnées]]
-		[[#2.2.2. Ajouter du contenu]]
+		[[#2.2.2. Ajouter et/ou modifier du contenu]]
 		[[#2.2.3. Ajouter des images]]
 	[[#2.3. Publier les modifications sur le site]]
 [[#3. Configuration avancée avec Obsidian Git]]
@@ -133,11 +133,15 @@ eleventyNavigation:
 ```
 
 ### 2.2.2. Ajouter et/ou modifier du contenu
+- Ajouter et/ou modifier du contenu dans l'onglet [Ressources](https://www.museumxtd.ch/)
 Cliquez sur cette [[Notes question et ressource|page]] pour comprendre comment modifier le contenu qui apparait sur la plateforme museumxtd.ch dans [[index|Ressources]], directement depuis Obsidian.  
+
+- Ajouter et/ou modifier du contenu dans l'onglet [Répertoire](https://www.museumxtd.ch/tables/)
+Si vous voulez modifier les textes de la page Répertoire, veuillez vous rendre sur : [[tables]]
+Si vous souhaitez ajouter des références dans la base de données, veuillez suivre le tutoriel [[Tableau Acteurs et Projets]]
 
 ### 2.2.3. Ajouter des images 
 Toutes les images doivent être stockées dans le dossier racine **images**. Pour référencer une image dans un fichier MD, veuillez suivre l'exemple suivant : `/images/nameFile.png`.
-
 
 ## 2.3. Publier les modifications sur le site
 Ouvrez l'application GitHub Desktop
