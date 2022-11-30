@@ -8,55 +8,96 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1a4d44c42d2b7e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Culture numérique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8ad66a0cff88ec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Pour démarrer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4de3f7c81c6c941b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Comprendre la transformation numérique.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "8e01bb48e70b2862",
+            "id": "3440f92d2075846b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brouillon/To-do.md",
+                "file": "Notes/Numérique et musée, quelques définitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3586a0cafb935322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74fd8064ba0b92e8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Comprendre la transformation numérique.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": false,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "6c045ab63c57a883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Comment évaluer un projet numérique.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "428107a51b2e4fd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Comment élaborer une stratégie numérique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brouillon/To-do.md",
+                "file": "Notes/Comprendre la transformation numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brouillon/To-do.md",
+                "file": "Notes/Comprendre la transformation numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brouillon/To-do.md"
+                "file": "Notes/Comprendre la transformation numérique.md"
               }
             }
           },
@@ -182,17 +223,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e01bb48e70b2862",
+  "active": "4de3f7c81c6c941b",
   "lastOpenFiles": [
-    "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
-    "Notes/Culture numérique.md",
+    "index.md",
     "Notes/Numérique et musée, quelques définitions.md",
-    "Notes/Musées et numérique.md",
-    "Notes/Les autres technologies émergeantes.md",
-    "Notes/Les technologies immersives (XR).md",
-    "Notes/Virtuel et virtualisation.md",
-    "Notes/Numérique ou digital.md",
-    "Notes/The impact of digital technology on arts culture in the UK.md",
-    "Notes/Patrimoine numérique.md"
+    "Notes/Qu'est-ce qu'une stratégie numérique.md",
+    "Notes/Exemples de stratégies numériques de musées.md",
+    "Notes/Comment élaborer une stratégie numérique.md",
+    "Notes/Une stratégie numérique n'est pas une stratégie marketing.md",
+    "Notes/La pratique muséale numérique. Une approche globale.md",
+    "Comment éditer les contenus de la plateforme/Tags.md",
+    "Notes/Un nouveau musée numérique pour une ère nouvelle.md",
+    "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md"
   ]
 }

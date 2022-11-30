@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+eleventyNavigation:
+  key: exstratégies
+  title: Exemples de stratégies numériques de musées
+  parent: stratégie
 ---
 ### Exemples de stratégies numériques de musées
 Vous trouverez sur cette page quelques exemples concrets de stratégies numériques de grands musées à travers le monde: 
@@ -22,7 +26,3 @@ Notez qu'il s'agit d'exemples et que la stratégie numérique d'un musée n'est 
 - Son environnement
 - Ses objectifs
 - Et son positionnement face à ses collections, ses publics et son organisation.
-
-Apparaît dans [[Qu'est-ce qu'une stratégie numérique]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)  

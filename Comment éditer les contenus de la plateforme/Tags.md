@@ -25,3 +25,5 @@ layout: layouts/post.njk
 	- *source germanophone*
 - vaud
 	- tout ce qui a un rapport avec le canton de Vaud
+- quebec
+	- toutes les ressources québécoises

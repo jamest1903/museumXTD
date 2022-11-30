@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource strategie rapport
+eleventyNavigation:
+  key: approcheglobale
+  title: La stratégie numérique dans les musées. Pour une approche globale du numérique
+  parent: stratégie
 ---
 ### [Journée professionnelle. "La stratégie numérique dans les musées."](https://www.culture.gouv.fr/Thematiques/Musees/Les-musees-en-France/Les-politiques-des-musees-de-France/Colloques-et-journees-d-etudes-des-musees-de-France/Publications-colloques/Journee-professionnelle-La-strategie-numerique-dans-les-musees-Paris-05-10-2018) 
 Ce colloque, organisé en 2018 à Paris, s'intéresse aux enjeux d’une approche globale du numérique au sein des institutions muséales, au-delà de la gestion des collections et de la médiation. De nombreux grands et petits musées de France, témoignent de leur expérience quant à l'intégration du numérique en leur sein.   
@@ -19,7 +23,3 @@ Les vidéos des interventions peuvent être retrouvées directement sur la page 
 	- Une synthèse de la première partie du projet de recherche britannique [[One-by-One]]: la [présentation](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Presentation-de-Mme-Sally-Anne-Barnes-et-de-M.-Ross-Parry) et la [retranscription](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Intervention-de-Mme-Sally-Anne-Barnes-et-de-M.-Ross-Parry) de l'intervention. 
 
 La journée a été organisée le 5 octobre 2018 à Paris par l'Institut national du patrimoine, l'ICOM France et l'Association Générale des Conservateurs des Collections Publiques de France.   
-
-Apparaît dans [[Qu'est-ce qu'une stratégie numérique]], [[Comment élaborer une stratégie numérique]]   
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
