@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: 
+eleventyNavigation:
+  key: outilsmuseumxtd
+  title: Les outils utilisés par MuseumXTD
+  parent: outilsnum
 ---
 # Les outils utilisés par MuseumXTD
 Dans le cadre du projet MuseumXTD, nous avons mis en place plusieurs outils afin de collaborer ensemble. En voici la liste, ainsi que quelques commentaires sur la manière dont nous les avons mis à profit. 
@@ -43,7 +47,7 @@ Sendinblue est une solution d'emailing française.
 - Sa prise en main facilitée par de nombreux tutoriels. 
 
 ## [Infomaniak](https://www.infomaniak.com/fr)
-Spécialiste de l'hébergement de sites web, l'entreprise fournit de nombreux autres services informatiques. 
+Spécialiste suisse de l'hébergement de sites web, l'entreprise fournit de nombreux autres services informatiques. 
 ### A retenir: 
 - La nationalité suisse de l'entreprise. 
 - les nombreux outils de productivité: mail, drive, hébergement web, cloud etc. 
@@ -57,9 +61,9 @@ Obsidian est un logiciel gratuit de prise de notes interconnectées, en format m
 
 
 ## [Github](https://github.com/) 
-Ce service permet de stocker et gérer du code. Il sert notamment aux développeurs de travailler ensemble sur des projets de code. 
+Ce service permet de stocker et gérer du code. Il sert notamment aux développeurs pour travailler sur des projets communs de code. 
 ### A retenir: 
 - Faites un tour sur [ce tuto](https://fr.tuto.com/blog/2020/10/github.htm). 
-- Nous avons utilisé Github pour réaliser le site internet depuis Obsidian, grâce à l'aide de l'équipe du Media Engineering Institute. 
+- Nous avons utilisé Github pour réaliser le site internet depuis Obsidian, grâce à l'aide de l'équipe du Media Engineering Institute. Le code est accessible sur cette [page Github](https://github.com/MediaComem/museumXTD).
 
 

@@ -13,6 +13,6 @@ Cette brochure de l'AMS développe quelques points important à connaître pour 
 Plus de publications de l'Association des Musées Suisses [ici](https://www.museums.ch/fr/publications/nouvelles-parutions/).
 
 
-Apparaît dans [[Les outils numériques liés au marketing et à la communication]]
+Apparaît dans [[Les outils numériques du marketing et de la communication]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

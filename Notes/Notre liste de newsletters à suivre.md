@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+eleventyNavigation:
+  key: newsletters
+  title: Notre liste de newsletters à suivre
+  parent: outilsnum
 ---
 
 ## Notre liste de newsletters Numérique&Musée
@@ -14,9 +18,3 @@ tags: ressource
 - [MuseumNext](https://www.museumnext.com/)
 - [Muzeodrome](https://muzeodrome.substack.com/)
 - [outilsnum](https://outilsnum.fr/)
-
-  
-
-Apparaît dans [[Quels sont les outils à utiliser|Quels sont les outils à utiliser?]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

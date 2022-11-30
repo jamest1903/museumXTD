@@ -30,6 +30,4 @@ La communication est un des leviers d'action du marketing. Elle permet de rendre
 7. [[La communication muséale sur Internet et les réseaux sociaux]]  
    Ce travail s'intéresse aux stratégies utilisées par les musées pour attirer les internautes et à ce qui poussent ces derniers à prendre contact avec les musées sur les réseaux sociaux. 
 
-Ressources similaire: [[Les outils numériques liés au marketing et à la communication]]
- 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+Ressource similaire: [[Les outils numériques du marketing et de la communication]]

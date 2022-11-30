@@ -19,14 +19,10 @@ Les outils numériques peuvent être difficiles à adopter, entre l'offre abonda
    0/1 - Hub numérique propose un guide sur les outils numériques à utiliser pour travailler.
 4. [La Caisse à outils de la Machinerie](https://machineriedesarts.ca/outils/)
   De nombreux modèles et outils pour réaliser sa transformation numérique (inscription nécessaire). 
-5. [[Les outils numériques liés au marketing et à la communication]]
+5. [[Les outils numériques du marketing et de la communication]]
    Dans le champ du marketing et de la communication, le numérique implique le développement de certains outils qui lui sont propres. 
 6. [Boîte à outils de Digit_Hum](https://digithum.huma-num.fr/ressources/boiteaoutils/)
   Cette boîte à outil présente un panorama des outils numériques susceptibles d'accompagner les chercheurs, ingénieurs et étudiants en sciences humaines et sociales dans leurs projets de recherche.
 7. [[Les outils utilisés par MuseumXTD]]
    Dans le cadre du projet, nous avons mis en place plusieurs outils: découvrez notre retour d'expérience. 
 8. [[Notre liste de newsletters à suivre]]
-
- 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
-

@@ -2,10 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
-eleventyNavigation:
-  key: outilsmktg
-  title: Les outils numériques liés au marketing et à la communication
-  parent: UX
+alias: [Quels sont les outils numériques liés au marketing et à la communication?]
 ---
 # **Quels sont les outils numériques liés au marketing et à la communication?**
 Dans le champ du marketing et de la communication, le numérique implique le développement de certains outils qui lui sont propres. 
@@ -20,16 +17,15 @@ Dans le champ du marketing et de la communication, le numérique implique le dé
    La [découvrabilité](https://fr.wiktionary.org/wiki/d%C3%A9couvrabilit%C3%A9) se réfère à la capacité d'un contenu sur le Web à être visible. Ce guide fait partie des [ressources du réseau québécois des ADN](http://www.pearltrees.com/cpourca/chroniques-des-adn/id29695737)
 5. [Principes de qualité d’un site Internet culturel](https://www.culture.gouv.fr/Thematiques/Musees/Pour-les-professionnels/Rendre-les-collections-accessibles-aux-publics/Assurer-la-diffusion-numerique-des-collections/Mise-en-ligne-des-collections/Principes-de-qualite-d-un-site-Internet-culturel)   
    Le Ministère français de la Culture donne accès aux dix principes européens de qualité des sites Internet culturels. 
-6. [[Déployer une newsletter impactante pour votre musée, les étapes clés]]     
+6. [Déployer une newsletter impactante pour votre musée, les étapes clés.](https://welcome.museum/fr/deployer-une-newsletter-impactante-pour-votre-musee-les-etapes-cles/)      
    Ce court article fournit quelques conseils et étapes clés afin de concevoir une newsletter de musée.
-7. [[Emailing et génération Z. Peut-on encore utiliser le canal email pour communiquer avec les jeunes]]    
-   Arenametrix s'intéresse à l'utilisation de la newsletter par les jeunes de la _génération Z_ (moins de 25 ans).
+7. [Emailing et génération Z : peut-on encore utiliser le canal email pour communiquer avec les jeunes ?](https://arenametrix.com/emailing-generation/?utm_medium=email&_hsmi=226748415&_hsenc=p2ANqtz-9BOF9EVfdQ-6M116wbXC5wNOlxoV1AM58OBUCRLIYJ3zf5kE-iSn9MqVz7HCXSXAObmNzu_95yiwQW6-uWHPzwbIXqtp7JGjEI9NbU4gyDHboCMpU&utm_content=226748415&utm_source=hs_email)
+   Arenametrix s'intéresse à l'utilisation de la newsletter par les jeunes de la _génération Z_ (moins de 25 ans). Voir également leur [[MuseumXTD - Les données visiteurs, un outil au service d'une meilleure connaissance de vos publics|intervention d'Arenametrix]] le 12 octobre 2022 lors du forum MuseumXTD. 
 8. [Quelques comptes Instagram de musée originaux et inspirants](https://nell-associes.com/blog/les-musees-a-suivre-sur-instagram-quand-la-mediation-numerique-se-decline-sur-les-reseaux-sociaux/)   
    L'agence de formation digitale Nell suggère des comptes à suivre. 
 9. [[Museum Innovation Barometer]]   
    Ce rapport rapporte 3 initiatives de communication digitale (p.54). 
 
-Ressource similaire: [[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]], [[Quels sont les outils à utiliser|Quels sont les outils à utiliser?]]
+Ressources similaires: [[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]], [[Quels sont les outils à utiliser|Quels sont les outils à utiliser?]]
  
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 
