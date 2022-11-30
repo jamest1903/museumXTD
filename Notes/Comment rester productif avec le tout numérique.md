@@ -2,8 +2,13 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+alias : [Comment rester productif avec le tout numérique?]
+eleventyNavigation:
+  key: productif
+  title: Comment rester productif avec le tout numérique?
+  parent: opportunités
 ---
-### [Josse, F. (2022). Comment rester productif avec le tout numérique?](https://www.maddyness.com/2022/03/15/comment-rester-productif-avec-le-tout-numerique/)
+### [Comment rester productif avec le tout numérique?](https://www.maddyness.com/2022/03/15/comment-rester-productif-avec-le-tout-numerique/)
 Le numérique facilite le partage d’informations et le travail collaboratif. Pourtant, il engendre aussi une hypersollicitation.
 *Mails*, rappels, messages instantanés et autres notifications se sont multipliés, bousculant la concentration, l’efficacité, voire, pour certains, le bien-être. Alors comment préserver le cerveau, notre premier outil de travail?
 
@@ -17,5 +22,3 @@ Le numérique facilite le partage d’informations et le travail collaboratif. P
 Cet article de [Maddyness](https://www.maddyness.com/) évoque [CogX](https://cogx.fr/), une agence de conseil en sciences cognitives. 
 
 Ressource similaire: [[MuseumXTD - La face cachée du numérique|l'intervention de 0/1 - Hub numérique]]  sur l'utilisation professionnelle des outils numériques lors de notre forum MuseumXTD.  
-
-Apparaît dans [[Quels sont les opportunités et les freins]], [[Quels sont les outils à utiliser|Quels sont les outils à utiliser?]]

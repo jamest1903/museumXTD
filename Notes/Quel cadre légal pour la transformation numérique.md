@@ -3,6 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 alias: [Quel cadre légal pour la transformation numérique?]
+eleventyNavigation:
+  key: légal
+  title: Quel cadre légal pour la transformation numérique?
+  parent: comprendre
 ---
 # **Quel cadre légal pour la transformation numérique?**
 Qu’il s’agisse de la gestion des collections ou d’innovation relative à l’expérience visiteur, la transition numérique des musées soulève de multiples questions juridiques. 
@@ -18,5 +22,3 @@ Qu’il s’agisse de la gestion des collections ou d’innovation relative à l
 
 
 Ressource similaire: [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
- 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

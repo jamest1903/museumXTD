@@ -10,9 +10,7 @@ eleventyNavigation:
 ---
 # **Quels sont les opportunités et les freins?**
 La transformation numérique de son institution ne nécessite pas forcément d'adopter tous les outils *tendance* ou de multiplier des projets supposément novateurs. Il s'agit de:
-- Reconnaître l'intérêt de l'utilisation du numérique pour le musée à travers **une vision**:
-	- Globale
-	- À long terme.
+- Reconnaître l'intérêt de l'utilisation du numérique pour le musée à travers **une vision** globale et à long terme.
 - Implémenter le numérique selon **des objectifs**:
 	- Préalablement et clairement définis
 	- À la hauteur des ressources disponibles.
