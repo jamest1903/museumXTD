@@ -2,10 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
-eleventyNavigation: 
-	key: funding
-	title: A paradigmatic change in finance and funding in the cultural and creative industries
-	parent: affaire
+eleventyNavigation:
+  key: funding
+  title: A paradigmatic change in finance and funding in the cultural and creative industries
+  parent: affaire
 ---
 ### [A paradigmatic change in finance and funding in the cultural and creative industries](https://economiststalkart.org/2022/06/28/a-paradigmatic-change-in-finance-and-funding-in-the-cultural-and-creative-industries%ef%bf%bc/)
 Les auteurs proposent une sélection commentée en anglais de 5 articles représentant, selon eux, un changement paradigmatique dans la façon de financer le secteur culturel. 

@@ -2,10 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
-eleventyNavigation: 
-	key: crowdsourcing
-	title: Crowdsourcing the digital transformation of heritage
-	parent: affaire
+eleventyNavigation:
+  key: crowdsourcing
+  title: Crowdsourcing the digital transformation of heritage
+  parent: affaire
 ---
 ### [Crowdsourcing the digital transformation of heritage](https://repub.eur.nl/pub/133477)
 [Trilce Navarrete](https://trilcenavarrete.com/) aborde la question du financement communautaire, grâce aux nouvelles technologies, et les facteurs de réussite des projets de crowdfunding pour les *GLAMs* (Galleries, Libraries, Archives and Museums). 
