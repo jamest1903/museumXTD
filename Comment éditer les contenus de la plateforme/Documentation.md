@@ -22,7 +22,7 @@ Find the English version below.
 2. Ajouter et modifier les fichiers grâce au logiciel Obsidian
 3. Mettre le site web à jour avec les changements que vous avez effectués grâce à l'application desktop GitHub
 
-Vous n'êtes pas familiers avec ces outils? Voir notre page [[Les outils utilisés par MuseumXTD]]. 
+Vous n'êtes pas familiers avec ces outils? Voir notre page [Les outils utilisés par MuseumXTD](https://www.museumxtd.ch/Notes/Les%20outils%20utilis%C3%A9s%20par%20MuseumXTD/). 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -141,19 +141,22 @@ Si vous voulez modifier les textes de la page Répertoire, veuillez vous rendre 
 Si vous souhaitez ajouter des références dans la base de données, veuillez suivre le tutoriel [[Tableau Acteurs et Projets]]
 
 ### 2.2.3. Ajouter des images 
-Toutes les images doivent être stockées dans le dossier racine **images**. Pour référencer une image dans un fichier MD, veuillez suivre l'exemple suivant : `/images/nameFile.png`.
+Toutes les images doivent être stockées dans le dossier racine **images**. Pour ajouter une image dans un fichier MD, veuillez écrire `![légende de l'image](/images/nameFile.png)`, avec: 
+- `[légende de l'image]` la légende que vous voulez associé
+- `(/images/nameFile.png)` l'adresse où se trouve l'image
 
 ## 2.3. Publier les modifications sur le site
 Ouvrez l'application GitHub Desktop
 1. Rédigez un résumé de vos modifications
-1. Cliquez sur le bouton *Commit
-1. Cliquez sur *Push origin*
+2. Cliquez sur le bouton *Commit
+3. Cliquez sur *Push origin*
+
 
 Cette dernière étape permet de télécharger vos modifications sur GitHub. Une fois en ligne, vos notes seront transformées en pages web (de .md à .html). Il y aura un délai de quelques minutes avant qu'elles ne soient visibles en ligne Museumxtd.ch 
 
 ![screenshot of github desktop](/images/read-me-images/screenshot-github_desktop.png)
 
-# 3. Configuration avancée avec Obsidian Git
+# 3. Configuration avancée avec Obsidian Git (alternative)
 
 ## 3.1. Installer git pour windows
 Tout d'abord, nous devons cloner le dépôt sur notre machine Windows locale depuis GitHub. Pour ce faire, nous installons 'git'. Rendez-vous sur le site [git-for-windows](https://gitforwindows.org/) et suivez les instructions simples d'installation. Vous devrez avoir votre compte GitHub ajouté au dépôt par l'administrateur pour pouvoir déposer de nouveaux commits. 

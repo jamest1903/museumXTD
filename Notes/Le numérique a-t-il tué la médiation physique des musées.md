@@ -2,6 +2,11 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+alias: [Le numérique a-t-il tué la médiation physique des musées?]
+eleventyNavigation:
+  key: tuemedphysique
+  title: Le numérique a-t-il tué la médiation physique des musées?
+  parent: participation
 ---
 ### [Le numérique a-t-il tué la médiation physique des musées ?](https://correspondances.co/le-numerique-a-t-il-tue-la-mediation-physique-des-musees/)
 Antoine Roland questionne la plus-value du numérique vis-à-vis des médiations sensorielles, humaines ou matérielles mises en place dans les musées. 
@@ -12,8 +17,3 @@ Antoine Roland questionne la plus-value du numérique vis-à-vis des médiations
 - La nature complémentaire du numérique (et non substituable) à l'expérience physique des visiteurs. 
   
 [Correspondances Digitales](https://correspondances.co/) est une agence en ingénierie culturelle. Retrouvez son fondateur, Antoine Roland, lors du [[MuseumXTD - Antoine Roland|forum MuseumXTD]]. 
-
-
-Apparaît dans [[Comment encourager la participation du visiteur]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

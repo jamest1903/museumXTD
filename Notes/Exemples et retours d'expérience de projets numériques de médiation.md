@@ -2,8 +2,12 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+eleventyNavigation:
+  key: rexprojetmednum
+  title: Exemples et retours d'expérience de projets numériques de médiation
+  parent: participation
 ---
-### Projets numériques de médiation - parole de professionnels
+### Exemples et retours de projets numériques de médiation
 Retrouvez ci-dessous des entretiens avec des professionnel·le·s de musées, qui partagent leur visions et retours d'expériences sur des projets de médiation entrepris au sein de leur institutions.  
 
 1. [[La médiation numérique, entre innovation, surproduction et sobriété…]]
@@ -14,9 +18,3 @@ Retrouvez ci-dessous des entretiens avec des professionnel·le·s de musées, qu
    La conférence rassemble trois professionnel·le·s d'institutions culturelles autour de l'intérêt et des tendances de l'utilisation du numérique pour les publics de la culture. 
 4. [[La médiatrice et le numérique]]
    L'auteure partage sa vision de l'utilisation du numérique en tant que médiatrice. 
-
-
-
-Apparaît dans [[Comment encourager la participation du visiteur]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

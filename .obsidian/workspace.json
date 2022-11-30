@@ -11,42 +11,45 @@
             "id": "1ddb674e051b321b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Concevoir l'expérience visiteur.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "afbb5505c5d38b66",
+            "id": "d009caa5dcde7f03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Les outils numériques du marketing et de la communication.md",
-                "mode": "preview",
+                "file": "Notes/Comment penser le marketing et la communication avec le numérique.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "c9277fc2a4162365",
+        "id": "c3b331384b914fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "fd2ebc36df214066",
+            "id": "39ea9ab9b4647218",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Les outils numériques du marketing et de la communication.md",
+                "file": "Notes/Concevoir l'expérience visiteur.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
-                  "localForelinks": true,
+                  "localForelinks": false,
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
@@ -64,7 +67,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -98,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emailin",
+                "query": "exemples",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Les outils numériques du marketing et de la communication.md",
+                "file": "Notes/Concevoir l'expérience visiteur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Les outils numériques du marketing et de la communication.md",
+                "file": "Notes/Concevoir l'expérience visiteur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Les outils numériques du marketing et de la communication.md"
+                "file": "Notes/Concevoir l'expérience visiteur.md"
               }
             }
           },
@@ -233,17 +236,17 @@
       }
     ]
   },
-  "active": "afbb5505c5d38b66",
+  "active": "1ddb674e051b321b",
   "lastOpenFiles": [
-    "Notes/Emailing et génération Z. Peut-on encore utiliser le canal email pour communiquer avec les jeunes.md",
+    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+    "Notes/Concevoir l'expérience visiteur.md",
     "Notes/Les outils numériques du marketing et de la communication.md",
-    "index.md",
-    "Notes/Comment élaborer une stratégie numérique.md",
-    "Notes/Exemples d'initiatives internationales pour la transition numérique de la culture.md",
-    "Notes/Comment créer et valoriser une collection numérique.md",
-    "Notes/La vie intime des objets culturels.md",
-    "Notes/Exemples de projets de numérisation des collections et leurs applications.md",
-    "Notes/Le Musée départemental d’art religieux de Sées se double d’un musée numérique.md",
-    "Notes/Tips for Digitizing Your Art Collection Easily & Cost Effectively.md"
+    "Notes/Comment penser le marketing et la communication avec le numérique.md",
+    "Notes/Museum Innovation Barometer.md",
+    "Notes/Numérique et Musée.md",
+    "Notes/La communication muséale sur Internet et les réseaux sociaux.md",
+    "Notes/A la fois personnelle et virale. La communication du musée réinventée.md",
+    "Notes/Réseaux sociaux et musées. Aide à la décision.md",
+    "Notes/Le marketing culturel. Quelle plus-value.md"
   ]
 }

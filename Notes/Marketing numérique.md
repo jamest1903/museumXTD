@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+eleventyNavigation:
+  key: mktgnum
+  title: Comment penser le marketing et la communication avec le numérique?
+  parent: pensermktg
 ---
 ### [Marketing numérique](https://culturelaval.ca/guide-maketing-numerique/)
 Culture Laval définit entre autre ce qu'est le marketing numérique. 
@@ -12,8 +16,3 @@ Culture Laval définit entre autre ce qu'est le marketing numérique.
 - Cet article est un des éléments du [Guide de la découvrabilité et des bonnes pratiques sur le Web](https://culturelaval.ca/guide-decouvrabilite-bonnes-pratiques/). 
   
 [Culture Laval](https://culturelaval.ca/mission-et-histoire/) est l’organisme de concertation qui regroupe et fédère les acteurs culturels lavallois. Il fait partie du [Réseau ADN](https://wiki.reseauadn.ca/wiki/%C3%80_propos_du_R%C3%A9seau_ADN) (Agent Du Numérique). 
-
-
-Apparaît dans [[Comment penser le marketing et la communication avec le numérique]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
