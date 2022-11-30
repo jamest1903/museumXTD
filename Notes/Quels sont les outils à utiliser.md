@@ -3,6 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 alias: [Quels sont les outils à utiliser?]
+eleventyNavigation:
+  key: outilsnum
+  title: Quels sont les outils à utiliser?
+  parent: gererenv
 ---
 # Quels sont les outils à utiliser?
 Les outils numériques peuvent être difficiles à adopter, entre l'offre abondante et le temps nécessaire à leur prise en main. Cette section redirige vers quelques plateformes utiles. 

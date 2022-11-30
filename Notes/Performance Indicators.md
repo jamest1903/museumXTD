@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+eleventyNavigation:
+  key: performanceindicators
+  title: Performance Indicators
+  parent: evaluerprojet
 ---
 ### [Performance Indicators.](https://repub.eur.nl/pub/127010)
 [Trilce Navarrete](https://trilcenavarrete.com/) aborde la question des indicateurs particuliers au secteur patrimonial et les classe en trois types. 
@@ -13,8 +17,3 @@ tags: ressource
 - Une bibliographie sur l'évaluation et les indicateurs dans le secteur culturel. 
   
 Ressources similaires: son entretien dans [[Musées et numérique]] et son article sur le [[Crowdsourcing the digital transformation of heritage|crowdsourcing]]. 
-
-
-Apparaît dans [[Comment évaluer un projet numérique]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

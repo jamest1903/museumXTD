@@ -17,7 +17,7 @@ layout: layouts/post.njk
 	- *toutes les interventions du forum*
 - rapport
 	- *constat, enquête, fait, état des lieux*
-- projet, exemple
+- projet
 	- *des exemples de projets*
 - english
 	- *source anglophone*

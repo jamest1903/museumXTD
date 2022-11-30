@@ -4,46 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "2df023199dc12ccb",
+        "id": "3586a0cafb935322",
         "type": "tabs",
         "children": [
           {
-            "id": "4de3f7c81c6c941b",
+            "id": "b09749eebfcacac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Comprendre la transformation numérique.md",
+                "file": "Notes/Gérer son environnement numérique.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "29a17334fef88e94",
+            "id": "a513aad372a83633",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Initiatives internationales pour la transition numérique de la culture.md",
+                "file": "Notes/Comment utiliser le numérique de façon durable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15ef27b76a15c940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Transition écologique et musées.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "3586a0cafb935322",
+        "id": "ee4a6d0b206a91ae",
         "type": "tabs",
         "children": [
           {
-            "id": "74fd8064ba0b92e8",
+            "id": "fd2ebc36df214066",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Comprendre la transformation numérique.md",
+                "file": "Notes/Gérer son environnement numérique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -66,7 +79,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.2740206560578382,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -101,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "profession",
+                "query": "outils",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +131,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Comprendre la transformation numérique.md",
+                "file": "Notes/Gérer son environnement numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Comprendre la transformation numérique.md",
+                "file": "Notes/Gérer son environnement numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Comprendre la transformation numérique.md"
+                "file": "Notes/Gérer son environnement numérique.md"
               }
             }
           },
@@ -199,17 +211,54 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4de3f7c81c6c941b",
+  "floating": {
+    "id": "1a184e08b216ed6e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "eeb1b4560064a1ae",
+        "type": "window",
+        "children": [
+          {
+            "id": "c07bd185b97ea730",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9afe8554e0942703",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Gérer son environnement numérique.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 350,
+        "y": -1142,
+        "width": 1192,
+        "height": 784,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9afe8554e0942703",
   "lastOpenFiles": [
-    "Notes/Initiatives internationales pour la transition numérique de la culture.md",
-    "Notes/Comment encourager la participation du visiteur.md",
-    "Notes/Quel est l'impact du COVID-19 sur la numérisation des musées.md",
-    "Notes/Comprendre la transformation numérique.md",
-    "Notes/Rapports NEMO.md",
-    "Notes/Museum Innovation Barometer.md",
-    "Notes/Rapport COVID-19 de l'ICOM.md",
-    "Notes/Rapports COVID-19 de l'Unesco.md",
-    "Notes/Etudes Culture & Covid19.md",
-    "Notes/Quels sont les opportunités et les freins.md"
+    "Notes/Comment utiliser le numérique de façon durable.md",
+    "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+    "Notes/Transition écologique et musées.md",
+    "Notes/Construire la durabilité de nos musées.md",
+    "Brouillon/Ressources à creuser.md",
+    "Notes/Gérer son environnement numérique.md",
+    "Notes/Quelles sont les compétences numériques à acquérir et à développer en interne.md",
+    "Notes/One-by-One.md",
+    "Notes/Numérique, quelles compétences nécessaires pour les professionnels des musées.md",
+    "Notes/Comment évaluer un projet numérique.md"
   ]
 }

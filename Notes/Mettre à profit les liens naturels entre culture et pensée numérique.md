@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+eleventyNavigation:
+  key: liensculturenum
+  title: Mettre à profit les liens naturels entre culture et pensée numérique
+  parent: menerprojet
 ---
 ### [Mettre à profit les liens naturels entre culture et pensée numérique.](https://www.cqam.org/wp-content/uploads/2019/02/2-formation-gestion.pdf)
 
@@ -13,8 +17,3 @@ Le Conseil québécois des arts médiatiques propose une explication et des cons
   
 Ce guide fait partie des [ressources du réseau québécois des ADN](http://www.pearltrees.com/cpourca/chroniques-des-adn/id29695737).  
 Ce projet s’inscrit dans le cadre de la mise en œuvre du Plan culturel numérique du Québec.   
-
-
-Apparaît dans [[Comment mener un projet numérique]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

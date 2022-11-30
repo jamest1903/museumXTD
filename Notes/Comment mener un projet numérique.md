@@ -3,6 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 alias: [Comment mener un projet numérique?]
+eleventyNavigation:
+  key: menerprojet
+  title: Comment mener un projet numérique?
+  parent: gererenv
 ---
 # **Comment mener un projet numérique?**
 L'utilisation du numérique au musée amène à repenser non seulement la méthodologie de gestion de projet mais également la façon de collaborer avec les différentes parties prenantes. 
@@ -23,5 +27,3 @@ L'utilisation du numérique au musée amène à repenser non seulement la métho
    Taika Dahlbom, Web Producer à la Finnish National Gallery, évoque les enjeux de la collaboration du musée avec l'équipe de développement du site internet. 
 
 Ressources similaires: [[Comment évaluer un projet numérique|Comment évaluer un projet numérique?]], [[Quelles sont les compétences numériques à acquérir et à développer en interne|Quelles sont les compétences numériques à acquérir et à développer en interne?]]
- 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

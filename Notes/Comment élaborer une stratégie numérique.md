@@ -4,9 +4,9 @@ layout: layouts/post.njk
 tags: question
 alias: [Comment élaborer une stratégie numérique?]
 eleventyNavigation:
-  key: élaborerstratégie
+  key: elaborerstrategie
   title: Comment élaborer une stratégie numérique?
-  parent: comprendre
+  parent: gererenv
 ---
 # **Comment élaborer une stratégie numérique?**
 Différents outils et méthodes permettent d'élaborer une stratégie numérique, dont le contenu reste propre à chaque institution (voir [[Exemples de stratégies numériques de musées]]).

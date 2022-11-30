@@ -1,8 +1,12 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk  
-alias: [Quelles sont les compétences numériques à acquérir et à développer en interne?]
 tags: question 
+alias: [Quelles sont les compétences numériques à acquérir et à développer en interne?]
+eleventyNavigation:
+  key: competences
+  title: Quelles sont les compétences numériques à acquérir et à développer en interne?
+  parent: gererenv
 ---
 # **Quelles sont les compétences numériques à acquérir et à développer en interne?**
 Certaines compétences liées au numérique nécessitent une expertise et un savoir-faire différents de ceux des équipes des musées. Néanmoins:
@@ -22,8 +26,6 @@ Cette section vous présente quelques références pertinentes en la matière:
    Un autre webinaire pertinent de l'ICOM, toujours dans la même série. 
 
 Ressource similaire: [[Comment mener un projet numérique|Comment mener un projet numérique?]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 
 
 

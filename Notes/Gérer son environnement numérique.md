@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: 
 alias: 
 eleventyNavigation:
-  key: gérerenv
+  key: gererenv
   title: Gérer son environnement numérique
   parent: Ressources
 ---

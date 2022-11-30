@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+eleventyNavigation:
+  key: agilemuseum
+  title: The Agile Museum
+  parent: menerprojet
 ---
 ### [The Agile Museum](https://mw2016.museumsandtheweb.com/paper/the-agile-museum/)
 Cet article traite de la possibilité d'adopter les méthodes de management, comme Lean ou Agile, dans les musées et d'implémenter progressivement leurs pratiques. Il a fait l'objet d'une présentation (document accessible [ici](https://www.slideshare.net/dhegley/the-agile-museum-21st-century-leadership))  
@@ -17,9 +21,3 @@ Cet article traite de la possibilité d'adopter les méthodes de management, com
 [Douglas Hegley](https://www.linkedin.com/in/douglashegley/), est le Directeur du département digital du Met. Formé en psychologie, il travaille depuis le début des années 2000 à la transition numérique des musées en termes de management. 
 [Meaghan Tongen](https://www.linkedin.com/in/meaghan-tongen-6199056b/) a travaillé au Minneapolis Institute of Art en tant Chief Digital Officer. 
 [Andrew David](https://www.linkedin.com/in/andrew-david/) a travaillé au Minneapolis Institute of Art en tant que Head of Software Development.  
-
-
-
-Apparaît dans [[Comment mener un projet numérique]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

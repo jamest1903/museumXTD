@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource 
+eleventyNavigation:
+  key: nonagilemuseum
+  title: Agile Development in Non-Agile Museum
+  parent: menerprojet
 ---
 ### [Agile Development in Non-Agile Museum](https://www.museumnext.com/article/agile-development-in-non-agile-museum/)
 Taika Dahlbom, Web Producer à la Finnish National Gallery, évoque les enjeux de la collaboration du musée avec l'équipe de développement du site internet. 
@@ -15,10 +19,4 @@ Taika Dahlbom, Web Producer à la Finnish National Gallery, évoque les enjeux d
 
   
 Cette intervention a eu lieu lors de Digital Summit de MuseumNext à l'automne 2019. 
-
-
-Apparaît dans [[Comment mener un projet numérique]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
-
 

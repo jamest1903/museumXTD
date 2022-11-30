@@ -2,10 +2,13 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+eleventyNavigation:
+  key: onebyone
+  title: One-by-One
+  parent: competences
 ---
 
 ### [One-by-One. Building digitally confident museums](https://one-by-one.uk/)
-
 *One-by-One* est une initiative britannique multi-partenaires dont l'objectif est de renforcer les compétences et la confiance des musées en matière de numérique.
 Le projet aide les musées de toute taille à mieux développer et intégrer une culture numérique. Cette démarche se fait notamment au travers des employé·e·s et bénévoles – quels que soient leurs rôles et leurs niveaux hiérarchiques.
 

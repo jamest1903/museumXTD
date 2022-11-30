@@ -1,7 +1,7 @@
 ---
 title: MuseumXTD  
 layout: layouts/post.njk
-tags: ressource forum francais
+tags: ressource forum
 ---
 #### Studios et agences, partenaires de la transition numérique des musées
 
