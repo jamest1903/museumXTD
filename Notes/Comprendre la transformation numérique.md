@@ -21,6 +21,6 @@ eleventyNavigation:
 
 [[Quel est l'impact du COVID-19 sur la numérisation des musées|Quel est l'impact du COVID-19 sur la numérisation des musées?]]
 
-[[Initiatives internationales pour la transition numérique de la culture]]
+[[Exemples d'initiatives internationales pour la transition numérique de la culture]]
 
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)

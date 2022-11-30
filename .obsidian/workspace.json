@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3586a0cafb935322",
+        "id": "ee4a6d0b206a91ae",
         "type": "tabs",
         "children": [
           {
-            "id": "b09749eebfcacac3",
+            "id": "1ddb674e051b321b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Gérer son environnement numérique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e74bb067c972436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Quels sont les outils à utiliser.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -34,7 +22,7 @@
         ]
       },
       {
-        "id": "ee4a6d0b206a91ae",
+        "id": "c9277fc2a4162365",
         "type": "tabs",
         "children": [
           {
@@ -43,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Gérer son environnement numérique.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -101,10 +89,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "initi",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Gérer son environnement numérique.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Gérer son environnement numérique.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Gérer son environnement numérique.md"
+                "file": "index.md"
               }
             }
           },
@@ -236,17 +224,17 @@
       }
     ]
   },
-  "active": "b09749eebfcacac3",
+  "active": "1ddb674e051b321b",
   "lastOpenFiles": [
-    "Notes/Quels sont les outils à utiliser.md",
-    "Notes/Notre liste de newsletters à suivre.md",
-    "Notes/Les outils utilisés par MuseumXTD.md",
-    "Notes/Les outils numériques du marketing et de la communication.md",
-    "Notes/Gérer son environnement numérique.md",
-    "Notes/Comment penser le marketing et la communication avec le numérique.md",
-    "Notes/Museum Innovation Barometer.md",
-    "Notes/Emailing et génération Z. Peut-on encore utiliser le canal email pour communiquer avec les jeunes.md",
-    "Brouillon/Définition de la communication numérique.md",
-    "Notes/Déployer une newsletter impactante pour votre musée, les étapes clés.md"
+    "Notes/Comment élaborer une stratégie numérique.md",
+    "Notes/Exemples d'initiatives internationales pour la transition numérique de la culture.md",
+    "Notes/Comment créer et valoriser une collection numérique.md",
+    "Notes/La vie intime des objets culturels.md",
+    "Notes/Exemples de projets de numérisation des collections et leurs applications.md",
+    "Notes/Le Musée départemental d’art religieux de Sées se double d’un musée numérique.md",
+    "Notes/Tips for Digitizing Your Art Collection Easily & Cost Effectively.md",
+    "Notes/Les étapes de numérisation des objets.md",
+    "index.md",
+    "Navigation/Ressources.md"
   ]
 }

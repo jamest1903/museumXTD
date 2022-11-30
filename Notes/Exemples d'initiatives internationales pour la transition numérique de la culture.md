@@ -8,7 +8,7 @@ eleventyNavigation:
   parent: comprendre
 ---
 
-# Initiatives internationales pour la transition numérique de la culture
+# Exemples d'initiatives internationales pour la transition numérique de la culture
 De nombreuses initiatives pour accompagner les musées dans leur transition numérique émergent. Voici quelques exemples à travers le monde. 
 
 ## Liste des initiatives pour les petits et moyens musées

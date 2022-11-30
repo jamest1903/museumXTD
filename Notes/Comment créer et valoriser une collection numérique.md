@@ -3,6 +3,10 @@ title: MuseumXTD
 layout: layouts/post.njk
 tags: question
 alias: [Comment créer et valoriser une collection numérique?]
+eleventyNavigation:
+  key: collectionnumerique
+  title: Comment créer et valoriser une collection numérique?
+  parent: gererenv
 ---
 # **Comment créer et valoriser une collection numérique?**
 De leur constitution à leur exploitation, les collections des musées sont repensées grâce à l'évolution technologique. Les ressources présentées ci-dessous éclairent certains aspects de la problématique (constitution et gestion de la base de données, infrastructure, numérisation des objets, accessibilité et préservation des données etc.).  
@@ -27,5 +31,3 @@ De leur constitution à leur exploitation, les collections des musées sont repe
 
 
 Ressources similaires: [[Quel cadre légal pour la transformation numérique|Quel cadre légal pour la transformation numérique?]], [[Patrimoine numérique]]
- 
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

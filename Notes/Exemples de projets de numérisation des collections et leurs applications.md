@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+eleventyNavigation:
+  key: projetsnumcoll
+  title: Exemples de projets de numérisation des collections et leurs applications
+  parent: collectionnumerique
 ---
 ### Exemples de projets de numérisation des collections et leurs applications
 Vous trouverez sur cette page quelques exemples concrets de projets de numérisation de collections de musées et leurs applications:
@@ -18,9 +22,3 @@ Vous trouverez sur cette page quelques exemples concrets de projets de numérisa
   Le musée d'histoire naturelle d'Oxford a numérisé son bâtiment néogothique, que l'on peut découvrir directement sur la plateforme Matterport Discover. 
 - [[Le Musée départemental d’art religieux de Sées se double d’un musée numérique]]
   Florence Caillet-Baraniak raconte le développement du projet Hors les murs du musée départemental d'art religieux de Sées en France.
-
-
-
-Apparaît dans [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
