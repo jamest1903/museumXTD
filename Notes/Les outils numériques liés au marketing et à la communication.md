@@ -26,7 +26,7 @@ Dans le champ du marketing et de la communication, le numérique implique le dé
    Arenametrix s'intéresse à l'utilisation de la newsletter par les jeunes de la _génération Z_ (moins de 25 ans).
 8. [Quelques comptes Instagram de musée originaux et inspirants](https://nell-associes.com/blog/les-musees-a-suivre-sur-instagram-quand-la-mediation-numerique-se-decline-sur-les-reseaux-sociaux/)   
    L'agence de formation digitale Nell suggère des comptes à suivre. 
-9. [[Museum Innovation Barometer 2021]]   
+9. [[Museum Innovation Barometer]]   
    Ce rapport rapporte 3 initiatives de communication digitale (p.54). 
 
 Ressource similaire: [[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]], [[Quels sont les outils à utiliser|Quels sont les outils à utiliser?]]

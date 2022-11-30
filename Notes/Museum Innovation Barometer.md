@@ -1,10 +1,9 @@
 ---
 title: MuseumXTD
 layout: layouts/post.njk
-tags: ressource rapport communication financement projet
+tags: ressource rapport
 ---
 ### [Museum innovation Barometer](https://museumbooster.com/wp-content/uploads/2021/08/Museum-Innovation-Barometer-2021.pdf)
-
 Il s'agit d'un sondage effectué par l'agence [MUSEUM BOOSTER](https://museumbooster.com/) entre décembre 2020 et mai 2021 auprès de professionnel.les de musées du monde entier. Il analyse l'impact du COVID-19 sur les activités d'environ 200 musées ainsi que le recours au numérique. 
 
 ## A retenir
@@ -19,4 +18,4 @@ Il s'agit d'un sondage effectué par l'agence [MUSEUM BOOSTER](https://museumboo
 
 Le rapport a été réalisé par l'agence autrichienne Museum Booster, partenaire du [[MuseumXTD - Le projet DOORS|projet DOORS]] (projet d'incubateur numérique pour musées) en collaboration avec Ars et Electronica et Ecsite. 
 
-Apparaît dans [[Quel est l'impact du COVID-19 sur la numérisation des musées]], [[Technologies, quelles tendances]]
+Apparaît dans [[Quel est l'impact du COVID-19 sur la numérisation des musées]], [[Technologies, quelles tendances]], [[Quels nouveaux modèles d'affaire grâce au numérique]], [[Les outils numériques liés au marketing et à la communication]]

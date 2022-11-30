@@ -14,18 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Comprendre la transformation numérique.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3440f92d2075846b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Numérique et musée, quelques définitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,38 +54,13 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.5122054351465948,
                   "close": true
                 }
               }
             }
-          },
-          {
-            "id": "6c045ab63c57a883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Comment évaluer un projet numérique.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "428107a51b2e4fd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Comment élaborer une stratégie numérique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,10 +89,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "profession",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -225,15 +188,15 @@
   },
   "active": "4de3f7c81c6c941b",
   "lastOpenFiles": [
-    "index.md",
-    "Notes/Numérique et musée, quelques définitions.md",
-    "Notes/Qu'est-ce qu'une stratégie numérique.md",
-    "Notes/Exemples de stratégies numériques de musées.md",
-    "Notes/Comment élaborer une stratégie numérique.md",
-    "Notes/Une stratégie numérique n'est pas une stratégie marketing.md",
+    "Notes/Quels nouveaux modèles d'affaire grâce au numérique.md",
+    "Notes/A paradigmatic change in finance and funding in the cultural and creative industries.md",
+    "Notes/Crowdsourcing the digital transformation of heritage.md",
     "Notes/La pratique muséale numérique. Une approche globale.md",
-    "Comment éditer les contenus de la plateforme/Tags.md",
-    "Notes/Un nouveau musée numérique pour une ère nouvelle.md",
-    "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md"
+    "Notes/Qu'est-ce qu'une stratégie numérique.md",
+    "index.md",
+    "Navigation/Ressources.md",
+    "Notes/Numérique et musée, quelques définitions.md",
+    "Notes/Numérique ou digital.md",
+    "Notes/Musées, quels modèles économiques à l'ère numérique.md"
   ]
 }

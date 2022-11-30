@@ -2,7 +2,6 @@
 title: MuseumXTD  
 layout: layouts/post.njk  
 tags: ressource english
-
 ---
 ### [DOORS: Digital Incubator for Museums](https://ars.electronica.art/doors/en/)
 Le projet DOORS est un programme de soutien favorisant la transformation numérique des petits et moyens musées européens. 
@@ -15,6 +14,4 @@ Le projet DOORS est un programme de soutien favorisant la transformation numéri
 
 Le programme DOORS a été développé par Ars Electronica, MUSEUM BOOSTER et Ecsite dans le cadre du programme de recherche et d'innovation "Horizon 2020". Ce dernier est spécifiquement axé sur les institutions de petite et moyenne taille. Les appels à candidature sont terminés. 
 
-Apparaît dans [[Comment élaborer une stratégie numérique|Comment élaborer une stratégie numérique?]], [[Initiatives internationales pour la transition numérique des petits et moyens musées]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
+Apparaît dans [[Comment élaborer une stratégie numérique|Comment élaborer une stratégie numérique?]], [[Initiatives internationales pour la transition numérique des petits et moyens musées]], [[Quels nouveaux modèles d'affaire grâce au numérique]]

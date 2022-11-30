@@ -22,6 +22,6 @@ La conférence rassemble trois professionnel·le·s d'institutions culturelles a
 Cette conférence s'est tenue dans le cadre des *[Conférences Capitale](https://app.livestorm.co/ass-clermont-ferrand-massif-central-2028/les-conferences-capitales-environnement-et-territoires)* à Clermont-Ferrand, qui se sont déroulée une fois par mois de septembre 2021 à janvier 2022. 
 
 
-Apparaît dans [[Projets numériques de médiation - parole de professionnels]]
+Apparaît dans [[Projets numériques de médiation - parole de professionnel·le·s]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
