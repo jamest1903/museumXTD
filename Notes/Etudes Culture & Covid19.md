@@ -2,6 +2,10 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource rapport
+eleventyNavigation:
+  key: LODPcovid
+  title: Etudes Culture & Covid19
+  parent: covid19
 ---
 ### [Etudes Culture & Covid19](https://loeildupublic.com/etude-culture-covid/)
 L'agence de marketing culturel, L'Oeil du Public (Suisse), a publié plusieurs rapports en 2020 et 2021, sur demande de l’Office fédéral de la culture et du Secrétariat général de la CDIP. Ils traitent des conséquences du COVID-19 sur les pratiques culturelles des publics ainsi que dans les institutions culturelles. 
@@ -15,8 +19,3 @@ L'agence de marketing culturel, L'Oeil du Public (Suisse), a publié plusieurs r
 - Les résumés des rapports en 3 points dans les premières pages. 
 
 Retrouvez le fondateur de l'agence suisse, Fabien Morf, lors de son [[MuseumXTD - Les données visiteurs, un outil au service d'une meilleure connaissance de vos publics|intervention au forum MuseumXTD]]. 
-
-
-Apparaît dans [[Quel est l'impact du COVID-19 sur la numérisation des musées]]
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

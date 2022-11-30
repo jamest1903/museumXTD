@@ -17,7 +17,7 @@ Il est le résultat de cinq années de travail de Québec numérique dans le cad
 - L'[[MuseumXTD - La face cachée du numérique|intervention d'Olivier Ross]], directeur des opérations de 0/1 - Hub numérique, qui appartient au [Réseau ADN](https://wiki.reseauadn.ca/wiki/%C3%80_propos_du_R%C3%A9seau_ADN) (Agent Du Numérique). 
 
 
-Apparaît dans [[Initiatives internationales pour la transition numérique des petits et moyens musées]]
+Apparaît dans [[Initiatives internationales pour la transition numérique de la culture]]
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
 

@@ -2,9 +2,13 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource projet
+eleventyNavigation:
+  key: initiatives
+  title: Initiatives internationales pour la transition numérique des petits et moyens musées
+  parent: comprendre
 ---
 
-# Initiatives internationales pour la transition des petits et moyens musées
+# Initiatives internationales pour la transition numérique de la culture
 De nombreuses initiatives pour accompagner les musées dans leur transition numérique émergent. Voici quelques exemples à travers le monde. 
 
 ## Liste des initiatives pour les petits et moyens musées
@@ -25,7 +29,7 @@ De nombreuses initiatives pour accompagner les musées dans leur transition num�
 - [Musées numériques Canada](https://www.digitalmuseums.ca/funded-projects/) (Canada, depuis 2020)
   Créé à partir du [Musées virtuels du Canada](https://www.museesnumeriques.ca/mvc-fermeture/?_ga=2.190536427.1355051153.1664970959-1641379607.1664970959&_gl=1*1jwffm8*_ga*MTY0MTM3OTYwNy4xNjY0OTcwOTU5*_ga_77S97Z78MG*MTY2NDk3MDk1OS4xLjEuMTY2NDk3MTIyOS4wLjAuMA..), Musées numériques Canada est un fonds d'investissement dédié aux projets en ligne pour les musées et les organisation patrimoniale. 
 - [The Gift Box](https://gifting.digital/) (transeuropéen, 2017-2019)
-  Résultat du projet GIFT, cette boîte à outils vise à fournir des ressources pour aider les musées à concevoir des expériences hybrides. Le projet a été conçu en collaboration avec des artistes, des designers, des professionnel.le.s de musées ainsi que des chercheurs et chercheuses.
+  Résultat du projet GIFT, cette boîte à outils vise à fournir des ressources pour aider les musées à concevoir des expériences hybrides. Le projet a été conçu en collaboration avec des artistes, des designers, des professionnel·le·s de musées ainsi que des chercheurs et chercheuses.
 - [The Digital Culture Network](https://www.artscouncil.org.uk/developing-digital-culture/digital-culture-network) (Royaume-Uni, 2019)
   Développé par Arts Council England, cette plateforme fournit des ressources gratuites et pratiques pour le secteur culturel. Ces ressources visent à aider les institutions s'approprier le numérique et l'utiliser au service de leurs missions. 
 - [Digital Culture Compass](https://digitalculturecompass.org.uk) (Royaume-Uni, 2020)
@@ -38,7 +42,3 @@ De nombreuses initiatives pour accompagner les musées dans leur transition num�
   Ce projet est destiné aux responsables politiques et aux décideurs des industries culturelles et créatives. Il fournit des ressources concernant différents aspects de la numérisation des organismes.  
 - [Musées virtuels du Canada](https://www.museesnumeriques.ca/mvc-fermeture/?_ga=2.190536427.1355051153.1664970959-1641379607.1664970959&_gl=1*1jwffm8*_ga*MTY0MTM3OTYwNy4xNjY0OTcwOTU5*_ga_77S97Z78MG*MTY2NDk3MDk1OS4xLjEuMTY2NDk3MTIyOS4wLjAuMA..) (Canada, fermé depuis 2020)
   Ce portail (hébergement d'expositions virtuelles) est un exemple de projet arrêté après quelques mois et illustre les risques et problématiques des projets autour de la transformation numérique des institutions culturelles.  
-
-      
-
-Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)

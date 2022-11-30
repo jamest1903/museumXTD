@@ -14,4 +14,4 @@ Le projet DOORS est un programme de soutien favorisant la transformation numéri
 
 Le programme DOORS a été développé par Ars Electronica, MUSEUM BOOSTER et Ecsite dans le cadre du programme de recherche et d'innovation "Horizon 2020". Ce dernier est spécifiquement axé sur les institutions de petite et moyenne taille. Les appels à candidature sont terminés. 
 
-Apparaît dans [[Comment élaborer une stratégie numérique|Comment élaborer une stratégie numérique?]], [[Initiatives internationales pour la transition numérique des petits et moyens musées]], [[Quels nouveaux modèles d'affaire grâce au numérique]]
+Apparaît dans [[Comment élaborer une stratégie numérique|Comment élaborer une stratégie numérique?]], [[Initiatives internationales pour la transition numérique de la culture]], [[Quels nouveaux modèles d'affaire grâce au numérique]]
