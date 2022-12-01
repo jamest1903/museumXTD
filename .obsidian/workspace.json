@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md",
+                "file": "Brouillon/To-do.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,47 +28,6 @@
                 "file": "Notes/Comment penser le marketing et la communication avec le numérique.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c3b331384b914fdd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "39ea9ab9b4647218",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": false,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
               }
             }
           }
@@ -118,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md",
+                "file": "Brouillon/To-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md",
+                "file": "Brouillon/To-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md"
+                "file": "Brouillon/To-do.md"
               }
             }
           },
@@ -238,8 +196,8 @@
   },
   "active": "1ddb674e051b321b",
   "lastOpenFiles": [
-    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "Notes/Concevoir l'expérience visiteur.md",
+    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "Notes/Les outils numériques du marketing et de la communication.md",
     "Notes/Comment penser le marketing et la communication avec le numérique.md",
     "Notes/Museum Innovation Barometer.md",

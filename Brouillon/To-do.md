@@ -17,7 +17,8 @@ tags:
 	- [ ] Utilisation de l'adresse mail webmaster
 	- [ ] Uniformisation de la langue utilisée 
 		- [x] Traduire le ReadME en français
-		- [ ] Garder/prévoir une documentation en anglais ?
+		- [ ] Adapter la documentation en anglais
+		- [ ] Modifier le README sur GitHub
 	- [x] PAS POSSIBLE Simplification de l'entrée (utilisation d'un seul logiciel idéalement, et ce pendant tout le process)
 	- [x] Simplification de l'emplacement de la documentation : aujourd'hui, deux folders sont utilisés (Comment participer sur la plateforme et le README)
 	- [ ] Prévoir des modèles de note
@@ -28,5 +29,6 @@ tags:
 	- [ ] Formaliser un schéma de la gestion de l'information (interne/externe)
 - [ ] Améliorer l'expérience visiteur de la plateforme
 	- [ ] Page ressources - créer des sections en bas de la page
+	- [ ] Politique d'utilisation des données/de confidentialité?
 
 [[A propos#Contact|Contact]]
