@@ -20,4 +20,6 @@
 
 <!-- - [[A propos#Contact|Contact]] -->
 <!-- - [Contact](/Navigation/A propos/index.html#Contact) -->
-- [Contact](/Navigation/A%20propos/#Contact)
+<!-- - [Contact](/Navigation/A%20propos/#Contact) -->
+
+- [Contact-3](/Navigation/A%20propos#Contact)
