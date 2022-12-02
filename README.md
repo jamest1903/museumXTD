@@ -198,9 +198,8 @@ Si vous souhaitez appliquer une autre mise en page à votre fichier MD (layout),
 -----
 
 # MuseumXTD website
-**MuseumXTD** is an evolutive resources plateform, which has been created to answer the numerous questions related to the implementation and use of digital in the small and medium-sized museums. 
-- More information on https://www.museumxtd.ch/
-- The code is available on [our GitHub page](https://github.com/MediaComem/museumXTD)
+**MuseumXTD** is an evolutive resources plateform, which has been created to answer the numerous questions related to the implementation and use of digital in the small and medium-sized museums. More information on https://www.museumxtd.ch/
+<br>
 
 **To follow the following process, the installation of two softwares (see part *1. Getting started*) is required**: 
 - Obsidian, a note-taking software that will allow you to edit the content
