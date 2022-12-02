@@ -1,7 +1,7 @@
 # La plateforme MuseumXTD.ch
 *Find the English version below (click [here](#museumxtd-website))*
 
-**MuseumXTD** est une plateforme de ressources évolutive pour répondre aux nombreuses questions liées à l’implémentation et à l’usage du numérique dans les petits et moyens musées de notre région. Plus d’information sur https://www.museumxtd.ch/ 
+**MuseumXTD** est une plateforme de ressources évolutive. Vous trouverez ci-dessous la procédure pour modifier ses contenus. 
 
 <br>
 
@@ -198,10 +198,10 @@ Si vous souhaitez appliquer une autre mise en page à votre fichier MD (layout),
 -----
 
 # MuseumXTD website
-**MuseumXTD** is an evolutive resources plateform, which has been created to answer the numerous questions related to the implementation and use of digital in the small and medium-sized museums. More information on https://www.museumxtd.ch/
+**MuseumXTD** is an evolving resource platform. Below you will find the process for modifying its contents. 
 <br>
 
-**To follow the following process, the installation of two softwares (see part *1. Getting started*) is required**: 
+**To follow this process, the installation of two softwares (see part *1. Getting started*) is required**: 
 - Obsidian, a note-taking software that will allow you to edit the content
 - The desktop app GitHub, that will host the web pages
 
