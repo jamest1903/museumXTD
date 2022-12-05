@@ -1,7 +1,8 @@
 # La plateforme MuseumXTD.ch
 *Find the English version below (click [here](#museumxtd-website))*
 
-**MuseumXTD** est une plateforme de ressources évolutive. Vous trouverez ci-dessous la procédure pour modifier ses contenus. 
+**MuseumXTD** est une plateforme de ressources évolutive.  Plus d’information sur https://www.museumxtd.ch/ <br>
+Vous trouverez ci-dessous la procédure pour modifier ses contenus. 
 
 <br>
 
@@ -198,7 +199,8 @@ Si vous souhaitez appliquer une autre mise en page à votre fichier MD (layout),
 -----
 
 # MuseumXTD website
-**MuseumXTD** is an evolving resource platform. Below you will find the process for modifying its contents. 
+**MuseumXTD** is an evolving resource platform for understanding the digital transition for small and medium-sized museums through reflections, examples and freely accessible Swiss and international tools. More information on https://www.museumxtd.ch/ <br>
+Below you will find the process for modifying its contents. 
 <br>
 
 **To follow this process, the installation of two softwares (see part *1. Getting started*) is required**: 
