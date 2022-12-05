@@ -13,7 +13,12 @@ async function setup() {
   ActeursCSVData = await ActeursDataJSON.json();
 
   const ProjectsDataJSON = await fetch('/assets/projectsData.json')
-  ProjectsCSVData = await ProjectsDataJSON.json();
+  try {
+    ProjectsCSVData = await ProjectsDataJSON.json();
+  } catch {
+      ProjectsCSVData = false;
+      console.log('Error in reading /assets/projectsData.json');
+  }
 
   // assign an ID so it's easier to look up later, it will be the same as index
   acteursIdx = lunr(function () {
@@ -26,21 +31,25 @@ async function setup() {
     }, this);
   });
 
-  projectsIdx = lunr(function () {
-    this.ref('id');
-    this.field('Nom');
-    ProjectsCSVData.forEach(function (Data, projectsIdx) {
-      Data.id = projectsIdx;
-      this.add(Data);
-    }, this);
-  });
+  if(ProjectsCSVData) {
+    projectsIdx = lunr(function () {
+      this.ref('id');
+      this.field('Nom');
+      ProjectsCSVData.forEach(function (Data, projectsIdx) {
+        Data.id = projectsIdx;
+        this.add(Data);
+      }, this);
+    });
+  }
 
   document.getElementById('searchActeurs').addEventListener('input', (event) => {
     searchCSV('acteurs', event);
   });
+  /* projects HTML removed 
   document.getElementById('searchProjects').addEventListener('input', (event) => {
     searchCSV('projects', event);
   });
+  */
 }
 
 const searchCSV = function (CSVData, event) {

@@ -223,14 +223,23 @@ footer {
 }
 
 #footer-nav {
-
     margin-right: var(--space-l);
     margin-left: var(--space-l);
-
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr) );
     grid-gap: clamp(1em,5%,10%) ;
+}
 
+@media screen and (min-width:600px) {
+    #footer-nav {
+        margin-right: var(--space-l);
+        margin-left: var(--space-l);
+        display: flex;
+        justify-content: space-between;
+    }
+    #footer-nav li:not(:last-child) {
+        margin-bottom: 5px;
+    }
 }
 
 #footer-nav > * {

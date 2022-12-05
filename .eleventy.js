@@ -56,14 +56,19 @@ let projectsData;
 let acteursData;
 
 function readCSV(name) {
-  const input = fs.readFileSync(`./_data/${name}.csv`, 'utf8');
-  const records = parse(input, {
-    columns: true,
-    trim: true,
-    bom: true,
-    skip_empty_lines: true
-  });
-  return records;
+  let fileData = {};
+  try {
+    fileData = fs.readFileSync(`./_data/${name}.csv`, 'utf8');
+    const records = parse(fileData, {
+      columns: true,
+      trim: true,
+      bom: true,
+      skip_empty_lines: true
+    });
+    return records;
+  } catch (error) {
+    return undefined;
+  }
 }
 
 module.exports = config => {
@@ -82,8 +87,12 @@ module.exports = config => {
   // creating TableCSV data
   projectsData = readCSV('projects');
   acteursData = readCSV('acteurs');
-  config.addCollection("acteursData" , () => acteursData);
-  config.addCollection("projectsData" , () => projectsData);
+  if (acteursData) {
+    config.addCollection("acteursData" , () => acteursData);
+  }
+  if (projectsData) {
+    config.addCollection("projectsData" , () => projectsData);
+  }
 
   //Creating a collection of all files to loop in creating search index
   config.addCollection("allFiles", function(collection) {
