@@ -6,7 +6,11 @@ async function setup() {
     ActeursData = await ActeursDataJSON.json();
 
     const ProjectsDataJSON = await fetch('/assets/projectsData.json')
-    ProjectsData = await ProjectsDataJSON.json();
+    try {
+        ProjectsData = await ProjectsDataJSON.json();
+    } catch {
+        console.error('Error in reading /assets/projectsData.json');
+    }
 
     document.getElementById('acteursAZ').addEventListener('click', (event) => {
         sortCSVData(event, "acteurs","az");
@@ -18,6 +22,8 @@ async function setup() {
         sortCSVData(event, "acteurs","local");
     });
 
+    /* projects HTML removed
+
     document.getElementById('projectsAZ').addEventListener('click', (event) => {
         sortCSVData(event, "projects","az");
     });
@@ -27,19 +33,23 @@ async function setup() {
     document.getElementById('projectsLocal').addEventListener('click', (event) => {
         sortCSVData(event, "projects","local");
     });
+    */
 
     setupCSVHTML();
 }
 
 function setupCSVHTML() {
     const ActeursContainer = document.getElementById('acteursData');
-    const ProjectsContainer = document.getElementById('projectsData');
     // Remove current HTML for CSV data
     ActeursContainer.innerHTML = "";
-    ProjectsContainer.innerHTML = "";
 
     BuildActeursHTML(ActeursData, ActeursContainer);
+    
+    /* removing ProjectsData from the website
+    const ProjectsContainer = document.getElementById('projectsData');
+    ProjectsContainer.innerHTML = "";
     BuildProjectsHTML(ProjectsData, ProjectsContainer);
+    */
 }
 
 export function sortCSVData(event, csvData, sort) {

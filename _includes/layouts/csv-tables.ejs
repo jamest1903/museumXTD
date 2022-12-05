@@ -14,7 +14,7 @@ layout: layouts/tablesBase.njk
             <div class='csvHeaderWrapper'>
                 <div class='tab'>
                     <button class='tablinks active' onclick='openTab(event, "acteurs")'>acteurs</button>
-                    <button class='tablinks' onclick='openTab(event, "projects")'>projets</button>
+                    <!-- <button class='tablinks' onclick='openTab(event, "projects")'>projets</button> -->
                 </div>
                 <div id='acteurs' class='tabcontent' style='display: block'>
                     <br>
@@ -30,6 +30,7 @@ layout: layouts/tablesBase.njk
                     <p id='noResults' class='hidden'><strong>Désolé, aucun résultat n'a été trouvé.</strong></p>
                     <div id='acteursData'></div>
                 </div>
+                <!-- Removing projects content from the website 
                 <div id='projects' class='tabcontent'>
                     <br>
                     <p><%=projectsTitle?projectsTitle:'La liste de ces projects'%></p>
@@ -44,6 +45,7 @@ layout: layouts/tablesBase.njk
                     <p id='noResults' class='hidden'><strong>Désolé, aucun résultat n'a été trouvé.</strong></p>
                     <div id='projectsData'></div>
                 </div>
+                -->
             </div>
             <script>
                 function openTab(evt, tabName) {
