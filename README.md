@@ -127,11 +127,11 @@ eleventyNavigation:
 ```
 
 ### 2.2.2. Ajouter et/ou modifier du contenu
-- Ajouter et/ou modifier du contenu dans l'onglet [Ressources](https://www.museumxtd.ch/): lisez cette [Notes question et ressource|page](https://github.com/MediaComem/museumXTD/blob/main/Comment%20%C3%A9diter%20les%20contenus%20de%20la%20plateforme/Notes%20question%20et%20ressource.md) pour comprendre comment modifier les questions et réponses de la plateforme museumxtd.ch.   
+- Pour ajouter et/ou modifier du contenu dans l'onglet [Ressources](https://www.museumxtd.ch/), lisez cette page [Notes question et ressource](https://github.com/MediaComem/museumXTD/blob/main/Comment%20%C3%A9diter%20les%20contenus%20de%20la%20plateforme/Notes%20question%20et%20ressource.md)
 
-- Ajouter et/ou modifier du contenu dans l'onglet [Répertoire](https://www.museumxtd.ch/tables/)
-  - Si vous voulez modifier les textes de la page Répertoire, veuillez modifier directement la page [tables](https://github.com/MediaComem/museumXTD/blob/main/tables/tables.md)
-  - Si vous souhaitez ajouter des références dans la base de données, veuillez suivre le tutoriel [Tableau Acteurs et Projets](https://github.com/MediaComem/museumXTD/blob/main/Comment%20%C3%A9diter%20les%20contenus%20de%20la%20plateforme/Tableau%20Acteurs%20et%20Projets.md)
+- Pour ajouter et/ou modifier du contenu dans l'onglet [Répertoire](https://www.museumxtd.ch/tables/) : <br>
+Veuillez modifier directement la page [tables](https://github.com/MediaComem/museumXTD/blob/main/tables/tables.md) si vous voulez modifier les textes de la page <br>
+Veuillez suivre le tutoriel [Tableau Acteurs et Projets](https://github.com/MediaComem/museumXTD/blob/main/Comment%20%C3%A9diter%20les%20contenus%20de%20la%20plateforme/Tableau%20Acteurs%20et%20Projets.md) si vous souhaitez ajouter des références dans la base de données
 
 ### 2.2.3. Ajouter des images 
 Toutes les images doivent être stockées dans le dossier racine **images**. Pour ajouter une image dans un fichier MD, veuillez écrire `![légende de l'image](/images/nameFile.png)`, avec: 
@@ -327,12 +327,11 @@ eleventyNavigation:
 ```
 
 ### 2.2.2. Adding and/or modifying content
-- Add and/or edit content in the [Ressources](https://www.museumxtd.ch/)  tab 
-Click on this [[Notes question et ressource|page]] to understand how to edit content that appears on the museumxtd.ch platform in [[index|Ressources]], directly from Obsidian.  
+- To add and/or edit content in the [Ressources](https://www.museumxtd.ch/) tab, read this note [Notes question et ressource](https://github.com/MediaComem/museumXTD/blob/main/Comment%20%C3%A9diter%20les%20contenus%20de%20la%20plateforme/Notes%20question%20et%20ressource.md) (written in French)
 
-- Adding and/or editing content in the [Répertoire](https://www.museumxtd.ch/tables/)  tab 
-If you want to modify the texts on the Répertoire page, please go to : [[tables]]
-If you want to add references to the database, please follow the tutorial [[Tableau Acteurs et Projets]]
+- To add and/or edit content in the [Répertoire](https://www.museumxtd.ch/tables/) tab: <br>
+Please go to [tables](https://github.com/MediaComem/museumXTD/blob/main/tables/tables.md) (written in French) if you want to modify the texts on the page<br>
+Please follow the tutorial [Tableau Acteurs et Projets](https://github.com/MediaComem/museumXTD/blob/main/Comment%20%C3%A9diter%20les%20contenus%20de%20la%20plateforme/Tableau%20Acteurs%20et%20Projets.md) (written in French) if you want to add references to the database
 
 ### 2.2.3. Adding new images
 All images are to be stored in the root **images** folder. To add an image to an MD file, write `![image caption](/images/nameFile.png)`, with: 
