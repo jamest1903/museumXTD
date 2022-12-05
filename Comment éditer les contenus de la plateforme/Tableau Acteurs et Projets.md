@@ -4,10 +4,10 @@ layout: layouts/post.njk
 tags:
 ---
 
-Cette note fournit un mode d'emploi pour ajouter/enlever/modifier des valeurs dans les tableaux *Acteurs* et *Projets*, qui apparaît sur la plateforme museumxtd dans [Acteurs&Projets](https://www.museumxtd.ch/tables/). 
+Cette note fournit un mode d'emploi pour modifier les tableaux *Acteurs* et *Projets*, qui apparaît sur la plateforme museumxtd dans [Acteurs&Projets](https://www.museumxtd.ch/tables/). 
 
 ## Avant de modifier
-1. Avez-vous les accès pour modifier le site internet [MuseumXTD.ch](https://www.museumxtd.ch) ? Voir l'étape [[README#Getting started]]. 
+1. Avez-vous les accès pour modifier le site internet [MuseumXTD.ch](https://www.museumxtd.ch) ? Voir le README (Pour commencer)
 2. Avez-vous compris le processus **PULL**/**COMMIT**/**PUSH** ? Les modifications des tableaux suivent les mêmes règles que les modifications des contenus depuis Obsidian: 
 	- PULL: avant de faire n'importe quelle modification, il faut s'assurer d'être à jour. Voir [[README#Making changes]]
 	- COMMIT&PUSH: après toutes modifications, il faut pouvoir les rendre accessible aux autres utilisateurs. Voir [[README#Publishing to the website]]
