@@ -17,7 +17,7 @@ async function setup() {
     ProjectsCSVData = await ProjectsDataJSON.json();
   } catch {
       ProjectsCSVData = false;
-      console.error('Error in reading /assets/projectsData.json');
+      console.log('Error in reading /assets/projectsData.json');
   }
 
   // assign an ID so it's easier to look up later, it will be the same as index

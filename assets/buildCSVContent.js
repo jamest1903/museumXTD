@@ -9,7 +9,7 @@ async function setup() {
     try {
         ProjectsData = await ProjectsDataJSON.json();
     } catch {
-        console.error('Error in reading /assets/projectsData.json');
+        console.log('Error in reading /assets/projectsData.json');
     }
 
     document.getElementById('acteursAZ').addEventListener('click', (event) => {
