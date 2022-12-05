@@ -22,6 +22,5 @@ Les nouvelles technologies, au service des activités de médiation, offrent au 
 5. [[Exemples et retours d'expérience de projets numériques de médiation]] 
    Retrouvez ici des entretiens avec des professionnel·le·s de musées, qui partagent leur visions et retours d'expériences sur des projets de médiation entrepris au sein de leur institutions.  
 6. [[Exemples de plateformes collaboratives]]
-7. [[Forum 2022#13 octobre 2022 9h-12h|Forum MuseumXTD: journée du 13 octobre 2022]]
-   La deuxième journée du forum est l'occasion de présenter des projets de professionnel·le·s de musées qui ont utilisé le numérique pour réinventer le lien avec leurs publics.  
+   Retrouvez ici des exemples de plateformes web suisses, dont le contenu est conçu en collaboration avec les publics. 
 

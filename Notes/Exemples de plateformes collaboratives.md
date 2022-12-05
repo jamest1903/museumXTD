@@ -8,7 +8,7 @@ eleventyNavigation:
   parent: participation
 ---
 ### Exemples de plateformes collaboratives
-Retrouvez ci-dessous des exemples de plateformes web suisses en collaboration avec les publics. 
+Retrouvez ci-dessous des exemples de plateformes web suisses, dont le contenu est conçu en collaboration avec les publics. 
 1. [notrehistoire.ch](https://notrehistoire.ch/)
    Ce projet permet à des personnes, des associations et des institutions patrimoniales de partager leurs documents et leurs intérêts à propos de la Suisse romande, d'échanger des commentaires, d'enrichir de leur connaissance le contenu publié et d'animer l’activité éditoriale sous la conduite d’un Web éditeur secondé par un modérateur.
 2. [Musée Imaginaire Suisse](https://www.mi-s.ch/de/index.php)
