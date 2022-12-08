@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Concevoir l'expérience visiteur.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Concevoir l'expérience visiteur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Concevoir l'expérience visiteur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Notes/Concevoir l'expérience visiteur.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   },
   "active": "1ddb674e051b321b",
   "lastOpenFiles": [
-    "Notes/Gérer son environnement numérique.md",
     "index.md",
     "Notes/Comment penser la médiation avec le numérique.md",
+    "Notes/Gérer son environnement numérique.md",
     "Notes/Comment penser le marketing et la communication avec le numérique.md",
     "Navigation/Ressources.md",
     "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
