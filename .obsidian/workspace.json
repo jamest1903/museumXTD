@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tables/tables.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tables/tables.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tables/tables.md",
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tables/tables.md"
+                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "33406326ee8b10f5",
   "lastOpenFiles": [
+    "Notes/Transition écologique et musées.md",
+    "Notes/Comment utiliser le numérique de façon durable.md",
+    "Notes/Gérer son environnement numérique.md",
+    "index.md",
+    "Navigation/Ressources.md",
+    "tables/tables.md",
     "Navigation/Répertoire.md",
     "Notes/Comment encourager la participation du visiteur.md",
     "Notes/Exemples et retours d'expérience de projets numériques de médiation.md",
-    "Notes/Exemples de plateformes collaboratives.md",
-    "index.md",
-    "Navigation/Ressources.md",
-    "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
-    "Brouillon/To-do.md",
-    "Brouillon/Documentation.md",
-    "tables/tables.md"
+    "Notes/Exemples de plateformes collaboratives.md"
   ]
 }
