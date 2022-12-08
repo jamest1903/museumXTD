@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Répertoire.md",
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa211d8569fba5d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Comment créer et valoriser une collection numérique.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +37,122 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+                "file": "Notes/Comment encourager la participation du visiteur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93f2bbb3229bee88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Exemples et retours d'expérience de projets numériques de médiation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35abf55ed1c60c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6738317cdcd0d631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Exemples et retours d'expérience de projets numériques de médiation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffd1ba34bb11a8e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brouillon/Lionel Bovier (MAMCO) sur les défis que la digitalisation pose aux musées.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28de0fff62b61316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/The Agile Museum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4910413aabe0c2c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Un nouveau musée numérique pour une ère nouvelle.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "024cb7b01ac01f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Le numérique, une formidable occasion pour la culture.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18150be55e1c1793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Musées et numérique.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d6b6539b40127d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Introduction. Musées et mondes numériques.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plateforme",
+                "query": "gérer ses",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +198,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+                "file": "Notes/Comment encourager la participation du visiteur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md",
+                "file": "Notes/Comment encourager la participation du visiteur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Favoriser la transition numérique tout en contrôlant son empreinte.md"
+                "file": "Notes/Comment encourager la participation du visiteur.md"
               }
             }
           },
@@ -160,15 +281,15 @@
   },
   "active": "33406326ee8b10f5",
   "lastOpenFiles": [
-    "Notes/Transition écologique et musées.md",
-    "Notes/Comment utiliser le numérique de façon durable.md",
-    "Notes/Gérer son environnement numérique.md",
+    "Notes/Comment créer et valoriser une collection numérique.md",
     "index.md",
-    "Navigation/Ressources.md",
-    "tables/tables.md",
-    "Navigation/Répertoire.md",
+    "Notes/Gérer ses collections.md",
     "Notes/Comment encourager la participation du visiteur.md",
-    "Notes/Exemples et retours d'expérience de projets numériques de médiation.md",
-    "Notes/Exemples de plateformes collaboratives.md"
+    "Notes/Gérer son environnement numérique.md",
+    "Notes/Quel cadre légal pour la transformation numérique.md",
+    "Notes/Comprendre la transformation numérique.md",
+    "Notes/Concevoir l'expérience visiteur.md",
+    "Navigation/Répertoire.md",
+    "Notes/Exemples et retours d'expérience de projets numériques de médiation.md"
   ]
 }

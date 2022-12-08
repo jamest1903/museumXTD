@@ -6,7 +6,7 @@ alias: [Quel cadre légal pour la transformation numérique?]
 eleventyNavigation:
   key: légal
   title: Quel cadre légal pour la transformation numérique?
-  parent: comprendre
+  parent: gererenv
 ---
 # **Quel cadre légal pour la transformation numérique?**
 Qu’il s’agisse de la gestion des collections ou d’innovation relative à l’expérience visiteur, la transition numérique des musées soulève de multiples questions juridiques. 

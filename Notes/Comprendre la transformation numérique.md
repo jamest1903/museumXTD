@@ -15,8 +15,6 @@ eleventyNavigation:
 
 [[Quels nouveaux modèles d'affaire grâce au numérique|Quels nouveaux modèles d'affaire grâce au numérique?]]
 
-[[Quel cadre légal pour la transformation numérique|Quel cadre légal pour la transformation numérique?]]
-
 [[Quels sont les opportunités et les freins|Quels sont les opportunités et les freins?]]
 
 [[Quel est l'impact du COVID-19 sur la numérisation des musées|Quel est l'impact du COVID-19 sur la numérisation des musées?]]
