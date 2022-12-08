@@ -7,7 +7,7 @@ eleventyNavigation:
   parent: Ressources
 ---
 # Concevoir l'expérience visiteur
-[[Comment encourager la participation du visiteur|Comment encourager la participation du visiteur?]]
+[[Comment penser la médiation avec le numérique|Comment encourager la participation du visiteur?]]
 
 [[Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz|Un exemple de projet: le projet Ramuz]]
 

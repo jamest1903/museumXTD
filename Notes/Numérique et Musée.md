@@ -35,7 +35,7 @@ Bienvenue. Voici une page pour commencer.
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
 
 ## Concevoir l'expérience visiteur
-[[Comment encourager la participation du visiteur|Comment encourager la participation du visiteur?]]
+[[Comment penser la médiation avec le numérique|Comment encourager la participation du visiteur?]]
 [[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]]
 [[Les outils numériques du marketing et de la communication]]
 ###### **[[Concevoir l'expérience visiteur|Plus de questions]]**

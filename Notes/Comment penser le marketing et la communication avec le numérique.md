@@ -11,7 +11,7 @@ eleventyNavigation:
 # **Comment penser le marketing et la communication avec le numérique**
 Le marketing ou la communication peuvent utiliser des outils numériques pour atteindre leurs objectifs. On parle alors de *marketing numérique* ou de *communication numérique*, sans qu'il s'agisse de disciplines en elles-mêmes. 
 
-Le marketing vise à susciter des comportements favorables de la part des *consommateurs* (ou visiteurs) envers l'offre des institutions. La stratégie développée dépend de l'environnement, du positionnement et des publics cibles de l'institution. 
+Les musées peuvent utiliser le marketing pour susciter des comportements favorables de la part des publics envers l'offre des institutions. La stratégie développée dépend de l'environnement, du positionnement et des publics cibles de l'institution. 
 
 La communication est un des leviers d'action du marketing. Elle permet de rendre visibles les activités des institutions et peut utiliser pour cela des _médias numériques_, comme les réseaux sociaux, le site internet ou les newsletters. Si elle peut également promouvoir les activités de médiation culturelle, elle ne s'y substitue pas.
 
