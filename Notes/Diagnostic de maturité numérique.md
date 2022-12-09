@@ -11,6 +11,12 @@ eleventyNavigation:
 Cet outil permet d'évaluer la maturité numérique d'une petite organisation.
 
 ## À retenir
+- Une évaluation selon 5 axes: 
+	- Pensée numérique
+	- Outils de communication
+	- Stratégie de communication
+	- Outils organisationnels
+	- Stratégies organisationnelles
 - Le tableau en format *open access*, qui permet de réaliser un diagnostic de maturité numérique.
 	- Disponible dans sa version interactive [ici](https://diagnostic-numerique.viragenumeriqc.com/).  
 - L'[[MuseumXTD - La face cachée du numérique|intervention au Forum MuseumXTD]] de 0/1 Hub numérique le 12 octobre 2022. 
