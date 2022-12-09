@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md",
+                "file": "Notes/Comment penser la médiation avec le numérique.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gérer ses",
+                "query": "to-do",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md",
+                "file": "Notes/Comment penser la médiation avec le numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md",
+                "file": "Notes/Comment penser la médiation avec le numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Concevoir l'expérience visiteur.md"
+                "file": "Notes/Comment penser la médiation avec le numérique.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "1ddb674e051b321b",
   "lastOpenFiles": [
-    "index.md",
+    "Notes/Exemples de projets numériques de médiation.md",
+    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Comment penser la médiation avec le numérique.md",
+    "index.md",
+    "Navigation/Ressources.md",
+    "Brouillon/To-do.md",
+    "Notes/Concevoir l'expérience visiteur.md",
     "Notes/Gérer son environnement numérique.md",
     "Notes/Comment penser le marketing et la communication avec le numérique.md",
-    "Navigation/Ressources.md",
-    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/Musées et numérique.md",
-    "Notes/The Agile Museum.md",
-    "Notes/Exemples et retours d'expérience de projets numériques de médiation.md",
-    "Notes/Usages et pratiques numériques muséales et patrimoniales en Nouvelle-Aquitaine.md"
+    "Notes/Musées et numérique.md"
   ]
 }

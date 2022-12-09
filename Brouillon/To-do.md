@@ -23,7 +23,7 @@ Objectif : consolidation des contenus: corrections, additions et organisation (F
 	- [x] PAS POSSIBLE Simplification de l'entrée (utilisation d'un seul logiciel idéalement, et ce pendant tout le process)
 	- [x] Simplification de l'emplacement de la documentation : aujourd'hui, deux folders sont utilisés (Comment participer sur la plateforme et le README)
 	- [x] Prévoir des modèles de note
-	- [ ] Mettre à jour le document Tableau Acteurs et Projets
+	- [x] Mettre à jour le document Tableau Acteurs et Projets
 	- [ ] Faire le parcours utilisateur
 	- [ ] Faire une vidéo tuto ?
 - [ ] Cleaner l'Obsidian
@@ -46,14 +46,14 @@ Résultat attendu: plan de réagencement du site suffisamment décrit pour perme
 	- [x] Page ressources - créer des sections en bas de la page
 	- [ ] Politique d'utilisation des données/de confidentialité?
 	- [ ] Préparer le rdv avec personnes MAH
-- [ ] Supprimer les projets dans Répertoire et les passer dans le contenu
+- [x] Supprimer les projets dans Répertoire et les passer dans le contenu
 
 # 3. Sondage
 Objectif : Proposer une étude simple de type sondage ou similaire sur la question « musées et médias », ce qui nous intéresse ici est de mieux comprendre la relation entre les musées et les différents médias et la nature des contenus (réseaux sociaux, médias traditionnels locaux, médias spécialisés, académiques, types de médias - texte, vidéo, images -, langage - grand public, expert, spécifique à un type de public -. Le résultat d’analyse serait des représentations visuelles de type infographie. Autre idée possible ! L’idée est de préparer cette étude pas forcément de la mener entièrement dans le temps à disposition. 
 
 Résultat attendu: liste de question organisées et pertinentes par rapport aux réponses attendues, liste d’adresse, sondage prêt à être lancé
 
-- [ ] Statuer sur une thématique et approfondir la problématique et les hypothèses de base
+- [x] Statuer sur une thématique et approfondir la problématique et les hypothèses de base
 - [ ] Réaliser la litterature review et voir s’il y a besoin de données secondaires sur lesquels on peut s’appuyer
 - [ ] Définir une liste de questions
 - [ ] Devis du sondage et suite
