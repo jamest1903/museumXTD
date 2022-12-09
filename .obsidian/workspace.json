@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Comment penser la médiation avec le numérique.md",
+                "file": "Brouillon/Ressources à creuser.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "to-do",
+                "query": "ressources",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Comment penser la médiation avec le numérique.md",
+                "file": "Brouillon/Ressources à creuser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Comment penser la médiation avec le numérique.md",
+                "file": "Brouillon/Ressources à creuser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Comment penser la médiation avec le numérique.md"
+                "file": "Brouillon/Ressources à creuser.md"
               }
             }
           },
@@ -159,9 +160,9 @@
   },
   "active": "1ddb674e051b321b",
   "lastOpenFiles": [
+    "Notes/Comment penser la médiation avec le numérique.md",
     "Notes/Exemples de projets numériques de médiation.md",
     "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/Comment penser la médiation avec le numérique.md",
     "index.md",
     "Navigation/Ressources.md",
     "Brouillon/To-do.md",
