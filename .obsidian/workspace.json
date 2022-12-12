@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Comment penser la médiation avec le numérique.md",
+                "file": "Notes/Comment mener un projet numérique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d3d7821294b9393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Exemples et retours d'expérience de projets numériques de médiation.md",
+                "file": "Notes/Comment mener un projet numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Exemples et retours d'expérience de projets numériques de médiation.md",
+                "file": "Notes/Comment mener un projet numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Exemples et retours d'expérience de projets numériques de médiation.md"
+                "file": "Notes/Comment mener un projet numérique.md"
               }
             }
           },
@@ -170,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eca0b04c2a7c5b60",
+  "active": "1d70ae4ea709bc8b",
   "lastOpenFiles": [
-    "Notes/Comment penser la médiation avec le numérique.md",
-    "Notes/Exemples et retours d'expérience de projets numériques de médiation.md",
-    "Notes/Concevoir l'expérience visiteur.md",
+    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Notes/Comment mener un projet numérique.md",
     "index.md",
+    "Notes/Exemples et retours d'expérience de projets numériques de médiation.md",
+    "Notes/Comment penser la médiation avec le numérique.md",
+    "Notes/Comment penser le marketing et la communication avec le numérique.md",
+    "Notes/Concevoir l'expérience visiteur.md",
     "Navigation/Ressources.md",
-    "Template/Note ressource.md",
-    "Notes/Diagnostic de maturité numérique.md",
-    "Notes/Comment élaborer une stratégie numérique.md",
-    "Notes/Comment évaluer un projet numérique.md",
-    "Notes/Comment mener un projet numérique.md"
+    "Template/Note ressource.md"
   ]
 }
