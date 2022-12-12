@@ -6,6 +6,7 @@ tags: question
 ---
 # **Outils numériques liés au marketing et à la communication?**
 Dans le champ du marketing et de la communication, le numérique implique le développement de certains outils qui lui sont propres. 
+Découvrez une compilation d'outils parmi ceux proposés par des spécialistes.   
 
 1. [La boîte à outils web de Québec numérique](https://quebecnumerique.com/boite-outils/#tab-85-0)   
     Dans la section *Communication et Marketing*, Québec numérique propose une liste de ressources pour utiliser les réseaux ou mieux référencer son site internet.
