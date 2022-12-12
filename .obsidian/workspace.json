@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Comment mener un projet numérique.md",
+                "file": "Notes/Introduction. Musées et mondes numériques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17a682911e9bd3d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation/Forum 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,8 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f781ffcb1e594045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Outils numériques du marketing et de la communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17e1a46ffef6b0c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Quels sont les outils à utiliser.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -84,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ressources",
+                "query": "andreacola",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Comment mener un projet numérique.md",
+                "file": "Notes/Outils numériques du marketing et de la communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Comment mener un projet numérique.md",
+                "file": "Notes/Outils numériques du marketing et de la communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Comment mener un projet numérique.md"
+                "file": "Notes/Outils numériques du marketing et de la communication.md"
               }
             }
           },
@@ -181,17 +218,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d70ae4ea709bc8b",
+  "active": "f781ffcb1e594045",
   "lastOpenFiles": [
-    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/Comment mener un projet numérique.md",
-    "index.md",
-    "Notes/Exemples et retours d'expérience de projets numériques de médiation.md",
-    "Notes/Comment penser la médiation avec le numérique.md",
     "Notes/Comment penser le marketing et la communication avec le numérique.md",
-    "Notes/Concevoir l'expérience visiteur.md",
-    "Navigation/Ressources.md",
-    "Template/Note ressource.md"
+    "Notes/Outils numériques du marketing et de la communication.md",
+    "Notes/Quels sont les outils à utiliser.md",
+    "Notes/Introduction. Musées et mondes numériques.md",
+    "Navigation/Forum 2022.md",
+    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+    "Notes/Programme et intervenants J1.md",
+    "index.md",
+    "Notes/Comment mener un projet numérique.md",
+    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
   ]
 }

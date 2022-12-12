@@ -37,5 +37,5 @@ Bienvenue. Voici une page pour commencer.
 ## Concevoir l'expérience visiteur
 [[Comment penser la médiation avec le numérique|Comment encourager la participation du visiteur?]]
 [[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]]
-[[Les outils numériques du marketing et de la communication]]
+[[Outils numériques du marketing et de la communication]]
 ###### **[[Concevoir l'expérience visiteur|Plus de questions]]**

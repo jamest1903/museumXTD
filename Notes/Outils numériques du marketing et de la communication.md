@@ -2,9 +2,9 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: question
-alias: [Quels sont les outils numériques liés au marketing et à la communication?]
+
 ---
-# **Quels sont les outils numériques liés au marketing et à la communication?**
+# **Outils numériques liés au marketing et à la communication?**
 Dans le champ du marketing et de la communication, le numérique implique le développement de certains outils qui lui sont propres. 
 
 1. [La boîte à outils web de Québec numérique](https://quebecnumerique.com/boite-outils/#tab-85-0)   
