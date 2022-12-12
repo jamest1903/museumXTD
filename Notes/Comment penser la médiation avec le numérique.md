@@ -21,7 +21,7 @@ Les nouvelles technologies, au service des activités de médiation, offrent au 
    La directrice de la Médiation et de la programmation culturelle au musée du Louvre aborde sa vision du numérique et son rapport à la fiction dans le musée. Selon elle, l'utilisation du numérique n'est pas toujours bien compris.
 6. [[La médiatrice et le numérique]]
    L'auteure partage sa vision de l'utilisation du numérique en tant que médiatrice. 
-5. [[Exemples de projets numériques de médiation]] 
+5. [[Exemples et retours d'expérience de projets numériques de médiation|Exemples de projets numériques de médiation]] 
    Retrouvez ici des entretiens avec des professionnel·le·s de musées, qui partagent leur visions et retours d'expériences sur des projets de médiation entrepris au sein de leur institutions.  
 6. [[Exemples de plateformes collaboratives]]
    Retrouvez ici des exemples de plateformes web suisses, dont le contenu est conçu en collaboration avec les publics. 

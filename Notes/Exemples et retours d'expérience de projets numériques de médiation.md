@@ -2,6 +2,7 @@
 title: MuseumXTD
 layout: layouts/post.njk
 tags: ressource
+alias: [Exemples de projets numériques de médiation]
 eleventyNavigation:
   key: rexprojetmednum
   title: Exemples et retours d'expérience de projets numériques de médiation
