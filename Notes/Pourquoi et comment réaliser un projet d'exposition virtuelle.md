@@ -16,11 +16,13 @@ Les exemples actuels d’exposition en ligne restent multiples et divers, au poi
 
 Développer des expositions à distance peut servir les missions du musées, notamment en termes d'accessibilité; à condition de l'avoir au préalable intégré dans sa stratégie numérique.
 
-1. [[Livre blanc des visites guidées à distance]]
+1. [[Visites en ligne]]
+   Le ministère français de la Culture propose un ensemble de ressources consacrées à la mise en œuvre et à l'évaluation des visites en ligne. Un guide, des fiches pratiques et une synthèse sont proposés à tous les lieux patrimoniaux qui souhaitent expérimenter les visites en ligne ou les consolider en lien étroit avec leurs publics, leurs objectifs et leurs autres offres culturelles.  
+2. [[Livre blanc des visites guidées à distance]]
    Le [Centre des Monuments Nationaux](https://www.monuments-nationaux.fr) met à disposition ses résultats de recherche sur la mise en place de visites guidées à distance payantes. Il fournit une évaluation des critères d'attractivité et de pertinence des formats de visites à distance pour les publics.  
-2. [[Virtual Museum Mediation]]
+3. [[Virtual Museum Mediation]]
    Ce projet met à disposition une série de tutoriels vidéo et un guide de médiation pour réaliser des visites virtuelles, gratuitement et à destination des médiateur·rices. 
-3. [[Exemples d’expositions en ligne de collections patrimoniales]]
+4. [[Exemples d’expositions en ligne de collections patrimoniales]]
    Voici une liste d'exemples d'expositions en ligne, réalisées ou en collaboration avec des institutions culturelles suisses romandes.    
 
 Au-delà des expositions virtuelles, les musées peuvent produire et diffuser d'autres formats numériques à distance - comme des contenus sur les réseaux sociaux, les e-learnings etc. Ces formats moins "traditionnels" questionne le périmètre de la médiation muséale.  
