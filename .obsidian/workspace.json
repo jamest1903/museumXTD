@@ -17,31 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Diagnostics de maturité numérique.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a91bf4d8d99692d0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Numérique, quelles compétences nécessaires pour les professionnels des musées.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8e8232ae58dd2373",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Un nouveau musée numérique pour une ère nouvelle.md",
+                    "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
                     "mode": "source",
                     "source": false
                   }
@@ -138,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Comment élaborer une stratégie numérique.md",
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Comment élaborer une stratégie numérique.md",
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Comment élaborer une stratégie numérique.md"
+                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md"
               }
             }
           },
@@ -219,17 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "41690201eb668142",
+  "active": "d11b2705103e314e",
   "lastOpenFiles": [
+    "Notes/Concevoir l'expérience visiteur.md",
+    "index.md",
     "Notes/Diagnostics de maturité numérique.md",
+    "Notes/Numérique, quelles compétences nécessaires pour les professionnels des musées.md",
     "Notes/Comment élaborer une stratégie numérique.md",
     "Notes/Diagnostic de maturité numérique.md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "Notes/Visites en ligne.md",
-    "Notes/Numérique, quelles compétences nécessaires pour les professionnels des musées.md",
     "Notes/MuseumXTD - Antoine Roland.md",
-    "Notes/Un nouveau musée numérique pour une ère nouvelle.md",
-    "Notes/Concevoir l'expérience visiteur.md",
-    "index.md"
+    "Notes/Un nouveau musée numérique pour une ère nouvelle.md"
   ]
 }
