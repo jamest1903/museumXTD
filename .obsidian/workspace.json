@@ -4,59 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "de0f5ed7470d9928",
-        "type": "tabs",
+        "id": "465501d5d1a2d1e1",
+        "type": "split",
         "children": [
           {
-            "id": "4da6bcae84b7cb71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
-                "mode": "source",
-                "source": false
+            "id": "de0f5ed7470d9928",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d11b2705103e314e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Diagnostics de maturité numérique.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a91bf4d8d99692d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Numérique, quelles compétences nécessaires pour les professionnels des musées.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8e8232ae58dd2373",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Un nouveau musée numérique pour une ère nouvelle.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "41690201eb668142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Visites en ligne.md",
-                "mode": "source",
-                "source": false
+            "id": "9adb499e6b43cdf4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41690201eb668142",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Comment élaborer une stratégie numérique.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e2e5a972f37b5fea",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Diagnostic de maturité numérique.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e7b5ff816083758c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Diagnostics de maturité numérique.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "a91bf4d8d99692d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Numérique, quelles compétences nécessaires pour les professionnels des musées.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e8232ae58dd2373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Un nouveau musée numérique pour une ère nouvelle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antoine",
+                "query": "diagnos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Visites en ligne.md",
+                "file": "Notes/Comment élaborer une stratégie numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Visites en ligne.md",
+                "file": "Notes/Comment élaborer une stratégie numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Visites en ligne.md"
+                "file": "Notes/Comment élaborer une stratégie numérique.md"
               }
             }
           },
@@ -185,15 +221,15 @@
   },
   "active": "41690201eb668142",
   "lastOpenFiles": [
+    "Notes/Diagnostics de maturité numérique.md",
+    "Notes/Comment élaborer une stratégie numérique.md",
+    "Notes/Diagnostic de maturité numérique.md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "Notes/Visites en ligne.md",
     "Notes/Numérique, quelles compétences nécessaires pour les professionnels des musées.md",
     "Notes/MuseumXTD - Antoine Roland.md",
     "Notes/Un nouveau musée numérique pour une ère nouvelle.md",
     "Notes/Concevoir l'expérience visiteur.md",
-    "index.md",
-    "Notes/Introduction. Musées et mondes numériques.md",
-    "Navigation/Forum 2022.md",
-    "Notes/Comment penser le marketing et la communication avec le numérique.md"
+    "index.md"
   ]
 }

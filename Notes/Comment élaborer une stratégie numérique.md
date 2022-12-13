@@ -12,8 +12,8 @@ eleventyNavigation:
 Différents outils et méthodes permettent d'élaborer une stratégie numérique, dont le contenu reste propre à chaque institution (voir [[Exemples de stratégies numériques de musées]]).
 En voici quelques uns: 
 
-1. [[Diagnostic de maturité numérique]]   
-   Cet outil développé par Virage NumériCQ permet d'évaluer la *maturité numérique* d'une petite organisation. 
+1. [[Diagnostics de maturité numérique]]
+   Comprendre d'où l'on part est l'une des premières étapes dans l'élaboration de sa stratégie numérique. Etablir un état des lieux nécessite de se référer à une grille d'évaluation de l'existant. Vous pourrez trouver ici deux diagnostics complémentaires, disposant de grilles différentes. 
 2. [[Cartographie de ma transformation numérique]]
    Cet outil, également développé par Virage NumériCQ, permet de formuler les besoins et objectifs pour élaborer une stratégie numérique. 
 3. [Le numérique au service de la visibilité du musée](https://www.culture.gouv.fr/Media/Thematiques/Musees/Colloques-Journees-d-etudes/Strategie-numerique-dans-les-musees/Intervention-de-M.-David-de-Sousa)   
