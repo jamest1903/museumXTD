@@ -24,6 +24,18 @@
                 }
               },
               {
+                "id": "7da4bf8306a651a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Brouillon/Lionel Bovier (MAMCO) sur les défis que la digitalisation pose aux musées.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "48a5f356993e9b81",
                 "type": "leaf",
                 "state": {
@@ -34,8 +46,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "878388d45cbda977",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Introduction. Musées et mondes numériques.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "9adb499e6b43cdf4",
@@ -47,37 +72,50 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Comment élaborer une stratégie numérique.md",
+                    "file": "index.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "e2e5a972f37b5fea",
+                "id": "e82346514db994ec",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Diagnostic de maturité numérique.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e7b5ff816083758c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Diagnostics de maturité numérique.md",
+                    "file": "Notes/Numérique et musée, quelques définitions.md",
                     "mode": "preview",
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "2d1b4d64f6f82a36",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Brouillon/Démarches open et licences libres.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6d3ddbf26d906d90",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Les licences libres.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -109,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diagnos",
+                "query": "open",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Exemples de stratégies numériques de musées.md",
+                "file": "Brouillon/Démarches open et licences libres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Exemples de stratégies numériques de musées.md",
+                "file": "Brouillon/Démarches open et licences libres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Exemples de stratégies numériques de musées.md"
+                "file": "Brouillon/Démarches open et licences libres.md"
               }
             }
           },
@@ -206,17 +244,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d11b2705103e314e",
+  "active": "2d1b4d64f6f82a36",
   "lastOpenFiles": [
-    "Notes/Qu'est-ce qu'une stratégie numérique.md",
-    "Notes/Comment élaborer une stratégie numérique.md",
+    "Notes/Les licences libres.md",
+    "Brouillon/Démarches open et licences libres.md",
+    "Notes/Numérique et musée, quelques définitions.md",
+    "Notes/Introduction. Musées et mondes numériques.md",
+    "Notes/Musées et numérique.md",
     "index.md",
-    "Notes/Comment évaluer un projet numérique.md",
     "Navigation/Ressources.md",
-    "Notes/Gérer son environnement numérique.md",
-    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
-    "Notes/Concevoir l'expérience visiteur.md",
-    "Notes/Diagnostics de maturité numérique.md",
-    "Notes/Numérique, quelles compétences nécessaires pour les professionnels des musées.md"
+    "Notes/Comment élaborer une stratégie numérique.md",
+    "Brouillon/Lionel Bovier (MAMCO) sur les défis que la digitalisation pose aux musées.md",
+    "Notes/Exemples de stratégies numériques de musées.md"
   ]
 }
