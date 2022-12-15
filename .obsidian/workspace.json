@@ -17,8 +17,20 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                    "file": "index.md",
                     "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "48a5f356993e9b81",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Comment évaluer un projet numérique.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md"
+                "file": "index.md"
               }
             }
           },
@@ -196,15 +208,15 @@
   },
   "active": "d11b2705103e314e",
   "lastOpenFiles": [
-    "Notes/Concevoir l'expérience visiteur.md",
+    "Notes/Comment évaluer un projet numérique.md",
     "index.md",
+    "Navigation/Ressources.md",
+    "Notes/Gérer son environnement numérique.md",
+    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+    "Notes/Concevoir l'expérience visiteur.md",
     "Notes/Diagnostics de maturité numérique.md",
     "Notes/Numérique, quelles compétences nécessaires pour les professionnels des musées.md",
     "Notes/Comment élaborer une stratégie numérique.md",
-    "Notes/Diagnostic de maturité numérique.md",
-    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
-    "Notes/Visites en ligne.md",
-    "Notes/MuseumXTD - Antoine Roland.md",
-    "Notes/Un nouveau musée numérique pour une ère nouvelle.md"
+    "Notes/Diagnostic de maturité numérique.md"
   ]
 }
