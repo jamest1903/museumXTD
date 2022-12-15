@@ -7,6 +7,7 @@ eleventyNavigation:
   title: Démarches open et licences libres
   parent: définitions
 ---
+# Démarches open et licences libres
 La numérisation des bases de données dans les musées pose des questions de gestion et d'accessibilité de ces bases à l'extérieur de l'institution. Plusieurs démarches peuvent être adoptées. 
 
 1. L'open content
@@ -24,4 +25,6 @@ La numérisation des bases de données dans les musées pose des questions de ge
 5. Les licences libres
    Le logiciel libre repose sur l’idée de permettre la liberté aux utilisateur·trices dans l’utilisation, la modification du code source, ainsi que la redistribution du logiciel. Il respecte 4 règles (la liberté d'exécution du programme, la liberté de son étude et de sa modification, la liberté de sa redistribution tel qu'il a été envoyé, la liberté de redistribuer les versions modifiées). 
    [Source](https://www.im-portal.org/blogs/libre-open-source-open-data-decryptage-notions-cles-pour-les-acteurs-solidarite-internationale)
+   Les licences Creative Commons sont parmi les plus utilisées dans le monde scientifique et les conditions d'utilisation, de modification et d'exploitation peuvent être retrouvées dans [ce tableau](https://www.unige.ch/researchdata/files/9016/2677/8035/resume_licences_cc.pdf). 
+   [Source](https://www.unige.ch/researchdata/fr/partager/droits/)
 

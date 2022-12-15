@@ -8,14 +8,11 @@ eleventyNavigation:
   title:
   parent: 
 ---
-### [Titre et lien](url)
+# Les licences libres
 
 Résumé de la ressource
 
-## A retenir
-- 1er élément à retenir en quelques phrases
-- 2ème élément en quelques phrases  
-etc. 
+1. [Les licences libres : pourquoi et comment les utiliser - Audrey Auriault](https://videos.yeswiki.net/w/4czo3hiwJaDYM5aLkQAweu)
   
 Contexte (*quelques mots sur l'auteur ou sur le projet*)
 

@@ -72,7 +72,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "index.md",
+                    "file": "Notes/Gérer son environnement numérique.md",
                     "mode": "source",
                     "source": false
                   }
@@ -84,8 +84,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Numérique et musée, quelques définitions.md",
-                    "mode": "preview",
+                    "file": "Notes/Musées et numérique.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -97,18 +97,6 @@
                   "type": "markdown",
                   "state": {
                     "file": "Brouillon/Démarches open et licences libres.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6d3ddbf26d906d90",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Les licences libres.md",
                     "mode": "source",
                     "source": false
                   }
@@ -248,13 +236,13 @@
   "lastOpenFiles": [
     "Notes/Les licences libres.md",
     "Brouillon/Démarches open et licences libres.md",
-    "Notes/Numérique et musée, quelques définitions.md",
-    "Notes/Introduction. Musées et mondes numériques.md",
-    "Notes/Musées et numérique.md",
+    "Notes/Gérer son environnement numérique.md",
     "index.md",
+    "Notes/Musées et numérique.md",
+    "Notes/Introduction. Musées et mondes numériques.md",
+    "Notes/Numérique et musée, quelques définitions.md",
     "Navigation/Ressources.md",
     "Notes/Comment élaborer une stratégie numérique.md",
-    "Brouillon/Lionel Bovier (MAMCO) sur les défis que la digitalisation pose aux musées.md",
-    "Notes/Exemples de stratégies numériques de musées.md"
+    "Brouillon/Lionel Bovier (MAMCO) sur les défis que la digitalisation pose aux musées.md"
   ]
 }
