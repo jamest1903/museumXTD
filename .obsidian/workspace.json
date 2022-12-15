@@ -72,31 +72,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Numérique et musée, quelques définitions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "488e91f83b46f74e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Gérer ses collections.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e82346514db994ec",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Musées et numérique.md",
+                    "file": "Notes/Quel cadre légal pour la transformation numérique.md",
                     "mode": "source",
                     "source": false
                   }
@@ -108,7 +84,31 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Brouillon/Démarches open et licences libres.md",
+                    "file": "Notes/Démarches open et licences libres.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0ed014cb9ca10ff7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Agenda.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6f65000b00013b5a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Brouillon/Cyber Sain et Sauf - Imaa.md",
                     "mode": "source",
                     "source": false
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "open",
+                "query": "cyber",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -163,7 +163,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Numérique et musée, quelques définitions.md",
+                "file": "Notes/Quel cadre légal pour la transformation numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Numérique et musée, quelques définitions.md",
+                "file": "Notes/Quel cadre légal pour la transformation numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Numérique et musée, quelques définitions.md"
+                "file": "Notes/Quel cadre légal pour la transformation numérique.md"
               }
             }
           },
@@ -245,15 +246,15 @@
   },
   "active": "41690201eb668142",
   "lastOpenFiles": [
-    "index.md",
+    "Brouillon/Cyber Sain et Sauf - Imaa.md",
     "Notes/Quel cadre légal pour la transformation numérique.md",
-    "Notes/Gérer ses collections.md",
+    "index.md",
     "Notes/Gérer son environnement numérique.md",
-    "Brouillon/Démarches open et licences libres.md",
-    "Notes/Les licences libres.md",
-    "Notes/Musées et numérique.md",
-    "Notes/Introduction. Musées et mondes numériques.md",
+    "Notes/Quelles sont les compétences numériques à acquérir et à développer en interne.md",
     "Notes/Numérique et musée, quelques définitions.md",
-    "Navigation/Ressources.md"
+    "Notes/Gérer ses collections.md",
+    "Notes/Agenda.md",
+    "Notes/Démarches open et licences libres.md",
+    "Notes/Les licences libres.md"
   ]
 }

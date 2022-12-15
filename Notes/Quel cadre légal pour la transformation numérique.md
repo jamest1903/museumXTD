@@ -19,6 +19,8 @@ Qu’il s’agisse de la gestion des collections ou d’innovation relative à l
    Cette publication vise à clarifier les principes généraux en matière de droit d'auteur et formuler des politiques pour faciliter les activités des musées dans l'environnement numérique.
 4. [NEMO report on digitization and copyright](https://www.ne-mo.org/news/article/nemo/nemo-report-on-digitisation-and-copyright-challenges-of-making-museum-collections-accessible-online.html)
    Basé sur un sondage ainsi qu'un groupe de travail, ce rapport de 2020 fournit des recommandations légales à destination non seulement des politiciens mais également des organisations nationales de musées et musées. 
+5. [Cyber Sain et Sauf](https://www.imaa.ca/cybersecurite/)
+   L'Independent Media Arts Alliance (IMAA) propose un manifeste, un livre blanc de la cybersécurité et des cyberprotocoles pour aborder la question de la cybersécurité pour les institutions culturelles.  
 
 
 Ressource similaire: [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
