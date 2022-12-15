@@ -72,7 +72,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "index.md",
+                    "file": "Notes/Numérique et musée, quelques définitions.md",
                     "mode": "source",
                     "source": false
                   }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Numérique et musée, quelques définitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Numérique et musée, quelques définitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Notes/Numérique et musée, quelques définitions.md"
               }
             }
           },
@@ -245,10 +245,10 @@
   },
   "active": "41690201eb668142",
   "lastOpenFiles": [
-    "Notes/Gérer ses collections.md",
     "index.md",
-    "Notes/Gérer son environnement numérique.md",
     "Notes/Quel cadre légal pour la transformation numérique.md",
+    "Notes/Gérer ses collections.md",
+    "Notes/Gérer son environnement numérique.md",
     "Brouillon/Démarches open et licences libres.md",
     "Notes/Les licences libres.md",
     "Notes/Musées et numérique.md",
