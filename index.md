@@ -23,7 +23,9 @@ eleventyNavigation:
 
 ## Gérer ses collections
 [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
+[[Quel cadre légal pour la transformation numérique|Quel cadre légal pour la transformation numérique?]]
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
+###### **[[Gérer ses collections|Plus de questions]]**
 
 ## Concevoir l'expérience visiteur
 [[Comment penser la médiation avec le numérique|Comment penser la médiation avec le numérique?]]

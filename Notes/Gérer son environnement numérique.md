@@ -20,8 +20,6 @@ eleventyNavigation:
 
 [[Comment utiliser le numérique de façon durable|Comment utiliser le numérique de façon durable?]]
 
-[[Quel cadre légal pour la transformation numérique|Quel cadre légal pour la transformation numérique?]]
-
 [[Quels sont les outils à utiliser|Quels sont les outils à utiliser?]]
 
 [Nos intervenants en ont parlé au forum du 12 et 13 octobre 2022](https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw)
