@@ -9,7 +9,7 @@ eleventyNavigation:
   parent: gererenv
 ---
 # Comment évaluer un projet numérique?  
-Le processus itératif inhérent aux nouvelles méthodologies de projet renforce la nécessité de mettre en place un suivi et des indicateurs pour évaluer les projets.  
+Le processus itératif inhérent aux méthodologies de projet numérique renforce la nécessité de mettre en place un suivi et des indicateurs pour évaluer leur mise en place et leur impact.  
   
 1. [[Europeana Impact Playbook]]
    L'impact Playbook d'Europeana a pour objectif d'aider les professionnels à mieux planifier, mesurer et comprendre l'impact du patrimoine culturel numérique
