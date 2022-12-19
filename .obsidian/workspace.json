@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/La pratique muséale numérique. Une approche globale.md",
-                "mode": "preview",
+                "file": "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Démarches open et licences libres.md",
+                "file": "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Démarches open et licences libres.md",
+                "file": "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Démarches open et licences libres.md"
+                "file": "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md"
               }
             }
           },
@@ -218,17 +218,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff11756d4f107184",
+  "active": "1914bee81d475a7e",
   "lastOpenFiles": [
+    "Notes/Qu'est-ce qu'une stratégie numérique.md",
+    "Notes/La pratique muséale numérique. Une approche globale.md",
+    "Notes/Comment mener un projet numérique.md",
+    "Notes/Démarches open et licences libres.md",
     "Notes/Numérique et musée, quelques définitions.md",
     "index.md",
     "images/Bolli-L_Les-étapes-de-numérisation-des-objets@2x.png",
     "images/Bolli-L_Les-étapes-de-numérisation-des-objets_mobile@2x.png",
     "images/museumXTD_diagramme_mobile@2x.png",
-    "Notes/Comment évaluer un projet numérique.md",
-    "Notes/L’évaluation dans la culture. Pourquoi et comment évaluer.md",
-    "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
-    "Notes/Europeana Impact Playbook.md",
-    "Notes/Agenda.md"
+    "Notes/Comment évaluer un projet numérique.md"
   ]
 }
