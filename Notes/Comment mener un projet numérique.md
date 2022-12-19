@@ -26,4 +26,4 @@ L'utilisation du numérique au musée amène à repenser non seulement la métho
 8. [[Agile Development in Non-Agile Museum]]
    Taika Dahlbom, Web Producer à la Finnish National Gallery, évoque les enjeux de la collaboration du musée avec l'équipe de développement du site internet. 
 
-Ressources similaires: [[Comment évaluer un projet numérique|Comment évaluer un projet numérique?]], [[Quelles sont les compétences numériques à acquérir et à développer en interne|Quelles sont les compétences numériques à acquérir et à développer en interne?]]
+Ressources similaires: [[Comment évaluer un projet numérique]], [[Quelles sont les compétences numériques à acquérir et à développer en interne|Quelles sont les compétences numériques à acquérir et à développer en interne?]]
