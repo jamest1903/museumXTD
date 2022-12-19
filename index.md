@@ -17,7 +17,7 @@ eleventyNavigation:
 
 ## Gérer son environnement numérique
 [[Comment élaborer une stratégie numérique|Comment élaborer une stratégie numérique?]]
-[[Comment mener un projet numérique|Comment mener un projet numérique?]]
+[[Comment mener un projet numérique|Comment mener un projet numérique?]] 
 [[Comment évaluer un projet numérique|Comment évaluer un projet numérique?]]
 ###### **[[Gérer son environnement numérique|Plus de questions]]**
 
