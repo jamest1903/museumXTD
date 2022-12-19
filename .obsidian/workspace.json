@@ -4,109 +4,167 @@
     "type": "split",
     "children": [
       {
-        "id": "465501d5d1a2d1e1",
-        "type": "split",
+        "id": "9adb499e6b43cdf4",
+        "type": "tabs",
         "children": [
           {
-            "id": "de0f5ed7470d9928",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d11b2705103e314e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Exemples de stratégies numériques de musées.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7da4bf8306a651a1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Brouillon/Lionel Bovier (MAMCO) sur les défis que la digitalisation pose aux musées.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "48a5f356993e9b81",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Comment évaluer un projet numérique.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "878388d45cbda977",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Introduction. Musées et mondes numériques.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "41690201eb668142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Comment créer et valoriser une collection numérique.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 3
+            }
           },
           {
-            "id": "9adb499e6b43cdf4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "41690201eb668142",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Quel cadre légal pour la transformation numérique.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "2d1b4d64f6f82a36",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Démarches open et licences libres.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "0ed014cb9ca10ff7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Agenda.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "dcc6f17f443cc105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Quel cadre légal pour la transformation numérique.md",
+                "mode": "preview",
+                "source": false
               }
-            ],
-            "currentTab": 2
+            }
+          },
+          {
+            "id": "48c760e8d5259d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Exemples de projets de numérisation des collections et leurs applications.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04ee0f0ffb640b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88c55bbc165068ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Gérer son environnement numérique.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "875e455d7938fb46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Comment évaluer un projet numérique.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a46f95dce5ee2d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Rapports NEMO.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecd38886e5883b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Comment mener un projet numérique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff11756d4f107184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Comment évaluer un projet numérique.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "790f5a06bd3bd81a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Le Musée départemental d’art religieux de Sées se double d’un musée numérique.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d1b4d64f6f82a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Démarches open et licences libres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f864c752ef78cfed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Agile Development in Non-Agile Museum.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ed014cb9ca10ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Agenda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -135,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "droit",
+                "query": "non-agile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -152,8 +210,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Agenda.md",
+                "file": "Notes/Comment mener un projet numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Agenda.md",
+                "file": "Notes/Comment mener un projet numérique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Agenda.md"
+                "file": "Notes/Comment mener un projet numérique.md"
               }
             }
           },
@@ -233,17 +290,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ed014cb9ca10ff7",
+  "active": "ecd38886e5883b80",
   "lastOpenFiles": [
-    "Brouillon/Cyber Sain et Sauf.md",
-    "Notes/Quel cadre légal pour la transformation numérique.md",
-    "Notes/Copyright and digital culture heritage.md",
-    "Brouillon/Documentation.md",
-    "index.md",
+    "Notes/Comment évaluer un projet numérique.md",
+    "Notes/Comment mener un projet numérique.md",
     "Notes/Gérer son environnement numérique.md",
-    "Notes/Quelles sont les compétences numériques à acquérir et à développer en interne.md",
-    "Notes/Numérique et musée, quelques définitions.md",
-    "Notes/Gérer ses collections.md",
-    "Notes/Agenda.md"
+    "Notes/Rapports NEMO.md",
+    "index.md",
+    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
+    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
+    "Notes/Exemples de projets de numérisation des collections et leurs applications.md",
+    "Notes/Agile Development in Non-Agile Museum.md",
+    "Notes/Démarches open et licences libres.md"
   ]
 }
