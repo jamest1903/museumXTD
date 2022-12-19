@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "a46f95dce5ee2d79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Rapports NEMO.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ecd38886e5883b80",
             "type": "leaf",
             "state": {
@@ -50,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Comment évaluer un projet numérique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "330dabdf0a196750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/L’évaluation dans la culture. Pourquoi et comment évaluer.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agen",
+                "query": "2018",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Agenda.md",
+                "file": "Notes/L’évaluation dans la culture. Pourquoi et comment évaluer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Agenda.md",
+                "file": "Notes/L’évaluation dans la culture. Pourquoi et comment évaluer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Agenda.md"
+                "file": "Notes/L’évaluation dans la culture. Pourquoi et comment évaluer.md"
               }
             }
           },
@@ -219,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f94996e4a92f010",
+  "active": "330dabdf0a196750",
   "lastOpenFiles": [
-    "Notes/La pratique muséale numérique. Une approche globale.md",
     "Notes/Comment évaluer un projet numérique.md",
-    "Notes/Évaluation finale du projet.md",
+    "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
     "Notes/Europeana Impact Playbook.md",
+    "Notes/Agenda.md",
+    "Notes/La pratique muséale numérique. Une approche globale.md",
+    "Notes/Évaluation finale du projet.md",
     "Notes/Comment mener un projet numérique.md",
     "Notes/Gérer son environnement numérique.md",
     "Notes/Rapports NEMO.md",
-    "index.md",
-    "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
+    "index.md"
   ]
 }
