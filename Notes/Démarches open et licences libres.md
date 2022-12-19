@@ -8,7 +8,7 @@ eleventyNavigation:
   parent: définitions
 ---
 # Démarches open et licences libres
-La numérisation des bases de données dans les musées pose des questions de gestion et d'accessibilité de ces bases à l'extérieur de l'institution. Plusieurs démarches peuvent être adoptées. 
+La numérisation des bases de données dans les musées pose des questions de gestion et d'accessibilité de ces bases à l'extérieur de l'institution. Plusieurs démarches peuvent être adoptées, en voici quelques unes: 
 
 1. L'open content
    L'open content "qualifie des travaux qui peuvent être modifiés ou copiés sans faire référence au créateur initial du contenu".
