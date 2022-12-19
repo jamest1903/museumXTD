@@ -54,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1914bee81d475a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/La pratique muséale numérique. Une approche globale.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f94996e4a92f010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Agenda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e779800c9f4de67e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Europeana Impact Playbook.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "non-agile",
+                "query": "agen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Comment évaluer un projet numérique.md",
+                "file": "Notes/Agenda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Comment évaluer un projet numérique.md",
+                "file": "Notes/Agenda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Comment évaluer un projet numérique.md"
+                "file": "Notes/Agenda.md"
               }
             }
           },
@@ -182,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff11756d4f107184",
+  "active": "9f94996e4a92f010",
   "lastOpenFiles": [
-    "Notes/Comment mener un projet numérique.md",
+    "Notes/La pratique muséale numérique. Une approche globale.md",
     "Notes/Comment évaluer un projet numérique.md",
+    "Notes/Évaluation finale du projet.md",
+    "Notes/Europeana Impact Playbook.md",
+    "Notes/Comment mener un projet numérique.md",
     "Notes/Gérer son environnement numérique.md",
     "Notes/Rapports NEMO.md",
     "index.md",
     "Notes/Processus de développement des modules numériques par les musées de Pully.md",
-    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/Exemples de projets de numérisation des collections et leurs applications.md",
-    "Notes/Agile Development in Non-Agile Museum.md",
-    "Notes/Démarches open et licences libres.md"
+    "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md"
   ]
 }
