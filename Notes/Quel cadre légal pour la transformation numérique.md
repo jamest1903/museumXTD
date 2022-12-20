@@ -23,4 +23,4 @@ Qu’il s’agisse de la gestion des collections ou d’innovation relative à l
    L'Independent Media Arts Alliance (IMAA) propose un manifeste, un livre blanc de la cybersécurité et des cyberprotocoles pour aborder la question de la cybersécurité pour les institutions culturelles.  
 
 
-Ressource similaire: [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]]
+Ressource similaire: [[Comment créer et valoriser une collection numérique|Comment créer et valoriser une collection numérique?]], [[Démarches open et licences libres]]

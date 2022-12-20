@@ -16,7 +16,7 @@ Néanmoins, l'enjeu post-COVID19 est de trouver un degré de numérisation plus 
 1. [[Enquête sur la digitalisation des musées de Suisse romande, vers une virtualisation de la culture]]
    L'enquête présente les actions développées par les musées vaudois durant la période de COVID-19 et interroge quant à la position critique à adopter face au numérique. Elle recense trois réactions différentes de la part des institutions lors de leur fermeture. 
 2. [[Etudes Culture & Covid19]]
-   L'Oeil du Public (Suisse) a publié plusieurs rapports en 2020 et 2021 à propos des conséquences du COVID-19 sur les pratiques culturelles des publics ainsi que dans les institutions culturelles.
+   L'Oeil du Public (Suisse) a publié plusieurs rapports en 2020, 2021 et 2022 à propos des conséquences du COVID-19 sur les pratiques culturelles des publics ainsi que dans les institutions culturelles.
 3. [[Rapports COVID-19 de l'Unesco]] 
    En 2020 et 2021, l'ICOM ainsi que l'Unesco ont publié des rapports sur l'impact du COVID-19 sur les musées dans le monde. 
 4. [[Rapport COVID-19 de l'ICOM]]

@@ -20,6 +20,66 @@
             }
           },
           {
+            "id": "7a30f22fde8f1282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Etudes Culture & Covid19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "408b9d1865169ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Quel cadre légal pour la transformation numérique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dcb2dbb490bbee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Digitization of Museum Collections.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34f61ea3c3e0af6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Copyright and digital culture heritage.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1897356cba2ec7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/MuseumXTD - Tatiana Jullier.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5adf45c8403d2e65",
             "type": "leaf",
             "state": {
@@ -90,20 +150,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e779800c9f4de67e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Europeana Impact Playbook.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comment évaluer",
+                "query": "lionel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -170,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Etudes Culture & Covid19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Etudes Culture & Covid19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Notes/Etudes Culture & Covid19.md"
               }
             }
           },
@@ -230,17 +279,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88c55bbc165068ba",
+  "active": "7a30f22fde8f1282",
   "lastOpenFiles": [
-    "Notes/Gérer son environnement numérique.md",
-    "Notes/Comment évaluer un projet numérique.md",
-    "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
-    "Notes/Qu'est-ce qu'une stratégie numérique.md",
-    "Notes/La pratique muséale numérique. Une approche globale.md",
-    "Notes/Comment mener un projet numérique.md",
-    "Notes/Démarches open et licences libres.md",
-    "Notes/Numérique et musée, quelques définitions.md",
+    "Notes/Quel est l'impact du COVID-19 sur la numérisation des musées.md",
+    "Notes/Comprendre la transformation numérique.md",
     "index.md",
-    "images/Bolli-L_Les-étapes-de-numérisation-des-objets@2x.png"
+    "Notes/Quel cadre légal pour la transformation numérique.md",
+    "Notes/Digitization of Museum Collections.md",
+    "Notes/Copyright and digital culture heritage.md",
+    "Notes/MuseumXTD - Tatiana Jullier.md",
+    "Notes/Gérer son environnement numérique.md",
+    "Notes/L’évaluation dans la culture. Pourquoi et comment évaluer.md",
+    "Notes/Agenda.md"
   ]
 }
