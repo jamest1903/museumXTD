@@ -160,13 +160,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "8050d2b7ec9fa02c",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "3f41341003522eed",
             "type": "leaf",
@@ -177,7 +171,51 @@
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "051937a124b45bd2"
+          }
+        ],
+        "currentTab": 13
+      },
+      {
+        "id": "cf5555ffc1575336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f5f8bce4266ae6f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "index.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "051937a124b45bd2"
           }
         ]
       }
@@ -246,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md"
+                "file": "index.md"
               }
             }
           },
@@ -316,8 +354,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "88c55bbc165068ba",
+  "active": "0f5f8bce4266ae6f",
   "lastOpenFiles": [
+    "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
     "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Le projet DOORS.md",
     "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
@@ -326,7 +365,6 @@
     "Notes/Exemples d'initiatives internationales pour la transition numérique de la culture.md",
     "Notes/Pour démarrer.md",
     "index.md",
-    "Notes/Numérique et Musée.md",
-    "Notes/Agenda.md"
+    "Notes/Numérique et Musée.md"
   ]
 }
