@@ -23,7 +23,7 @@ Dans cette perspective, le [Réseau canadien d'information sur le patrimoine (RC
 	- Etablir un plan d'action 
 - Recommandation 2: utiliser les raccourcis et les outils déjà en place pour simplifier l'inventaire (cf recommandation 1)
 - Recommandation 3: utiliser de l'espace de stockage supplémentaire plutôt qu'un système d'information archivistique ouvert
-- Les études de cas de deux petits musées canadiens: 
+- Les études de cas de deux musées canadiens: 
 	- [Musée du 8th Hussars](https://www.canada.ca/fr/reseau-information-patrimoine/services/preservation-numerique/hussars-etude-musee.html)
 	- [Musée Medalta](https://www.canada.ca/fr/reseau-information-patrimoine/services/preservation-numerique/medalta-etude-musee.html)
   

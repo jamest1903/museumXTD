@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags: ressource projet
 eleventyNavigation:
   key: initiatives
-  title: Initiatives internationales pour la transition numérique des petits et moyens musées
+  title: Initiatives internationales pour la transition numérique de la culture
   parent: comprendre
 ---
 

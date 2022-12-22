@@ -4,7 +4,7 @@ layout: layouts/post.njk
 ---
 # Numérique & Musée
 
-**MuseumXTD** est une boîte à outils pour comprendre ce qu'est la transition numérique pour les petits et moyens musées au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre.
+**MuseumXTD** est une boîte à outils pour comprendre ce qu'est la transition numérique pour les musées au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre.
 Mettant en lumière les réalités et enjeux de la transition numérique, ces ressources permettent de se positionner face aux discours, mythes et injonctions extérieures à l'institution muséale.
 
 Rester au courant du projet ? Donner votre avis ? [Cliquer ici](https://6e13e580.sibforms.com/serve/MUIEAJex9Gqy_GXlFogQqcGyYVXOZFFX8aHrYfffBiqjakg6wRCQTSUlxrpSXVkD6QEDI5CcmfGJhrDrkka2x7JvV-3YTESgygGo3Kq7DH-XD64whZr_JzkZgiL5lqiCeG3yKwBPjHJ6fyObFfcWQmqXpGkXQ3Ah4sgQV2mUjiMQ2hUe8pnjyP1gOywBca-q4MvmvdSwfxEFpgHr) 

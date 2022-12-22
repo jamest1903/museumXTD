@@ -5,7 +5,7 @@ tags:
 ---
 # Pour démarrer
 ## Naviguer sur ce site
-**MuseumXTD** est une plateforme de ressources évolutive pour comprendre ce qu'est la transition numérique pour les petits et moyens musées au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre. <br>
+**MuseumXTD** est une plateforme de ressources évolutive pour comprendre ce qu'est la transition numérique pour les musées au travers de réflexions, d'exemples et d'outils suisses ou internationaux en accès libre. <br>
 A travers un concept de question-réponse, la plateforme met à disposition des fiches synthèses (les réponses) rassemblées par thématiques (les questions). Les hyperliens vous permettent de naviguer à travers toute la plateforme. 
 
 ## Démarrer avec une sélection d'articles
