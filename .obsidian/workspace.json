@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a30f22fde8f1282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Agenda.md",
+                "file": "Notes/Comment élaborer une stratégie numérique.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,102 +26,6 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.1.8"
-              }
-            }
-          },
-          {
-            "id": "408b9d1865169ffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Quel cadre légal pour la transformation numérique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3dcb2dbb490bbee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Digitization of Museum Collections.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34f61ea3c3e0af6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Copyright and digital culture heritage.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1897356cba2ec7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/MuseumXTD - Tatiana Jullier.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5adf45c8403d2e65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Comment évaluer un projet numérique.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecd38886e5883b80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Comment mener un projet numérique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff11756d4f107184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Démarches open et licences libres.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "330dabdf0a196750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/L’évaluation dans la culture. Pourquoi et comment évaluer.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -167,57 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "Notes/Exemples de stratégies numériques de musées.md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "051937a124b45bd2"
+            }
           }
         ],
-        "currentTab": 13
-      },
-      {
-        "id": "cf5555ffc1575336",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0f5f8bce4266ae6f",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "index.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "051937a124b45bd2"
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,8 +112,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Exemples de stratégies numériques de musées.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Exemples de stratégies numériques de musées.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Notes/Exemples de stratégies numériques de musées.md"
               }
             }
           },
@@ -354,17 +202,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "0f5f8bce4266ae6f",
+  "active": "3f41341003522eed",
   "lastOpenFiles": [
+    "Notes/Comment élaborer une stratégie numérique.md",
+    "index.md",
+    "Navigation/Ressources.md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
+    "Notes/Exemples de stratégies numériques de musées.md",
+    "Notes/Gérer son environnement numérique.md",
     "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
     "Notes/Le projet DOORS.md",
     "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
-    "Brouillon/Gestion des collections.md",
-    "Navigation/Forum 2022.md",
-    "Notes/Exemples d'initiatives internationales pour la transition numérique de la culture.md",
-    "Notes/Pour démarrer.md",
-    "index.md",
-    "Notes/Numérique et Musée.md"
+    "Brouillon/Gestion des collections.md"
   ]
 }
