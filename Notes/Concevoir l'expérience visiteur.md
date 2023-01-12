@@ -13,7 +13,7 @@ eleventyNavigation:
 
 [[Comment penser le marketing et la communication avec le numérique|Comment penser le marketing et la communication avec le numérique?]]
 
-[[Outils numériques du marketing et de la communication]]
+[[Les outils numériques du marketing et de la communication]]
 
 [[Pourquoi et comment réaliser un projet d'exposition virtuelle|Pourquoi et comment réaliser un projet d'exposition virtuelle?]]
 

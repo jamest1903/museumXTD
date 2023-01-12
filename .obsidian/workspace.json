@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9adb499e6b43cdf4",
+        "id": "e070def6b02aaf63",
         "type": "tabs",
         "children": [
           {
-            "id": "88c55bbc165068ba",
+            "id": "0f966b23257cb37b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Comment élaborer une stratégie numérique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d46599acd7b94969",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
-          },
-          {
-            "id": "1914bee81d475a7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f94996e4a92f010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Agenda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f41341003522eed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Exemples de stratégies numériques de musées.md",
-                "mode": "source",
+                "file": "Notes/Les outils numériques du marketing et de la communication.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "petits",
+                "query": "outils numériques",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -112,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Exemples de stratégies numériques de musées.md",
+                "file": "Notes/Les outils numériques du marketing et de la communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Exemples de stratégies numériques de musées.md",
+                "file": "Notes/Les outils numériques du marketing et de la communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Exemples de stratégies numériques de musées.md"
+                "file": "Notes/Les outils numériques du marketing et de la communication.md"
               }
             }
           },
@@ -202,17 +156,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3f41341003522eed",
+  "active": "0f966b23257cb37b",
   "lastOpenFiles": [
+    "Notes/Exemples de stratégies numériques de musées.md",
+    "Notes/Agenda.md",
+    "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
     "Notes/Comment élaborer une stratégie numérique.md",
     "index.md",
     "Navigation/Ressources.md",
     "Notes/Pourquoi et comment réaliser un projet d'exposition virtuelle.md",
-    "Notes/Exemples de stratégies numériques de musées.md",
     "Notes/Gérer son environnement numérique.md",
     "Notes/Le projet Ramuz. Cas d’étude des Musées de Pully autour de C. F. Ramuz.md",
-    "Notes/Le projet DOORS.md",
-    "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
-    "Brouillon/Gestion des collections.md"
+    "Notes/Le projet DOORS.md"
   ]
 }

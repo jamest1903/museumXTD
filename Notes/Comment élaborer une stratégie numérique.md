@@ -16,7 +16,7 @@ En voici quelques uns:
    Comprendre d'où l'on part est l'une des premières étapes dans l'élaboration de sa stratégie numérique. Etablir un état des lieux nécessite de se référer à une grille d'évaluation de l'existant. Vous pourrez trouver ici deux diagnostics complémentaires, disposant de grilles différentes. 
 2. [[Cartographie de ma transformation numérique]]
    Cet outil, également développé par Virage NumériCQ, permet de formuler les besoins et objectifs pour élaborer une stratégie numérique. 
-3. - [Digital Strategy for Museums Guide](https://www.cogapp.com/r-d/digital-strategy)
+3. [Digital Strategy for Museums Guide](https://www.cogapp.com/r-d/digital-strategy)
   L'agence Cogapp propose une liste de quelques documents de stratégie numérique de musées anglophones. 
 4. [[Le projet DOORS|DOORS: Digital Incubator for Museums]]   
    Le projet DOORS est un programme de soutien favorisant la transformation numérique des petits et moyens musées européens. Il met à disposition de la documentation sur les méthodes et outils utilisés. 

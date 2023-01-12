@@ -14,6 +14,6 @@ Ce mémoire de 2019 s'intéresse à la manière dont les musées s'emparent des 
   
 Ce mémoire a été rédigé dans le cadre du du cours de muséologie 2019-2020 de l'ICOM. 
 
-A INCLURE dans [[Outils numériques du marketing et de la communication]] ou répète d'autres ressources
+A INCLURE dans [[Les outils numériques du marketing et de la communication]] ou répète d'autres ressources
 
 Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: [info@museumxtd.ch](mailto:info@museumxtd.ch)
