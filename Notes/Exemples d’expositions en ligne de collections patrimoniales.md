@@ -16,6 +16,7 @@ Ci-dessous une liste d'exemples d'expositions en ligne, réalisées par ou en co
 - [Les Alpes en 3D. Un voyage virtuel à travers la Suisse et le massif du Mont Blanc...en 1930](https://www.unil.ch/viaticalpes/home/menuguid/exposition-virtuelle.html) (Unil)
 - [De Haute Lutte](https://wp.unil.ch/dehautelutte/expos-en-ligne/) (Unil)
 - [Caché ou montré. Le corps féminin dans l'art grec](https://www.eprouvette-unil.ch/evenement/cache-ou-montre-le-corps-feminin-dans-lart-grec/) (Unil)
+- [Histoire extraordinaire des imprimés ordinaires](https://demelerlecordelexpo2022.wpcomstaging.com/) (Université de Genève)
 - [Parcours interactif - Histoire vaudoise](http://www.visite.mcah.ch/#/mcah-web-geed)  (Musée cantonal d'archéologie et d'histoire)
 - Le [5e étage](https://5e.centre.ch/en/) (Centre d'Art Contemporain de Genève)    
 - [ptyxel.net](https://ptyxel.net/) (Édition 2021 du printemps de la poésie)  
