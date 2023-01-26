@@ -1,3 +1,7 @@
+---
+title: MuseumXTD  
+layout: layouts/post.njk  
+---
 
 # Newsletters
 26.01.2023: [Et les collections dans tout ça?](https://4y3oe.r.a.d.sendibm1.com/mk/mr/pJbx6EI7SKYyPat7OCO3ARDQxU0z2KatZ07Vwp_2QKFm-gu05kkUQnQJf7It4uumirt5ZME1d1IHJnWK1wPxI3Elin4cMz8jWUqeKlE4Br5L74Cqyjacv9P0LeIxlOkS9tRBi20t)

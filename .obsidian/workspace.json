@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/Newsletters.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/Newsletters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/A propos.md",
+                "file": "Notes/Newsletters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/A propos.md"
+                "file": "Notes/Newsletters.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "0f966b23257cb37b",
   "lastOpenFiles": [
-    "Notes/Newsletters.md",
     "Navigation/A propos.md",
+    "Notes/Newsletters.md",
     "index.md",
     "Navigation/Ressources.md",
     "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
