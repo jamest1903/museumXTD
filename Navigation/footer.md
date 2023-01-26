@@ -22,4 +22,5 @@
 <!-- - [Contact](/Navigation/A propos/index.html#Contact) -->
 <!-- - [Contact](/Navigation/A%20propos/#Contact) -->
 
+- [[Newsletters]]
 - [Contact](/Navigation/A%20propos#Contact)
