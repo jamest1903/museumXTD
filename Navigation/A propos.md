@@ -35,9 +35,11 @@ La plateforme **MuseumXTD** est issue du projet de recherche appliquée mené pa
 ## Code et design
 La plateforme est développée en collaboration avec la société [Concilio](https://www.concilioltd.com/) et le [MEI](https://heig-vd.ch/rad/instituts/mei). Elle est hébergée sur les serveurs du [MEI](https://heig-vd.ch/rad/instituts/mei) et a été développée selon des méthodes d’éco-conception qui limitent son empreinte carbone. Le code est accessible sur cette [page Github](https://github.com/MediaComem/museumXTD).
 
-    
+
 ## Contact
-Vous souhaitez rester au courant de la suite du projet ? Nous adresser un retour? Contactez-vous via [ce formulaire](https://6e13e580.sibforms.com/serve/MUIEAEIKAbyrbuyyFoX325xECn_-FivBZ_w7x0x0JbYpdhGzsuc2HGj9na99Qi-uw8VP3LlaySseIFMmGn06hw9TT_scBOc_O9XxUG_bng5Kt2mWawqE07YTXo8aAWewF9lTFwpUqYJAFrhW_PCqbP3aOA2pSb81YneZA4uk68Mjq-w3NvJMhpDPu8-qX5rs0llVsZvxVChtyOsg) ou envoyez-nous un mail à [info@museumxtd.ch](mailto:info@museumxtd.ch?subject=Contact "Envoyer un mail à info@museumxtd.ch")
+Vous souhaitez vous abonnez à notre newsletter (une fois toutes les deux semaines)? Ou nous adresser un retour? Remplissez [ce formulaire](https://6e13e580.sibforms.com/serve/MUIEAEIKAbyrbuyyFoX325xECn_-FivBZ_w7x0x0JbYpdhGzsuc2HGj9na99Qi-uw8VP3LlaySseIFMmGn06hw9TT_scBOc_O9XxUG_bng5Kt2mWawqE07YTXo8aAWewF9lTFwpUqYJAFrhW_PCqbP3aOA2pSb81YneZA4uk68Mjq-w3NvJMhpDPu8-qX5rs0llVsZvxVChtyOsg) ou envoyez-nous un mail à [info[@]museumxtd.ch](mailto:info@museumxtd.ch?subject=Contact "Envoyer un mail à info@museumxtd.ch")
+
+Retrouvez l'ensemble de nos newsletter sur cette [[Newsletters|page]]
 
 ## Soutien
 En tant que projet de transformation, il a bénéficié du soutien du Service des affaires culturelles du Canton de Vaud, ainsi que de celui de l’Office fédéral de la culture.   
