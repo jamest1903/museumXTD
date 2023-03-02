@@ -13,11 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/footer.md",
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "f8de5ed6c69b8ed2"
           },
           {
             "id": "82124034ef3dbb27",
@@ -30,6 +31,48 @@
                 "source": false
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "e423b5d9f2903bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18143a544b942d07",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "f8de5ed6c69b8ed2"
           }
         ]
       }
@@ -60,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expositions",
+                "query": "A*",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/footer.md",
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/footer.md",
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/footer.md"
+                "file": "Comment éditer les contenus de la plateforme/Tableau Acteurs et Projets.md"
               }
             }
           },
@@ -169,15 +212,15 @@
   },
   "active": "0f966b23257cb37b",
   "lastOpenFiles": [
-    "Notes/Newsletters.md",
-    "Navigation/A propos.md",
+    "Notes/Comment penser le marketing et la communication avec le numérique.md",
     "index.md",
     "Navigation/Ressources.md",
-    "Notes/Exemples d’expositions en ligne de collections patrimoniales.md",
-    "Notes/Les outils numériques du marketing et de la communication.md",
-    "Notes/Exemples de stratégies numériques de musées.md",
-    "Notes/Agenda.md",
-    "Notes/La stratégie numérique dans les musées. Pour une approche globale du numérique.md",
-    "Notes/Comment élaborer une stratégie numérique.md"
+    "Notes/Comment mener un projet numérique.md",
+    "Notes/Comprendre la transformation numérique.md",
+    "Notes/Qu'est-ce qu'une stratégie numérique.md",
+    "Navigation/footer.md",
+    "Notes/Newsletters.md",
+    "Navigation/A propos.md",
+    "Notes/Exemples d’expositions en ligne de collections patrimoniales.md"
   ]
 }
