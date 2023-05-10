@@ -9,9 +9,9 @@ Elle présente les actions développées par ces derniers durant la période de 
 
 ## À retenir 
 - Trois définitions du numérique: 
-	1. Définition en **négatif**: le numérique est caractérisé en opposition avec l’analogique ou comme une transposition immatérielle d'éléments physiques
-	2. Définition **utilitariste**: c'est un outil informationnel
-	3. Définition **créative**: le numérique est un langage en soi, avec un potentiel créatif.
+	- Définition en **négatif**: le numérique est caractérisé en opposition avec l’analogique ou comme une transposition immatérielle d'éléments physiques
+	- Définition **utilitariste**: c'est un outil informationnel
+	- Définition **créative**: le numérique est un langage en soi, avec un potentiel créatif.
 - La définition du virtuel comme une extension du numérique, un espace, "un lieu d’expression des ressources digitales". 
 - L'utilisation du numérique par les musées suisses romands lors de la pandémie. Ces derniers ont réagi de trois façons différentes:
 	- Minimaliste (rien de particulier mis en place)

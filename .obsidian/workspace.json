@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Museum Innovation Barometer.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Comment évaluer un projet numérique.md",
-                "mode": "preview",
+                "file": "Notes/Concevoir l'expérience visiteur.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Museum Innovation Barometer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Notes/Museum Innovation Barometer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Notes/Museum Innovation Barometer.md"
               }
             }
           },
@@ -214,8 +214,14 @@
   },
   "active": "c2eeb4defdd32852",
   "lastOpenFiles": [
-    "Notes/Comment évaluer un projet numérique.md",
+    "Notes/Les outils numériques du marketing et de la communication.md",
+    "Notes/Concevoir l'expérience visiteur.md",
+    "Notes/Museum Innovation Barometer.md",
     "index.md",
+    "Notes/Comment évaluer un projet numérique.md",
+    "Notes/Enquête sur la digitalisation des musées de Suisse romande, vers une virtualisation de la culture.md",
+    "Notes/Quels sont les opportunités et les freins.md",
+    "Notes/Comprendre la transformation numérique.md",
     "Comment éditer les contenus de la plateforme/Syntaxe & typologie.md",
     "Comment éditer les contenus de la plateforme/Aide-site-web.md",
     "Comment éditer les contenus de la plateforme/Notes question et ressource.md",
@@ -223,7 +229,6 @@
     "Notes/Comment penser le marketing et la communication avec le numérique.md",
     "Navigation/Ressources.md",
     "Notes/Comment mener un projet numérique.md",
-    "Notes/Comprendre la transformation numérique.md",
     "Notes/Qu'est-ce qu'une stratégie numérique.md",
     "Navigation/footer.md",
     "Navigation/A propos.md",
