@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Museum Innovation Barometer.md",
+                "file": "Notes/Concevoir l'expérience visiteur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Museum Innovation Barometer.md",
+                "file": "Notes/Concevoir l'expérience visiteur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Museum Innovation Barometer.md"
+                "file": "Notes/Concevoir l'expérience visiteur.md"
               }
             }
           },
@@ -212,11 +212,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c2eeb4defdd32852",
+  "active": "7011e3dfa9cd3612",
   "lastOpenFiles": [
+    "Notes/Museum Innovation Barometer.md",
     "Notes/Les outils numériques du marketing et de la communication.md",
     "Notes/Concevoir l'expérience visiteur.md",
-    "Notes/Museum Innovation Barometer.md",
     "index.md",
     "Notes/Comment évaluer un projet numérique.md",
     "Notes/Enquête sur la digitalisation des musées de Suisse romande, vers une virtualisation de la culture.md",
