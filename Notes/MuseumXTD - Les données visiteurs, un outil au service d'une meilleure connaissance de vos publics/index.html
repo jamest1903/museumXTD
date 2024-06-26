@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>MuseumXTD</title>
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="icon" type="image/png" href="https://www.museumxtd.ch/images/MXTD_visuel2022_c.png" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J2QK69ZNT6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-J2QK69ZNT6');
+    </script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/assets/search.js" defer></script>
+  </head>
+  <body>
+    <div class="containerTop">
+      <div id="masthead">
+        M u s e u m X T D
+      </div>
+      <!-- topbar Menu -->
+      <nav id="site-nav" role="navigation">
+        <div id="menuToggle"> 
+          <!--
+          hidden checkbox is used as click reciever,
+          so you can use the :checked selector on it.
+          -->
+          <input id="toggle" name="toggle" type="checkbox" />
+          <label id="toggle-label" for="toggle">
+            <span>menu</span>
+          </label>
+
+          <div id="menu-mobile" >
+            <div class="navMenu" >
+              <p><a href="/Navigation/A%20propos/">À propos</a> <a href="/index.html">Ressources</a> <a href="/tables/">Répertoire</a> <a href="/Navigation/search/">Rechercher</a> <a href="/Navigation/Forum%202022/">Forum 2022</a></p>
+
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+    <div class='layout-post main-container'>
+	<div id="breadCrumbs">
+      
+    </div>
+	<div class='centered'>
+		<div class='column'>
+			<div class='ui basic segment'>
+				<h2 id="Les-donnees-visiteurs-un-outil-au-service-d'une-meilleure-connaissance-de-vos-publics" tabindex="-1">Les données visiteurs, un outil au service d'une meilleure connaissance de vos publics</h2>
+<p><a href="https://www.linkedin.com/in/fabienmorf/">Fabien Morf</a><br>
+Fondateur &amp; directeur, <a href="https://loeildupublic.com/">L'Oeil du Public (Suisse)</a> (CH)</p>
+<p><a href="https://www.linkedin.com/in/soljim/">Solène Jimenez</a><br>
+Directrice du développement international, <a href="https://arenametrix.com/">Arenametrix</a> (FR)</p>
+<p>Dans un contexte où la rétention des visiteurs et la conversion des non-visiteurs s’avèrent vitales, les données visiteurs revêtent un intérêt stratégique: la connaissance des publics (et non-publics) est la clef de voûte d’une augmentation pérenne de la fréquentation. Comment acquérir des données visiteurs solides et utiles? L’Oeil du Public et Arenametrix font le point sur les outils à disposition.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-FMT5BWLR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://kdrive.infomaniak.com/app/share/131928/1c3eb6ae-86a9-4a6d-9bc4-30f5a4cdfddc">Téléchargez la présentation de L'Oeil du Public (Suisse) en pdf ici</a></p>
+<p><a href="https://kdrive.infomaniak.com/app/share/131928/e3438789-175f-4f96-a15b-49415ec814fc">Téléchargez la présentation d'Arenametrix en pdf ici</a></p>
+<p>Retrouver l'ensemble des conférences sur <a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw">notre chaîne YouTube</a>.</p>
+
+			</div>
+		</div>
+	</div>
+</div>
+    <footer>
+      <nav id="footer-nav">
+        <picture>
+<source media="(min-width: 600px)" srcset="/images/Logo-Concilio.svg" />
+<a href="https://www.concilioltd.com/" title="concilioltd.com">
+<img alt="Logo Concilio" src="/images/Logo-Concilio.svg"></a>
+</picture>
+<picture>
+<source media="(min-width: 600px)" srcset="/images/Logo_HEIG-VD_MEI.svg" />
+<a href="https://heig-vd.ch/rad/instituts/mei/" title="MEI HEIG-VD"><img alt="Logo MEI" src="/images/Logo_HEIG-VD_MEI.svg"></a>
+</picture>
+<!-- alterner "+" et "-" pour séparer chacune des listes dans sa colonne -->
+<ul>
+<li><a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw">YouTube</a></li>
+<li><a href="https://github.com/MediaComem/museumXTD/">GitHub</a></li>
+</ul>
+<ul>
+<li>Code et Design</li>
+<li>HEIG-VD | MEI</li>
+</ul>
+<!-- - [[A propos#Contact|Contact]] -->
+<!-- - [Contact](/Navigation/A propos/index.html#Contact) -->
+<!-- - [Contact](/Navigation/A%20propos/#Contact) -->
+<ul>
+<li><a href="/Notes/Newsletters/">Newsletters</a></li>
+<li><a href="/Navigation/A%20propos#Contact">Contact</a></li>
+</ul>
+
+      </nav>
+      <div id="mastfoot">
+        <p>M u s e u m X T D</p>
+      </div>
+    </footer>
+    <div id="footer-padding"></div>
+  </body>
+  <script defer>
+    const searchElement = document.getElementById('searchString')
+    if (searchElement) {
+      searchElement.addEventListener('input', (event) => {
+        search();
+      });
+    }
+  </script>
+</html>

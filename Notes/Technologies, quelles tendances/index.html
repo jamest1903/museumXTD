@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>MuseumXTD</title>
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="icon" type="image/png" href="https://www.museumxtd.ch/images/MXTD_visuel2022_c.png" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J2QK69ZNT6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-J2QK69ZNT6');
+    </script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/assets/search.js" defer></script>
+  </head>
+  <body>
+    <div class="containerTop">
+      <div id="masthead">
+        M u s e u m X T D
+      </div>
+      <!-- topbar Menu -->
+      <nav id="site-nav" role="navigation">
+        <div id="menuToggle"> 
+          <!--
+          hidden checkbox is used as click reciever,
+          so you can use the :checked selector on it.
+          -->
+          <input id="toggle" name="toggle" type="checkbox" />
+          <label id="toggle-label" for="toggle">
+            <span>menu</span>
+          </label>
+
+          <div id="menu-mobile" >
+            <div class="navMenu" >
+              <p><a href="/Navigation/A%20propos/">À propos</a> <a href="/index.html">Ressources</a> <a href="/tables/">Répertoire</a> <a href="/Navigation/search/">Rechercher</a> <a href="/Navigation/Forum%202022/">Forum 2022</a></p>
+
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+    <div class='layout-post main-container'>
+	<div id="breadCrumbs">
+      
+        
+        
+          <a class="crumb" href="/">Ressources</a>
+          /
+        
+          <a class="crumb" href="/Notes/Comprendre la transformation numérique/">Comprendre la transformation numérique</a>
+          /
+        
+      
+    </div>
+	<div class='centered'>
+		<div class='column'>
+			<div class='ui basic segment'>
+				<h1 id="Technologies-quelles-tendances" tabindex="-1"><strong>Technologies, quelles tendances?</strong></h1>
+<p>Les dispositifs numériques mis en place dans les musées utilisent plusieurs technologies selon l'objectif souhaité. Certaines sont plus populaires que d'autres.</p>
+<ol>
+<li><a href="/Notes/Museum%20Innovation%20Barometer/">Museum Innovation Barometer</a><br>
+Ce rapport de 2021 synthétise les usages actuels et envisagés du numérique selon différentes activités (à partir de la p.15). Il s'agit d'un sondage effectué auprès de professionnel·le·s de musée du monde entier.</li>
+<li><a href="/Notes/Gartner%20Hype%20Cycle/">Gartner Hype Cycle</a><br>
+Le <em>Gartner Hype Cycle</em> est une représentation graphique et conceptuelle de la maturité des technologies émergeantes sur le marché.</li>
+<li><a href="/Notes/The%20impact%20of%20digital%20technology%20on%20arts%20culture%20in%20the%20UK/">The impact of digital technology on arts culture in the UK</a><br>
+Ce rapport synthétise les dynamiques des nouvelles technologies dans le secteur des arts et de la culture au Royaume-Uni. Il définit explicitement les technologies émergeantes qui sont susceptibles d'affecter l'avenir du secteur des industries culturelles et créatives (p. 2 et 3).</li>
+</ol>
+
+			</div>
+		</div>
+	</div>
+</div>
+    <footer>
+      <nav id="footer-nav">
+        <picture>
+<source media="(min-width: 600px)" srcset="/images/Logo-Concilio.svg" />
+<a href="https://www.concilioltd.com/" title="concilioltd.com">
+<img alt="Logo Concilio" src="/images/Logo-Concilio.svg"></a>
+</picture>
+<picture>
+<source media="(min-width: 600px)" srcset="/images/Logo_HEIG-VD_MEI.svg" />
+<a href="https://heig-vd.ch/rad/instituts/mei/" title="MEI HEIG-VD"><img alt="Logo MEI" src="/images/Logo_HEIG-VD_MEI.svg"></a>
+</picture>
+<!-- alterner "+" et "-" pour séparer chacune des listes dans sa colonne -->
+<ul>
+<li><a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw">YouTube</a></li>
+<li><a href="https://github.com/MediaComem/museumXTD/">GitHub</a></li>
+</ul>
+<ul>
+<li>Code et Design</li>
+<li>HEIG-VD | MEI</li>
+</ul>
+<!-- - [[A propos#Contact|Contact]] -->
+<!-- - [Contact](/Navigation/A propos/index.html#Contact) -->
+<!-- - [Contact](/Navigation/A%20propos/#Contact) -->
+<ul>
+<li><a href="/Notes/Newsletters/">Newsletters</a></li>
+<li><a href="/Navigation/A%20propos#Contact">Contact</a></li>
+</ul>
+
+      </nav>
+      <div id="mastfoot">
+        <p>M u s e u m X T D</p>
+      </div>
+    </footer>
+    <div id="footer-padding"></div>
+  </body>
+  <script defer>
+    const searchElement = document.getElementById('searchString')
+    if (searchElement) {
+      searchElement.addEventListener('input', (event) => {
+        search();
+      });
+    }
+  </script>
+</html>

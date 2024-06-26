@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>MuseumXTD</title>
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="icon" type="image/png" href="https://www.museumxtd.ch/images/MXTD_visuel2022_c.png" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J2QK69ZNT6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-J2QK69ZNT6');
+    </script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/assets/search.js" defer></script>
+  </head>
+  <body>
+    <div class="containerTop">
+      <div id="masthead">
+        M u s e u m X T D
+      </div>
+      <!-- topbar Menu -->
+      <nav id="site-nav" role="navigation">
+        <div id="menuToggle"> 
+          <!--
+          hidden checkbox is used as click reciever,
+          so you can use the :checked selector on it.
+          -->
+          <input id="toggle" name="toggle" type="checkbox" />
+          <label id="toggle-label" for="toggle">
+            <span>menu</span>
+          </label>
+
+          <div id="menu-mobile" >
+            <div class="navMenu" >
+              <p><a href="/Navigation/A%20propos/">À propos</a> <a href="/index.html">Ressources</a> <a href="/tables/">Répertoire</a> <a href="/Navigation/search/">Rechercher</a> <a href="/Navigation/Forum%202022/">Forum 2022</a></p>
+
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+    <div class='layout-post main-container'>
+	<div id="breadCrumbs">
+      
+        
+        
+          <a class="crumb" href="/">Ressources</a>
+          /
+        
+          <a class="crumb" href="/Notes/Gérer son environnement numérique/">Gérer son environnement numérique</a>
+          /
+        
+          <a class="crumb" href="/Notes/Comment élaborer une stratégie numérique/">Comment élaborer une stratégie numérique?</a>
+          /
+        
+      
+    </div>
+	<div class='centered'>
+		<div class='column'>
+			<div class='ui basic segment'>
+				<h3 id="Diagnostic-de-maturite-numerique" tabindex="-1"><a href="https://docs.google.com/spreadsheets/d/1d77BekbvXFDBTZjhSDKhZvQjIY2dtMNPZPDiyw-Nq2Y/edit#gid=963154001">Diagnostic de maturité numérique</a></h3>
+<p>Cet outil permet d'évaluer la maturité numérique d'une petite organisation. Il est disponible dans sa version interactive <a href="https://diagnostic-numerique.viragenumeriqc.com/">ici</a>.</p>
+<h2 id="A-retenir" tabindex="-1">À retenir</h2>
+<ul>
+<li>Une évaluation selon 5 axes:
+<ul>
+<li>Pensée numérique</li>
+<li>Outils de communication</li>
+<li>Stratégie de communication</li>
+<li>Outils organisationnels</li>
+<li>Stratégies organisationnelles</li>
+</ul>
+</li>
+<li>Le tableau en format <em>open access</em>, qui permet de réaliser un diagnostic de maturité numérique.</li>
+<li>L'<a href="/Notes/MuseumXTD%20-%20La%20face%20cach%C3%A9e%20du%20num%C3%A9rique/">intervention au Forum MuseumXTD</a> de 0/1 Hub numérique le 12 octobre 2022.</li>
+</ul>
+<p>Cette ressource fait partie du projet <a href="/Notes/Virage%20Num%C3%A9riCQ/">Virage NumériCQ</a>. Il a été développé de façon collaborative en partenariat avec le <a href="https://wiki.reseauadn.ca/wiki/%C3%80_propos_du_R%C3%A9seau_ADN">Réseau ADN</a> (Agent Du Numérique) et <a href="https://www.hub01.org/">0/1 Hub numérique</a>, entre autres.</p>
+
+			</div>
+		</div>
+	</div>
+</div>
+    <footer>
+      <nav id="footer-nav">
+        <picture>
+<source media="(min-width: 600px)" srcset="/images/Logo-Concilio.svg" />
+<a href="https://www.concilioltd.com/" title="concilioltd.com">
+<img alt="Logo Concilio" src="/images/Logo-Concilio.svg"></a>
+</picture>
+<picture>
+<source media="(min-width: 600px)" srcset="/images/Logo_HEIG-VD_MEI.svg" />
+<a href="https://heig-vd.ch/rad/instituts/mei/" title="MEI HEIG-VD"><img alt="Logo MEI" src="/images/Logo_HEIG-VD_MEI.svg"></a>
+</picture>
+<!-- alterner "+" et "-" pour séparer chacune des listes dans sa colonne -->
+<ul>
+<li><a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw">YouTube</a></li>
+<li><a href="https://github.com/MediaComem/museumXTD/">GitHub</a></li>
+</ul>
+<ul>
+<li>Code et Design</li>
+<li>HEIG-VD | MEI</li>
+</ul>
+<!-- - [[A propos#Contact|Contact]] -->
+<!-- - [Contact](/Navigation/A propos/index.html#Contact) -->
+<!-- - [Contact](/Navigation/A%20propos/#Contact) -->
+<ul>
+<li><a href="/Notes/Newsletters/">Newsletters</a></li>
+<li><a href="/Navigation/A%20propos#Contact">Contact</a></li>
+</ul>
+
+      </nav>
+      <div id="mastfoot">
+        <p>M u s e u m X T D</p>
+      </div>
+    </footer>
+    <div id="footer-padding"></div>
+  </body>
+  <script defer>
+    const searchElement = document.getElementById('searchString')
+    if (searchElement) {
+      searchElement.addEventListener('input', (event) => {
+        search();
+      });
+    }
+  </script>
+</html>

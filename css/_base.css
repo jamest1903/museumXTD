@@ -1,0 +1,411 @@
+/* Resets and styles for base elements */
+
+p {
+  margin-block-start: var(--space-s) ;
+  margin-block-end: var(--line-height-m) ;
+  ;
+}
+p + h1 {
+  color: blue;
+}
+
+
+strong {
+  /* font-family: sans-serif; */
+  font-weight: normal;
+  background-image: linear-gradient(#ffd70000 10%, #7542001a 10%, #7542001a 100%);
+
+}
+
+code {
+  font-size: var(--font-size-xs);
+  font-family: Courier, 'Courier New', monospace ;
+}
+
+/* unordered list */
+ul {
+  padding-left: 0 ;
+  margin-bottom: var(--line-height-m);
+}
+
+
+ul li {
+  list-style: none;
+}
+ul li::before {
+  content: '●';
+  position: absolute;
+  margin-left: -1.3em;
+}
+
+ul ul li {
+  margin-left: 1.5em;
+}
+
+ol li::marker { 
+  margin-left: -1em;
+}
+
+li > h1,
+li > h2,
+li > h3,
+li > h4,
+li > h5,
+li > h6 {
+  margin-bottom: 0 ;
+}
+ /* headings */
+
+h1, h2 {
+  font-weight: normal;
+  margin-top: var(--line-height-l);
+  margin-bottom: var(--line-height-l);
+}
+h3, h4 {
+  font-weight: normal;
+  margin-top: var(--line-height-xl);
+  margin-bottom: var(--line-height-m);
+}
+h5 {
+  font-weight: normal;
+
+  margin-top: var(--line-height-xl);
+  margin-bottom: var(--line-height-m);
+}
+
+h6 {
+  font-weight: normal;
+
+  margin-top: var(--line-height-xs);
+  margin-bottom: var(--line-height-xs);
+}
+
+h1 { 
+  font-size: var(--font-size-xl);
+}
+
+h2 {
+  font-size: var(--font-size-l);
+}
+
+h3 {
+  font-size: var(--font-size-l);
+}
+
+h4 {
+  font-size: var(--font-size-m);
+
+}
+
+h5 {
+  font-size: var(--font-size-s);
+  margin-bottom: var(--line-height-s);
+}
+h5::before {
+  content: "";
+  display: block;
+  border-top: 1px solid var(--black);
+  width: 1.5em;
+  position: absolute;
+  margin-top: -0.5em;
+}
+
+h6 {
+  font-size: var(--font-size-s);
+}
+
+ol {
+  padding-left: 0 ;
+}
+
+@keyframes scaleRotate {
+0% {
+  transform: scale(1) rotate3D( 0, 0, 0, 0deg);
+  animation-timing-function: linear ;
+}
+ 50% {
+  transform: scale(1.15) rotate3D( 0, 65, 0, 2deg);
+  animation-timing-function: cubic-bezier(.18,.89,.32,1.28) ;
+}
+100% {
+  transform: scale(1.3) rotate3D( 0, 0, 0, 0deg);}
+}
+
+
+a {
+
+    border-radius: 6px;
+    padding: 5px;
+    margin: -5px;
+    text-decoration: none;
+
+
+    transition-property: box-shadow, background-color, filter;
+    transition-duration: 4s;
+    transition-timing-function: cubic-bezier(0,0.84,0.13,1); 
+
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+  }
+  a:hover:not(:has(img)),
+  img:hover {
+    background-color: #f2f2f2;
+    box-shadow: 0 0 200px 100px ;
+  
+    transition-property: box-shadow, background-color, filter;
+    transition-duration: 100ms;
+    transition-timing-function: ease-out;
+
+  
+    /* filter: drop-shadow(0 0 3em hsla(240, 100%, 50%, 1)); */
+    /* filter: url(filters.svg#waves) ; */
+  }
+
+
+/* 
+a:active {
+  transition-duration: 300ms;
+  transition-timing-function: ease;
+}
+a:visited {
+  background-color: rgb(194, 194, 194) ;
+}
+
+a:visited:hover {
+  background-color: white;
+} */
+
+/* animation on link gradient background  */
+/* a {
+  border-radius: 6px;
+  padding: 5px;
+  margin: -5px;
+  text-decoration: none;
+
+  background: linear-gradient(90deg, rgba(125, 223, 255, 0) 11.98%, #7DDFFF 29.61%, #00C0FF 35.94%, #0013FF 50.52%, #00C0FF 64.58%, #00D1FF 70.31%, #0013FF 89.58%);
+  background-size: 1000% 100% ;
+  background-position: 0 0 ;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+} 
+
+a:hover {
+  transition-property: background-position ;
+  transition-duration: 1s;
+  transition-timing-function: ease-in;
+  background-position: 100% 0 ;
+  color: white !important;
+  text-shadow: 0 0 7px blue, 0 0 10px blue;
+}
+*/
+
+div.ui.basic.segment  *:nth-child(11n  +1) a:hover { outline-color: hsl(208, 100%, 97%) ; } /*aliceblue*/
+div.ui.basic.segment  *:nth-child(11n  +2) a:hover { outline-color: hsl(180, 100%, 50%) ; } /*aqua|cyan*/
+div.ui.basic.segment  *:nth-child(11n  +3) a:hover { outline-color: hsl(160, 100%, 75%) ; } /*aquamarine*/
+div.ui.basic.segment  *:nth-child(11n  +4) a:hover { outline-color: hsl(180, 100%, 97%) ; } /*azure*/
+div.ui.basic.segment  *:nth-child(11n  +5) a:hover { outline-color: hsl(180, 100%, 94%) ; } /*lightcyan*/
+div.ui.basic.segment  *:nth-child(11n  +6) a:hover { outline-color: hsl(195, 53%, 79%) ; } /*lightblue*/
+div.ui.basic.segment  *:nth-child(11n  +7) a:hover { outline-color: hsl(203, 92%, 75%) ; } /*lightskyblue*/
+div.ui.basic.segment  *:nth-child(11n  +8) a:hover { outline-color: hsl(214, 41%, 78%) ; } /*lightsteelblue*/
+div.ui.basic.segment  *:nth-child(11n  +9) a:hover { outline-color: hsl(195, 100%, 50%) ; } /*deepskyblue*/
+div.ui.basic.segment  *:nth-child(11n +10) a:hover { outline-color: hsl(187, 52%, 80%) ; } /*powderblue*/
+div.ui.basic.segment  *:nth-child(11n    ) a:hover { outline-color: hsl(197, 71%, 73%) ; } /*skyblue*/
+
+div.ui.basic.segment  *:nth-child(12n  +1) a:hover { color: #0000ff ; } /*blue*/
+div.ui.basic.segment  *:nth-child(12n  +2) a:hover { color: hsl(182, 25%, 50%) ; } /*cadetblue*/
+div.ui.basic.segment  *:nth-child(12n  +3) a:hover { color: hsl(219, 79%, 66%) ; } /*cornflowerblue*/
+div.ui.basic.segment  *:nth-child(12n  +4) a:hover { color: hsl(240, 100%, 27%) ; } /*darkblue*/
+div.ui.basic.segment  *:nth-child(12n +5) a:hover { color: hsl(248, 39%, 39%) ; } /*darkslateblue*/
+div.ui.basic.segment  *:nth-child(12n +6) a:hover { color: hsl(210, 100%, 56%) ; } /*dodgerblue*/
+div.ui.basic.segment  *:nth-child(12n +7) a:hover { color: hsl(249, 80%, 67%) ; } /*mediumslateblue*/
+div.ui.basic.segment  *:nth-child(12n +8) a:hover { color: hsl(240, 64%, 27%) ; } /*midnightblue*/
+div.ui.basic.segment  *:nth-child(12n +9) a:hover { color: hsl(240, 100%, 25%) ; } /*navy*/
+div.ui.basic.segment  *:nth-child(12n +10) a:hover { color: hsl(225, 73%, 57%) ; } /*royalblue*/
+div.ui.basic.segment  *:nth-child(12n +11) a:hover { color: hsl(207, 44%, 49%) ; } /*steelblue*/
+div.ui.basic.segment  *:nth-child(12n ) a:hover { color: hsl(248, 53%, 58%) ; } /*slateblue*/
+/*mediumblue
+is the non-hover color */
+/* div.ui.basic.segment *:nth-of-type(25n +17) a:hover { color: hsl(240, 100%, 40%) ; }  */
+
+
+/* div.ui.basic.segment *:nth-of-type(25n  +1) a { color: aliceblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n  +2) a { color: aqua !important ; }
+div.ui.basic.segment *:nth-of-type(25n  +3) a { color: aquamarine !important ; }
+div.ui.basic.segment *:nth-of-type(25n  +4) a { color: azure !important ; }
+div.ui.basic.segment *:nth-of-type(25n  +5) a { color: blue !important ; }
+div.ui.basic.segment *:nth-of-type(25n  +6) a { color: cadetblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n  +7) a { color: cornflowerblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n  +8) a { color: cyan !important ; }
+div.ui.basic.segment *:nth-of-type(25n  +9) a { color: darkblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +10) a { color: darkslateblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +11) a { color: deepskyblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +12) a { color: dodgerblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +13) a { color: lightblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +14) a { color: lightcyan !important ; }
+div.ui.basic.segment *:nth-of-type(25n +15) a { color: lightskyblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +16) a { color: lightsteelblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +17) a { color: mediumblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +18) a { color: mediumslateblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +19) a { color: midnightblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +20) a { color: navy !important ; }
+div.ui.basic.segment *:nth-of-type(25n +21) a { color: powderblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +22) a { color: royalblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +23) a { color: skyblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n +24) a { color: slateblue !important ; }
+div.ui.basic.segment *:nth-of-type(25n    ) a { color: steelblue !important ; } */
+
+
+/* Fake Buttons */
+
+h6 > a,
+h6 > a:visited ,
+h6 > strong > a {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: none;
+  display: inline-block;
+  font-size: var(--font-size-s);
+
+  background-clip: border-box;
+  background-image: none;
+  background-color: rgba(0, 0, 0, 0.1) !important;
+  border-radius: 11px;
+  color: var(--blue) !important;
+
+  padding-inline-start: 16px;
+  padding-inline-end: 16px;
+  padding-block-start: 4px;
+
+  margin: 8px 0;
+
+}
+/* h6 > strong > a:hover {
+  color: var(--black);
+} */
+
+h6 > a:not(:last-child),
+h6 > strong:not(:last-child) {
+  margin-inline-end: var(--space-m);
+}
+
+h6 > strong > a,
+h6 > strong > a:visited {
+  font-weight: normal;
+  color: var(--white) !important;
+  background-color: var(--blue) !important;
+}
+
+
+/* spacer and sections markers */
+hr {
+  margin-top: 4vh;
+  border: 1px solid transparent; /* necessary for margin-bottom */
+}
+hr + hr {
+  margin-top: 16vh;
+  margin-bottom: 20vh;
+}
+hr + hr::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  border-top: 1px solid var(--black);
+}
+
+
+
+img {
+
+    /* max-width: 140%; */
+    max-width: 100%;
+    /* margin-left: -20%;
+    margin-right: -20%; */
+}
+
+img + img {
+  margin-top: var(--space-m);
+}
+
+
+/* 
+Tables
+*/
+
+table {
+  border: 1px solid var(--black);
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table caption {
+  font-size: var(--font-size-s);
+  margin: .5rem 0 .75rem;
+}
+
+table tr {
+  /* background-color: #f8f8f8; */
+  border: 1px solid var(--black);
+  /* padding: .35rem; */
+  vertical-align: top;
+}
+
+table th,
+table td {
+  padding: 1rem;
+  text-align: center;
+}
+
+table th {
+  font-size: var(--font-size-xs);
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: var(--font-size-xs);
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    display: block;
+    margin-bottom: .625rem;
+  }
+  
+  table td {
+    border-bottom: 1px solid var(--black);
+    display: block;
+    font-size: var(--font-size-s);
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}

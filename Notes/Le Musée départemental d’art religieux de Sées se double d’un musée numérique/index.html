@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>MuseumXTD</title>
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="icon" type="image/png" href="https://www.museumxtd.ch/images/MXTD_visuel2022_c.png" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J2QK69ZNT6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-J2QK69ZNT6');
+    </script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/assets/search.js" defer></script>
+  </head>
+  <body>
+    <div class="containerTop">
+      <div id="masthead">
+        M u s e u m X T D
+      </div>
+      <!-- topbar Menu -->
+      <nav id="site-nav" role="navigation">
+        <div id="menuToggle"> 
+          <!--
+          hidden checkbox is used as click reciever,
+          so you can use the :checked selector on it.
+          -->
+          <input id="toggle" name="toggle" type="checkbox" />
+          <label id="toggle-label" for="toggle">
+            <span>menu</span>
+          </label>
+
+          <div id="menu-mobile" >
+            <div class="navMenu" >
+              <p><a href="/Navigation/A%20propos/">À propos</a> <a href="/index.html">Ressources</a> <a href="/tables/">Répertoire</a> <a href="/Navigation/search/">Rechercher</a> <a href="/Navigation/Forum%202022/">Forum 2022</a></p>
+
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+    <div class='layout-post main-container'>
+	<div id="breadCrumbs">
+      
+    </div>
+	<div class='centered'>
+		<div class='column'>
+			<div class='ui basic segment'>
+				<h3 id="Patrimoine-:-le-Musee-departemental-d'art-religieux-de-Sees-(Orne)-se-double-d'un-musee-numerique." tabindex="-1"><a href="https://www.culturematin.com/publics/mediation/pratiques/patrimoine-le-musee-departemental-d-art-religieux-de-sees-orne-se-double-d-un-musee-numerique.html?nl=102360&amp;utm_source=email&amp;utm_id=262150&amp;utm_campaign=newsletter-culturematin-2022-08-31">Patrimoine : le Musée départemental d’art religieux de Sées (Orne) se double d’un musée numérique.</a></h3>
+<p>Florence Caillet-Baraniak raconte le développement du projet Hors les murs du musée départemental d'art religieux de Sées en France. Celui-ci vise à numériser une grande partie des collections du musée, qui ne peut être exposée.</p>
+<h2 id="A-retenir" tabindex="-1">A retenir</h2>
+<ul>
+<li>Un projet au service du plan scientifique et culturel du musée qui veut &quot;faire du musée un véritable outil d’interprétation du patrimoine religieux&quot;(<a href="https://archives.orne.fr/musee-departemental-dart-religieux">en savoir plus</a>).</li>
+<li>Un retour d'expérience:
+<ul>
+<li>&quot;Le numérique permet d’avoir un parcours de visite plus vaste avec plusieurs entrées. La structure d’un site internet avec ses différents onglets permet d’aborder le parcours visiteur de diverses manières.&quot;</li>
+<li>&quot;Notre musée numérique apporte un axe ethnologique de compréhension sur des pratiques des sociétés anciennes.&quot;</li>
+</ul>
+</li>
+<li>La collaboration avec un cabinet d'assistance à la maîtrise d'ouvrage, un studio spécialisé et un photographe expert.</li>
+</ul>
+<p>Apparaît dans <a href="/Notes/Exemples%20de%20projets%20de%20num%C3%A9risation%20des%20collections%20et%20leurs%20applications/">Exemples de projets de numérisation des collections et leurs applications</a></p>
+<p>Vous n'êtes pas d'accord avec nous ou vous pensez pouvoir compléter cette note? N'hésitez pas à nous contacter à l'adresse suivante: <a href="mailto:info@museumxtd.ch">info@museumxtd.ch</a></p>
+
+			</div>
+		</div>
+	</div>
+</div>
+    <footer>
+      <nav id="footer-nav">
+        <picture>
+<source media="(min-width: 600px)" srcset="/images/Logo-Concilio.svg" />
+<a href="https://www.concilioltd.com/" title="concilioltd.com">
+<img alt="Logo Concilio" src="/images/Logo-Concilio.svg"></a>
+</picture>
+<picture>
+<source media="(min-width: 600px)" srcset="/images/Logo_HEIG-VD_MEI.svg" />
+<a href="https://heig-vd.ch/rad/instituts/mei/" title="MEI HEIG-VD"><img alt="Logo MEI" src="/images/Logo_HEIG-VD_MEI.svg"></a>
+</picture>
+<!-- alterner "+" et "-" pour séparer chacune des listes dans sa colonne -->
+<ul>
+<li><a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw">YouTube</a></li>
+<li><a href="https://github.com/MediaComem/museumXTD/">GitHub</a></li>
+</ul>
+<ul>
+<li>Code et Design</li>
+<li>HEIG-VD | MEI</li>
+</ul>
+<!-- - [[A propos#Contact|Contact]] -->
+<!-- - [Contact](/Navigation/A propos/index.html#Contact) -->
+<!-- - [Contact](/Navigation/A%20propos/#Contact) -->
+<ul>
+<li><a href="/Notes/Newsletters/">Newsletters</a></li>
+<li><a href="/Navigation/A%20propos#Contact">Contact</a></li>
+</ul>
+
+      </nav>
+      <div id="mastfoot">
+        <p>M u s e u m X T D</p>
+      </div>
+    </footer>
+    <div id="footer-padding"></div>
+  </body>
+  <script defer>
+    const searchElement = document.getElementById('searchString')
+    if (searchElement) {
+      searchElement.addEventListener('input', (event) => {
+        search();
+      });
+    }
+  </script>
+</html>

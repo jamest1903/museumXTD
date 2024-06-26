@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>MuseumXTD</title>
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="icon" type="image/png" href="https://www.museumxtd.ch/images/MXTD_visuel2022_c.png" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J2QK69ZNT6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-J2QK69ZNT6');
+    </script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/assets/search.js" defer></script>
+  </head>
+  <body>
+    <div class="containerTop">
+      <div id="masthead">
+        M u s e u m X T D
+      </div>
+      <!-- topbar Menu -->
+      <nav id="site-nav" role="navigation">
+        <div id="menuToggle"> 
+          <!--
+          hidden checkbox is used as click reciever,
+          so you can use the :checked selector on it.
+          -->
+          <input id="toggle" name="toggle" type="checkbox" />
+          <label id="toggle-label" for="toggle">
+            <span>menu</span>
+          </label>
+
+          <div id="menu-mobile" >
+            <div class="navMenu" >
+              <p><a href="/Navigation/A%20propos/">À propos</a> <a href="/index.html">Ressources</a> <a href="/tables/">Répertoire</a> <a href="/Navigation/search/">Rechercher</a> <a href="/Navigation/Forum%202022/">Forum 2022</a></p>
+
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+    <div class='layout-post main-container'>
+	<div id="breadCrumbs">
+      
+        
+        
+          <a class="crumb" href="/">Ressources</a>
+          /
+        
+          <a class="crumb" href="/Notes/Gérer son environnement numérique/">Gérer son environnement numérique</a>
+          /
+        
+          <a class="crumb" href="/Notes/Comment évaluer un projet numérique/">Comment évaluer un projet numérique?</a>
+          /
+        
+      
+    </div>
+	<div class='centered'>
+		<div class='column'>
+			<div class='ui basic segment'>
+				<h3 id="L'evaluation-dans-la-culture.-Pourquoi-et-comment-evaluer-Un-guide-pour-l'evaluation-de-projets-de-programmes-de-strategies-et-d'institutions-culturels." tabindex="-1"><a href="https://greval.ch/wp-content/uploads/2016/06/Leitfaden_Evaluieren_fr.pdf">L’évaluation dans la culture. Pourquoi et comment évaluer? Un guide pour l’évaluation de projets, de programmes, de stratégies et d’institutions culturels.</a></h3>
+<p>Le but de ce guide, réalisé par le Pour-cent culturel Migros et la Fondation suisse pour la culture Pro Helvetia est de &quot;contribuer au développement d’une culture de l’évaluation dans le domaine de la culture&quot;.</p>
+<h2 id="A-retenir" tabindex="-1">A retenir</h2>
+<ul>
+<li>Une division du guide entre
+<ul>
+<li>théorie: définition et utilité (p. 13 à 56)</li>
+<li>et pratique: comment procéder concrètement au travers de 5 phases (p. 57 à 92)</li>
+</ul>
+</li>
+<li>Un glossaire en fin de brochure.</li>
+</ul>
+<p>Ce guide a été rédigé par le <a href="https://www.migros-engagement.ch/fr/pour-cent-culturel">Pour-cent culturel Migros</a> et <a href="https://prohelvetia.ch/fr/">Pro Helvetia</a>. Des spécialistes du secteur de la culture et de l'administration y ont également participé.</p>
+
+			</div>
+		</div>
+	</div>
+</div>
+    <footer>
+      <nav id="footer-nav">
+        <picture>
+<source media="(min-width: 600px)" srcset="/images/Logo-Concilio.svg" />
+<a href="https://www.concilioltd.com/" title="concilioltd.com">
+<img alt="Logo Concilio" src="/images/Logo-Concilio.svg"></a>
+</picture>
+<picture>
+<source media="(min-width: 600px)" srcset="/images/Logo_HEIG-VD_MEI.svg" />
+<a href="https://heig-vd.ch/rad/instituts/mei/" title="MEI HEIG-VD"><img alt="Logo MEI" src="/images/Logo_HEIG-VD_MEI.svg"></a>
+</picture>
+<!-- alterner "+" et "-" pour séparer chacune des listes dans sa colonne -->
+<ul>
+<li><a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw">YouTube</a></li>
+<li><a href="https://github.com/MediaComem/museumXTD/">GitHub</a></li>
+</ul>
+<ul>
+<li>Code et Design</li>
+<li>HEIG-VD | MEI</li>
+</ul>
+<!-- - [[A propos#Contact|Contact]] -->
+<!-- - [Contact](/Navigation/A propos/index.html#Contact) -->
+<!-- - [Contact](/Navigation/A%20propos/#Contact) -->
+<ul>
+<li><a href="/Notes/Newsletters/">Newsletters</a></li>
+<li><a href="/Navigation/A%20propos#Contact">Contact</a></li>
+</ul>
+
+      </nav>
+      <div id="mastfoot">
+        <p>M u s e u m X T D</p>
+      </div>
+    </footer>
+    <div id="footer-padding"></div>
+  </body>
+  <script defer>
+    const searchElement = document.getElementById('searchString')
+    if (searchElement) {
+      searchElement.addEventListener('input', (event) => {
+        search();
+      });
+    }
+  </script>
+</html>

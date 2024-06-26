@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>MuseumXTD</title>
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="icon" type="image/png" href="https://www.museumxtd.ch/images/MXTD_visuel2022_c.png" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J2QK69ZNT6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-J2QK69ZNT6');
+    </script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/assets/search.js" defer></script>
+  </head>
+  <body>
+    <div class="containerTop">
+      <div id="masthead">
+        M u s e u m X T D
+      </div>
+      <!-- topbar Menu -->
+      <nav id="site-nav" role="navigation">
+        <div id="menuToggle"> 
+          <!--
+          hidden checkbox is used as click reciever,
+          so you can use the :checked selector on it.
+          -->
+          <input id="toggle" name="toggle" type="checkbox" />
+          <label id="toggle-label" for="toggle">
+            <span>menu</span>
+          </label>
+
+          <div id="menu-mobile" >
+            <div class="navMenu" >
+              <p><a href="/Navigation/A%20propos/">À propos</a> <a href="/index.html">Ressources</a> <a href="/tables/">Répertoire</a> <a href="/Navigation/search/">Rechercher</a> <a href="/Navigation/Forum%202022/">Forum 2022</a></p>
+
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+    <div class='layout-post main-container'>
+	<div id="breadCrumbs">
+      
+        
+        
+          <a class="crumb" href="/">Ressources</a>
+          /
+        
+          <a class="crumb" href="/Notes/Gérer son environnement numérique/">Gérer son environnement numérique</a>
+          /
+        
+          <a class="crumb" href="/Notes/Comment utiliser le numérique de façon durable/">Comment utiliser le numérique de façon durable?</a>
+          /
+        
+      
+    </div>
+	<div class='centered'>
+		<div class='column'>
+			<div class='ui basic segment'>
+				<h3 id="Eco-conception-le-brouillard-a-venir." tabindex="-1"><a href="https://gauthierroussilhe.com/articles/eco-conception-le-brouillard-a-venir">Éco-conception, le brouillard à venir.</a></h3>
+<p><a href="https://gauthierroussilhe.com/">Gauthier Roussilhe</a> démêle les enjeux de l'éco-conception et présente une méthodologie pour concevoir des services numériques pertinents tout en réduisant leur empreinte environnementale.</p>
+<h2 id="A-retenir" tabindex="-1">À retenir</h2>
+<ul>
+<li>La définition de l'éco-conception numérique: concevoir des services numériques pertinents tout en réduisant leur empreinte environnementale.</li>
+<li>Des documents de bonnes pratiques comme celui de <a href="https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html">Green IT</a>, celui de l'<a href="https://institutnr.org/guide-bonnes-pratiques-nr">Institut du Numérique Responsable</a> ou de <a href="https://eco-conception.designersethiques.org/guide/fr/">Designers Ethiques</a>.</li>
+<li>La présentation d'une méthodologie d'éco-conception numérique.</li>
+<li>L'éco-conception, c'est l'application du principe de Pareto (utiliser 20% des ressources pour répondre à 80% des besoins). Si la démarche n'est pas complète, elle peut vite être tomber dans les travers du <em>greenwashing</em> car l'éco-conception n'engage en rien une entreprise à changer ses activités.</li>
+</ul>
+<p>Plus de ressources sur les enjeux environnementaux de la numérisation sont disponibles sur <a href="https://gauthierroussilhe.com/">son site internet</a>.</p>
+
+			</div>
+		</div>
+	</div>
+</div>
+    <footer>
+      <nav id="footer-nav">
+        <picture>
+<source media="(min-width: 600px)" srcset="/images/Logo-Concilio.svg" />
+<a href="https://www.concilioltd.com/" title="concilioltd.com">
+<img alt="Logo Concilio" src="/images/Logo-Concilio.svg"></a>
+</picture>
+<picture>
+<source media="(min-width: 600px)" srcset="/images/Logo_HEIG-VD_MEI.svg" />
+<a href="https://heig-vd.ch/rad/instituts/mei/" title="MEI HEIG-VD"><img alt="Logo MEI" src="/images/Logo_HEIG-VD_MEI.svg"></a>
+</picture>
+<!-- alterner "+" et "-" pour séparer chacune des listes dans sa colonne -->
+<ul>
+<li><a href="https://www.youtube.com/channel/UCTZJM5WsXDkH8QgMdACUNyw">YouTube</a></li>
+<li><a href="https://github.com/MediaComem/museumXTD/">GitHub</a></li>
+</ul>
+<ul>
+<li>Code et Design</li>
+<li>HEIG-VD | MEI</li>
+</ul>
+<!-- - [[A propos#Contact|Contact]] -->
+<!-- - [Contact](/Navigation/A propos/index.html#Contact) -->
+<!-- - [Contact](/Navigation/A%20propos/#Contact) -->
+<ul>
+<li><a href="/Notes/Newsletters/">Newsletters</a></li>
+<li><a href="/Navigation/A%20propos#Contact">Contact</a></li>
+</ul>
+
+      </nav>
+      <div id="mastfoot">
+        <p>M u s e u m X T D</p>
+      </div>
+    </footer>
+    <div id="footer-padding"></div>
+  </body>
+  <script defer>
+    const searchElement = document.getElementById('searchString')
+    if (searchElement) {
+      searchElement.addEventListener('input', (event) => {
+        search();
+      });
+    }
+  </script>
+</html>
